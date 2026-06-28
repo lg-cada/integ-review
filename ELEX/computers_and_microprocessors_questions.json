@@ -1,0 +1,1986 @@
+[
+  {
+    "q": "Which computer architecture is characterized by storing both instruction and data in the same physical memory space, sharing a single system bus?",
+    "a": "Harvard Architecture",
+    "b": "Von Neumann Architecture",
+    "c": "Non-Von Architecture",
+    "d": "Distributed Bus Architecture",
+    "ans": "b"
+  },
+  {
+    "q": "Which computer architecture utilizes physically separate storage and signal pathways for instructions and data, allowing simultaneous access to both?",
+    "a": "Von Neumann Architecture",
+    "b": "Harvard Architecture",
+    "c": "Unified Memory Architecture",
+    "d": "Shared Bus Architecture",
+    "ans": "b"
+  },
+  {
+    "q": "The speed limitation that arises because a CPU's execution speed is significantly faster than the throughput of its shared system memory bus is known as the:",
+    "a": "Pipelining hazard",
+    "b": "Von Neumann bottleneck",
+    "c": "Propagation delay threshold",
+    "d": "Memory paging offset",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following processor design philosophies focuses on having a small, highly optimized set of instructions that can mostly execute in a single clock cycle?",
+    "a": "CISC (Complex Instruction Set Computer)",
+    "b": "RISC (Reduced Instruction Set Computer)",
+    "c": "VLIW (Very Long Instruction Word)",
+    "d": "MISC (Minimal Instruction Set Computer)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary operational advantage of RISC processors over CISC processors?",
+    "a": "A much larger instruction vocabulary",
+    "b": "Simplified instruction pipelining and faster clock cycles",
+    "c": "Inherent hardware support for complex mathematical formulas",
+    "d": "Reduced dependency on system cache memory",
+    "ans": "b"
+  },
+  {
+    "q": "Which register in a microprocessor is responsible for holding the memory address of the next instruction to be fetched and executed?",
+    "a": "Accumulator",
+    "b": "Program Counter (PC)",
+    "c": "Instruction Register (IR)",
+    "d": "Stack Pointer (SP)",
+    "ans": "b"
+  },
+  {
+    "q": "Which register in a microprocessor stores the actual instruction byte currently being decoded and executed by the control unit?",
+    "a": "Program Counter (PC)",
+    "b": "Instruction Register (IR)",
+    "c": "Accumulator",
+    "d": "Memory Address Register (MAR)",
+    "ans": "b"
+  },
+  {
+    "q": "The Arithmetic Logic Unit (ALU) of a processor is designed to perform which of the following operations?",
+    "a": "Instruction decoding and clock distribution",
+    "b": "Binary addition, subtraction, AND, OR, and bit shifts",
+    "c": "Virtual memory paging and address translations",
+    "d": "Direct Memory Access (DMA) bus control",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the Accumulator register in a standard accumulator-based BJT or MOS microprocessor architecture?",
+    "a": "To hold the address of the current stack frame",
+    "b": "To temporarily store the input or output data of the ALU during arithmetic operations",
+    "c": "To count the number of hardware interrupts received",
+    "d": "To synchronize the timing of the instruction decoder",
+    "ans": "b"
+  },
+  {
+    "q": "Which BJT/MOS system bus is unidirectional, transferring information only from the microprocessor to peripheral chips or memory modules?",
+    "a": "Data Bus",
+    "b": "Address Bus",
+    "c": "Control Bus",
+    "d": "Local System Bus",
+    "ans": "b"
+  },
+  {
+    "q": "Why is the system Data Bus in a microprocessor designed to be bidirectional?",
+    "a": "To allow the address decoder to select different memory chips",
+    "b": "To enable both reading data from and writing data to memory/peripherals",
+    "c": "To synchronize the clock pulses between master and slave processors",
+    "d": "To handle multiple asynchronous hardware interrupt requests",
+    "ans": "b"
+  },
+  {
+    "q": "Which semiconductor memory type is volatile, constructed from a 6-transistor latch circuit, and does not require periodic refresh cycles to retain its contents?",
+    "a": "Dynamic RAM (DRAM)",
+    "b": "Static RAM (SRAM)",
+    "c": "Flash Memory",
+    "d": "EEPROM",
+    "ans": "b"
+  },
+  {
+    "q": "Which semiconductor memory type is volatile, constructed from a single transistor and capacitor per cell, and requires continuous refresh cycles to prevent data loss?",
+    "a": "Static RAM (SRAM)",
+    "b": "Dynamic RAM (DRAM)",
+    "c": "Mask ROM",
+    "d": "EPROM",
+    "ans": "b"
+  },
+  {
+    "q": "Why is SRAM typically used for CPU cache memory while DRAM is used for primary system RAM?",
+    "a": "SRAM is much cheaper and denser than DRAM",
+    "b": "SRAM is significantly faster than DRAM but has lower density and higher cost per bit",
+    "c": "SRAM retains data when system power is completely disconnected",
+    "d": "DRAM cannot be integrated on the same silicon substrate as the CPU cores",
+    "ans": "b"
+  },
+  {
+    "q": "Which non-volatile memory type can be erased and reprogrammed at the byte level electrically without using ultraviolet light?",
+    "a": "EPROM",
+    "b": "EEPROM",
+    "c": "Mask ROM",
+    "d": "DRAM",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of non-volatile semiconductor memory is erased and written in large blocks, making it highly suitable for solid-state storage drives?",
+    "a": "Static RAM",
+    "b": "Flash Memory",
+    "c": "Symmetrical ROM",
+    "d": "Magnetic Core Memory",
+    "ans": "b"
+  },
+  {
+    "q": "The speed improvement technique where the CPU fetches the next instruction while decoding or executing current instructions is called:",
+    "a": "Caching",
+    "b": "Pipelining",
+    "c": "Virtual memory paging",
+    "d": "Direct Memory Access",
+    "ans": "b"
+  },
+  {
+    "q": "What type of pipeline hazard occurs when an instruction depends on the results of a previous instruction that has not yet completed execution?",
+    "a": "Structural hazard",
+    "b": "Data hazard",
+    "c": "Control hazard",
+    "d": "Branch hazard",
+    "ans": "b"
+  },
+  {
+    "q": "What type of pipeline hazard is caused by instructions that alter the Program Counter (such as branches, jumps, or interrupts)?",
+    "a": "Data hazard",
+    "b": "Control hazard",
+    "c": "Structural hazard",
+    "d": "Arithmetic hazard",
+    "ans": "b"
+  },
+  {
+    "q": "Which level of cache memory is physically located closest to or inside the CPU core, operating at the highest speed?",
+    "a": "Level 2 (L2) cache",
+    "b": "Level 1 (L1) cache",
+    "c": "Level 3 (L3) cache",
+    "d": "System RAM buffer",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary physical reason for the track latency of a magnetic hard disk drive?",
+    "a": "The time required to read or write a sector electronically",
+    "b": "The rotational delay of the disk platter spinning to align the target sector under the read/write head",
+    "c": "The conversion speed of the analog-to-digital converter",
+    "d": "The time required to move the physical head assembly to the correct cylinder",
+    "ans": "b"
+  },
+  {
+    "q": "The time required to position the read/write head of a hard disk drive over the correct concentric track is defined as the:",
+    "a": "Rotational latency",
+    "b": "Seek time",
+    "c": "Transfer time",
+    "d": "Settle time",
+    "ans": "b"
+  },
+  {
+    "q": "Which optical storage medium uses a blue-violet laser with a wavelength of 405 nm to achieve significantly higher storage density than standard DVDs?",
+    "a": "Compact Disc (CD)",
+    "b": "Blu-ray Disc",
+    "c": "HD-DVD only",
+    "d": "Double-Sided DVD",
+    "ans": "b"
+  },
+  {
+    "q": "In computer systems, a 'supercomputer' is primarily characterized by which of the following performance attributes?",
+    "a": "Extremely low power consumption for embedded spaces",
+    "b": "High floating-point calculation performance utilizing massive parallel processing",
+    "c": "The ability to run legacy 8-bit operating systems natively",
+    "d": "Direct integration of analog and digital circuit boards",
+    "ans": "b"
+  },
+  {
+    "q": "Which component of a computer system coordinates the flow of data, instructions, and control signals between the memory, ALU, and external interfaces?",
+    "a": "Accumulator register",
+    "b": "Control Unit",
+    "c": "Instruction decoder",
+    "d": "Interrupt handler",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the accumulator register in a simple microprocessor architecture?",
+    "a": "To store the memory address of the next instruction",
+    "b": "To temporarily store the inputs or outputs of the Arithmetic Logic Unit (ALU)",
+    "c": "To latch the interrupt requests of peripheral buses",
+    "d": "To buffer the high-frequency system clock signals",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes a hardware interrupt in a microprocessor?",
+    "a": "A software routine that runs continuously in the background",
+    "b": "An external electrical signal that forces the CPU to suspend its current execution path and run a specific service routine",
+    "c": "An arithmetic error such as division by zero",
+    "d": "A physical breakdown of the silicon substrate due to heating",
+    "ans": "b"
+  },
+  {
+    "q": "The block of memory set aside to preserve register states and return addresses during subroutines or interrupt calls is called the:",
+    "a": "Queue",
+    "b": "Stack",
+    "c": "Cache",
+    "d": "Heap",
+    "ans": "b"
+  },
+  {
+    "q": "Which data structure model describes the operational behavior of a CPU Stack pointer?",
+    "a": "First-In, First-Out (FIFO)",
+    "b": "Last-In, First-Out (LIFO)",
+    "c": "Random Access Buffer",
+    "d": "Circular Linked Buffer",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when a program attempts to push data onto a stack that has already reached its maximum allocated boundary?",
+    "a": "Stack Underflow",
+    "b": "Stack Overflow",
+    "c": "Heap fragmentation",
+    "d": "Memory segmentation fault",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when a program attempts to pop data from an empty stack?",
+    "a": "Stack Overflow",
+    "b": "Stack Underflow",
+    "c": "Segment violation",
+    "d": "Register saturation",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is classified as system software, as opposed to application software?",
+    "a": "Web browser",
+    "b": "Operating System",
+    "c": "Spreadsheet application",
+    "d": "Database compiler",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of the Operating System Kernel?",
+    "a": "To compile high-level source code into binary",
+    "b": "To manage system hardware resources, memory space, and task scheduling directly",
+    "c": "To provide a user-friendly graphical desktop interface",
+    "d": "To format magnetic disk sectors",
+    "ans": "b"
+  },
+  {
+    "q": "Which operating system multitasking technique allocates fixed execution time slices to tasks and can forcibly suspend a running task to run another?",
+    "a": "Cooperative multitasking",
+    "b": "Preemptive multitasking",
+    "c": "Sequential batch processing",
+    "d": "Single-thread queuing",
+    "ans": "b"
+  },
+  {
+    "q": "The concept of 'virtual memory' allows a computer to:",
+    "a": "Speed up CPU clock cycles by caching BIOS code",
+    "b": "Use secondary storage (such as a hard drive) to simulate additional primary physical memory",
+    "c": "Execute multiple instructions in a single pipeline stage simultaneously",
+    "d": "Store data permanently inside the internal registers of the ALU",
+    "ans": "b"
+  },
+  {
+    "q": "The process of transferring inactive memory pages from system RAM to secondary disk storage in a virtual memory system is known as:",
+    "a": "Caching",
+    "b": "Swapping or Paging",
+    "c": "Sectoring",
+    "d": "Interleaving",
+    "ans": "b"
+  },
+  {
+    "q": "Which system memory state occurs when the operating system spends more time moving pages in and out of virtual disk space than executing actual program instructions?",
+    "a": "Fragmentation",
+    "b": "Thrashing",
+    "c": "Deadlock",
+    "d": "Starvation",
+    "ans": "b"
+  },
+  {
+    "q": "What programming language generation does Assembly language belong to?",
+    "a": "First generation (1GL)",
+    "b": "Second generation (2GL)",
+    "c": "Third generation (3GL)",
+    "d": "Fourth generation (4GL)",
+    "ans": "b"
+  },
+  {
+    "q": "Which utility program translates assembly language mnemonics directly into machine code instructions?",
+    "a": "Compiler",
+    "b": "Assembler",
+    "c": "Interpreter",
+    "d": "Linker",
+    "ans": "b"
+  },
+  {
+    "q": "What is the key operational difference between a compiler and an interpreter?",
+    "a": "A compiler executes code line-by-line, while an interpreter compiles the whole file first",
+    "b": "A compiler translates the entire source code into an independent binary file before execution, while an interpreter translates and executes code line-by-line during runtime",
+    "c": "Compilers can only be used with assembly languages",
+    "d": "Interpreters completely eliminate the need for virtual memory paging",
+    "ans": "b"
+  },
+  {
+    "q": "COBOL (Common Business-Oriented Language) is historically classified as a:",
+    "a": "Low-level machine language",
+    "b": "High-level compiled third-generation programming language",
+    "c": "Object-oriented scripting language",
+    "d": "Fourth-generation database query language",
+    "ans": "b"
+  },
+  {
+    "q": "The biometric error metric 'False Acceptance Rate' (FAR) is defined as the probability that:",
+    "a": "An authorized user is incorrectly rejected by the system",
+    "b": "An unauthorized user is incorrectly identified as an authorized user",
+    "c": "The system fails to acquire a usable biometric sample",
+    "d": "Two different users have identical biometric measurements",
+    "ans": "b"
+  },
+  {
+    "q": "The biometric error metric 'False Rejection Rate' (FRR) is defined as the probability that:",
+    "a": "An imposter is incorrectly granted access",
+    "b": "A legitimate, authorized user is incorrectly denied access by the system",
+    "c": "The database fails to load during verification",
+    "d": "The biometric scanner suffers a hardware interrupt",
+    "ans": "b"
+  },
+  {
+    "q": "The point where the False Acceptance Rate (FAR) and the False Rejection Rate (FRR) curves intersect on a performance graph is known as the:",
+    "a": "Crossover Error Rate (CER) or Equal Error Rate (EER)",
+    "b": "Optimal Recognition Index",
+    "c": "Sensitivity Threshold",
+    "d": "Biometric Saturation Point",
+    "ans": "a"
+  },
+  {
+    "q": "Which biometric recognition technology analyzes the complex, unique patterns found in the colored ring of tissue surrounding the pupil of the eye?",
+    "a": "Retinal scanning",
+    "b": "Iris recognition",
+    "c": "Corneal mapping",
+    "d": "Optic nerve analysis",
+    "ans": "b"
+  },
+  {
+    "q": "Which biometric scanning technology maps the unique patterns of blood vessels located at the back of the eye cavity?",
+    "a": "Iris recognition",
+    "b": "Retinal scanning",
+    "c": "Macular mapping",
+    "d": "Pupillary dilation tracking",
+    "ans": "b"
+  },
+  {
+    "q": "Which system bus lines are used by the CPU to indicate whether a read or write operation is being performed?",
+    "a": "Address lines",
+    "b": "Control lines",
+    "c": "Data lines",
+    "d": "Direct Memory Access lines",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of the Cache controller in a modern microprocessor?",
+    "a": "To decode assembly instructions into micro-operations",
+    "b": "To predict and manage the transfer of data blocks between the fast cache memory and slower main memory",
+    "c": "To regulate the operating voltage of the SRAM cells",
+    "d": "To buffer system interrupts during clock transitions",
+    "ans": "b"
+  },
+  {
+    "q": "A processor architecture that can execute more than one instruction per clock cycle by dispatching multiple instructions to different functional units is called:",
+    "a": "Multitasking",
+    "b": "Superscalar",
+    "c": "Multithreading",
+    "d": "Vector pipelining",
+    "ans": "b"
+  },
+  {
+    "q": "The technique of combining multiple physical processor cores onto a single integrated circuit substrate is called:",
+    "a": "Symmetric multiprocessing",
+    "b": "Multi-core processor design",
+    "c": "Hyper-pipelining",
+    "d": "Clustered computing",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of computer system memory is non-volatile and contains the vital startup instructions (BIOS) required to boot the system?",
+    "a": "Dynamic RAM",
+    "b": "Read-Only Memory (ROM)",
+    "c": "Level 1 Cache",
+    "d": "Instruction Register",
+    "ans": "b"
+  },
+  {
+    "q": "A memory module that has a separate write-protection input pin to prevent any modification of its contents is classified as:",
+    "a": "SRAM",
+    "b": "ROM or Write-Protected EEPROM",
+    "c": "DRAM",
+    "d": "Volatile register space",
+    "ans": "b"
+  },
+  {
+    "q": "What type of program is a device driver?",
+    "a": "Application software for graphic design",
+    "b": "System software that allows the operating system to communicate with specific hardware devices",
+    "c": "A compiler utility for assembly code translation",
+    "d": "A biometric verification routine",
+    "ans": "b"
+  },
+  {
+    "q": "In computer storage systems, the term 'sector' refers to:",
+    "a": "A concentric ring on a magnetic disk",
+    "b": "A small physical division of a track on a magnetic or optical disk platter",
+    "c": "The physical arm holding the read/write heads",
+    "d": "A cache bank inside the processor core",
+    "ans": "b"
+  },
+  {
+    "q": "In hard disk drives, the vertical stack of identical tracks across all platters is referred to as a:",
+    "a": "Sector",
+    "b": "Cylinder",
+    "c": "Cluster",
+    "d": "Partition",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary objective of RAID (Redundant Array of Independent Disks) technology?",
+    "a": "To accelerate the compilation speed of assembly programs",
+    "b": "To improve data reliability, redundancy, and performance using multiple disk drives",
+    "c": "To decrease the physical seek time of magnetic disks using silicon chips",
+    "d": "To eliminate the need for virtual memory swapping",
+    "ans": "b"
+  },
+  {
+    "q": "Which RAID level utilizes disk striping without any parity or redundancy, providing performance but no fault tolerance?",
+    "a": "RAID 1",
+    "b": "RAID 0",
+    "c": "RAID 5",
+    "d": "RAID 10",
+    "ans": "b"
+  },
+  {
+    "q": "Which RAID level utilizes disk mirroring to provide complete redundancy by writing identical data to two separate drives?",
+    "a": "RAID 0",
+    "b": "RAID 1",
+    "c": "RAID 5",
+    "d": "RAID 6",
+    "ans": "b"
+  },
+  {
+    "q": "Which RAID level utilizes block-level striping with distributed parity across all drives, requiring at least three physical disks?",
+    "a": "RAID 0",
+    "b": "RAID 5",
+    "c": "RAID 1",
+    "d": "RAID 10",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical meaning of the 'instruction cycle' (machine cycle) of a microprocessor?",
+    "a": "The time required to manufacture a silicon CPU wafer",
+    "b": "The sequence of operations comprising instruction fetch, instruction decode, and instruction execute",
+    "c": "The frequency at which the system clock oscillates",
+    "d": "The time spent paging virtual memory blocks to disk",
+    "ans": "b"
+  },
+  {
+    "q": "The register inside the CPU that contains the status flags indicating conditions such as zero, carry, sign, and overflow is the:",
+    "a": "Instruction Register",
+    "b": "Status Register or Flag Register",
+    "c": "Accumulator",
+    "d": "Program Counter",
+    "ans": "b"
+  },
+  {
+    "q": "A memory allocation technique that maps physical memory addresses to non-contiguous virtual pages is managed by which hardware unit?",
+    "a": "Arithmetic Logic Unit (ALU)",
+    "b": "Memory Management Unit (MMU)",
+    "c": "Direct Memory Access (DMA) controller",
+    "d": "Interrupt Controller",
+    "ans": "b"
+  },
+  {
+    "q": "The direct connection of a high-speed peripheral device to system memory, bypassing the CPU to perform high-speed data transfers, is called:",
+    "a": "Pipelining",
+    "b": "Direct Memory Access (DMA)",
+    "c": "Caching",
+    "d": "Interleave memory access",
+    "ans": "b"
+  },
+  {
+    "q": "Which microprocessor bus control line is asserted by a DMA controller to request control of the system buses from the CPU?",
+    "a": "Bus Grant (BG)",
+    "b": "Bus Request (BR) or Hold",
+    "c": "Interrupt Request (IRQ)",
+    "d": "Read/Write select",
+    "ans": "b"
+  },
+  {
+    "q": "Which programming language represents instructions using pure binary code (0s and 1s) that can be executed directly by the CPU without translation?",
+    "a": "Assembly Language",
+    "b": "Machine Language",
+    "c": "C Programming Language",
+    "d": "COBOL",
+    "ans": "b"
+  },
+  {
+    "q": "In biometrics, what is the term used to describe the error when the system fails to capture or process a biometric sample during enrollment?",
+    "a": "False Match Rate",
+    "b": "Failure to Enroll (FTE)",
+    "c": "False Reject Rate",
+    "d": "Crossover Error Rate",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of computer memory is non-volatile, cannot be written to easily during normal operation, and holds the system bootstrap loader?",
+    "a": "Static RAM",
+    "b": "ROM (Read-Only Memory)",
+    "c": "Dynamic RAM",
+    "d": "Flash memory only",
+    "ans": "b"
+  },
+  {
+    "q": "Why does a dynamic RAM (DRAM) cell require continuous periodic refreshing to maintain its stored data?",
+    "a": "Because the charge stored in its capacitor leaks away over time",
+    "b": "Because the internal transistors are operated in non-saturating mode",
+    "c": "Because it uses magnetic domains that decay",
+    "d": "Because it has no direct connection to system power lines",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary advantage of static RAM (SRAM) over dynamic RAM (DRAM) cells?",
+    "a": "SRAM has a much higher packing density",
+    "b": "SRAM is significantly faster and does not require refreshing",
+    "c": "SRAM is much cheaper to manufacture",
+    "d": "SRAM has non-volatile data retention",
+    "ans": "b"
+  },
+  {
+    "q": "A type of non-volatile semiconductor memory that can be erased electrically using a higher-than-normal voltage in block segments is:",
+    "a": "EEPROM",
+    "b": "Flash Memory",
+    "c": "Mask ROM",
+    "d": "SRAM",
+    "ans": "b"
+  },
+  {
+    "q": "Which operating system process scheduling algorithm allocates execution time to processes in the exact order they arrive in the ready queue?",
+    "a": "Round Robin",
+    "b": "First-Come, First-Served (FCFS)",
+    "c": "Shortest Job First (SJF)",
+    "d": "Priority Scheduling",
+    "ans": "b"
+  },
+  {
+    "q": "Which multitasking OS scheduling algorithm executes tasks sequentially for a fixed interval (time slice) before rotating to the next task?",
+    "a": "First-Come, First-Served",
+    "b": "Round Robin (RR)",
+    "c": "Shortest Remaining Time",
+    "d": "Non-preemptive priority",
+    "ans": "b"
+  },
+  {
+    "q": "In an operating system, a state where two or more processes are permanently blocked because each is waiting for a resource held by the other is called:",
+    "a": "Thrashing",
+    "b": "Deadlock",
+    "c": "Starvation",
+    "d": "Paging trap",
+    "ans": "b"
+  },
+  {
+    "q": "What type of software translator converts a high-level programming language into an intermediate bytecode, which is then executed by a virtual machine?",
+    "a": "Native Compiler",
+    "b": "Hybrid Compiler/Interpreter (such as Java)",
+    "c": "Direct Assembler",
+    "d": "Linker/Loader utility",
+    "ans": "b"
+  },
+  {
+    "q": "Which BJT/MOS processor architecture uses a single instruction stream to operate on multiple data streams simultaneously, often used in vector processing?",
+    "a": "SISD",
+    "b": "SIMD",
+    "c": "MIMD",
+    "d": "MISD",
+    "ans": "b"
+  },
+  {
+    "q": "The physical width of the data bus of a microprocessor determines:",
+    "a": "The maximum amount of memory the processor can address",
+    "b": "The number of bits of data the CPU can transfer to or from memory in a single cycle",
+    "c": "The operating frequency of the system clock generator",
+    "d": "The number of pipeline stages inside the instruction decoder",
+    "ans": "b"
+  },
+  {
+    "q": "The physical width of the address bus of a microprocessor determines:",
+    "a": "The maximum number of bits transferred per instruction",
+    "b": "The maximum amount of physical memory locations that can be directly addressed by the CPU",
+    "c": "The number of arithmetic registers in the ALU",
+    "d": "The response time to external hardware interrupts",
+    "ans": "b"
+  },
+  {
+    "q": "Which biometric feature offers the highest distinctiveness and long-term stability, making it highly preferred for high-security applications?",
+    "a": "Voice recognition",
+    "b": "Iris patterns",
+    "c": "Facial geometry",
+    "d": "Signature dynamics",
+    "ans": "b"
+  },
+  {
+    "q": "Which biometric performance metric indicates the percentage of times an authorized user is incorrectly denied access during their first identification attempt?",
+    "a": "False Accept Rate (FAR)",
+    "b": "False Reject Rate (FRR)",
+    "c": "Failure to Match Rate",
+    "d": "Equal Error Threshold",
+    "ans": "b"
+  },
+  {
+    "q": "A processor with a 24-bit address bus can directly access how many unique bytes of memory?",
+    "a": "1,048,576 bytes",
+    "b": "16,777,216 bytes (16 Megabytes)",
+    "c": "4,194,304 bytes",
+    "d": "262,144 bytes",
+    "ans": "b"
+  },
+  {
+    "q": "If a processor has a 32-bit address bus, calculate the maximum size of the directly addressable physical memory space in Gigabytes.",
+    "a": "1.0 Gigabyte",
+    "b": "4.0 Gigabytes",
+    "c": "2.0 Gigabytes",
+    "d": "8.0 Gigabytes",
+    "ans": "b"
+  },
+  {
+    "q": "A microprocessor has a 16-bit address bus. Calculate the total size of its addressable space in Kilobytes.",
+    "a": "32 KB",
+    "b": "64 KB",
+    "c": "128 KB",
+    "d": "16 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is configured with 13 address lines and 8 data lines. Calculate the storage capacity of this chip in Kilobytes.",
+    "a": "4 KB",
+    "b": "8 KB",
+    "c": "16 KB",
+    "d": "2 KB",
+    "ans": "b"
+  },
+  {
+    "q": "If a memory chip has a capacity of 256 Kilobytes, how many address lines are required to access every single byte?",
+    "a": "16",
+    "b": "18",
+    "c": "20",
+    "d": "14",
+    "ans": "b"
+  },
+  {
+    "q": "A memory module is mapped to the address range from hexadecimal 0000 to 3FFF. Calculate the total memory capacity of this module in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "4 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory segment starts at hexadecimal address 4000 and ends at 7FFF. Calculate the total memory capacity of this segment in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "64 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 8000 and has a capacity of 32 Kilobytes. Calculate the ending address in hexadecimal.",
+    "a": "9FFF",
+    "b": "FFFF",
+    "c": "BFFF",
+    "d": "EFFF",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock frequency of 2.5 GHz. Calculate the duration of a single clock cycle in picoseconds.",
+    "a": "250 ps",
+    "b": "400 ps",
+    "c": "500 ps",
+    "d": "100 ps",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 500 picoseconds. Calculate its clock frequency in Gigahertz.",
+    "a": "1.0 GHz",
+    "b": "2.0 GHz",
+    "c": "4.0 GHz",
+    "d": "500 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A processor executes a program containing 10^6 instructions. If the execution requires 1.5 x 10^6 clock cycles, calculate the average Cycles Per Instruction (CPI).",
+    "a": "1.0",
+    "b": "1.5",
+    "c": "0.67",
+    "d": "2.0",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 1.5 and a clock frequency of 2 GHz, calculate the execution time of the program containing 10^6 instructions in milliseconds.",
+    "a": "1.50 ms",
+    "b": "0.75 ms",
+    "c": "3.00 ms",
+    "d": "0.33 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the instruction execution rate (throughput) of a processor in MIPS (Million Instructions Per Second) if it executes a program in 0.5 seconds and the instruction count is 2.5 x 10^7.",
+    "a": "2.5 MIPS",
+    "b": "5.0 MIPS",
+    "c": "10.0 MIPS",
+    "d": "1.25 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "A processor operates at a clock rate of 3 GHz with an average CPI of 2.0. Calculate its instruction execution performance in MIPS.",
+    "a": "3000 MIPS",
+    "b": "1500 MIPS",
+    "c": "6000 MIPS",
+    "d": "750 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the execution time of an instruction loop that runs for 50,000 iterations. The loop consists of 5 instructions with an average CPI of 1.2 on a 100 MHz clock.",
+    "a": "1.5 ms",
+    "b": "3.0 ms",
+    "c": "6.0 ms",
+    "d": "0.75 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A certain program is executed on a multi-core processor. If 80 percent of the program is highly parallelizable, calculate the theoretical speedup factor using 4 processor cores instead of 1 core (using Amdahl's Law).",
+    "a": "1.80",
+    "b": "2.50",
+    "c": "3.33",
+    "d": "1.25",
+    "ans": "b"
+  },
+  {
+    "q": "Using Amdahl's Law, if a program has 90 percent parallelizable code, what is the maximum theoretical speedup factor that can be achieved even with an infinite number of processor cores?",
+    "a": "5.0",
+    "b": "10.0",
+    "c": "20.0",
+    "d": "1.1",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk drive rotates at 7200 rpm (revolutions per minute). Calculate its average rotational latency in milliseconds.",
+    "a": "8.33 ms",
+    "b": "4.17 ms",
+    "c": "2.08 ms",
+    "d": "12.50 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk drive has a rotational speed of 5400 rpm. Calculate the time in milliseconds required for the disk to complete one full revolution.",
+    "a": "5.56 ms",
+    "b": "11.11 ms",
+    "c": "22.22 ms",
+    "d": "2.78 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency for the 5400 rpm hard disk drive described in the previous question.",
+    "a": "11.11 ms",
+    "b": "5.56 ms",
+    "c": "2.78 ms",
+    "d": "1.39 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk drive has 4 platters with 8 read/write heads. If each platter surface contains 1000 tracks and each track is divided into 64 sectors of 512 bytes each, calculate the total capacity of the disk drive in Megabytes. (Use 1 MB = 1,000,000 bytes).",
+    "a": "131.1 MB",
+    "b": "262.1 MB",
+    "c": "524.3 MB",
+    "d": "65.5 MB",
+    "ans": "b"
+  },
+  {
+    "q": "For the same disk drive (4 platters, 8 heads, 1000 tracks, 64 sectors per track, 512 bytes per sector), calculate the cylinder capacity in Kilobytes. (Use 1 KB = 1000 bytes).",
+    "a": "32.8 KB",
+    "b": "262.1 KB",
+    "c": "131.1 KB",
+    "d": "16.4 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk has a data transfer rate of 120 Megabytes per second. Calculate the time required to read a continuous file of size 30 Megabytes in milliseconds.",
+    "a": "125 ms",
+    "b": "250 ms",
+    "c": "500 ms",
+    "d": "62.5 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A cache memory has a hit ratio of 95 percent. If the cache access time is 2 nanoseconds and the main memory access time is 50 nanoseconds, calculate the average memory access time.",
+    "a": "2.0 ns",
+    "b": "4.4 ns",
+    "c": "5.0 ns",
+    "d": "2.5 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache hit ratio in the previous question drops to 80 percent, calculate the new average memory access time (cache time = 2 ns, main memory = 50 ns).",
+    "a": "4.4 ns",
+    "b": "11.6 ns",
+    "c": "10.0 ns",
+    "d": "5.8 ns",
+    "ans": "b"
+  },
+  {
+    "q": "A system uses a 32-bit address space with a 16 Kilobyte direct-mapped cache. If the cache block size is 64 bytes, calculate the number of bits required for the block offset field of the address.",
+    "a": "4 bits",
+    "b": "6 bits",
+    "c": "8 bits",
+    "d": "10 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the cache system described in the previous question (16 KB cache, 64-byte blocks), calculate the number of bits required for the cache index field of the address.",
+    "a": "6 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "4 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Using the block offset (6 bits) and cache index (8 bits) from the previous direct-mapped cache questions, calculate the number of bits in the tag field of the 32-bit address.",
+    "a": "16 bits",
+    "b": "18 bits",
+    "c": "20 bits",
+    "d": "14 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A 2-way set-associative cache has a total size of 32 Kilobytes with a block size of 64 bytes in a 32-bit address space. Calculate the number of sets in this cache.",
+    "a": "128",
+    "b": "256",
+    "c": "512",
+    "d": "64",
+    "ans": "b"
+  },
+  {
+    "q": "For the 2-way set-associative cache described in the previous question (256 sets, 64-byte blocks), calculate the number of bits required for the index field.",
+    "a": "6 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "4 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the number of bits in the tag field for the 2-way set-associative cache described in the previous questions (offset = 6 bits, index = 8 bits, 32-bit address).",
+    "a": "16 bits",
+    "b": "18 bits",
+    "c": "20 bits",
+    "d": "14 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A serial port transmits data at a baud rate of 9600 bits per second. Calculate the time in milliseconds required to transmit a single 8-bit byte of data if 1 start bit and 1 stop bit are added to each byte.",
+    "a": "0.83 ms",
+    "b": "1.04 ms",
+    "c": "1.25 ms",
+    "d": "0.52 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A serial connection transmits a 1 Megabyte file at a baud rate of 115,200 bits per second. Assuming each byte is packaged with 1 start bit and 1 stop bit, calculate the total transmission time in seconds.",
+    "a": "8.7 seconds",
+    "b": "86.8 seconds",
+    "c": "173.6 seconds",
+    "d": "43.4 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 10,000 imposter access attempts. If the system incorrectly grants access to 50 imposters, calculate the False Acceptance Rate (FAR) as a percentage.",
+    "a": "0.05 percent",
+    "b": "0.50 percent",
+    "c": "1.00 percent",
+    "d": "0.10 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 5,000 legitimate authorized user access attempts. If the system incorrectly denies access to 150 authorized users, calculate the False Rejection Rate (FRR) as a percentage.",
+    "a": "1.5 percent",
+    "b": "3.0 percent",
+    "c": "4.5 percent",
+    "d": "0.75 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An ALU needs to perform addition on two 8-bit signed binary numbers: 01101100 and 00110100. Calculate the decimal values of these two numbers respectively.",
+    "a": "108 and 52",
+    "b": "108 and 52",
+    "c": "54 and 26",
+    "d": "216 and 104",
+    "ans": "a"
+  },
+  {
+    "q": "Perform signed addition of the two 8-bit numbers from the previous question: 01101100 + 00110100. Find the resulting binary sum and determine if arithmetic overflow occurs.",
+    "a": "10100000, overflow occurs",
+    "b": "10100000, overflow occurs",
+    "c": "10100000, no overflow",
+    "d": "01000000, overflow occurs",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the signed binary sum 10100000 from the previous question into its decimal value, assuming 2's complement representation.",
+    "a": "-32",
+    "b": "-96",
+    "c": "-64",
+    "d": "-128",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit microprocessor uses a stack pointer (SP) register. If the SP initially holds hexadecimal address FFFFH and three 16-bit words are pushed onto the stack, calculate the new value of SP in hexadecimal. (Assume stack grows downward in memory, decrementing by 2 per word).",
+    "a": "FFF9H",
+    "b": "FFF9H",
+    "c": "FFFAH",
+    "d": "FFFCH",
+    "ans": "a"
+  },
+  {
+    "q": "If four 16-bit words are subsequently popped from the stack in the previous system, calculate the resulting hexadecimal value of SP. (SP before pop was FFF9H).",
+    "a": "10001H",
+    "b": "10001H",
+    "c": "0001H",
+    "d": "FFFFH",
+    "ans": "a"
+  },
+  {
+    "q": "A certain CPU has a 16-bit address bus. Calculate the maximum number of unique memory locations that can be directly addressed by this processor.",
+    "a": "1,024",
+    "b": "65,536",
+    "c": "4,096",
+    "d": "16,384",
+    "ans": "b"
+  },
+  {
+    "q": "If a processor address bus size is expanded to 20 bits, calculate the maximum directly addressable memory locations in Megabytes. (Assuming byte-addressable memory).",
+    "a": "2.0 MB",
+    "b": "1.0 MB",
+    "c": "4.0 MB",
+    "d": "0.5 MB",
+    "ans": "b"
+  },
+  {
+    "q": "A 32-bit microprocessor has a 32-bit address bus. Calculate the maximum addressable memory space in Gigabytes.",
+    "a": "1.0 GB",
+    "b": "4.0 GB",
+    "c": "2.0 GB",
+    "d": "8.0 GB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is organized as 16K x 4 bits. Calculate the total storage capacity of this chip in Kilobits.",
+    "a": "16 Kb",
+    "b": "64 Kb",
+    "c": "32 Kb",
+    "d": "128 Kb",
+    "ans": "b"
+  },
+  {
+    "q": "For the same 16K x 4 bits memory chip, calculate the number of address pins and data pins required respectively.",
+    "a": "10 address, 4 data",
+    "b": "14 address, 4 data",
+    "c": "12 address, 4 data",
+    "d": "16 address, 4 data",
+    "ans": "b"
+  },
+  {
+    "q": "A memory module of capacity 1 Megabyte is constructed using 256K x 8 bits memory chips. Calculate the number of chips required.",
+    "a": "2",
+    "b": "4",
+    "c": "8",
+    "d": "16",
+    "ans": "b"
+  },
+  {
+    "q": "A system has a physical RAM address space from hexadecimal 000000H to 0FFFFFH. Calculate the total RAM capacity in Megabytes.",
+    "a": "2.0 MB",
+    "b": "1.0 MB",
+    "c": "4.0 MB",
+    "d": "0.5 MB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 2000H and ends at 5FFFH. Calculate the capacity of this block in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "64 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain instruction takes 4 clock cycles to execute. If the CPU clock frequency is 50 MHz, calculate the instruction execution time in nanoseconds.",
+    "a": "20 ns",
+    "b": "80 ns",
+    "c": "40 ns",
+    "d": "10 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the instruction execution time of the processor in the previous question must be reduced to 20 nanoseconds, calculate the required clock frequency in Megahertz. (Assume the instruction still takes 4 cycles).",
+    "a": "100 MHz",
+    "b": "200 MHz",
+    "c": "150 MHz",
+    "d": "400 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a pipeline with 5 stages. If the clock cycle time is 10 nanoseconds, calculate the time required to execute 100 instructions under ideal conditions (no stalls, one instruction completes per cycle after pipeline fills).",
+    "a": "500 ns",
+    "b": "1040 ns",
+    "c": "1000 ns",
+    "d": "1050 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 5-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 100 instructions. (Each instruction takes 50 ns on the non-pipelined CPU).",
+    "a": "5.00",
+    "b": "4.81",
+    "c": "4.00",
+    "d": "3.33",
+    "ans": "b"
+  },
+  {
+    "q": "A CPU executes a loop containing 10 instructions. 2 of these instructions are branch instructions that cause a pipeline flush (stalling the pipeline by 3 cycles). If the other 8 instructions execute with no stalls, calculate the average CPI of the loop on a 5-stage pipeline.",
+    "a": "1.0",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "1.3",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit digital-to-analog converter (DAC) is used to control a robotic joint position. Calculate the total number of discrete output steps that can be generated by this DAC.",
+    "a": "128",
+    "b": "256",
+    "c": "512",
+    "d": "64",
+    "ans": "b"
+  },
+  {
+    "q": "If the reference voltage of the 8-bit DAC described in the previous question is 5.12 Volts, calculate the resolution (step size) in millivolts.",
+    "a": "10 mV",
+    "b": "20 mV",
+    "c": "5 mV",
+    "d": "40 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system has an FAR of 0.1 percent and an FRR of 2.0 percent. In a database of 100,000 security verifications, calculate the expected number of authorized users who will be falsely rejected.",
+    "a": "100",
+    "b": "2000",
+    "c": "1000",
+    "d": "500",
+    "ans": "b"
+  },
+  {
+    "q": "For the same biometric system (FAR = 0.1 percent), calculate the expected number of imposters who will be falsely accepted in 50,000 unauthorized attempts.",
+    "a": "10",
+    "b": "50",
+    "c": "100",
+    "d": "5",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit register contains the unsigned binary number 11010100. Calculate its decimal equivalent.",
+    "a": "106",
+    "b": "212",
+    "c": "170",
+    "d": "85",
+    "ans": "b"
+  },
+  {
+    "q": "If the binary number 11010100 in the previous question is shifted right by 2 positions (logical shift right), calculate the decimal equivalent of the new register contents.",
+    "a": "106",
+    "b": "53",
+    "c": "26",
+    "d": "100",
+    "ans": "b"
+  },
+  {
+    "q": "If the binary number 11010100 is shifted left by 1 position (logical shift left) inside an 8-bit register, find the hexadecimal value of the resulting contents.",
+    "a": "A8H",
+    "b": "A8H",
+    "c": "D4H",
+    "d": "54H",
+    "ans": "a"
+  },
+  {
+    "q": "A virtual memory system has a page size of 4 Kilobytes in a 32-bit virtual address space. Calculate the number of bits in the page offset field of the address.",
+    "a": "10 bits",
+    "b": "12 bits",
+    "c": "14 bits",
+    "d": "16 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the same virtual memory system (4 KB pages, 32-bit virtual address), calculate the number of bits in the virtual page number field of the address.",
+    "a": "16 bits",
+    "b": "20 bits",
+    "c": "24 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk platter rotates at 10,000 rpm. Calculate the rotational speed of the disk in revolutions per second.",
+    "a": "60.0 rev/s",
+    "b": "166.7 rev/s",
+    "c": "100.0 rev/s",
+    "d": "83.3 rev/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency in milliseconds for the 10,000 rpm magnetic disk described in the previous question.",
+    "a": "6.00 ms",
+    "b": "3.00 ms",
+    "c": "1.50 ms",
+    "d": "4.50 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk has 2 heads, 500 cylinders, and 18 sectors per track. If each sector has 512 bytes, calculate the disk capacity in Kilobytes.",
+    "a": "4608 KB",
+    "b": "9216 KB",
+    "c": "2304 KB",
+    "d": "18432 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain cache memory block is configured with 16 words, where each word is 4 bytes. Calculate the block size of this cache in bytes.",
+    "a": "16 bytes",
+    "b": "64 bytes",
+    "c": "32 bytes",
+    "d": "128 bytes",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache has a block size of 64 bytes, how many bits of offset are needed to address any individual byte within a block?",
+    "a": "4 bits",
+    "b": "6 bits",
+    "c": "8 bits",
+    "d": "10 bits",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit CPU has an address bus of 16 bits. Calculate the address of the last byte in a 16 Kilobyte memory block that starts at hexadecimal address 0000H.",
+    "a": "1FFFH",
+    "b": "3FFFH",
+    "c": "4FFFH",
+    "d": "0FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "If a second 16 Kilobyte memory block is mapped immediately after the first block (which ends at 3FFFH), calculate the ending hexadecimal address of this second block.",
+    "a": "5FFFH",
+    "b": "7FFFH",
+    "c": "8FFFH",
+    "d": "6FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 2 nanoseconds. Calculate its clock frequency in Megahertz.",
+    "a": "200 MHz",
+    "b": "500 MHz",
+    "c": "250 MHz",
+    "d": "1000 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average CPI of a CPU that executes a program containing 2.0 x 10^6 instructions in 4.0 x 10^6 clock cycles.",
+    "a": "1.0",
+    "b": "2.0",
+    "c": "0.5",
+    "d": "1.5",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 2.0 and clock cycle time of 2 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "a": "4.0 ms",
+    "b": "8.0 ms",
+    "c": "2.0 ms",
+    "d": "16.0 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 8.0 ms, instruction count = 2.0 x 10^6).",
+    "a": "125 MIPS",
+    "b": "250 MIPS",
+    "c": "500 MIPS",
+    "d": "1000 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "An execution pipeline has 4 stages. If the clock cycle time is 5 nanoseconds, calculate the time required to execute 200 instructions under ideal conditions.",
+    "a": "515 ns",
+    "b": "1015 ns",
+    "c": "1000 ns",
+    "d": "500 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 4-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 200 instructions. (Each instruction takes 20 ns on the non-pipelined CPU).",
+    "a": "4.00",
+    "b": "3.94",
+    "c": "3.00",
+    "d": "2.50",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is organized with 15 address lines and 8 data lines. Calculate its storage capacity in Kilobytes.",
+    "a": "16 KB",
+    "b": "32 KB",
+    "c": "64 KB",
+    "d": "8 KB",
+    "ans": "b"
+  },
+  {
+    "q": "How many address lines are required to directly access a physical memory capacity of 512 Kilobytes?",
+    "a": "18",
+    "b": "19",
+    "c": "20",
+    "d": "17",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 4000H and a capacity of 16 Kilobytes. Calculate the ending address in hexadecimal.",
+    "a": "5FFFH",
+    "b": "7FFFH",
+    "c": "6FFFH",
+    "d": "4FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A memory segment ends at hexadecimal address BFFFH. If the starting address is 8000H, calculate the total capacity of this memory segment in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "64 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A serial connection transmits data at 115,200 baud. Calculate the time in milliseconds required to transmit a single 8-bit byte of data packaged with 1 start bit and 1 stop bit.",
+    "a": "0.043 ms",
+    "b": "0.087 ms",
+    "c": "0.174 ms",
+    "d": "0.022 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 5,000 imposter attempts. If the system incorrectly grants access to 10 imposters, calculate the False Acceptance Rate (FAR) as a percentage.",
+    "a": "0.10 percent",
+    "b": "0.20 percent",
+    "c": "0.50 percent",
+    "d": "0.05 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 2,000 legitimate authorized user access attempts. If the system incorrectly denies access to 20 authorized users, calculate the False Rejection Rate (FRR) as a percentage.",
+    "a": "0.5 percent",
+    "b": "1.0 percent",
+    "c": "2.0 percent",
+    "d": "0.25 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit register contains the signed binary number 11001000. Calculate its decimal equivalent assuming 2's complement representation.",
+    "a": "-48",
+    "b": "-56",
+    "c": "-64",
+    "d": "-120",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 400 picoseconds. Calculate its clock frequency in Gigahertz.",
+    "a": "1.25 GHz",
+    "b": "2.50 GHz",
+    "c": "5.00 GHz",
+    "d": "0.62 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A processor executes a program with 2.0 x 10^6 instructions. If execution takes 3.0 x 10^6 clock cycles, calculate the average CPI.",
+    "a": "1.0",
+    "b": "1.5",
+    "c": "0.67",
+    "d": "2.0",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 1.5 and a clock frequency of 2.5 GHz, calculate the execution time of the program in milliseconds.",
+    "a": "0.6 ms",
+    "b": "1.2 ms",
+    "c": "2.4 ms",
+    "d": "0.3 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 1.2 ms, instruction count = 2.0 x 10^6).",
+    "a": "833 MIPS",
+    "b": "1667 MIPS",
+    "c": "3333 MIPS",
+    "d": "416 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk spins at 5400 rpm. Calculate the rotational speed of the disk in revolutions per second.",
+    "a": "45.0 rev/s",
+    "b": "90.0 rev/s",
+    "c": "180.0 rev/s",
+    "d": "22.5 rev/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency in milliseconds for the 5400 rpm disk described in the previous question.",
+    "a": "11.11 ms",
+    "b": "5.56 ms",
+    "c": "2.78 ms",
+    "d": "1.39 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A cache memory has a hit ratio of 98 percent. If the cache access time is 1 nanosecond and the main memory access time is 100 nanoseconds, calculate the average memory access time.",
+    "a": "1.0 ns",
+    "b": "3.0 ns",
+    "c": "5.0 ns",
+    "d": "2.0 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache hit ratio in the previous question drops to 90 percent, calculate the new average memory access time (cache time = 1 ns, main memory = 100 ns).",
+    "a": "5.0 ns",
+    "b": "10.9 ns",
+    "c": "20.0 ns",
+    "d": "1.1 ns",
+    "ans": "b"
+  },
+  {
+    "q": "A direct-mapped cache has a total size of 8 Kilobytes with a block size of 32 bytes in a 32-bit address space. Calculate the number of bits required for the index field.",
+    "a": "6 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the same direct-mapped cache (8 KB cache, 32-byte blocks), calculate the number of bits in the offset field.",
+    "a": "4 bits",
+    "b": "5 bits",
+    "c": "6 bits",
+    "d": "3 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the number of bits in the tag field for the direct-mapped cache described in the previous questions (offset = 5 bits, index = 8 bits, 32-bit address).",
+    "a": "15 bits",
+    "b": "19 bits",
+    "c": "23 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is configured with 14 address lines and 8 data lines. Calculate its storage capacity in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "4 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 1000H and ends at 2FFFH. Calculate the capacity of this block in Kilobytes.",
+    "a": "4 KB",
+    "b": "8 KB",
+    "c": "16 KB",
+    "d": "2 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain instruction takes 5 clock cycles to execute. If the CPU clock frequency is 100 MHz, calculate the instruction execution time in nanoseconds.",
+    "a": "10 ns",
+    "b": "50 ns",
+    "c": "25 ns",
+    "d": "5 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the instruction execution time of the processor in the previous question must be reduced to 25 nanoseconds, calculate the required clock frequency in Megahertz. (Assume the instruction still takes 5 cycles).",
+    "a": "100 MHz",
+    "b": "200 MHz",
+    "c": "50 MHz",
+    "d": "400 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An execution pipeline has 5 stages. If the clock cycle time is 8 nanoseconds, calculate the time required to execute 150 instructions under ideal conditions.",
+    "a": "600 ns",
+    "b": "1232 ns",
+    "c": "1200 ns",
+    "d": "616 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 5-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 150 instructions. (Each instruction takes 40 ns on the non-pipelined CPU).",
+    "a": "5.00",
+    "b": "4.87",
+    "c": "4.00",
+    "d": "3.33",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit analog-to-digital converter (ADC) has a reference voltage of 5.12 Volts. Calculate the resolution (step size) in millivolts.",
+    "a": "10 mV",
+    "b": "20 mV",
+    "c": "5 mV",
+    "d": "40 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A virtual memory system has a page size of 8 Kilobytes in a 32-bit virtual address space. Calculate the number of bits in the page offset field of the address.",
+    "a": "11 bits",
+    "b": "13 bits",
+    "c": "15 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the same virtual memory system (8 KB pages, 32-bit virtual address), calculate the number of bits in the virtual page number field of the address.",
+    "a": "17 bits",
+    "b": "19 bits",
+    "c": "21 bits",
+    "d": "15 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk platter rotates at 12,000 rpm. Calculate the rotational speed of the disk in revolutions per second.",
+    "a": "100.0 rev/s",
+    "b": "200.0 rev/s",
+    "c": "400.0 rev/s",
+    "d": "50.0 rev/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency in milliseconds for the 12,000 rpm magnetic disk described in the previous question.",
+    "a": "5.00 ms",
+    "b": "2.50 ms",
+    "c": "1.25 ms",
+    "d": "3.75 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk has 4 heads, 1000 cylinders, and 36 sectors per track. If each sector has 512 bytes, calculate the disk capacity in Megabytes.",
+    "a": "36.8 MB",
+    "b": "73.7 MB",
+    "c": "147.4 MB",
+    "d": "18.4 MB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain cache memory block is configured with 32 words, where each word is 4 bytes. Calculate the block size of this cache in bytes.",
+    "a": "32 bytes",
+    "b": "128 bytes",
+    "c": "64 bytes",
+    "d": "256 bytes",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache has a block size of 128 bytes, how many bits of offset are needed to address any individual byte within a block?",
+    "a": "5 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "6 bits",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit CPU has an address bus of 16 bits. Calculate the address of the last byte in an 8 Kilobyte memory block that starts at hexadecimal address 0000H.",
+    "a": "0FFFH",
+    "b": "1FFFH",
+    "c": "2FFFH",
+    "d": "3FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "If a second 8 Kilobyte memory block is mapped immediately after the first block (which ends at 1FFFH), calculate the ending hexadecimal address of this second block.",
+    "a": "2FFFH",
+    "b": "3FFFH",
+    "c": "4FFFH",
+    "d": "5FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 1 nanosecond. Calculate its clock frequency in Megahertz.",
+    "a": "500 MHz",
+    "b": "1000 MHz",
+    "c": "250 MHz",
+    "d": "125 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average CPI of a CPU that executes a program containing 4.0 x 10^6 instructions in 8.0 x 10^6 clock cycles.",
+    "a": "1.0",
+    "b": "2.0",
+    "c": "0.5",
+    "d": "1.5",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 2.0 and clock cycle time of 1 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "a": "2.0 ms",
+    "b": "8.0 ms",
+    "c": "4.0 ms",
+    "d": "16.0 ms",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 8.0 ms, instruction count = 4.0 x 10^6).",
+    "a": "125 MIPS",
+    "b": "500 MIPS",
+    "c": "250 MIPS",
+    "d": "1000 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "An execution pipeline has 5 stages. If the clock cycle time is 4 nanoseconds, calculate the time required to execute 500 instructions under ideal conditions.",
+    "a": "1008 ns",
+    "b": "2016 ns",
+    "c": "2000 ns",
+    "d": "1000 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 5-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 500 instructions. (Each instruction takes 20 ns on the non-pipelined CPU).",
+    "a": "5.00",
+    "b": "4.96",
+    "c": "4.00",
+    "d": "3.33",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is organized with 16 address lines and 8 data lines. Calculate its storage capacity in Kilobytes.",
+    "a": "16 KB",
+    "b": "64 KB",
+    "c": "32 KB",
+    "d": "128 KB",
+    "ans": "b"
+  },
+  {
+    "q": "How many address lines are required to directly access a physical memory capacity of 1024 Kilobytes?",
+    "a": "18",
+    "b": "20",
+    "c": "22",
+    "d": "16",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 8000H and a capacity of 16 Kilobytes. Calculate the ending address in hexadecimal.",
+    "a": "9FFFH",
+    "b": "BFFFH",
+    "c": "AFFFH",
+    "d": "8FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A memory segment ends at hexadecimal address FFFFH. If the starting address is C000H, calculate the total capacity of this memory segment in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "64 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A serial connection transmits data at 57,600 baud. Calculate the time in milliseconds required to transmit a single 8-bit byte of data packaged with 1 start bit and 1 stop bit.",
+    "a": "0.087 ms",
+    "b": "0.174 ms",
+    "c": "0.348 ms",
+    "d": "0.043 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 20,000 imposter attempts. If the system incorrectly grants access to 40 imposters, calculate the False Acceptance Rate (FAR) as a percentage.",
+    "a": "0.10 percent",
+    "b": "0.20 percent",
+    "c": "0.50 percent",
+    "d": "0.05 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 10,000 legitimate authorized user access attempts. If the system incorrectly denies access to 100 authorized users, calculate the False Rejection Rate (FRR) as a percentage.",
+    "a": "0.5 percent",
+    "b": "1.0 percent",
+    "c": "2.0 percent",
+    "d": "0.25 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit register contains the signed binary number 11100000. Calculate its decimal equivalent assuming 2's complement representation.",
+    "a": "-16",
+    "b": "-32",
+    "c": "-64",
+    "d": "-128",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 200 picoseconds. Calculate its clock frequency in Gigahertz.",
+    "a": "1.25 GHz",
+    "b": "5.00 GHz",
+    "c": "2.50 GHz",
+    "d": "10.00 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A processor executes a program with 4.0 x 10^6 instructions. If execution takes 6.0 x 10^6 clock cycles, calculate the average CPI.",
+    "a": "1.0",
+    "b": "1.5",
+    "c": "0.67",
+    "d": "2.0",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 1.5 and a clock frequency of 5.0 GHz, calculate the execution time of the program in milliseconds.",
+    "a": "0.6 ms",
+    "b": "1.8 ms",
+    "c": "1.2 ms",
+    "d": "2.4 ms",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 1.8 ms, instruction count = 4.0 x 10^6).",
+    "a": "1111 MIPS",
+    "b": "2222 MIPS",
+    "c": "4444 MIPS",
+    "d": "555 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk spins at 15,000 rpm. Calculate the rotational speed of the disk in revolutions per second.",
+    "a": "125.0 rev/s",
+    "b": "250.0 rev/s",
+    "c": "500.0 rev/s",
+    "d": "62.5 rev/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm disk described in the previous question.",
+    "a": "4.00 ms",
+    "b": "2.00 ms",
+    "c": "1.00 ms",
+    "d": "1.50 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A cache memory has a hit ratio of 99 percent. If the cache access time is 0.5 nanoseconds and the main memory access time is 50 nanoseconds, calculate the average memory access time.",
+    "a": "0.5 ns",
+    "b": "1.0 ns",
+    "c": "2.0 ns",
+    "d": "0.8 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache hit ratio in the previous question drops to 95 percent, calculate the new average memory access time (cache time = 0.5 ns, main memory = 50 ns).",
+    "a": "2.0 ns",
+    "b": "3.0 ns",
+    "c": "4.0 ns",
+    "d": "1.5 ns",
+    "ans": "b"
+  },
+  {
+    "q": "A direct-mapped cache has a total size of 32 Kilobytes with a block size of 128 bytes in a 32-bit address space. Calculate the number of bits required for the index field.",
+    "a": "6 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the same direct-mapped cache (32 KB cache, 128-byte blocks), calculate the number of bits in the offset field.",
+    "a": "5 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "6 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the number of bits in the tag field for the direct-mapped cache described in the previous questions (offset = 7 bits, index = 8 bits, 32-bit address).",
+    "a": "13 bits",
+    "b": "17 bits",
+    "c": "21 bits",
+    "d": "15 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is configured with 15 address lines and 8 data lines. Calculate its storage capacity in Kilobytes.",
+    "a": "16 KB",
+    "b": "32 KB",
+    "c": "64 KB",
+    "d": "8 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 4000H and ends at 7FFFH. Calculate the capacity of this block in Kilobytes.",
+    "a": "8 KB",
+    "b": "16 KB",
+    "c": "32 KB",
+    "d": "4 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain instruction takes 6 clock cycles to execute. If the CPU clock frequency is 200 MHz, calculate the instruction execution time in nanoseconds.",
+    "a": "15 ns",
+    "b": "30 ns",
+    "c": "45 ns",
+    "d": "10 ns",
+    "ans": "b"
+  },
+  {
+    "q": "If the instruction execution time of the processor in the previous question must be reduced to 15 nanoseconds, calculate the required clock frequency in Megahertz. (Assume the instruction still takes 6 cycles).",
+    "a": "200 MHz",
+    "b": "400 MHz",
+    "c": "100 MHz",
+    "d": "800 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An execution pipeline has 6 stages. If the clock cycle time is 5 nanoseconds, calculate the time required to execute 200 instructions under ideal conditions.",
+    "a": "525 ns",
+    "b": "1025 ns",
+    "c": "1000 ns",
+    "d": "500 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 6-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 200 instructions. (Each instruction takes 30 ns on the non-pipelined CPU).",
+    "a": "6.00",
+    "b": "5.85",
+    "c": "5.00",
+    "d": "4.50",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit digital-to-analog converter (DAC) has a reference voltage of 2.56 Volts. Calculate the resolution (step size) in millivolts.",
+    "a": "5 mV",
+    "b": "10 mV",
+    "c": "2 mV",
+    "d": "20 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A virtual memory system has a page size of 16 Kilobytes in a 32-bit virtual address space. Calculate the number of bits in the page offset field of the address.",
+    "a": "12 bits",
+    "b": "14 bits",
+    "c": "16 bits",
+    "d": "10 bits",
+    "ans": "b"
+  },
+  {
+    "q": "For the same virtual memory system (16 KB pages, 32-bit virtual address), calculate the number of bits in the virtual page number field of the address.",
+    "a": "16 bits",
+    "b": "18 bits",
+    "c": "20 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A magnetic disk platter rotates at 15,000 rpm. Calculate the rotational speed of the disk in revolutions per second.",
+    "a": "125.0 rev/s",
+    "b": "250.0 rev/s",
+    "c": "500.0 rev/s",
+    "d": "62.5 rev/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm magnetic disk described in the previous question.",
+    "a": "4.00 ms",
+    "b": "2.00 ms",
+    "c": "1.00 ms",
+    "d": "1.50 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A hard disk has 8 heads, 2000 cylinders, and 64 sectors per track. If each sector has 512 bytes, calculate the disk capacity in Megabytes.",
+    "a": "262.1 MB",
+    "b": "524.3 MB",
+    "c": "1048.6 MB",
+    "d": "131.1 MB",
+    "ans": "b"
+  },
+  {
+    "q": "A certain cache memory block is configured with 64 words, where each word is 4 bytes. Calculate the block size of this cache in bytes.",
+    "a": "64 bytes",
+    "b": "256 bytes",
+    "c": "128 bytes",
+    "d": "512 bytes",
+    "ans": "b"
+  },
+  {
+    "q": "If the cache has a block size of 256 bytes, how many bits of offset are needed to address any individual byte within a block?",
+    "a": "6 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "7 bits",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit CPU has an address bus of 16 bits. Calculate the address of the last byte in a 32 Kilobyte memory block that starts at hexadecimal address 0000H.",
+    "a": "3FFFH",
+    "b": "7FFFH",
+    "c": "8FFFH",
+    "d": "FFFFH",
+    "ans": "b"
+  },
+  {
+    "q": "If a second 32 Kilobyte memory block is mapped immediately after the first block (which ends at 7FFFH), calculate the ending hexadecimal address of this second block.",
+    "a": "BFFFH",
+    "b": "FFFFH",
+    "c": "DFFFH",
+    "d": "9FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 0.5 nanoseconds. Calculate its clock frequency in Megahertz.",
+    "a": "1000 MHz",
+    "b": "2000 MHz",
+    "c": "500 MHz",
+    "d": "4000 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average CPI of a CPU that executes a program containing 8.0 x 10^6 instructions in 16.0 x 10^6 clock cycles.",
+    "a": "1.0",
+    "b": "2.0",
+    "c": "0.5",
+    "d": "1.5",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 2.0 and clock cycle time of 0.5 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "a": "4.0 ms",
+    "b": "8.0 ms",
+    "c": "2.0 ms",
+    "d": "16.0 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 8.0 ms, instruction count = 8.0 x 10^6).",
+    "a": "250 MIPS",
+    "b": "1000 MIPS",
+    "c": "500 MIPS",
+    "d": "2000 MIPS",
+    "ans": "b"
+  },
+  {
+    "q": "An execution pipeline has 6 stages. If the clock cycle time is 2 nanoseconds, calculate the time required to execute 1000 instructions under ideal conditions.",
+    "a": "1010 ns",
+    "b": "2010 ns",
+    "c": "2000 ns",
+    "d": "1000 ns",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the speedup factor of the 6-stage pipeline described in the previous question compared to a non-pipelined processor executing the same 1000 instructions. (Each instruction takes 12 ns on the non-pipelined CPU).",
+    "a": "6.00",
+    "b": "5.97",
+    "c": "5.00",
+    "d": "4.00",
+    "ans": "b"
+  },
+  {
+    "q": "A memory chip is organized with 17 address lines and 8 data lines. Calculate its storage capacity in Kilobytes.",
+    "a": "32 KB",
+    "b": "128 KB",
+    "c": "64 KB",
+    "d": "256 KB",
+    "ans": "b"
+  },
+  {
+    "q": "How many address lines are required to directly access a physical memory capacity of 2048 Kilobytes?",
+    "a": "19",
+    "b": "21",
+    "c": "23",
+    "d": "17",
+    "ans": "b"
+  },
+  {
+    "q": "A memory block has a starting address of hexadecimal 4000H and a capacity of 32 Kilobytes. Calculate the ending address in hexadecimal.",
+    "a": "7FFFH",
+    "b": "BFFFH",
+    "c": "9FFFH",
+    "d": "5FFFH",
+    "ans": "b"
+  },
+  {
+    "q": "A memory segment ends at hexadecimal address 7FFFH. If the starting address is 0000H, calculate the total capacity of this memory segment in Kilobytes.",
+    "a": "8 KB",
+    "b": "32 KB",
+    "c": "16 KB",
+    "d": "64 KB",
+    "ans": "b"
+  },
+  {
+    "q": "A serial connection transmits data at 19,200 baud. Calculate the time in milliseconds required to transmit a single 8-bit byte of data packaged with 1 start bit and 1 stop bit.",
+    "a": "0.26 ms",
+    "b": "0.52 ms",
+    "c": "1.04 ms",
+    "d": "0.13 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 50,000 imposter attempts. If the system incorrectly grants access to 10 imposters, calculate the False Acceptance Rate (FAR) as a percentage.",
+    "a": "0.01 percent",
+    "b": "0.02 percent",
+    "c": "0.05 percent",
+    "d": "0.10 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A biometric verification system is tested with 5,000 legitimate authorized user access attempts. If the system incorrectly denies access to 25 authorized users, calculate the False Rejection Rate (FRR) as a percentage.",
+    "a": "0.1 percent",
+    "b": "0.5 percent",
+    "c": "1.0 percent",
+    "d": "0.25 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit register contains the signed binary number 11110000. Calculate its decimal equivalent assuming 2's complement representation.",
+    "a": "-8",
+    "b": "-16",
+    "c": "-32",
+    "d": "-64",
+    "ans": "b"
+  },
+  {
+    "q": "A processor has a clock cycle time of 100 picoseconds. Calculate its clock frequency in Gigahertz.",
+    "a": "2.5 GHz",
+    "b": "10.0 GHz",
+    "c": "5.0 GHz",
+    "d": "20.0 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A processor executes a program with 8.0 x 10^6 instructions. If execution takes 12.0 x 10^6 clock cycles, calculate the average CPI.",
+    "a": "1.0",
+    "b": "1.5",
+    "c": "0.67",
+    "d": "2.0",
+    "ans": "b"
+  },
+  {
+    "q": "Using the CPI of 1.5 and a clock frequency of 10.0 GHz, calculate the execution time of the program in milliseconds.",
+    "a": "0.6 ms",
+    "b": "1.2 ms",
+    "c": "1.8 ms",
+    "d": "2.4 ms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the throughput performance in MIPS of the processor described in the previous questions (execution time = 1.2 ms, instruction count = 8.0 x 10^6).",
+    "a": "1667 MIPS",
+    "b": "6667 MIPS",
+    "c": "3333 MIPS",
+    "d": "833 MIPS",
+    "ans": "b"
+  }
+]

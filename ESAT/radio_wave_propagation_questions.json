@@ -1,0 +1,1586 @@
+[
+  {
+    "q": "What type of radio waves propagate along the curvature of the Earth's surface and are heavily influenced by ground conductivity?",
+    "a": "Sky waves",
+    "b": "Ground waves (surface waves)",
+    "c": "Direct waves",
+    "d": "Troposcatter waves",
+    "ans": "b"
+  },
+  {
+    "q": "Which wave polarization is universally used for ground wave propagation because the alternative polarizations get shorted out by the Earth's surface?",
+    "a": "Horizontal polarization",
+    "b": "Vertical polarization",
+    "c": "Circular polarization",
+    "d": "Elliptical polarization",
+    "ans": "b"
+  },
+  {
+    "q": "Ground wave propagation is highly effective at which frequency range?",
+    "a": "Below 2 MHz",
+    "b": "Between 30 MHz and 300 MHz",
+    "c": "Above 1 GHz",
+    "d": "In the optical spectrum",
+    "ans": "a"
+  },
+  {
+    "q": "What propagation mode utilizes direct line-of-sight paths and reflected waves off the ground, typically at frequencies above 30 MHz?",
+    "a": "Sky wave propagation",
+    "b": "Space wave propagation",
+    "c": "Ground wave propagation",
+    "d": "Ionospheric propagation",
+    "ans": "b"
+  },
+  {
+    "q": "What layer of the atmosphere is primarily responsible for refracting high-frequency (HF) radio waves back to Earth in sky wave propagation?",
+    "a": "Troposphere",
+    "b": "Stratosphere",
+    "c": "Ionosphere",
+    "d": "Mesosphere",
+    "ans": "c"
+  },
+  {
+    "q": "What is the lowest layer of the ionosphere, which exists only during daylight hours, absorbs high-frequency signals, and disappears at night?",
+    "a": "E layer",
+    "b": "D layer",
+    "c": "F1 layer",
+    "d": "F2 layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which ionospheric layer is historically known as the Kennelly-Heaviside layer and is located at an altitude of approximately 90 to 140 km?",
+    "a": "D layer",
+    "b": "E layer",
+    "c": "F layer",
+    "d": "Appleton layer",
+    "ans": "b"
+  },
+  {
+    "q": "During the day, the highest and most ionized region of the ionosphere (the Appleton layer) splits into which two distinct sub-layers?",
+    "a": "D and E layers",
+    "b": "F1 and F2 layers",
+    "c": "E and Es layers",
+    "d": "Troposphere and Stratosphere",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the height above the Earth's surface from which a refracted sky wave appears to have been reflected?",
+    "a": "Actual height",
+    "b": "Virtual height",
+    "c": "Refractive height",
+    "d": "Critical height",
+    "ans": "b"
+  },
+  {
+    "q": "What is the critical frequency of an ionospheric layer?",
+    "a": "The maximum frequency that can propagate along the Earth's surface",
+    "b": "The highest frequency that can be radiated vertically and still be refracted back to Earth by that layer",
+    "c": "The minimum frequency required to penetrate the D layer",
+    "d": "The frequency at which the ground wave attenuation drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the maximum angle of radiation relative to the horizon at which a wave can still be refracted back to Earth by the ionosphere?",
+    "a": "Angle of incidence",
+    "b": "Critical angle",
+    "c": "Brewster angle",
+    "d": "Reflection angle",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Maximum Usable Frequency (MUF) for sky wave communications?",
+    "a": "The frequency where the ground wave and sky wave meet",
+    "b": "The highest frequency that can be used for sky wave communications between two specific points on Earth",
+    "c": "The critical frequency multiplied by the antenna efficiency",
+    "d": "The frequency at which ionospheric absorption is maximum",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the minimum distance from a transmitter to the point where the sky wave first returns to Earth?",
+    "a": "Radio horizon",
+    "b": "Skip distance",
+    "c": "Quiet zone",
+    "d": "Ducting distance",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the region of silence between the outer limit of the ground wave's useful range and the inner limit of the sky wave's return point?",
+    "a": "Skip distance",
+    "b": "Skip zone",
+    "c": "Ducting zone",
+    "d": "Fresnel zone",
+    "ans": "b"
+  },
+  {
+    "q": "What type of propagation occurs when sky waves are reflected alternately by the ionosphere and the Earth's surface, enabling extremely long-distance communication?",
+    "a": "Space wave propagation",
+    "b": "Multi-hop propagation",
+    "c": "Troposcatter propagation",
+    "d": "Ground wave propagation",
+    "ans": "b"
+  },
+  {
+    "q": "The rapid and unpredictable fluctuations in the received signal strength of a radio wave due to multipath propagation are called _____.",
+    "a": "Attenuation",
+    "b": "Fading",
+    "c": "Crosstalk",
+    "d": "Diffraction",
+    "ans": "b"
+  },
+  {
+    "q": "What diversity reception technique utilizes two or more receiving antennas separated physically by several wavelengths to counteract multipath fading?",
+    "a": "Frequency diversity",
+    "b": "Space diversity",
+    "c": "Polarization diversity",
+    "d": "Time diversity",
+    "ans": "b"
+  },
+  {
+    "q": "What diversity reception technique involves transmitting the same information on two or more separate carrier frequencies simultaneously?",
+    "a": "Space diversity",
+    "b": "Frequency diversity",
+    "c": "Polarization diversity",
+    "d": "Angle diversity",
+    "ans": "b"
+  },
+  {
+    "q": "What propagation phenomenon involves VHF, UHF, or microwave signals being scattered by irregularities and turbulence in the troposphere, allowing beyond-the-horizon transmission?",
+    "a": "Ionospheric refraction",
+    "b": "Tropospheric scatter (troposcatter)",
+    "c": "Duct propagation",
+    "d": "Ground wave diffraction",
+    "ans": "b"
+  },
+  {
+    "q": "What propagation mechanism occurs when a temperature inversion or rapid humidity change in the troposphere traps radio waves in a thin duct-like layer?",
+    "a": "Troposcatter",
+    "b": "Duct propagation (ducting)",
+    "c": "Multi-hop sky wave",
+    "d": "Knife-edge diffraction",
+    "ans": "b"
+  },
+  {
+    "q": "What wave propagation phenomenon allows radio waves to bend around sharp edges of solid physical obstacles, such as mountain ridges?",
+    "a": "Refraction",
+    "b": "Knife-edge diffraction",
+    "c": "Specular reflection",
+    "d": "Ionospheric absorption",
+    "ans": "b"
+  },
+  {
+    "q": "Which fundamental optical/wave principle states that every point on a wavefront behaves as a source of secondary spherical waves?",
+    "a": "Snell's Law",
+    "b": "Huygens' Principle",
+    "c": "Fermat's Principle",
+    "d": "Brewster's Law",
+    "ans": "b"
+  },
+  {
+    "q": "What type of wave is characterized by having its electric and magnetic field vectors completely perpendicular to each other and to the direction of propagation?",
+    "a": "Spherical wave",
+    "b": "Plane wave (TEM)",
+    "c": "Acoustic wave",
+    "d": "Evanescent wave",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical velocity of all electromagnetic waves propagating through a vacuum?",
+    "a": "343 m/s",
+    "b": "3 x 10^8 m/s",
+    "c": "1.5 x 10^8 m/s",
+    "d": "Variable depending on frequency",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the wavelength of a radio wave as it transitions from a vacuum into a denser dielectric medium?",
+    "a": "The wavelength increases",
+    "b": "The wavelength decreases",
+    "c": "The wavelength remains constant",
+    "d": "The wavelength drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What physical phenomenon describes the bending of radio waves as they pass through regions of different atmospheric densities or refractive indices?",
+    "a": "Reflection",
+    "b": "Refraction",
+    "c": "Diffraction",
+    "d": "Scattering",
+    "ans": "b"
+  },
+  {
+    "q": "The solar cycle, which strongly influences HF sky wave propagation by modifying the ionization density of the ionosphere, repeats approximately every _____.",
+    "a": "5 years",
+    "b": "11 years",
+    "c": "22 years",
+    "d": "30 years",
+    "ans": "b"
+  },
+  {
+    "q": "How does high ground conductivity affect the propagation of ground waves?",
+    "a": "It increases the rate of attenuation",
+    "b": "It decreases attenuation, allowing ground waves to travel further",
+    "c": "It causes ground waves to be reflected into the stratosphere",
+    "d": "It has no physical impact on ground waves",
+    "ans": "b"
+  },
+  {
+    "q": "Which radio frequency band is the least susceptible to atmospheric noise but highly influenced by space and cosmic noise?",
+    "a": "VLF",
+    "b": "VHF and UHF",
+    "c": "LF",
+    "d": "MF",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Appleton layer of the ionosphere?",
+    "a": "The D layer",
+    "b": "The F layer (specifically F2 layer)",
+    "c": "The E layer",
+    "d": "The Troposphere boundary",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard unit used to express the electric field intensity of a propagating radio wave?",
+    "a": "Watts per square meter (W/m^2)",
+    "b": "Volts per meter (V/m)",
+    "c": "Amperes per meter (A/m)",
+    "d": "Decibel-milliwatts (dBm)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard unit used to express the magnetic field intensity of a propagating radio wave?",
+    "a": "Volts per meter (V/m)",
+    "b": "Amperes per meter (A/m)",
+    "c": "Tesla-meters",
+    "d": "Watts per meter (W/m)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the wave impedance of free space for a plane electromagnetic wave?",
+    "a": "50 ohms",
+    "b": "377 ohms",
+    "c": "75 ohms",
+    "d": "300 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "In propagation profiles, what represents the k-factor?",
+    "a": "The ratio of the receiver antenna height to transmitter antenna height",
+    "b": "The multiplier used to scale the actual Earth radius to an effective Earth radius to account for atmospheric refraction",
+    "c": "The attenuation coefficient of ground waves",
+    "d": "The reflection index of the ionospheric D layer",
+    "ans": "b"
+  },
+  {
+    "q": "What is the value of the k-factor under standard atmospheric conditions used worldwide for line-of-sight microwave path designs?",
+    "a": "0.66",
+    "b": "1.33",
+    "c": "1.00",
+    "d": "2.00",
+    "ans": "b"
+  },
+  {
+    "q": "What does a k-factor value greater than 1 (e.g., k = 4/3) physically represent in radio wave propagation?",
+    "a": "The radio waves bend upward away from the Earth",
+    "b": "The radio waves bend downward toward the Earth, extending the radio horizon beyond the optical horizon",
+    "c": "The radio waves travel in a straight line with no bending",
+    "d": "The radio waves are completely absorbed by the troposphere",
+    "ans": "b"
+  },
+  {
+    "q": "A k-factor value less than 1 (subrefraction) indicates that _____.",
+    "a": "Radio waves bend heavily toward the Earth's surface",
+    "b": "Radio waves bend upward away from the Earth's surface, reducing the radio horizon",
+    "c": "There is a perfect temperature inversion",
+    "d": "The atmosphere behaves like a perfect waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "A k-factor equal to infinity represents what condition?",
+    "a": "The radio wave has infinite velocity",
+    "b": "The radio waves follow the Earth's curvature perfectly, indicating a flat Earth model with no relative bending",
+    "c": "Complete signal blockage",
+    "d": "No refraction occurring",
+    "ans": "b"
+  },
+  {
+    "q": "What type of fading occurs when different frequency components of a single modulated signal undergo different amounts of attenuation over a multi-path channel?",
+    "a": "Flat fading",
+    "b": "Selective fading",
+    "c": "Thermal fading",
+    "d": "Cosmic fading",
+    "ans": "b"
+  },
+  {
+    "q": "What diversity technique uses two receiving antennas oriented at right angles to each other (e.g., horizontal and vertical) to counteract multipath fading?",
+    "a": "Space diversity",
+    "b": "Polarization diversity",
+    "c": "Frequency diversity",
+    "d": "Angle diversity",
+    "ans": "b"
+  },
+  {
+    "q": "What solar disturbance is characterized by a sudden burst of ultraviolet and X-ray radiation, causing a temporary blackout of HF signals?",
+    "a": "Sunspot minimum",
+    "b": "Sudden Ionospheric Disturbance (SID)",
+    "c": "Tropospheric inversion",
+    "d": "Ducting gap",
+    "ans": "b"
+  },
+  {
+    "q": "Which ionospheric layer exhibits a highly erratic and localized ionization pattern known as 'sporadic E'?",
+    "a": "D layer",
+    "b": "E layer",
+    "c": "F1 layer",
+    "d": "F2 layer",
+    "ans": "b"
+  },
+  {
+    "q": "VHF and UHF signals propagate primarily through which propagation mode?",
+    "a": "Ground wave",
+    "b": "Space wave",
+    "c": "Sky wave",
+    "d": "Ionospheric multi-hop",
+    "ans": "b"
+  },
+  {
+    "q": "LF and VLF signals propagate primarily through which propagation mode over long distances?",
+    "a": "Sky wave alone",
+    "b": "Ground wave (including Earth-ionosphere waveguide)",
+    "c": "Direct space wave",
+    "d": "Troposcatter",
+    "ans": "b"
+  },
+  {
+    "q": "What does the secant law ($MUF = f_c * sec(theta_i)$) describe in sky wave propagation?",
+    "a": "The relationship between SWR and path loss",
+    "b": "The relationship between critical frequency, incidence angle, and maximum usable frequency",
+    "c": "The curvature of the Earth's horizon",
+    "d": "The phase velocity of a wave in a waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary cause of multi-hop propagation signal degradation over several hops?",
+    "a": "Thermal agitation in space",
+    "b": "Ground reflection losses and ionospheric absorption",
+    "c": "The k-factor changing along the path",
+    "d": "Transit time delays in the receiver",
+    "ans": "b"
+  },
+  {
+    "q": "The rotation of the polarization plane of an electromagnetic wave as it passes through the ionosphere in the presence of the Earth's magnetic field is called _____.",
+    "a": "Huygens' rotation",
+    "b": "Faraday rotation",
+    "c": "Brewster rotation",
+    "d": "Snell's rotation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary ionization source for the Earth's ionosphere?",
+    "a": "Cosmic rays from deep space",
+    "b": "Ultraviolet and X-ray radiation from the Sun",
+    "c": "Lightning discharges in the troposphere",
+    "d": "The Earth's radioactive core decay",
+    "ans": "b"
+  },
+  {
+    "q": "The process of ions and free electrons combining back into neutral gas molecules in the ionosphere is called _____.",
+    "a": "Ionization",
+    "b": "Recombination",
+    "c": "Refraction",
+    "d": "Scattering",
+    "ans": "b"
+  },
+  {
+    "q": "Why does the F2 layer of the ionosphere not disappear completely at night like the D and E layers?",
+    "a": "It is physically closer to the Earth's surface",
+    "b": "The air density at its altitude is extremely low, making the rate of recombination very slow",
+    "c": "It is shielded from the solar wind",
+    "d": "It is continually recharged by lightning storms",
+    "ans": "b"
+  },
+  {
+    "q": "The troposphere extends from the Earth's surface up to an altitude of approximately _____.",
+    "a": "2 km",
+    "b": "10 to 12 km",
+    "c": "50 km",
+    "d": "100 km",
+    "ans": "b"
+  },
+  {
+    "q": "The ionosphere extends from approximately _____ above the Earth's surface.",
+    "a": "10 km to 50 km",
+    "b": "50 km to 400 km",
+    "c": "1 km to 10 km",
+    "d": "500 km to 1000 km",
+    "ans": "b"
+  },
+  {
+    "q": "What type of fading is caused by the interference of two or more wave components arriving at the receiver with different phase angles?",
+    "a": "Absorption fading",
+    "b": "Interference or multipath fading",
+    "c": "Polarization fading",
+    "d": "Ducting fading",
+    "ans": "b"
+  },
+  {
+    "q": "What is the angle of incidence called when a vertically polarized wave is completely transmitted into a medium with zero reflection?",
+    "a": "Critical angle",
+    "b": "Brewster angle",
+    "c": "Huygens' angle",
+    "d": "Secant angle",
+    "ans": "b"
+  },
+  {
+    "q": "The plane of polarization of an electromagnetic wave is defined by the plane containing _____.",
+    "a": "The magnetic field vector and the propagation vector",
+    "b": "The electric field vector and the direction of propagation",
+    "c": "Only the magnetic field vector",
+    "d": "Only the physical antenna wire",
+    "ans": "b"
+  },
+  {
+    "q": "The maximum range of a ground wave is primarily limited by _____.",
+    "a": "Ionospheric absorption",
+    "b": "Earth's curvature and absorption of energy by the ground",
+    "c": "The height of the ionosphere layers",
+    "d": "The frequency of the local oscillator",
+    "ans": "b"
+  },
+  {
+    "q": "The skip zone is also referred to as the _____.",
+    "a": "Silent zone",
+    "b": "Fresnel zone",
+    "c": "Radio horizon",
+    "d": "Capture zone",
+    "ans": "a"
+  },
+  {
+    "q": "Under normal atmospheric conditions, temperature and humidity _____ with an increase in altitude inside the troposphere.",
+    "a": "Increase",
+    "b": "Decrease",
+    "c": "Remain constant",
+    "d": "Fluctuate exponentially",
+    "ans": "b"
+  },
+  {
+    "q": "What atmospheric condition, where temperature increases with altitude, is the primary cause of superrefraction and ducting?",
+    "a": "Supercooling",
+    "b": "Temperature inversion",
+    "c": "Adiabatic expansion",
+    "d": "Ionospheric storm",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the refractive index of the ionosphere as electron density increases?",
+    "a": "It increases above 1",
+    "b": "It decreases below 1",
+    "c": "It remains exactly equal to 1",
+    "d": "It drops to zero immediately",
+    "ans": "b"
+  },
+  {
+    "q": "The refractive index of the troposphere is _____.",
+    "a": "Exactly equal to 0",
+    "b": "Slightly greater than 1",
+    "c": "Slightly less than 1",
+    "d": "Equal to 377",
+    "ans": "b"
+  },
+  {
+    "q": "Which ionospheric layer is primarily responsible for long-distance night-time HF communications?",
+    "a": "D layer",
+    "b": "F layer (F2 layer)",
+    "c": "E layer",
+    "d": "Sporadic E layer",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main limitation of space wave propagation?",
+    "a": "Ionospheric absorption",
+    "b": "The line-of-sight path limitation due to the curvature of the Earth",
+    "c": "Ohmic loss in the air",
+    "d": "Crosstalk from adjacent channels",
+    "ans": "b"
+  },
+  {
+    "q": "Which wave property describes the bending of waves around an obstacle?",
+    "a": "Refraction",
+    "b": "Diffraction",
+    "c": "Reflection",
+    "d": "Scattering",
+    "ans": "b"
+  },
+  {
+    "q": "The critical frequency is maximum during what time of the day?",
+    "a": "At midnight",
+    "b": "Around noon (maximum solar radiation)",
+    "c": "In the early morning",
+    "d": "It is constant throughout the day",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the critical angle as the frequency of a sky wave is increased?",
+    "a": "The critical angle increases",
+    "b": "The critical angle decreases",
+    "c": "The critical angle remains constant",
+    "d": "The critical angle becomes 90 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for sky wave propagation where a wave is refracted back to Earth from the ionosphere, reflected from the ground, and refracted back again?",
+    "a": "Space scattering",
+    "b": "Multi-hop propagation",
+    "c": "Ducting",
+    "d": "Troposcatter",
+    "ans": "b"
+  },
+  {
+    "q": "The troposcatter propagation mode is highly effective at what frequency range?",
+    "a": "VLF",
+    "b": "VHF and UHF (30 MHz to 3 GHz)",
+    "c": "HF",
+    "d": "Above 30 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "The virtual height of the ionosphere is always _____ than the actual peak ionization height.",
+    "a": "Slower",
+    "b": "Greater",
+    "c": "Lesser",
+    "d": "Equal",
+    "ans": "b"
+  },
+  {
+    "q": "What is the most practical sky wave frequency selected to be slightly below the MUF to ensure reliable communications despite ionospheric variations?",
+    "a": "Critical frequency",
+    "b": "Optimum Working Frequency (OWF or FOT)",
+    "c": "Maximum usable frequency",
+    "d": "Free-running frequency",
+    "ans": "b"
+  },
+  {
+    "q": "The Optimum Working Frequency (OWF) is typically chosen to be what percentage of the MUF?",
+    "a": "50%",
+    "b": "85%",
+    "c": "100%",
+    "d": "120%",
+    "ans": "b"
+  },
+  {
+    "q": "Which ionospheric layer absorbs high-frequency waves the most during the day?",
+    "a": "F2 layer",
+    "b": "D layer",
+    "c": "E layer",
+    "d": "F1 layer",
+    "ans": "b"
+  },
+  {
+    "q": "The fading of sky waves caused by the rotation of the polarization plane of the wave is called _____.",
+    "a": "Multipath fading",
+    "b": "Polarization fading",
+    "c": "Absorption fading",
+    "d": "Flat fading",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the region of the atmosphere below the ionosphere where weather phenomena occur?",
+    "a": "Stratosphere",
+    "b": "Troposphere",
+    "c": "Mesosphere",
+    "d": "Exosphere",
+    "ans": "b"
+  },
+  {
+    "q": "Why are VHF and UHF transmissions not normally used for long-distance sky wave communications?",
+    "a": "VHF/UHF waves are completely absorbed by the D layer",
+    "b": "VHF/UHF waves penetrate the ionosphere and escape into space because their frequencies exceed the critical frequency of the layers",
+    "c": "VHF/UHF antennas are too large",
+    "d": "VHF/UHF signals travel too slowly",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter indicates the power loss of a wave traveling through a medium due to molecular absorption or ionization?",
+    "a": "Refraction index",
+    "b": "Absorption coefficient",
+    "c": "Reflection coefficient",
+    "d": "SWR",
+    "ans": "b"
+  },
+  {
+    "q": "In sky wave propagation, what is a 'hop'?",
+    "a": "The movement of a receiver to follow the signal",
+    "b": "A single reflection of the radio wave from the ionosphere back to the Earth",
+    "c": "A sudden change in the critical frequency",
+    "d": "The transition of a wave into a duct",
+    "ans": "b"
+  },
+  {
+    "q": "The highest layer of the ionosphere is the _____.",
+    "a": "D layer",
+    "b": "F2 layer",
+    "c": "E layer",
+    "d": "Sporadic E layer",
+    "ans": "b"
+  },
+  {
+    "q": "A radio wave has a frequency of 150 MHz in free space. Calculate its wavelength.",
+    "a": "1.0 meter",
+    "b": "2.0 meters",
+    "c": "0.5 meters",
+    "d": "4.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave signal has a frequency of 10 GHz in free space. Calculate its wavelength.",
+    "a": "3.0 meters",
+    "b": "3.0 cm",
+    "c": "30.0 cm",
+    "d": "0.3 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A low-frequency signal has a frequency of 100 kHz. Calculate its wavelength in free space.",
+    "a": "300 meters",
+    "b": "3000 meters",
+    "c": "30 meters",
+    "d": "30 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radio wave has a wavelength of exactly 2 meters in free space. Calculate its frequency.",
+    "a": "300 MHz",
+    "b": "150 MHz",
+    "c": "75 MHz",
+    "d": "600 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave signal has a wavelength of 10 cm (0.1 meters) in free space. Calculate its frequency.",
+    "a": "300 MHz",
+    "b": "3 GHz",
+    "c": "30 GHz",
+    "d": "30 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 10^6 electrons/cm^3. Calculate its critical frequency (f_c) in MHz. Use f_c = 9 * sqrt(N_max) where N_max is in electrons/cm^3 and f_c is in kHz.",
+    "a": "90 kHz",
+    "b": "9.0 MHz",
+    "c": "90 MHz",
+    "d": "0.9 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 4 x 10^5 electrons/cm^3. Calculate its critical frequency (f_c) in MHz.",
+    "a": "3.6 MHz",
+    "b": "5.69 MHz",
+    "c": "56.9 MHz",
+    "d": "1.8 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 1.21 x 10^12 electrons/m^3. Calculate its critical frequency in MHz using f_c = 9 * sqrt(N_max) where N_max is in electrons/m^3 and f_c is in Hz.",
+    "a": "1.1 MHz",
+    "b": "9.9 MHz",
+    "c": "99.0 MHz",
+    "d": "19.8 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 1.44 x 10^12 electrons/m^3. Calculate its critical frequency in MHz.",
+    "a": "1.2 MHz",
+    "b": "10.8 MHz",
+    "c": "12.0 MHz",
+    "d": "21.6 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If the critical frequency of an ionospheric layer is measured to be 9 MHz, calculate its maximum electron density in electrons/cm^3.",
+    "a": "10^5 electrons/cm^3",
+    "b": "10^6 electrons/cm^3",
+    "c": "10^12 electrons/cm^3",
+    "d": "10^4 electrons/cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "If the critical frequency of an ionospheric layer is measured to be 6 MHz, calculate its maximum electron density in electrons/cm^3.",
+    "a": "2.22 x 10^5 electrons/cm^3",
+    "b": "4.44 x 10^5 electrons/cm^3",
+    "c": "4.44 x 10^11 electrons/m^3",
+    "d": "1.23 x 10^5 electrons/cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Maximum Usable Frequency (MUF) for an ionospheric layer with a critical frequency of 5 MHz if the angle of incidence relative to the normal is 60 degrees. Use MUF = f_c / cos(theta_i).",
+    "a": "5.77 MHz",
+    "b": "10.0 MHz",
+    "c": "8.66 MHz",
+    "d": "2.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Maximum Usable Frequency (MUF) for an ionospheric layer with a critical frequency of 10 MHz if the angle of incidence relative to the normal is 45 degrees.",
+    "a": "11.5 MHz",
+    "b": "14.14 MHz",
+    "c": "20.0 MHz",
+    "d": "7.07 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Maximum Usable Frequency (MUF) using the flat-earth approximation if the critical frequency is 8 MHz, the virtual height of the layer is 200 km, and the transmission skip distance is 400 km. Use MUF = f_c * sqrt(1 + (D / (2 * h))^2).",
+    "a": "8.0 MHz",
+    "b": "11.31 MHz",
+    "c": "16.0 MHz",
+    "d": "24.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the MUF using the flat-earth approximation if f_c = 6 MHz, virtual height h = 250 km, and skip distance D = 600 km.",
+    "a": "9.37 MHz",
+    "b": "9.36 MHz",
+    "c": "12.0 MHz",
+    "d": "15.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the MUF using the flat-earth approximation if f_c = 7 MHz, virtual height h = 300 km, and skip distance D = 800 km.",
+    "a": "9.33 MHz",
+    "b": "11.66 MHz",
+    "c": "14.0 MHz",
+    "d": "18.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An HF radio link operates with a virtual layer height of 200 km. If the critical frequency is 5 MHz and the MUF is 10 MHz, calculate the skip distance D in kilometers.",
+    "a": "200 km",
+    "b": "346.41 km",
+    "c": "692.82 km",
+    "d": "173.20 km",
+    "ans": "c"
+  },
+  {
+    "q": "An HF radio link operates with a virtual height of 250 km. If the critical frequency is 6 MHz and the MUF is 12 MHz, calculate the skip distance D in kilometers.",
+    "a": "433 km",
+    "b": "866 km",
+    "c": "500 km",
+    "d": "1000 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the refractive index (n) of an ionospheric layer at an operating frequency of 10 MHz if the electron density is 4 x 10^11 electrons/m^3. Use n = sqrt(1 - (81 * N) / f^2) with f in Hz.",
+    "a": "0.90",
+    "b": "0.82",
+    "c": "0.68",
+    "d": "0.50",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the refractive index (n) of an ionospheric layer at an operating frequency of 5 MHz if the electron density is 10^11 electrons/m^3.",
+    "a": "0.95",
+    "b": "0.82",
+    "c": "0.68",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of a transmitter antenna with a height of 100 feet above the Earth's surface. Use the standard formula d = sqrt(2 * h) in miles.",
+    "a": "10.0 miles",
+    "b": "14.14 miles",
+    "c": "12.25 miles",
+    "d": "20.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of a receiver antenna with a height of 50 feet above the Earth's surface.",
+    "a": "7.07 miles",
+    "b": "10.00 miles",
+    "c": "8.66 miles",
+    "d": "12.25 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance (in miles) between a transmitter antenna at a height of 144 feet and a receiver antenna at a height of 64 feet.",
+    "a": "16.0 miles",
+    "b": "28.14 miles",
+    "c": "24.0 miles",
+    "d": "32.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance (in miles) between a transmitter antenna at a height of 200 feet and a receiver antenna at a height of 50 feet.",
+    "a": "20.0 miles",
+    "b": "30.0 miles",
+    "c": "25.0 miles",
+    "d": "35.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance in kilometers of a transmitter antenna with a height of 100 meters. Use the metric formula d = 4.12 * sqrt(h) in km.",
+    "a": "17.0 km",
+    "b": "41.2 km",
+    "c": "35.7 km",
+    "d": "20.6 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance in kilometers of a receiver antenna with a height of 50 meters.",
+    "a": "17.0 km",
+    "b": "29.13 km",
+    "c": "25.24 km",
+    "d": "35.70 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance in kilometers between a transmitter antenna at a height of 144 meters and a receiver antenna at a height of 36 meters.",
+    "a": "41.2 km",
+    "b": "74.16 km",
+    "c": "64.24 km",
+    "d": "80.50 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance in kilometers between a transmitter antenna at a height of 100 meters and a receiver antenna at a height of 25 meters.",
+    "a": "41.2 km",
+    "b": "61.8 km",
+    "c": "51.5 km",
+    "d": "72.4 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the optical horizon distance in kilometers of a transmitter antenna with a height of 100 meters. Use the metric formula d = 3.57 * sqrt(h) in km.",
+    "a": "41.2 km",
+    "b": "35.7 km",
+    "c": "17.0 km",
+    "d": "25.2 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the optical horizon distance in miles of a transmitter antenna with a height of 100 feet. Use the standard formula d = 1.22 * sqrt(h) in miles.",
+    "a": "14.14 miles",
+    "b": "12.20 miles",
+    "c": "10.00 miles",
+    "d": "15.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in feet) of a transmitter antenna to achieve a radio horizon distance of exactly 20 miles. Use d = sqrt(2 * h).",
+    "a": "100 feet",
+    "b": "200 feet",
+    "c": "400 feet",
+    "d": "300 feet",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in meters) of a receiver antenna to achieve a radio horizon distance of exactly 30 kilometers. Use d = 4.12 * sqrt(h).",
+    "a": "25.0 meters",
+    "b": "53.0 meters",
+    "c": "72.8 meters",
+    "d": "45.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 15 km at an operating frequency of 2 GHz. Use FSPL = 32.44 + 20 * log(d_km) + 20 * log(f_MHz).",
+    "a": "102.44 dB",
+    "b": "122.00 dB",
+    "c": "112.44 dB",
+    "d": "132.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 25 km at an operating frequency of 6 GHz.",
+    "a": "122.44 dB",
+    "b": "135.94 dB",
+    "c": "125.92 dB",
+    "d": "145.92 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 50 km at an operating frequency of 10 GHz.",
+    "a": "132.44 dB",
+    "b": "146.42 dB",
+    "c": "136.42 dB",
+    "d": "156.42 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 1 km at an operating frequency of 150 MHz.",
+    "a": "52.44 dB",
+    "b": "75.96 dB",
+    "c": "65.96 dB",
+    "d": "85.96 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space electromagnetic power density (Pd) in Watts per square meter at a distance of 5 km from a transmitter radiating an EIRP of 100 Watts. Use Pd = EIRP / (4 * pi * d^2).",
+    "a": "3.18 x 10^-6 W/m^2",
+    "b": "3.18 x 10^-7 W/m^2",
+    "c": "3.18 x 10^-8 W/m^2",
+    "d": "3.18 x 10^-5 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space electromagnetic power density (Pd) in Watts per square meter at a distance of 10 km from a transmitter radiating an EIRP of 500 Watts.",
+    "a": "3.98 x 10^-7 W/m^2",
+    "b": "3.98 x 10^-8 W/m^2",
+    "c": "3.98 x 10^-6 W/m^2",
+    "d": "3.98 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space electromagnetic power density at a distance of 20 km from a transmitter radiating an EIRP of 1 kW.",
+    "a": "1.99 x 10^-7 W/m^2",
+    "b": "1.99 x 10^-8 W/m^2",
+    "c": "1.99 x 10^-6 W/m^2",
+    "d": "1.99 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electric field strength (E) in microvolts per meter at a distance of 10 km from a transmitter radiating an EIRP of 100 Watts in free space. Use E = sqrt(30 * EIRP) / d.",
+    "a": "1.73 uV/m",
+    "b": "5477 uV/m",
+    "c": "54.8 uV/m",
+    "d": "173.2 uV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electric field strength (E) in millivolts per meter at a distance of 5 km from a transmitter radiating an EIRP of 1 kW in free space.",
+    "a": "12.0 mV/m",
+    "b": "34.64 mV/m",
+    "c": "17.32 mV/m",
+    "d": "8.66 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electric field strength (E) in millivolts per meter at a distance of 20 km from a transmitter radiating an EIRP of 5 kW in free space.",
+    "a": "9.35 mV/m",
+    "b": "19.36 mV/m",
+    "c": "12.25 mV/m",
+    "d": "6.12 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "An RF transmitter has a power output of 50 Watts and is connected to an antenna with a gain of 12 dBi (absolute ratio 15.85). If line losses are neglected, calculate the free-space power density (Pd) at a distance of 15 km.",
+    "a": "2.80 x 10^-7 W/m^2",
+    "b": "2.80 x 10^-8 W/m^2",
+    "c": "2.80 x 10^-6 W/m^2",
+    "d": "2.80 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the RF transmitter system described in the previous question (EIRP = 792.5 Watts), calculate the electric field strength (E) in millivolts per meter at a distance of 15 km.",
+    "a": "1.54 mV/m",
+    "b": "10.28 mV/m",
+    "c": "3.25 mV/m",
+    "d": "5.14 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave line-of-sight link operates at 8 GHz over a distance of 30 km. If the transmitter power is 1 Watt (30 dBm) and both antennas have gains of 35 dBi, calculate the received power (Pr) in dBm. Use Pr_dBm = Pt_dBm + Gt_dBi + Gr_dBi - FSPL.",
+    "a": "-30.0 dBm",
+    "b": "-40.02 dBm",
+    "c": "-50.02 dBm",
+    "d": "-20.02 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the microwave link described in the previous question, calculate the received power (Pr) in Watts.",
+    "a": "1.0 x 10^-4 Watts",
+    "b": "9.95 x 10^-5 Watts",
+    "c": "1.0 x 10^-5 Watts",
+    "d": "9.95 x 10^-6 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter radiates a total power of 10 kW uniformly in all directions. Calculate the power density in Watts per square meter at a distance of 32 km.",
+    "a": "7.77 x 10^-6 W/m^2",
+    "b": "7.77 x 10^-7 W/m^2",
+    "c": "7.77 x 10^-8 W/m^2",
+    "d": "7.77 x 10^-5 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 1.5 x 10^12 electrons/m^3. Calculate its critical frequency (f_c) in MHz using f_c = 9 * sqrt(N_max).",
+    "a": "1.1 MHz",
+    "b": "11.02 MHz",
+    "c": "110.2 MHz",
+    "d": "22.04 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If the critical frequency of the F2 layer is measured as 12 MHz, what is the maximum usable frequency (MUF) for an incidence angle of 45 degrees relative to the normal?",
+    "a": "12.0 MHz",
+    "b": "16.97 MHz",
+    "c": "24.0 MHz",
+    "d": "8.48 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An HF sky wave signal has a critical frequency of 8 MHz. If the MUF between two locations is 16 MHz, calculate the required angle of incidence relative to the normal.",
+    "a": "30 degrees",
+    "b": "60 degrees",
+    "c": "45 degrees",
+    "d": "15 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the virtual height (h) of an ionospheric layer if the skip distance is 600 km and the angle of incidence relative to the normal is 30 degrees. Use D = 2 * h * tan(theta_i).",
+    "a": "300 km",
+    "b": "519.6 km",
+    "c": "259.8 km",
+    "d": "150.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the virtual height (h) of an ionospheric layer if the skip distance is 800 km and the angle of incidence relative to the normal is 45 degrees.",
+    "a": "800 km",
+    "b": "400 km",
+    "c": "200 km",
+    "d": "600 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the critical frequency of an ionospheric layer if the MUF is 25 MHz and the skip distance is 1000 km for a virtual height of 250 km. Use MUF = f_c * sqrt(1 + (D / (2 * h))^2).",
+    "a": "5.0 MHz",
+    "b": "11.18 MHz",
+    "c": "12.5 MHz",
+    "d": "15.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For the sky wave system described in the previous question (D = 1000 km, h = 250 km), calculate the angle of incidence (theta_i) relative to the normal.",
+    "a": "30 degrees",
+    "b": "63.43 degrees",
+    "c": "45 degrees",
+    "d": "75 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB of a direct line-of-sight wave over a 15 km link operating at a frequency of 450 MHz.",
+    "a": "89.02 dB",
+    "b": "109.00 dB",
+    "c": "99.02 dB",
+    "d": "119.02 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of an antenna mounted on a mast with a height of 64 feet above the ground. Use d = sqrt(2 * h).",
+    "a": "8.0 miles",
+    "b": "11.31 miles",
+    "c": "9.80 miles",
+    "d": "16.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of an antenna mounted on a mast with a height of 144 feet above the ground.",
+    "a": "12.0 miles",
+    "b": "16.97 miles",
+    "c": "14.64 miles",
+    "d": "24.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "The total physical distance between a transmitter and receiver is 35 miles. If the transmitter antenna is 200 feet high, calculate the minimum receiver antenna height (in feet) required to maintain a line-of-sight radio path. Use d_total = sqrt(2 * h_t) + sqrt(2 * h_r).",
+    "a": "50 feet",
+    "b": "112.5 feet",
+    "c": "75.0 feet",
+    "d": "150.0 feet",
+    "ans": "b"
+  },
+  {
+    "q": "The total physical distance between two microwave towers is 50 km. If the transmitter antenna is 100 meters high, calculate the minimum receiver antenna height (in meters) required to maintain a line-of-sight path. Use d_total = 4.12 * (sqrt(h_t) + sqrt(h_r)).",
+    "a": "10.0 meters",
+    "b": "4.57 meters",
+    "c": "15.2 meters",
+    "d": "25.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A mobile transceiver is located 15 km from a base station antenna tower. If the base station antenna height is 49 meters, calculate the minimum mobile antenna height (in meters) required to maintain line-of-sight. Use d = 4.12 * (sqrt(h_t) + sqrt(h_r)).",
+    "a": "2.0 meters",
+    "b": "1.18 meters",
+    "c": "4.0 meters",
+    "d": "0.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a 20-mile path at an operating frequency of 150 MHz. (Note: 20 miles = 32.19 km).",
+    "a": "86.12 dB",
+    "b": "106.11 dB",
+    "c": "96.11 dB",
+    "d": "116.11 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electromagnetic power density (Pd) in Watts per square meter at a distance of 50 km from an isotropic antenna radiating 1 kW in free space.",
+    "a": "3.18 x 10^-8 W/m^2",
+    "b": "3.18 x 10^-9 W/m^2",
+    "c": "3.18 x 10^-7 W/m^2",
+    "d": "3.18 x 10^-10 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the system described in the previous question (power density Pd = 3.18 x 10^-9 W/m^2), calculate the electric field strength (E) in microvolts per meter in free space. Use E = sqrt(Pd * 377).",
+    "a": "1.10 uV/m",
+    "b": "1095 uV/m",
+    "c": "54.8 uV/m",
+    "d": "547.7 uV/m",
+    "ans": "b"
+  },
+  {
+    "q": "An RF antenna operates at a frequency of 30 MHz. Calculate the power density at a distance of 10 km if the antenna gain is 6 dBi (absolute ratio 4) and the transmitter power is 100 Watts.",
+    "a": "3.18 x 10^-7 W/m^2",
+    "b": "3.18 x 10^-8 W/m^2",
+    "c": "3.18 x 10^-6 W/m^2",
+    "d": "3.18 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the system described in the previous question (Pd = 3.18 x 10^-7 W/m^2), calculate the electric field strength (E) in microvolts per meter. Use E = sqrt(Pd * 377).",
+    "a": "34.6 uV/m",
+    "b": "10.95 mV/m",
+    "c": "17.3 uV/m",
+    "d": "5.48 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "A parabolic dish antenna with a physical diameter of 2.0 meters operates at 10 GHz. Calculate the half-power beamwidth (-3 dB angle) of the antenna. Use Beamwidth = 70 * lambda / D.",
+    "a": "1.05 degrees",
+    "b": "1.05 radians",
+    "c": "2.10 degrees",
+    "d": "1.50 degrees",
+    "ans": "a"
+  },
+  {
+    "q": "A microwave transmitter has a power output of 2 Watts at 6 GHz. If it is connected to a parabolic dish antenna with a gain of 30 dBi, calculate the Effective Isotropic Radiated Power (EIRP) in Watts.",
+    "a": "20 Watts",
+    "b": "2000 Watts",
+    "c": "200 Watts",
+    "d": "20,000 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "For the microwave system described in the previous question (EIRP = 2000 Watts, frequency = 6 GHz), calculate the received power (Pr) in Watts at a distance of 25 km if the receiving antenna gain is 30 dBi.",
+    "a": "5.0 x 10^-6 Watts",
+    "b": "5.11 x 10^-7 Watts",
+    "c": "5.11 x 10^-6 Watts",
+    "d": "5.0 x 10^-7 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the received power in the previous question (Pr = 5.11 x 10^-7 Watts) to decibel-milliwatts (dBm).",
+    "a": "-30.0 dBm",
+    "b": "-32.91 dBm",
+    "c": "-25.92 dBm",
+    "d": "-40.00 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB for the 6 GHz 25 km path described in the previous questions.",
+    "a": "122.44 dB",
+    "b": "135.92 dB",
+    "c": "125.92 dB",
+    "d": "145.92 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a refractive index of 0.8 at an operating frequency of 15 MHz. Calculate the local electron density (N) in electrons per cubic meter. Use n^2 = 1 - (81 * N) / f^2 with f in Hz.",
+    "a": "1.0 x 10^11 electrons/m^3",
+    "b": "1.0 x 10^12 electrons/m^3",
+    "c": "1.0 x 10^13 electrons/m^3",
+    "d": "1.0 x 10^10 electrons/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a refractive index of 0.6 at an operating frequency of 10 MHz. Calculate the local electron density (N) in electrons per cubic meter.",
+    "a": "7.90 x 10^11 electrons/m^3",
+    "b": "7.90 x 10^12 electrons/m^3",
+    "c": "7.90 x 10^10 electrons/m^3",
+    "d": "7.90 x 10^13 electrons/m^3",
+    "ans": "a"
+  },
+  {
+    "q": "A radio wave is incident on an ionospheric layer with an angle of 30 degrees relative to the normal. If the critical frequency is 6 MHz, find the Maximum Usable Frequency (MUF).",
+    "a": "12.0 MHz",
+    "b": "6.93 MHz",
+    "c": "8.48 MHz",
+    "d": "5.20 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If the virtual height of the ionospheric F layer is 200 km, and the angle of incidence relative to the normal is 45 degrees, find the skip distance.",
+    "a": "200 km",
+    "b": "400 km",
+    "c": "100 km",
+    "d": "600 km",
+    "ans": "b"
+  },
+  {
+    "q": "If the skip distance is measured at 500 km and the virtual height of the layer is 250 km, find the angle of incidence relative to the normal.",
+    "a": "30 degrees",
+    "b": "45 degrees",
+    "c": "60 degrees",
+    "d": "15 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the critical frequency of an ionospheric layer if the MUF is 15 MHz and the angle of incidence is 60 degrees relative to the normal.",
+    "a": "13.0 MHz",
+    "b": "7.5 MHz",
+    "c": "10.0 MHz",
+    "d": "5.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A radio wave operates at 30 MHz. If the maximum electron density of the ionospheric layer is 10^11 electrons/m^3, calculate the refractive index (n) of the layer.",
+    "a": "0.99",
+    "b": "0.995",
+    "c": "0.950",
+    "d": "0.900",
+    "ans": "b"
+  },
+  {
+    "q": "A radio wave operates at 15 MHz. If the maximum electron density of the ionospheric layer is 2 x 10^11 electrons/m^3, calculate the refractive index (n).",
+    "a": "0.98",
+    "b": "0.963",
+    "c": "0.900",
+    "d": "0.925",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the optical horizon distance of an antenna with a height of 144 feet. Use d = 1.22 * sqrt(h) in miles.",
+    "a": "12.0 miles",
+    "b": "14.64 miles",
+    "c": "16.97 miles",
+    "d": "10.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the optical horizon distance of an antenna with a height of 64 feet.",
+    "a": "8.00 miles",
+    "b": "9.76 miles",
+    "c": "11.31 miles",
+    "d": "6.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight optical distance (in miles) between a transmitter antenna at a height of 144 feet and a receiver antenna at a height of 64 feet.",
+    "a": "20.00 miles",
+    "b": "24.40 miles",
+    "c": "28.28 miles",
+    "d": "15.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance (in miles) between a transmitter antenna at a height of 144 feet and a receiver antenna at a height of 64 feet. Use d_radio = sqrt(2 * h_t) + sqrt(2 * h_r).",
+    "a": "24.00 miles",
+    "b": "28.28 miles",
+    "c": "20.00 miles",
+    "d": "32.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance in kilometers of a transmitter antenna with a height of 150 meters. Use d = 4.12 * sqrt(h).",
+    "a": "35.70 km",
+    "b": "50.46 km",
+    "c": "41.20 km",
+    "d": "61.80 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance in kilometers of a receiver antenna with a height of 75 meters.",
+    "a": "25.24 km",
+    "b": "35.68 km",
+    "c": "30.90 km",
+    "d": "45.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum line-of-sight radio distance in kilometers between a transmitter antenna at a height of 150 meters and a receiver antenna at a height of 75 meters.",
+    "a": "61.80 km",
+    "b": "86.14 km",
+    "c": "72.40 km",
+    "d": "95.50 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in meters) of a transmitter antenna to achieve a radio horizon distance of exactly 50 kilometers. Use d = 4.12 * sqrt(h).",
+    "a": "100.0 meters",
+    "b": "147.3 meters",
+    "c": "121.36 meters",
+    "d": "150.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in meters) of a receiver antenna to achieve a radio horizon distance of exactly 25 kilometers.",
+    "a": "25.0 meters",
+    "b": "36.8 meters",
+    "c": "30.3 meters",
+    "d": "45.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in feet) of a transmitter antenna to achieve a radio horizon distance of exactly 30 miles. Use d = sqrt(2 * h).",
+    "a": "300 feet",
+    "b": "450 feet",
+    "c": "900 feet",
+    "d": "600 feet",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the required height (in feet) of a receiver antenna to achieve a radio horizon distance of exactly 15 miles.",
+    "a": "75 feet",
+    "b": "112.5 feet",
+    "c": "225 feet",
+    "d": "150 feet",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 30 km at an operating frequency of 5 GHz. Use FSPL = 32.44 + 20 * log(d_km) + 20 * log(f_MHz).",
+    "a": "115.96 dB",
+    "b": "135.94 dB",
+    "c": "125.94 dB",
+    "d": "145.94 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 40 km at an operating frequency of 8 GHz.",
+    "a": "132.44 dB",
+    "b": "142.50 dB",
+    "c": "138.46 dB",
+    "d": "152.52 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a distance of 100 km at an operating frequency of 12 GHz.",
+    "a": "142.44 dB",
+    "b": "154.00 dB",
+    "c": "148.06 dB",
+    "d": "164.02 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space power density (Pd) in Watts per square meter at a distance of 20 km from a transmitter radiating an EIRP of 2 kW. Use Pd = EIRP / (4 * pi * d^2).",
+    "a": "3.98 x 10^-6 W/m^2",
+    "b": "3.98 x 10^-7 W/m^2",
+    "c": "3.98 x 10^-5 W/m^2",
+    "d": "3.98 x 10^-8 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space power density (Pd) in Watts per square meter at a distance of 30 km from a transmitter radiating an EIRP of 5 kW.",
+    "a": "4.42 x 10^-6 W/m^2",
+    "b": "4.42 x 10^-7 W/m^2",
+    "c": "4.42 x 10^-5 W/m^2",
+    "d": "4.42 x 10^-8 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electric field strength (E) in millivolts per meter at a distance of 5 km from a transmitter radiating an EIRP of 500 Watts in free space.",
+    "a": "1.22 mV/m",
+    "b": "24.49 mV/m",
+    "c": "12.25 mV/m",
+    "d": "6.12 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electric field strength (E) in millivolts per meter at a distance of 15 km from a transmitter radiating an EIRP of 2 kW in free space.",
+    "a": "8.16 mV/m",
+    "b": "16.33 mV/m",
+    "c": "11.55 mV/m",
+    "d": "5.77 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "An RF transmitter has a power output of 100 Watts and is connected to an antenna with a gain of 15 dBi (absolute ratio 31.62). If line losses are neglected, calculate the free-space power density (Pd) at a distance of 25 km.",
+    "a": "4.03 x 10^-7 W/m^2",
+    "b": "4.03 x 10^-8 W/m^2",
+    "c": "4.03 x 10^-6 W/m^2",
+    "d": "4.03 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the RF transmitter system described in the previous question (EIRP = 3162 Watts), calculate the electric field strength (E) in millivolts per meter at a distance of 25 km.",
+    "a": "1.95 mV/m",
+    "b": "12.32 mV/m",
+    "c": "3.90 mV/m",
+    "d": "6.16 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave line-of-sight link operates at 10 GHz over a distance of 40 km. If the transmitter power is 2 Watts (33 dBm) and both antennas have gains of 40 dBi (absolute ratio 10,000), calculate the received power (Pr) in Watts. Use Friis transmission equation Pr = Pt * Gt * Gr * (lambda / (4 * pi * d))^2.",
+    "a": "1.14 x 10^-4 Watts",
+    "b": "1.14 x 10^-5 Watts",
+    "c": "1.14 x 10^-6 Watts",
+    "d": "1.14 x 10^-3 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the received power in the previous question (Pr = 1.14 x 10^-5 Watts) to decibel-milliwatts (dBm).",
+    "a": "-15.00 dBm",
+    "b": "-19.43 dBm",
+    "c": "-25.00 dBm",
+    "d": "-10.00 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB for the 10 GHz 40 km path described in the previous questions.",
+    "a": "132.44 dB",
+    "b": "144.48 dB",
+    "c": "138.46 dB",
+    "d": "154.48 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter radiates a total power of 50 kW uniformly in all directions. Calculate the power density in Watts per square meter at a distance of 15 km.",
+    "a": "1.77 x 10^-5 W/m^2",
+    "b": "1.77 x 10^-6 W/m^2",
+    "c": "1.77 x 10^-7 W/m^2",
+    "d": "1.77 x 10^-4 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An ionospheric layer has a maximum electron density of 2.5 x 10^12 electrons/m^3. Calculate its critical frequency (f_c) in MHz.",
+    "a": "1.4 MHz",
+    "b": "14.23 MHz",
+    "c": "142.3 MHz",
+    "d": "28.46 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If the critical frequency of the F2 layer is measured as 15 MHz, what is the maximum usable frequency (MUF) for an incidence angle of 60 degrees relative to the normal?",
+    "a": "15.0 MHz",
+    "b": "30.0 MHz",
+    "c": "25.98 MHz",
+    "d": "10.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An HF sky wave signal has a critical frequency of 10 MHz. If the MUF between two locations is 20 MHz, calculate the required angle of incidence relative to the normal.",
+    "a": "30 degrees",
+    "b": "60 degrees",
+    "c": "45 degrees",
+    "d": "15 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the virtual height (h) of an ionospheric layer if the skip distance is 800 km and the angle of incidence relative to the normal is 30 degrees.",
+    "a": "400 km",
+    "b": "692.82 km",
+    "c": "346.41 km",
+    "d": "200.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the virtual height (h) of an ionospheric layer if the skip distance is 1000 km and the angle of incidence relative to the normal is 45 degrees.",
+    "a": "1000 km",
+    "b": "500 km",
+    "c": "250 km",
+    "d": "750 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the critical frequency of an ionospheric layer if the MUF is 30 MHz and the skip distance is 1200 km for a virtual height of 300 km.",
+    "a": "10.0 MHz",
+    "b": "13.42 MHz",
+    "c": "15.0 MHz",
+    "d": "20.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For the sky wave system described in the previous question (D = 1200 km, h = 300 km), calculate the angle of incidence (theta_i) relative to the normal.",
+    "a": "30 degrees",
+    "b": "63.43 degrees",
+    "c": "45 degrees",
+    "d": "75 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB of a direct line-of-sight wave over a 20 km link operating at a frequency of 900 MHz.",
+    "a": "97.56 dB",
+    "b": "117.54 dB",
+    "c": "107.52 dB",
+    "d": "127.52 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of an antenna mounted on a mast with a height of 100 feet above the ground. Use d = sqrt(2 * h).",
+    "a": "10.0 miles",
+    "b": "14.14 miles",
+    "c": "12.25 miles",
+    "d": "20.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the radio horizon distance (in miles) of an antenna mounted on a mast with a height of 225 feet above the ground.",
+    "a": "15.0 miles",
+    "b": "21.21 miles",
+    "c": "18.37 miles",
+    "d": "30.0 miles",
+    "ans": "b"
+  },
+  {
+    "q": "The total physical distance between a transmitter and receiver is 45 miles. If the transmitter antenna is 250 feet high, calculate the minimum receiver antenna height (in feet) required to maintain a line-of-sight radio path. Use d_total = sqrt(2 * h_t) + sqrt(2 * h_r).",
+    "a": "100 feet",
+    "b": "112.5 feet",
+    "c": "125.0 feet",
+    "d": "150.0 feet",
+    "ans": "b"
+  },
+  {
+    "q": "The total physical distance between two microwave towers is 75 km. If the transmitter antenna is 150 meters high, calculate the minimum receiver antenna height (in meters) required to maintain a line-of-sight path. Use d_total = 4.12 * (sqrt(h_t) + sqrt(h_r)).",
+    "a": "20.0 meters",
+    "b": "36.2 meters",
+    "c": "45.0 meters",
+    "d": "50.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A mobile transceiver is located 20 km from a base station antenna tower. If the base station antenna height is 64 meters, what is the minimum mobile antenna height required to maintain a line-of-sight link?",
+    "a": "4.0 meters",
+    "b": "2.44 meters",
+    "c": "5.5 meters",
+    "d": "1.2 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the free-space path loss (FSPL) in dB over a 50-mile path at an operating frequency of 450 MHz. (Note: 50 miles = 80.47 km).",
+    "a": "103.52 dB",
+    "b": "123.60 dB",
+    "c": "113.60 dB",
+    "d": "133.60 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electromagnetic power density (Pd) in Watts per square meter at a distance of 100 km from an isotropic antenna radiating 10 kW in free space.",
+    "a": "7.96 x 10^-8 W/m^2",
+    "b": "7.96 x 10^-9 W/m^2",
+    "c": "7.96 x 10^-7 W/m^2",
+    "d": "7.96 x 10^-10 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the system described in the previous question (power density Pd = 7.96 x 10^-9 W/m^2), calculate the electric field strength (E) in microvolts per meter in free space. Use E = sqrt(Pd * 377).",
+    "a": "1.73 uV/m",
+    "b": "1732 uV/m",
+    "c": "54.8 uV/m",
+    "d": "547.7 uV/m",
+    "ans": "b"
+  },
+  {
+    "q": "An RF antenna operates at a frequency of 150 MHz. Calculate the power density at a distance of 25 km if the antenna gain is 10 dBi (absolute ratio 10) and the transmitter power is 500 Watts.",
+    "a": "6.37 x 10^-7 W/m^2",
+    "b": "6.37 x 10^-8 W/m^2",
+    "c": "6.37 x 10^-6 W/m^2",
+    "d": "6.37 x 10^-9 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "For the system described in the previous question (Pd = 6.37 x 10^-8 W/m^2), calculate the electric field strength (E) in millivolts per meter. Use E = sqrt(Pd * 377).",
+    "a": "2.45 mV/m",
+    "b": "4.90 mV/m",
+    "c": "3.50 mV/m",
+    "d": "1.75 mV/m",
+    "ans": "b"
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "q": "What type of mechanical wave is a sound wave as it propagates through a gaseous medium?",
+    "a": "Longitudinal wave",
+    "b": "Transverse wave",
+    "c": "Electromagnetic wave",
+    "d": "Surface shear wave",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the subjective sensation that corresponds to the physical frequency of a sound wave?",
+    "a": "Timber",
+    "b": "Loudness",
+    "c": "Pitch",
+    "d": "Decibel",
+    "ans": "c"
+  },
+  {
+    "q": "What is the subjective acoustic unit of pitch?",
+    "a": "Mel",
+    "b": "Phon",
+    "c": "Sone",
+    "d": "Decibel",
+    "ans": "a"
+  },
+  {
+    "q": "What is the subjective acoustic unit of loudness?",
+    "a": "Sone",
+    "b": "Phon",
+    "c": "Mel",
+    "d": "Sabine",
+    "ans": "a"
+  },
+  {
+    "q": "What is the logarithmic unit used to describe subjective loudness levels relative to a 1 kHz reference tone?",
+    "a": "Phon",
+    "b": "Sone",
+    "c": "Mel",
+    "d": "dBA",
+    "ans": "a"
+  },
+  {
+    "q": "What frequency range is universally accepted as the standard limit of human hearing sensitivity?",
+    "a": "20 Hz to 20,000 Hz",
+    "b": "10 Hz to 10,000 Hz",
+    "c": "100 Hz to 15,000 Hz",
+    "d": "50 Hz to 25,000 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Sound waves with a frequency below the lower threshold of human hearing are classified as _____.",
+    "a": "Infrasonic",
+    "b": "Ultrasonic",
+    "c": "Supersonic",
+    "d": "Hypersonic",
+    "ans": "a"
+  },
+  {
+    "q": "Sound waves with a frequency above the upper limit of human hearing are classified as _____.",
+    "a": "Ultrasonic",
+    "b": "Infrasonic",
+    "c": "Subsonic",
+    "d": "Audible",
+    "ans": "a"
+  },
+  {
+    "q": "What physical parameter of a sound wave primarily determines its subjective loudness?",
+    "a": "Frequency",
+    "b": "Phase angle",
+    "c": "Amplitude or Intensity",
+    "d": "Wavelength",
+    "ans": "c"
+  },
+  {
+    "q": "What physical property of a sound wave is responsible for its quality, commonly referred to as timber?",
+    "a": "Phase velocity",
+    "b": "Fundamental frequency",
+    "c": "Harmonic content and envelope shape",
+    "d": "Peak pressure amplitude",
+    "ans": "c"
+  },
+  {
+    "q": "What is the accepted standard reference sound intensity level (I0) representing the threshold of human hearing?",
+    "a": "10^-12 Watts per square meter",
+    "b": "10^-16 Watts per square meter",
+    "c": "10^-10 Watts per square meter",
+    "d": "10^-6 Watts per square meter",
+    "ans": "a"
+  },
+  {
+    "q": "What is the accepted standard reference sound pressure level (P0) representing the threshold of human hearing?",
+    "a": "2 x 10^-5 Pascals",
+    "b": "2 x 10^-4 Pascals",
+    "c": "1 x 10^-6 Pascals",
+    "d": "1 x 10^-5 Pascals",
+    "ans": "a"
+  },
+  {
+    "q": "What represents the typical sound pressure level (SPL) associated with the human threshold of pain?",
+    "a": "120 to 130 dBSPL",
+    "b": "80 to 90 dBSPL",
+    "c": "40 to 50 dBSPL",
+    "d": "160 to 170 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "In acoustics, an interval representing a frequency ratio of 2:1 is called a(n) _____.",
+    "a": "Decade",
+    "b": "Octave",
+    "c": "Semitone",
+    "d": "Cent",
+    "ans": "b"
+  },
+  {
+    "q": "In acoustics, an interval representing a frequency ratio of 10:1 is called a(n) _____.",
+    "a": "Octave",
+    "b": "Decade",
+    "c": "Harmonic",
+    "d": "Sone",
+    "ans": "b"
+  },
+  {
+    "q": "Who developed the landmark equal-loudness contours that describe how the human ear perceives different frequencies at different levels?",
+    "a": "Fletcher and Munson",
+    "b": "Wallace Sabine",
+    "c": "Harry Nyquist",
+    "d": "Claude Shannon",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary coordinate pattern shape associated with a cardioid microphone?",
+    "a": "Heart-shaped",
+    "b": "Spherical",
+    "c": "Figure-eight",
+    "d": "Dumbbell-shaped",
+    "ans": "a"
+  },
+  {
+    "q": "What polar directional response is characteristic of a bi-directional microphone?",
+    "a": "Figure-eight pattern",
+    "b": "Cardioid pattern",
+    "c": "Omnidirectional pattern",
+    "d": "Supercardioid pattern",
+    "ans": "a"
+  },
+  {
+    "q": "What directional polar pattern picks up sound equally from all physical directions?",
+    "a": "Omnidirectional",
+    "b": "Cardioid",
+    "c": "Supercardioid",
+    "d": "Hypercardioid",
+    "ans": "a"
+  },
+  {
+    "q": "Which microphone operating principle is based on changing electrical capacitance between a moving diaphragm and a fixed backplate?",
+    "a": "Dynamic",
+    "b": "Ribbon",
+    "c": "Condenser",
+    "d": "Crystal",
+    "ans": "c"
+  },
+  {
+    "q": "Which microphone type operates using the principle of electromagnetic induction where a voice coil moves within a permanent magnetic field?",
+    "a": "Condenser",
+    "b": "Dynamic",
+    "c": "Crystal",
+    "d": "Carbon",
+    "ans": "b"
+  },
+  {
+    "q": "What type of microphone is based on the piezoelectric effect, where mechanical stress on a material produces an electrical signal?",
+    "a": "Dynamic",
+    "b": "Condenser",
+    "c": "Crystal",
+    "d": "Ribbon",
+    "ans": "c"
+  },
+  {
+    "q": "Which microphone requires a continuous external DC power supply (historically used in early telephony networks)?",
+    "a": "Dynamic microphone",
+    "b": "Ribbon microphone",
+    "c": "Carbon microphone",
+    "d": "Crystal microphone",
+    "ans": "c"
+  },
+  {
+    "q": "What is the standard phantom power voltage typically supplied to condenser microphones in professional audio systems?",
+    "a": "+48 VDC",
+    "b": "+5 VDC",
+    "c": "+12 VDC",
+    "d": "+120 VDC",
+    "ans": "a"
+  },
+  {
+    "q": "The proximity effect, which causes an emphasis on low-frequency responses when a source is placed close to a microphone, occurs in which microphone category?",
+    "a": "Directional (pressure-gradient) microphones",
+    "b": "Omnidirectional (pressure-operated) microphones",
+    "c": "All acoustic transducers without exception",
+    "d": "Crystal contact transducers only",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary function of a loudspeaker baffle?",
+    "a": "To prevent the front and rear acoustic waves of a speaker from canceling each other out",
+    "b": "To match the electrical impedance of the amplifier output stage",
+    "c": "To filter out high frequency electrical noise from the power supply",
+    "d": "To direct high-pitch sounds directly at the listener",
+    "ans": "a"
+  },
+  {
+    "q": "What is the passive or active circuit that splits an audio signal into multiple frequency bands for routing to specific speaker drivers?",
+    "a": "Equalizer",
+    "b": "Crossover network",
+    "c": "Attenuator",
+    "d": "Squelch filter",
+    "ans": "b"
+  },
+  {
+    "q": "What category of speaker driver is specifically designed to optimize low-frequency sound reproduction?",
+    "a": "Tweeter",
+    "b": "Woofer",
+    "c": "Midrange",
+    "d": "Horn",
+    "ans": "b"
+  },
+  {
+    "q": "What category of speaker driver is designed to optimize high-frequency sound reproduction?",
+    "a": "Tweeter",
+    "b": "Woofer",
+    "c": "Midrange",
+    "d": "Baffle",
+    "ans": "a"
+  },
+  {
+    "q": "What type of loudspeaker enclosure is completely sealed to trap the rear acoustic wave of the driver?",
+    "a": "Bass reflex",
+    "b": "Acoustic suspension",
+    "c": "Infinite baffle",
+    "d": "Horn loaded",
+    "ans": "b"
+  },
+  {
+    "q": "What type of loudspeaker enclosure includes a tuned port or duct to reinforce low-frequency response using the rear acoustic wave?",
+    "a": "Acoustic suspension",
+    "b": "Bass reflex (vented/ported)",
+    "c": "Sealed enclosure",
+    "d": "Flat panel board",
+    "ans": "b"
+  },
+  {
+    "q": "How is the reverberation time RT60 defined in room acoustics?",
+    "a": "The time required for the sound pressure level to decrease by 60 dB after the sound source stops",
+    "b": "The time required for the sound source to reach 60% of its peak intensity",
+    "c": "The duration of early sound reflections up to 60 milliseconds",
+    "d": "The time sound takes to travel 60 meters in an enclosed hall",
+    "ans": "a"
+  },
+  {
+    "q": "What is the unit of sound absorption coefficient representing a completely open window or perfect absorber?",
+    "a": "Sone",
+    "b": "Sabine",
+    "c": "Phon",
+    "d": "Hertz",
+    "ans": "b"
+  },
+  {
+    "q": "What absorption coefficient represents a surface that is a perfect reflector of acoustic energy?",
+    "a": "0.0",
+    "b": "1.0",
+    "c": "0.5",
+    "d": "10.0",
+    "ans": "a"
+  },
+  {
+    "q": "What acoustic phenomenon is caused by rapid, successive sound reflections between parallel, highly reflective walls?",
+    "a": "Flutter echo",
+    "b": "Flutter distortion",
+    "c": "Directivity shift",
+    "d": "Haas dispersion",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a room designed specifically with highly sound-absorbent walls, ceiling, and floor to simulate an reflection-free environment?",
+    "a": "Anechoic chamber",
+    "b": "Reverberation chamber",
+    "c": "Symmetrical theater",
+    "d": "Baffled corridor",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a room constructed with highly reflective surfaces to maximize sound reflection and reverberation?",
+    "a": "Reverberation chamber",
+    "b": "Anechoic chamber",
+    "c": "Baffled studio",
+    "d": "Damped enclosure",
+    "ans": "a"
+  },
+  {
+    "q": "Which type of noise has a flat, constant power spectral density across the entire audible frequency spectrum?",
+    "a": "White noise",
+    "b": "Pink noise",
+    "c": "Blue noise",
+    "d": "Brown noise",
+    "ans": "a"
+  },
+  {
+    "q": "Which type of noise has a power spectral density that decreases by 3 dB per octave, providing equal energy per octave band?",
+    "a": "White noise",
+    "b": "Pink noise",
+    "c": "Blue noise",
+    "d": "Violet noise",
+    "ans": "b"
+  },
+  {
+    "q": "What index rating is used to evaluate the sound-insulating properties of building partitions like walls, doors, and windows?",
+    "a": "Sound Transmission Class (STC)",
+    "b": "Noise Criteria (NC)",
+    "c": "Reverberation Coefficient (RC)",
+    "d": "Directivity Index (DI)",
+    "ans": "a"
+  },
+  {
+    "q": "What family of curves is used in noise control to specify the maximum permissible continuous background noise level inside an office or room?",
+    "a": "Noise Criteria (NC) curves",
+    "b": "Fletcher-Munson curves",
+    "c": "Sabine absorption curves",
+    "d": "Nyquist response curves",
+    "ans": "a"
+  },
+  {
+    "q": "According to the inverse square law of sound propagation, how much does the sound pressure level drop for each doubling of distance in a free field?",
+    "a": "3 dB",
+    "b": "6 dB",
+    "c": "9 dB",
+    "d": "12 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Under the precedence effect (Haas effect), what is the approximate time window within which the first arriving sound wave completely dominates sound localization?",
+    "a": "5 to 40 ms",
+    "b": "100 to 200 ms",
+    "c": "1 to 2 seconds",
+    "d": "0.1 to 0.5 ms",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for the auditory phenomenon where a louder sound makes a quieter, closely timed sound temporarily inaudible?",
+    "aMask": "Auditory masking",
+    "b": "Haas attenuation",
+    "c": "Precedence damping",
+    "d": "Timber absorption",
+    "ans": "a"
+  },
+  {
+    "q": "The physical speed of a sound wave is completely independent of which parameter?",
+    "a": "The temperature of the medium",
+    "b": "The density of the medium",
+    "c": "The frequency of the sound wave",
+    "d": "The humidity of the air",
+    "ans": "c"
+  },
+  {
+    "q": "In which of the following media does sound propagate at the fastest physical velocity?",
+    "a": "Air at 20°C",
+    "b": "Fresh water",
+    "c": "Steel",
+    "d": "Vacuum",
+    "ans": "c"
+  },
+  {
+    "q": "What occurs to sound waves when they pass from a less dense medium (like air) into a denser medium (like water)?",
+    "a": "They speed up and their wavelength increases",
+    "b": "They slow down and their wavelength decreases",
+    "c": "Their frequency increases while wavelength stays constant",
+    "d": "Their frequency decreases while velocity stays constant",
+    "ans": "a"
+  },
+  {
+    "q": "What is the resonant wave behaviour called when sound waves bend around obstacles or through narrow door openings?",
+    "a": "Refraction",
+    "b": "Reflection",
+    "c": "Diffraction",
+    "d": "Absorption",
+    "ans": "c"
+  },
+  {
+    "q": "What is the acoustic device placed over a microphone in outdoor settings to minimize low-frequency rumble caused by air turbulence?",
+    "a": "Windscreen",
+    "b": "Pop filter",
+    "c": "Shock mount",
+    "d": "Dynamic shield",
+    "ans": "a"
+  },
+  {
+    "q": "What studio accessory is placed between a singer and a microphone to prevent explosive breath sounds (plosives) from clipping the element?",
+    "a": "Pop filter",
+    "b": "Windscreen",
+    "c": "Acoustic baffle",
+    "d": "Bass trap",
+    "ans": "a"
+  },
+  {
+    "q": "What is the physical term for the ratio of acoustic sound pressure to the acoustic volume flow rate?",
+    "a": "Acoustic impedance",
+    "b": "Acoustic intensity",
+    "c": "Directivity index",
+    "d": "Reverberation constant",
+    "ans": "a"
+  },
+  {
+    "q": "What structure of the human ear acts as a mechanical transformer to convert sound pressure waves in air into fluid vibrations in the inner ear?",
+    "a": "Tympanic membrane and ossicles",
+    "b": "Cochlea and hair cells",
+    "c": "Auditory nerve",
+    "d": "Pinna and ear canal",
+    "ans": "a"
+  },
+  {
+    "q": "Which part of the inner ear contains the microscopic hair cells that act as the sensory receptors for auditory frequency analysis?",
+    "a": "Ossicles",
+    "b": "Cochlea",
+    "c": "Eustachian tube",
+    "d": "Pinna",
+    "ans": "b"
+  },
+  {
+    "q": "The ear canal (auditory meatus) behaves acoustically as a pipe closed at one end. Around what frequency range does it exhibit its primary acoustic resonance, making human hearing highly sensitive here?",
+    "a": "2 kHz to 4 kHz",
+    "b": "100 Hz to 200 Hz",
+    "c": "10 kHz to 12 kHz",
+    "d": "20 Hz to 50 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the acoustic feedback loop that occurs when a microphone picks up sound from a loudspeaker and feeds it back through the amplifier?",
+    "a": "Acoustic howl or feedback",
+    "b": "Comb filtering",
+    "c": "Haas echo",
+    "d": "Squelch noise",
+    "ans": "a"
+  },
+  {
+    "q": "What type of filtering effect is created when a direct sound is mixed with its own slightly delayed reflection, producing deep notches in the frequency response?",
+    "a": "Comb filtering",
+    "b": "Bandpass filtering",
+    "c": "High-pass filtering",
+    "d": "Butterworth attenuation",
+    "ans": "a"
+  },
+  {
+    "q": "The total acoustic power radiated by a sound source in all directions is described by what parameter?",
+    "a": "Sound Power Level (PWL)",
+    "b": "Sound Pressure Level (SPL)",
+    "c": "Sound Intensity Level (SIL)",
+    "d": "Loudness level",
+    "ans": "a"
+  },
+  {
+    "q": "What is the critical distance in room acoustics?",
+    "a": "The distance from the source where the direct sound pressure level equals the reverberant sound pressure level",
+    "b": "The maximum distance at which a speaker can be heard clearly",
+    "c": "The minimum distance between parallel reflective walls to avoid standing waves",
+    "d": "The distance a sound wave travels in 60 milliseconds",
+    "ans": "a"
+  },
+  {
+    "q": "What is the dynamic range of human hearing from the threshold of hearing to the threshold of pain in decibels?",
+    "a": "120 dB to 130 dB",
+    "b": "50 dB to 60 dB",
+    "c": "80 dB to 90 dB",
+    "d": "150 dB to 180 dB",
+    "ans": "a"
+  },
+  {
+    "q": "What is a major advantage of dynamic microphones over condenser microphones?",
+    "a": "They do not require external power and are physically highly durable",
+    "b": "They have a much flatter frequency response into the ultrasonic range",
+    "c": "They have much higher output voltage sensitivities",
+    "d": "They have completely variable directional patterns",
+    "ans": "a"
+  },
+  {
+    "q": "What is a major advantage of condenser microphones over dynamic microphones?",
+    "a": "Excellent transient response and superior high-frequency sensitivity",
+    "b": "They do not require any preamplifiers",
+    "c": "They are completely immune to humidity and dust",
+    "d": "They are much less expensive to manufacture",
+    "ans": "a"
+  },
+  {
+    "q": "Which type of loudspeaker driver enclosure uses a passive bass-boosting port but contains no actual electrical driver in that port?",
+    "a": "Bass reflex with passive radiator",
+    "b": "Acoustic suspension box",
+    "c": "Standard sealed partition",
+    "d": "Horn baffle design",
+    "ans": "a"
+  },
+  {
+    "q": "What audio component rating describes the decibel sound pressure level produced at a distance of 1 meter when driven by 1 Watt of electrical power?",
+    "a": "Loudspeaker sensitivity",
+    "b": "Directivity index",
+    "c": "Loudspeaker efficiency",
+    "d": "Crossover cutoff",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for low-frequency sound absorbent devices placed specifically in room corners to damp low-frequency standing waves?",
+    "a": "Bass traps",
+    "b": "Diffusers",
+    "c": "Baffles",
+    "d": "Anechoic blocks",
+    "ans": "a"
+  },
+  {
+    "q": "What device is used in architectural acoustics to scatter sound reflections in multiple directions rather than absorbing them?",
+    "a": "Sound diffuser",
+    "b": "Bass trap",
+    "c": "Pop filter",
+    "d": "Anechoic wedge",
+    "ans": "a"
+  },
+  {
+    "q": "In a sound level meter, which weighting filter is designed to approximate the frequency response of the human ear at low sound levels (40 phons)?",
+    "a": "A-weighting",
+    "b": "B-weighting",
+    "c": "C-weighting",
+    "d": "Z-weighting (flat)",
+    "ans": "a"
+  },
+  {
+    "q": "In a sound level meter, which weighting filter is designed to approximate the frequency response of the human ear at very high sound levels (flat response)?",
+    "a": "C-weighting",
+    "b": "A-weighting",
+    "c": "B-weighting",
+    "d": "D-weighting",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is true for sound waves travelling in a solid compared to a gas?",
+    "a": "Sound travels faster in solids because of their higher elastic modulus",
+    "b": "Sound travels slower in solids due to higher density",
+    "c": "Sound cannot propagate through solid materials",
+    "d": "Sound travels at the same speed but experiences refraction",
+    "ans": "a"
+  },
+  {
+    "q": "What is the fundamental physical parameter of sound that does not change as a sound wave transitions from one medium to another?",
+    "a": "Frequency",
+    "b": "Velocity",
+    "c": "Wavelength",
+    "d": "Pressure amplitude",
+    "ans": "a"
+  },
+  {
+    "q": "The dynamic range of an audio component is defined as the decibel ratio between which two limits?",
+    "a": "The maximum undistorted output signal and the noise floor",
+    "b": "The lowest frequency and highest frequency of the band",
+    "c": "The input power and the output power of the driver",
+    "d": "The direct sound and the reverberant sound level",
+    "ans": "a"
+  },
+  {
+    "q": "What is the safety margin in audio engineering between the nominal operating level and the point where signal clipping begins?",
+    "a": "Headroom",
+    "b": "Noise floor",
+    "c": "Dynamic ceiling",
+    "d": "Fidelity index",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for the spatial separation of sound sources perceived by a listener using both ears?",
+    "a": "Acoustic localization",
+    "b": "comb filtering",
+    "c": "temporal masking",
+    "d": "critical bandwidth",
+    "ans": "a"
+  },
+  {
+    "q": "Which scale represents equal divisions of auditory pitch perception, established by testing human subjects?",
+    "a": "Mel scale",
+    "b": "Sone scale",
+    "c": "Phon scale",
+    "d": "Decibel scale",
+    "ans": "a"
+  },
+  {
+    "q": "What happens to the perceived loudness of a 1 kHz tone when its intensity is increased by 10 dB?",
+    "a": "Its perceived loudness is approximately doubled",
+    "b": "Its perceived loudness remains exactly the same",
+    "c": "Its perceived loudness is quadrupled",
+    "d": "Its perceived loudness increases ten-fold",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the ratio of the sound intensity in the direction of maximum radiation to the intensity averaged over all directions?",
+    "a": "Directivity Factor (Q)",
+    "b": "Directivity Index (DI)",
+    "c": "Absorption coefficient",
+    "d": "Transmission loss",
+    "ans": "a"
+  },
+  {
+    "q": "In a 3-way loudspeaker cabinet, which driver reproduces middle-range frequencies (typically 500 Hz to 4 kHz)?",
+    "a": "Midrange driver",
+    "b": "Woofer",
+    "c": "Tweeter",
+    "d": "Subwoofer",
+    "ans": "a"
+  },
+  {
+    "q": "Which microphone category has a polar pattern with equal sensitivity at 0° and 180° but zero sensitivity at 90° and 270°?",
+    "a": "Bi-directional (Figure-8)",
+    "b": "Cardioid",
+    "c": "Omnidirectional",
+    "d": "Supercardioid",
+    "ans": "a"
+  },
+  {
+    "q": "What are the three mechanical bones of the middle ear called?",
+    "a": "Malleus, incus, and stapes",
+    "b": "Cochlea, vestibule, and tympanum",
+    "c": "Pinna, meatus, and canal",
+    "d": "Basilar, tectorial, and vestibular",
+    "ans": "a"
+  },
+  {
+    "q": "What does Wallace Sabine's formula primarily calculate in acoustics?",
+    "a": "The reverberation time of an enclosed room",
+    "b": "The resonant frequency of an open pipe",
+    "c": "The directional index of a dynamic speaker",
+    "d": "The inverse square law attenuation in air",
+    "ans": "a"
+  },
+  {
+    "q": "In infrasonic research, what is the upper-frequency limit of infrasound waves?",
+    "a": "20 Hz",
+    "b": "50 Hz",
+    "c": "100 Hz",
+    "d": "5 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the velocity of sound in air at a temperature of 20°C using the linear approximation v = 331.4 + 0.6 T m/s.",
+    "a": "343.4 m/s",
+    "b": "331.4 m/s",
+    "c": "349.4 m/s",
+    "d": "340.0 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the velocity of sound in air at a temperature of 30°C using the approximation v = 331.4 + 0.6 T m/s.",
+    "a": "349.4 m/s",
+    "b": "343.4 m/s",
+    "c": "331.4 m/s",
+    "d": "355.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the velocity of sound in air at a freezing temperature of -10°C.",
+    "a": "325.4 m/s",
+    "b": "331.4 m/s",
+    "c": "319.4 m/s",
+    "d": "337.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the speed of sound in air at 15°C.",
+    "a": "340.4 m/s",
+    "b": "331.4 m/s",
+    "c": "343.4 m/s",
+    "d": "346.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Convert a room temperature of 77°F to Celsius and find the velocity of sound in air.",
+    "a": "346.4 m/s",
+    "b": "343.4 m/s",
+    "c": "340.4 m/s",
+    "d": "350.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "What is the wavelength of a 1000 Hz sound wave in air at 20°C (assume v = 343.4 m/s)?",
+    "a": "0.343 meters",
+    "b": "3.434 meters",
+    "c": "0.034 meters",
+    "d": "34.34 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the wavelength of a low bass 20 Hz sound wave in air at 20°C (assume v = 343 m/s)?",
+    "a": "17.15 meters",
+    "b": "34.30 meters",
+    "c": "8.58 meters",
+    "d": "1.71 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the wavelength of a high-pitch 20 kHz sound wave in air at 20°C (assume v = 343 m/s)?",
+    "a": "0.01715 meters (1.715 cm)",
+    "b": "0.1715 meters (17.15 cm)",
+    "c": "0.00171 meters (0.171 cm)",
+    "d": "1.715 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A tuning fork produces a note at 440 Hz (concert A) in a room at 15°C (speed of sound = 340.4 m/s). What is the wavelength of the sound wave?",
+    "a": "0.773 meters",
+    "b": "0.880 meters",
+    "c": "1.292 meters",
+    "d": "0.550 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An acoustic sensor measures a sound wavelength of 2.0 meters in air at 25°C (v = 346.4 m/s). What is the frequency of the sound source?",
+    "a": "173.2 Hz",
+    "b": "346.4 Hz",
+    "c": "692.8 Hz",
+    "d": "86.6 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A sound wave has an intensity of 10^-8 Watts per square meter. Calculate the Sound Intensity Level (SIL) in decibels relative to the reference level I0 = 10^-12 W/m^2.",
+    "a": "40 dB",
+    "b": "80 dB",
+    "c": "20 dB",
+    "d": "60 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A quiet office has an acoustic intensity of 10^-4 Watts per square meter. Calculate the Sound Intensity Level (SIL) in decibels.",
+    "a": "80 dB",
+    "b": "40 dB",
+    "c": "120 dB",
+    "d": "60 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An acoustic analyzer measures a sound intensity of 2 x 10^-6 Watts per square meter. Find the Sound Intensity Level in dB relative to 10^-12 W/m^2.",
+    "a": "63 dB",
+    "b": "53 dB",
+    "c": "73 dB",
+    "d": "83 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Near a powerful factory machine, the sound intensity is measured at 1.5 Watts per square meter. What is the Sound Intensity Level (SIL) in dBSIL?",
+    "a": "121.76 dB",
+    "b": "111.76 dB",
+    "c": "131.76 dB",
+    "d": "141.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sound wave has a peak sound pressure of 2 x 10^-4 Pascals. Calculate the Sound Pressure Level (SPL) in dBSPL relative to P0 = 2 x 10^-5 Pa.",
+    "a": "20 dB",
+    "b": "40 dB",
+    "c": "10 dB",
+    "d": "30 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Near a noisy intersection, the RMS sound pressure is 2.0 Pascals. Calculate the corresponding Sound Pressure Level (SPL) in dBSPL.",
+    "a": "100 dB",
+    "b": "120 dB",
+    "c": "80 dB",
+    "d": "90 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sensitive sound level meter registers a pressure of 0.02 Pascals. Calculate the Sound Pressure Level (SPL) in dBSPL.",
+    "a": "60 dB",
+    "b": "80 dB",
+    "c": "40 dB",
+    "d": "70 dB",
+    "ans": "a"
+  },
+  {
+    "q": "At a rock concert, the peak sound pressure is measured at 20.0 Pascals. Calculate the Sound Pressure Level in dBSPL.",
+    "a": "120 dB",
+    "b": "140 dB",
+    "c": "100 dB",
+    "d": "110 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A studio monitor is emitting a tone with a Sound Intensity Level of 90 dB. What is the actual sound intensity in Watts per square meter?",
+    "a": "10^-3 W/m^2",
+    "b": "10^-6 W/m^2",
+    "c": "10^-9 W/m^2",
+    "d": "10^-12 W/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "The background noise inside an audio studio is 55 dBSPL. Find the actual sound intensity in Watts per square meter.",
+    "a": "3.16 x 10^-7 W/m^2",
+    "b": "3.16 x 10^-6 W/m^2",
+    "c": "3.16 x 10^-5 W/m^2",
+    "d": "3.16 x 10^-8 W/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "A sound wave has a Sound Pressure Level of 74 dBSPL. Find the equivalent RMS sound pressure in Pascals.",
+    "a": "0.10 Pascals",
+    "b": "0.05 Pascals",
+    "c": "0.20 Pascals",
+    "d": "0.40 Pascals",
+    "ans": "a"
+  },
+  {
+    "q": "An alarm siren produces a Sound Pressure Level of 110 dBSPL. What is the equivalent RMS sound pressure in Pascals?",
+    "a": "6.32 Pascals",
+    "b": "3.16 Pascals",
+    "c": "12.64 Pascals",
+    "d": "1.00 Pascals",
+    "ans": "a"
+  },
+  {
+    "q": "Two identical non-coherent sound sources each produce a sound level of 80 dBSPL at a specific listening position. What is the combined sound level when both are active?",
+    "a": "83 dBSPL",
+    "b": "86 dBSPL",
+    "c": "160 dBSPL",
+    "d": "80 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "Two non-coherent machines are running in a factory. One produces 90 dBSPL and the other produces 85 dBSPL at a measurement point. What is the total combined sound level?",
+    "a": "91.19 dBSPL",
+    "b": "95.00 dBSPL",
+    "c": "87.50 dBSPL",
+    "d": "175.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "Three separate non-coherent audio sources produce sound levels of 60 dBSPL, 65 dBSPL, and 68 dBSPL at a single location. What is the net combined sound pressure level?",
+    "a": "70.33 dBSPL",
+    "b": "73.00 dBSPL",
+    "c": "64.33 dBSPL",
+    "d": "193.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "Two trumpet players are playing. One player produces 95 dBSPL and the second player produces 98 dBSPL at a listener's position. Calculate the total sound level.",
+    "a": "99.76 dBSPL",
+    "b": "103.00 dBSPL",
+    "c": "96.50 dBSPL",
+    "d": "193.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "What is the decibel change in sound power level when the acoustic power output of a source is exactly doubled?",
+    "a": "+3.01 dB",
+    "b": "+6.02 dB",
+    "c": "+10.00 dB",
+    "d": "+1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "What is the decibel change in sound pressure level when the sound pressure amplitude of a source is exactly doubled?",
+    "a": "+6.02 dB",
+    "b": "+3.01 dB",
+    "c": "+10.00 dB",
+    "d": "+12.04 dB",
+    "ans": "a"
+  },
+  {
+    "q": "According to the inverse square law, if the distance from a sound source in a free field is doubled, what is the corresponding change in sound level?",
+    "a": "-6.02 dB",
+    "b": "-3.01 dB",
+    "c": "-10.00 dB",
+    "d": "-12.04 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An outdoor speaker produces a sound pressure level of 84 dBSPL at a distance of 5 meters. What is the expected SPL at a distance of 15 meters in a free field?",
+    "a": "74.46 dBSPL",
+    "b": "78.46 dBSPL",
+    "c": "64.46 dBSPL",
+    "d": "70.46 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A fire truck siren produces 95 dBSPL at a distance of 2 meters. What is the expected sound level at a distance of 50 meters in a free field?",
+    "a": "67.04 dBSPL",
+    "b": "75.04 dBSPL",
+    "c": "55.04 dBSPL",
+    "d": "61.04 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "An industrial exhaust fan emits a noise level of 70 dBSPL at 10 meters. What is the sound level at a distance of 100 meters in a free field?",
+    "a": "50 dBSPL",
+    "b": "60 dBSPL",
+    "c": "40 dBSPL",
+    "d": "55 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "The sound pressure at a distance of 10 meters from a loudspeaker is 0.5 Pascals. What is the expected sound pressure at a distance of 40 meters in a free field?",
+    "a": "0.125 Pascals",
+    "b": "0.250 Pascals",
+    "c": "0.0625 Pascals",
+    "d": "0.375 Pascals",
+    "ans": "a"
+  },
+  {
+    "q": "The sound intensity at 3 meters from a source is 10^-4 Watts per square meter. What is the sound intensity at a distance of 6 meters in a free field?",
+    "a": "0.25 x 10^-4 W/m^2",
+    "b": "0.50 x 10^-4 W/m^2",
+    "c": "0.10 x 10^-4 W/m^2",
+    "d": "0.05 x 10^-4 W/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "An auditorium has a volume of 1000 cubic meters and total room absorption of 50 metric sabines. Calculate the reverberation time RT60 using Sabine's metric formula.",
+    "a": "3.22 seconds",
+    "b": "1.61 seconds",
+    "c": "0.80 seconds",
+    "d": "6.44 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A recording room has a volume of 200 cubic meters and total absorption of 80 metric sabines. Calculate the reverberation time RT60.",
+    "a": "0.40 seconds",
+    "b": "0.80 seconds",
+    "c": "0.20 seconds",
+    "d": "1.20 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A church sanctuary has a volume of 5000 cubic feet and total absorption of 400 English sabines. Calculate the reverberation time RT60 using Sabine's English units formula.",
+    "a": "0.61 seconds",
+    "b": "1.22 seconds",
+    "c": "0.30 seconds",
+    "d": "1.50 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A home theater room has a volume of 12000 cubic feet and total absorption of 600 English sabines. Calculate the reverberation time RT60.",
+    "a": "0.98 seconds",
+    "b": "1.96 seconds",
+    "c": "0.49 seconds",
+    "d": "2.45 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A room has three primary surfaces: Area 1 = 100 m^2 with absorption coefficient 0.1, Area 2 = 200 m^2 with coefficient 0.05, and Area 3 = 50 m^2 with coefficient 0.8. Calculate the total absorption of the room in metric sabines.",
+    "a": "60 metric sabines",
+    "b": "35 metric sabines",
+    "c": "80 metric sabines",
+    "d": "50 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the reverberation time RT60 for the room described in the previous question (total absorption = 60 metric sabines) if its volume is 1500 cubic meters.",
+    "a": "4.02 seconds",
+    "b": "2.01 seconds",
+    "c": "1.00 second",
+    "d": "8.05 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "An engineer designs a listening room with a volume of 800 cubic meters and wants a target RT60 of exactly 0.8 seconds. What total sound absorption in metric sabines is required?",
+    "a": "161 metric sabines",
+    "b": "80 metric sabines",
+    "c": "322 metric sabines",
+    "d": "100 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "A room surface material provides 25 metric sabines of absorption. Convert this value to English sabines (1 metric sabine = 10.76 English sabines).",
+    "a": "269 English sabines",
+    "b": "2.32 English sabines",
+    "c": "125 English sabines",
+    "d": "538 English sabines",
+    "ans": "a"
+  },
+  {
+    "q": "A sound laboratory panel absorbs 107.6 English sabines of acoustic energy. What is this value in metric sabines?",
+    "a": "10 metric sabines",
+    "b": "100 metric sabines",
+    "c": "1 metric sabine",
+    "d": "20 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the fundamental resonant frequency of an open organ pipe with a physical length of 1.5 meters in air where the speed of sound is 343 m/s.",
+    "a": "114.33 Hz",
+    "b": "228.66 Hz",
+    "c": "57.17 Hz",
+    "d": "457.32 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the fundamental resonant frequency of an organ pipe closed at one end with a physical length of 0.8 meters in air where the speed of sound is 340 m/s.",
+    "a": "106.25 Hz",
+    "b": "212.50 Hz",
+    "c": "53.13 Hz",
+    "d": "425.00 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What physical length is required for an open resonant air column to produce a fundamental frequency of 250 Hz in air with sound velocity v = 343 m/s?",
+    "a": "0.686 meters (68.6 cm)",
+    "b": "1.372 meters",
+    "c": "0.343 meters (34.3 cm)",
+    "d": "2.744 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What length of a closed organ pipe is required to resonance at a fundamental frequency of 100 Hz in air where sound velocity v = 340 m/s?",
+    "a": "0.85 meters",
+    "b": "1.70 meters",
+    "c": "3.40 meters",
+    "d": "0.425 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Given a reference acoustic frequency of 220 Hz, what is the frequency exactly one octave higher?",
+    "a": "440 Hz",
+    "b": "110 Hz",
+    "c": "880 Hz",
+    "d": "330 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Given a reference acoustic frequency of 220 Hz, what is the frequency exactly one octave lower?",
+    "a": "110 Hz",
+    "b": "440 Hz",
+    "c": "55 Hz",
+    "d": "165 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A sound generator is set to 100 Hz. What is the output frequency if it is shifted up by exactly three octaves?",
+    "a": "800 Hz",
+    "b": "300 Hz",
+    "c": "400 Hz",
+    "d": "1600 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A signal processor filters out frequencies above two octaves below 1200 Hz. What is this cutoff frequency?",
+    "a": "300 Hz",
+    "b": "600 Hz",
+    "c": "150 Hz",
+    "d": "100 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the exact frequency ratio represented by a span of 5 full octaves?",
+    "a": "32:1",
+    "b": "16:1",
+    "c": "64:1",
+    "d": "10:1",
+    "ans": "a"
+  },
+  {
+    "q": "If a fundamental musical note has a frequency of 440 Hz, what is the frequency of a note exactly 4 semitones higher in equal temperament (scale factor = 2^(1/12) per semitone)?",
+    "a": "554.37 Hz",
+    "b": "586.66 Hz",
+    "c": "500.00 Hz",
+    "d": "622.25 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "In a passive 2-way speaker system, a woofer with impedance R = 8 ohms has a crossover frequency fc = 1500 Hz. Calculate the required series inductor L value using a 1st-order crossover filter formula L = R / (2 * pi * fc).",
+    "a": "0.849 mH",
+    "b": "1.698 mH",
+    "c": "0.424 mH",
+    "d": "2.122 mH",
+    "ans": "a"
+  },
+  {
+    "q": "In a 2-way speaker system, a tweeter with impedance R = 8 ohms has a crossover frequency fc = 2500 Hz. Calculate the required series capacitor C value using a 1st-order filter formula C = 1 / (2 * pi * fc * R).",
+    "a": "7.96 microfarads",
+    "b": "15.92 microfarads",
+    "c": "3.98 microfarads",
+    "d": "11.94 microfarads",
+    "ans": "a"
+  },
+  {
+    "q": "A 1st-order crossover network is designed for a woofer with impedance R = 4 ohms and crossover frequency fc = 800 Hz. Calculate the inductor value L.",
+    "a": "0.796 mH",
+    "b": "1.592 mH",
+    "c": "0.398 mH",
+    "d": "1.194 mH",
+    "ans": "a"
+  },
+  {
+    "q": "A 1st-order crossover network is designed for a tweeter with impedance R = 4 ohms and crossover frequency fc = 3000 Hz. Calculate the capacitor value C.",
+    "a": "13.26 microfarads",
+    "b": "26.52 microfarads",
+    "c": "6.63 microfarads",
+    "d": "19.89 microfarads",
+    "ans": "a"
+  },
+  {
+    "q": "The speed of sound in fresh water is approximately 1482 m/s at 20°C. How long does it take for a sonar pulse to travel a distance of 5 km in fresh water?",
+    "a": "3.37 seconds",
+    "b": "1.69 seconds",
+    "c": "6.74 seconds",
+    "d": "10.00 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "The speed of sound in steel is approximately 5960 m/s. What is the wavelength of an acoustic wave of 5 kHz propagating through a steel beam?",
+    "a": "1.192 meters",
+    "b": "2.384 meters",
+    "c": "0.596 meters",
+    "d": "11.920 meters",
+    "ans": "a"
+  },
+  {
+    "q": "In an outdoor PA system setup, how long of a time delay is introduced as sound travels a distance of 150 meters through air at 20°C (sound velocity v = 343 m/s)?",
+    "a": "437 milliseconds",
+    "b": "218 milliseconds",
+    "c": "874 milliseconds",
+    "d": "150 milliseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A loudspeaker has a sensitivity rating of 90 dBSPL at 1 Watt at 1 meter. If the electrical power input is increased to 50 Watts, what is the new SPL produced at 1 meter?",
+    "a": "106.99 dBSPL",
+    "b": "100.99 dBSPL",
+    "c": "116.99 dBSPL",
+    "d": "120.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A professional loudspeaker has a sensitivity of 88 dBSPL at 1 Watt at 1 meter. What is the SPL produced at 1 meter when driven by 200 Watts?",
+    "a": "111.01 dBSPL",
+    "b": "108.01 dBSPL",
+    "c": "118.01 dBSPL",
+    "d": "121.01 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A loudspeaker has a sensitivity rating of 95 dBSPL at 1 Watt at 1 meter. What is the sound level produced at a distance of 10 meters when driven by an electrical power of 100 Watts?",
+    "a": "95 dBSPL",
+    "b": "115 dBSPL",
+    "c": "85 dBSPL",
+    "d": "105 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "An experimental loudspeaker is driven with 20 Watts of electrical power and produces 0.5 Watts of acoustic power. Calculate the acoustic efficiency of the speaker.",
+    "a": "2.5%",
+    "b": "5.0%",
+    "c": "1.25%",
+    "d": "10.0%",
+    "ans": "a"
+  },
+  {
+    "q": "A loudspeaker operates with an efficiency of 1.5%. If the amplifier delivers 50 Watts of electrical power to the terminals, what is the actual radiated acoustic power?",
+    "a": "0.75 Watts",
+    "b": "1.50 Watts",
+    "c": "0.375 Watts",
+    "d": "3.00 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Sound Power Level (PWL) in decibels relative to W0 = 10^-12 Watts for a sound source that radiates an acoustic power of 0.01 Watts.",
+    "a": "100 dB",
+    "b": "80 dB",
+    "c": "120 dB",
+    "d": "90 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A small speaker radiates an acoustic power of 2 x 10^-3 Watts. Calculate the corresponding Sound Power Level (PWL) in dB.",
+    "a": "93.01 dB",
+    "b": "83.01 dB",
+    "c": "103.01 dB",
+    "d": "113.01 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sound source is rated with a Sound Power Level (PWL) of 120 dB. What is the actual acoustic power radiated by this source in Watts?",
+    "a": "1.0 Watt",
+    "b": "0.1 Watt",
+    "c": "10.0 Watts",
+    "d": "2.0 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A dynamic microphone produces an output voltage of 10 millivolts when placed in a sound field with a sound pressure of 1.0 Pascal. Calculate its sensitivity in dB relative to 1 Volt per Pascal (dBV/Pa).",
+    "a": "-40 dBV/Pa",
+    "b": "-50 dBV/Pa",
+    "c": "-30 dBV/Pa",
+    "d": "-60 dBV/Pa",
+    "ans": "a"
+  },
+  {
+    "q": "A vintage microphone produces an output voltage of 2 millivolts for a sound pressure of 1.0 Pascal. Calculate its sensitivity in dBV/Pa.",
+    "a": "-54 dBV/Pa",
+    "b": "-44 dBV/Pa",
+    "c": "-64 dBV/Pa",
+    "d": "-34 dBV/Pa",
+    "ans": "a"
+  },
+  {
+    "q": "Two sound wave intensities are measured as I1 = 10^-5 W/m^2 and I2 = 10^-7 W/m^2. Calculate the difference between their intensity levels in decibels.",
+    "a": "20 dB",
+    "b": "10 dB",
+    "c": "30 dB",
+    "d": "40 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Two sound wave pressures are measured as P1 = 0.4 Pascals and P2 = 0.05 Pascals. Calculate the difference in their Sound Pressure Levels in decibels.",
+    "a": "18.06 dB",
+    "b": "9.03 dB",
+    "c": "36.12 dB",
+    "d": "12.04 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A lecture room has an average sound absorption coefficient of 0.15. If the total surface boundary area is 400 square meters, calculate the total sound absorption in metric sabines.",
+    "a": "60 metric sabines",
+    "b": "30 metric sabines",
+    "c": "120 metric sabines",
+    "d": "90 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "A room with volume V = 1000 cubic meters has a total surface boundary area of 600 square meters and an average absorption coefficient of 0.20. Calculate the reverberation time RT60.",
+    "a": "1.34 seconds",
+    "b": "2.68 seconds",
+    "c": "0.67 seconds",
+    "d": "1.80 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A sound has a subjective loudness rating of 4 sones. Calculate the subjective loudness level in phons.",
+    "a": "60 phons",
+    "b": "50 phons",
+    "c": "40 phons",
+    "d": "80 phons",
+    "ans": "a"
+  },
+  {
+    "q": "A heavy industrial engine produces a subjective loudness rating of 16 sones. What is its subjective loudness level in phons?",
+    "a": "80 phons",
+    "b": "60 phons",
+    "c": "70 phons",
+    "d": "90 phons",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a subjective loudness level of 50 phons. Convert this level to sones.",
+    "a": "2 sones",
+    "b": "1 sone",
+    "c": "4 sones",
+    "d": "8 sones",
+    "ans": "a"
+  },
+  {
+    "q": "A loud horn is measured with a subjective level of 70 phons. Convert this value to sones.",
+    "a": "8 sones",
+    "b": "4 sones",
+    "c": "16 sones",
+    "d": "32 sones",
+    "ans": "a"
+  },
+  {
+    "q": "The human dynamic range extends from the threshold of hearing (2 x 10^-5 Pa) to the threshold of pain (130 dBSPL). Calculate the pressure ratio of the threshold of pain relative to the threshold of hearing.",
+    "a": "3,162,277 to 1",
+    "b": "1,000,000 to 1",
+    "c": "10,000,000 to 1",
+    "d": "316,227 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "The dynamic range of the human ear is approximately 120 dB. What is the corresponding sound intensity ratio from the loudest tolerable sound to the quietest audible sound?",
+    "a": "10^12 to 1 (1 trillion to 1)",
+    "b": "10^6 to 1 (1 million to 1)",
+    "c": "10^10 to 1 (10 billion to 1)",
+    "d": "10^16 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "A sound source emits a hemispherical wavefront with a sound level of 110 dBSPL at a distance of 1 meter. According to the inverse square law, at what distance will the sound level drop to 80 dBSPL?",
+    "a": "31.62 meters",
+    "b": "10.00 meters",
+    "c": "100.00 meters",
+    "d": "63.24 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An outdoor warning siren produces 95 dBSPL at a distance of 2 meters. At what distance will the sound level drop to 65 dBSPL in free space?",
+    "a": "63.24 meters",
+    "b": "31.62 meters",
+    "c": "100.00 meters",
+    "d": "126.48 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Three identical machines in a workshop each produce a sound level of 75 dBSPL at a specific measurement point. What is the total combined sound pressure level when all three are running?",
+    "a": "79.77 dBSPL",
+    "b": "81.77 dBSPL",
+    "c": "78.00 dBSPL",
+    "d": "225.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "Four identical non-coherent noise sources each produce a sound level of 85 dBSPL. Calculate the total combined sound pressure level.",
+    "a": "91.02 dBSPL",
+    "b": "89.02 dBSPL",
+    "c": "95.02 dBSPL",
+    "d": "340.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A quiet office has a sound level of 55 dBSPL with the air conditioning system on and 40 dBSPL with it turned off. What is the exact sound level produced by the air conditioning system alone?",
+    "a": "54.86 dBSPL",
+    "b": "15.00 dBSPL",
+    "c": "47.50 dBSPL",
+    "d": "52.86 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A jet engine produces a total sound power of 10 Watts. What is the Sound Power Level (PWL) in dB relative to W0 = 10^-12 Watts?",
+    "a": "130 dB",
+    "b": "110 dB",
+    "c": "120 dB",
+    "d": "140 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A heavy rock concert loudspeaker setup produces a total acoustic sound power of 50 Watts. What is the Sound Power Level (PWL) in decibels?",
+    "a": "136.99 dB",
+    "b": "126.99 dB",
+    "c": "146.99 dB",
+    "d": "150.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the speed of sound in air at a high temperature of 40°C using the approximation v = 331.4 + 0.6 T m/s.",
+    "a": "355.4 m/s",
+    "b": "343.4 m/s",
+    "c": "331.4 m/s",
+    "d": "361.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the speed of sound in air at an arctic temperature of -20°C using the approximation v = 331.4 + 0.6 T m/s.",
+    "a": "319.4 m/s",
+    "b": "331.4 m/s",
+    "c": "307.4 m/s",
+    "d": "325.4 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the reverberation time RT60 for a classroom with volume V = 300 cubic meters and total absorption of 45 metric sabines.",
+    "a": "1.07 seconds",
+    "b": "2.14 seconds",
+    "c": "0.54 seconds",
+    "d": "1.50 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "A room has dimensions of 6 x 8 x 4 meters. If the walls, ceiling, and floor have an average absorption coefficient of 0.12, calculate the total room absorption in metric sabines.",
+    "a": "24.96 metric sabines",
+    "b": "49.92 metric sabines",
+    "c": "12.48 metric sabines",
+    "d": "36.00 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the reverberation time RT60 for the room described in the previous question (dimensions 6 x 8 x 4 meters, volume = 192 m^3, total absorption = 24.96 metric sabines).",
+    "a": "1.24 seconds",
+    "b": "2.48 seconds",
+    "c": "0.62 seconds",
+    "d": "1.80 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "In the room from the previous questions, carpet is added to the floor (area = 48 m^2), increasing the floor absorption coefficient to 0.40, while the remaining surfaces (area = 160 m^2) retain a coefficient of 0.12. Calculate the new total room absorption in metric sabines.",
+    "a": "38.40 metric sabines",
+    "b": "19.20 metric sabines",
+    "c": "57.60 metric sabines",
+    "d": "24.96 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the new reverberation time RT60 for the room after the carpet installation (volume = 192 m^3, new total absorption = 38.40 metric sabines).",
+    "a": "0.80 seconds",
+    "b": "1.60 seconds",
+    "c": "0.40 seconds",
+    "d": "1.20 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier output delivers an RMS voltage of 15 Volts to a loudspeaker voice coil with an nominal resistance of 8 ohms. Find the electrical power delivered.",
+    "a": "28.12 Watts",
+    "b": "120.00 Watts",
+    "c": "56.25 Watts",
+    "d": "15.00 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A dynamic loudspeaker has an electrical-to-acoustic conversion efficiency of 2.0%. If the amplifier delivers 100 Watts of electrical power, find the acoustic power radiated.",
+    "a": "2.0 Watts",
+    "b": "1.0 Watt",
+    "c": "4.0 Watts",
+    "d": "0.5 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Sound Power Level (PWL) in dB for the dynamic loudspeaker from the previous question (acoustic power = 2.0 Watts).",
+    "a": "123.01 dB",
+    "b": "113.01 dB",
+    "c": "133.01 dB",
+    "d": "143.01 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the wavelength of a high frequency 15 kHz sound wave in air at 25°C (velocity of sound v = 346.4 m/s).",
+    "a": "0.023 meters (2.3 cm)",
+    "b": "0.230 meters (23 cm)",
+    "c": "0.002 meters (0.23 cm)",
+    "d": "2.300 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the frequency of an ultrasonic sound wave that has a wavelength of 1.2 cm in air at 20°C (sound velocity v = 343 m/s)?",
+    "a": "28,583.33 Hz (28.58 kHz)",
+    "b": "12,000.00 Hz (12 kHz)",
+    "c": "41,160.00 Hz (41.16 kHz)",
+    "d": "20,000.00 Hz (20 kHz)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the fundamental standing wave frequency (lowest axial room mode) between two parallel concrete walls separated by a distance of 5 meters at 20°C (velocity of sound v = 343 m/s).",
+    "a": "34.3 Hz",
+    "b": "68.6 Hz",
+    "c": "17.15 Hz",
+    "d": "137.2 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An engineer designs a passive crossover network for an 8-ohm woofer with a crossover frequency of fc = 1200 Hz. Calculate the required series inductor L value.",
+    "a": "1.06 mH",
+    "b": "2.12 mH",
+    "c": "0.53 mH",
+    "d": "4.24 mH",
+    "ans": "a"
+  },
+  {
+    "q": "An engineer designs a passive crossover network for an 8-ohm tweeter with a crossover frequency of fc = 4000 Hz. Calculate the required series capacitor C value.",
+    "a": "4.97 microfarads",
+    "b": "9.94 microfarads",
+    "c": "2.48 microfarads",
+    "d": "1.24 microfarads",
+    "ans": "a"
+  },
+  {
+    "q": "A sound wave has an RMS sound pressure of 0.05 Pascals. What is this value in decibels Sound Pressure Level (dBSPL)?",
+    "a": "67.96 dBSPL",
+    "b": "57.96 dBSPL",
+    "c": "77.96 dBSPL",
+    "d": "87.96 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "An acoustic receiver measures a sound intensity of 5 x 10^-5 Watts per square meter. What is this value in decibels Sound Intensity Level (dBSIL)?",
+    "a": "76.99 dBSIL",
+    "b": "66.99 dBSIL",
+    "c": "86.99 dBSIL",
+    "d": "96.99 dBSIL",
+    "ans": "a"
+  },
+  {
+    "q": "A small construction machine produces 85 dBA of noise at a specific spot. If three identical machines are running simultaneously, what is the combined dBA reading?",
+    "a": "89.77 dBA",
+    "b": "95.00 dBA",
+    "c": "88.00 dBA",
+    "d": "170.00 dBA",
+    "ans": "a"
+  },
+  {
+    "q": "In open air, how much does the sound intensity level drop when a listener doubles their distance from a sound source?",
+    "a": "6 dB",
+    "b": "3 dB",
+    "c": "10 dB",
+    "d": "12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sound level meter registers 94 dBSPL at a distance of 2 meters from a horn speaker. What is the expected sound level at a distance of 8 meters in a free field?",
+    "a": "81.96 dBSPL",
+    "b": "88.00 dBSPL",
+    "c": "74.00 dBSPL",
+    "d": "70.00 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A loudspeaker system produces a sound level of 120 dBSPL at 1 meter. What is the expected sound level at 100 meters in a free field?",
+    "a": "80 dBSPL",
+    "b": "100 dBSPL",
+    "c": "60 dBSPL",
+    "d": "40 dBSPL",
+    "ans": "a"
+  },
+  {
+    "q": "A point sound source radiates 0.5 Watts of acoustic power uniformly in all directions (spherical wavefront). Calculate the sound intensity at a distance of 10 meters.",
+    "a": "3.98 x 10^-4 W/m^2",
+    "b": "3.98 x 10^-3 W/m^2",
+    "c": "3.98 x 10^-5 W/m^2",
+    "d": "3.98 x 10^-6 W/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Sound Intensity Level (SIL) in dBSIL for the point source in the previous question (intensity = 3.98 x 10^-4 W/m^2).",
+    "a": "85.99 dBSIL",
+    "b": "75.99 dBSIL",
+    "c": "95.99 dBSIL",
+    "d": "105.99 dBSIL",
+    "ans": "a"
+  },
+  {
+    "q": "The speed of sound in carbon dioxide at 0°C is 259 m/s. What is the wavelength of a 1000 Hz sound wave in carbon dioxide?",
+    "a": "0.259 meters (25.9 cm)",
+    "b": "2.590 meters (259 cm)",
+    "c": "0.025 meters (2.5 cm)",
+    "d": "25.900 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An observer stands in front of a flat cliff face. They clap their hands and hear the echo exactly 1.0 second later. Assuming air temperature is 20°C (v = 343 m/s), what is the distance to the cliff face?",
+    "a": "171.5 meters",
+    "b": "343.0 meters",
+    "c": "85.75 meters",
+    "d": "100.00 meters",
+    "ans": "a"
+  },
+  {
+    "q": "The speed of sound in fresh water is 1482 m/s. What is the wavelength of a 12 kHz sonar transmission in fresh water?",
+    "a": "0.1235 meters (12.35 cm)",
+    "b": "1.2350 meters (123.5 cm)",
+    "c": "0.0123 meters (1.23 cm)",
+    "d": "12.3500 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An engineer designs a 2nd-order Butterworth crossover filter for an 8-ohm woofer with fc = 2000 Hz. Using the formula L = R / (sqrt(2) * pi * fc), calculate the required inductor value L.",
+    "a": "0.90 mH",
+    "b": "1.80 mH",
+    "c": "0.45 mH",
+    "d": "2.70 mH",
+    "ans": "a"
+  },
+  {
+    "q": "An engineer designs a 2nd-order Butterworth crossover filter for an 8-ohm tweeter with fc = 2000 Hz. Using the formula C = 1 / (2 * sqrt(2) * pi * fc * R), calculate the required capacitor value C.",
+    "a": "7.03 microfarads",
+    "b": "14.06 microfarads",
+    "c": "3.51 microfarads",
+    "d": "1.75 microfarads",
+    "ans": "a"
+  },
+  {
+    "q": "What is the frequency ratio corresponding to an interval of exactly 1 octave plus 1 semitone (given scale factor = 2^(1/12) per semitone)?",
+    "a": "2.119",
+    "b": "2.000",
+    "c": "1.059",
+    "d": "3.119",
+    "ans": "a"
+  },
+  {
+    "q": "What is the frequency of a musical note that is exactly three octaves lower than a high-pitched test tone of 3520 Hz?",
+    "a": "440 Hz",
+    "b": "880 Hz",
+    "c": "220 Hz",
+    "d": "1760 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A sound level meter measures office background noise at 65 dBA. If a speaker is turned on producing an additional 60 dBA of non-coherent sound, what is the new total reading?",
+    "a": "66.19 dBA",
+    "b": "71.19 dBA",
+    "c": "62.50 dBA",
+    "d": "125.00 dBA",
+    "ans": "a"
+  },
+  {
+    "q": "An open sliding window has physical dimensions of 1.5 meters by 2.0 meters. Assuming it acts as a perfect sound absorber, calculate its absorption in metric sabines.",
+    "a": "3.0 metric sabines",
+    "b": "1.5 metric sabines",
+    "c": "6.0 metric sabines",
+    "d": "4.5 metric sabines",
+    "ans": "a"
+  },
+  {
+    "q": "An industrial horn has a subjective loudness level of 32 sones. What is the corresponding loudness level in phons?",
+    "a": "90 phons",
+    "b": "80 phons",
+    "c": "100 phons",
+    "d": "70 phons",
+    "ans": "a"
+  }
+]

@@ -1,0 +1,1858 @@
+[
+  {
+    "q": "What is defined as a metallic conductor system capable of radiating and capturing electromagnetic energy into or from free space?",
+    "a": "Transmission line",
+    "b": "Antenna",
+    "c": "Waveguide",
+    "d": "Resonant stub",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is a hypothetical point source that radiates electromagnetic energy equally in all directions?",
+    "a": "Half-wave dipole",
+    "b": "Marconi monopole",
+    "c": "Isotropic radiator",
+    "d": "Hertzian dipole",
+    "ans": "c"
+  },
+  {
+    "q": "Which theorem states that the transmitting and receiving characteristics of an antenna are identical at a given frequency?",
+    "a": "Nyquist theorem",
+    "b": "Reciprocity theorem",
+    "c": "Shannon theorem",
+    "d": "Norton theorem",
+    "ans": "b"
+  },
+  {
+    "q": "What is another name for a half-wave dipole antenna?",
+    "a": "Marconi antenna",
+    "b": "Hertz antenna",
+    "c": "Yagi antenna",
+    "d": "Beverage antenna",
+    "ans": "b"
+  },
+  {
+    "q": "What is another name for a quarter-wave vertical antenna that operates with a ground plane?",
+    "a": "Hertz antenna",
+    "b": "Marconi antenna",
+    "c": "Rhombic antenna",
+    "d": "Collinear array",
+    "ans": "b"
+  },
+  {
+    "q": "What is the polarization of an electromagnetic wave determined by?",
+    "a": "The orientation of its magnetic field vector",
+    "b": "The direction of propagation",
+    "c": "The orientation of its electric field vector",
+    "d": "The frequency of the carrier wave",
+    "ans": "c"
+  },
+  {
+    "q": "In which direction is the maximum radiation concentrated in a broadside array?",
+    "a": "Along the line of the array",
+    "b": "Perpendicular to the line of the array",
+    "c": "At an angle of 45 degrees to the array line",
+    "d": "Equally in all directions",
+    "ans": "b"
+  },
+  {
+    "q": "In which direction is the maximum radiation concentrated in an end-fire array?",
+    "a": "Perpendicular to the line of the array",
+    "b": "Along the line of the array",
+    "c": "In a circular omnidirectional plane",
+    "d": "Only at the focal point",
+    "ans": "b"
+  },
+  {
+    "q": "What are the passive elements in a Yagi-Uda antenna that are not directly connected to the transmission line called?",
+    "a": "Driven elements",
+    "b": "Parasitic elements",
+    "c": "Director elements only",
+    "d": "Reflector elements only",
+    "ans": "b"
+  },
+  {
+    "q": "Which element of a Yagi-Uda antenna is physically the longest?",
+    "a": "Driven element",
+    "b": "Reflector",
+    "c": "First director",
+    "d": "Second director",
+    "ans": "b"
+  },
+  {
+    "q": "Which element of a Yagi-Uda antenna is physically the shortest?",
+    "a": "Driven element",
+    "b": "Reflector",
+    "c": "Director",
+    "d": "Matching stub",
+    "ans": "c"
+  },
+  {
+    "q": "What type of antenna has an impedance and radiation pattern that remains relatively constant over a very wide frequency range?",
+    "a": "Log-periodic antenna",
+    "b": "Half-wave dipole",
+    "c": "Yagi-Uda antenna",
+    "d": "Marconi monopole",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary function of the terminating resistor in a rhombic antenna?",
+    "a": "To increase the input impedance of the feedline",
+    "b": "To make the antenna unidirectional by absorbing the backward wave",
+    "c": "To protect the antenna from lightning discharges",
+    "d": "To act as a parasitic director element",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical nominal input impedance at the center of a standard folded dipole antenna?",
+    "a": "73 ohms",
+    "b": "150 ohms",
+    "c": "300 ohms",
+    "d": "600 ohms",
+    "ans": "c"
+  },
+  {
+    "q": "What is the polarization of a helical antenna operating in its axial mode?",
+    "a": "Linear horizontal",
+    "b": "Linear vertical",
+    "c": "Circular",
+    "d": "None (elliptically unpolarized)",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is not a common type of horn antenna?",
+    "a": "Pyramidal horn",
+    "b": "Sectoral horn",
+    "c": "Conical horn",
+    "d": "Cassegrain horn",
+    "ans": "d"
+  },
+  {
+    "q": "What is the primary advantage of a parabolic reflector antenna?",
+    "a": "Extremely wide bandwidth",
+    "b": "Very low manufacturing cost",
+    "c": "Extremely high gain and narrow beamwidth",
+    "d": "Bidirectional pattern coverage",
+    "ans": "c"
+  },
+  {
+    "q": "What feed system for a parabolic reflector utilizes a sub-reflector at the focal point of the main dish?",
+    "a": "Horn feed",
+    "b": "Cassegrain feed",
+    "c": "Dipole-reflector feed",
+    "d": "Gregorian feed",
+    "ans": "b"
+  },
+  {
+    "q": "Which antenna consists of two half-wave dipoles mounted at right angles to each other and fed 90 degrees out of phase?",
+    "a": "Yagi antenna",
+    "b": "Turnstile antenna",
+    "c": "Discone antenna",
+    "d": "V-antenna",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a ground-plane antenna?",
+    "a": "To provide a physical mount for the feedline",
+    "b": "To simulate a perfect conducting ground below a vertical quarter-wave radiator",
+    "c": "To act as a directional reflector",
+    "d": "To match a 300 ohm twin-lead line",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the equivalent resistance that would dissipate the same amount of power as is radiated by the antenna when the feed current is applied?",
+    "a": "Loss resistance",
+    "b": "Radiation resistance",
+    "c": "Characteristic impedance",
+    "d": "Iterative impedance",
+    "ans": "b"
+  },
+  {
+    "q": "How is the radiation efficiency of an antenna defined?",
+    "a": "The ratio of input power to radiated power",
+    "b": "The ratio of radiated power to total power dissipated in the antenna system",
+    "c": "The ratio of directive gain to power gain",
+    "d": "The ratio of capture area to physical area",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the field region closest to the antenna where the reactive field components dominate?",
+    "a": "Fraunhofer region",
+    "b": "Fresnel region (Near-field)",
+    "c": "Far-field region",
+    "d": "Ionospheric zone",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the field region far from the antenna where the radiation pattern is fully developed and independent of distance?",
+    "a": "Fresnel region",
+    "b": "Fraunhofer region (Far-field)",
+    "c": "Reactive near-field",
+    "d": "Stratosphere",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the ratio of the maximum radiation intensity in the forward direction to the radiation intensity in the opposite direction?",
+    "a": "Directivity factor",
+    "b": "Front-to-back ratio",
+    "c": "SWR mismatch factor",
+    "d": "Polarization loss factor",
+    "ans": "b"
+  },
+  {
+    "q": "Which antenna exhibits an exceptionally wide operational bandwidth (typically up to 10:1 ratio) and is shaped like a disc on top of a cone?",
+    "a": "Yagi antenna",
+    "b": "Discone antenna",
+    "c": "Rhombic antenna",
+    "d": "Turnstile antenna",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is primarily used for direction finding (RDF) because of its sharp nulls and sensitivity to the magnetic field component?",
+    "a": "Parabolic dish",
+    "b": "Loop antenna",
+    "c": "Yagi-Uda",
+    "d": "Helical",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical physical length of a standard Marconi monopole antenna?",
+    "a": "One-half wavelength",
+    "b": "One-quarter wavelength",
+    "c": "One full wavelength",
+    "d": "Five-eighths wavelength",
+    "ans": "b"
+  },
+  {
+    "q": "What is the effect of top-loading a vertical antenna with a capacitive hat?",
+    "a": "It decreases the electrical length and decreases radiation resistance",
+    "b": "It increases the electrical length and increases radiation resistance",
+    "c": "It has no effect on radiation resistance",
+    "d": "It shifts the polarization to horizontal",
+    "ans": "b"
+  },
+  {
+    "q": "To electrically lengthen an antenna that is physically too short, what component should be added in series?",
+    "a": "Resistor",
+    "b": "Inductor (loading coil)",
+    "c": "Capacitor",
+    "d": "Battery",
+    "ans": "b"
+  },
+  {
+    "q": "To electrically shorten an antenna that is physically too long, what component should be added in series?",
+    "a": "Inductor",
+    "b": "Capacitor",
+    "c": "Resistor",
+    "d": "Shorting stub",
+    "ans": "b"
+  },
+  {
+    "q": "Which antenna is non-resonant and consists of four wires arranged in a diamond shape?",
+    "a": "Log-periodic",
+    "b": "Rhombic antenna",
+    "c": "Yagi-Uda",
+    "d": "V-antenna",
+    "ans": "b"
+  },
+  {
+    "q": "What is the polarization of a horizontal slot antenna cut into a metal sheet?",
+    "a": "Horizontal",
+    "b": "Vertical",
+    "c": "Circular",
+    "d": "None",
+    "ans": "b"
+  },
+  {
+    "q": "What antenna type is characterized by a flat conductive patch mounted over a larger ground plane, popular in mobile handsets?",
+    "a": "Horn antenna",
+    "b": "Microstrip patch antenna",
+    "c": "Yagi-Uda",
+    "d": "Biconical",
+    "ans": "b"
+  },
+  {
+    "q": "What is an active antenna?",
+    "a": "An antenna that rotates automatically to track satellites",
+    "b": "An antenna integrated with an active amplifier circuit",
+    "c": "An antenna that only transmits and never receives",
+    "d": "An antenna made of superconducting materials",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna system uses electronic phase shifters to steer the radiation beam without physical movement?",
+    "a": "Log-periodic array",
+    "b": "Phased array",
+    "c": "Cassegrain dish",
+    "d": "Yagi-Uda stack",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter describes the power loss due to a mismatch in polarization between the transmitting and receiving antennas?",
+    "a": "Standing Wave Ratio (SWR)",
+    "b": "Polarization Loss Factor (PLF)",
+    "c": "Reflection coefficient",
+    "d": "Front-to-back loss",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical input impedance of an ideal isotropic antenna?",
+    "a": "73 ohms",
+    "b": "Isotropic radiators are hypothetical and have no defined physical impedance",
+    "c": "50 ohms",
+    "d": "377 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ratio of the power gain in the direction of maximum radiation to the gain of an isotropic antenna called?",
+    "a": "Efficiency factor",
+    "b": "Absolute gain (dBi)",
+    "c": "Relative gain (dBd)",
+    "d": "Directivity",
+    "ans": "b"
+  },
+  {
+    "q": "What is the characteristic radiation pattern shape of a half-wave dipole antenna in the plane perpendicular to the wire?",
+    "a": "Heart-shaped (cardioid)",
+    "b": "Circular (omnidirectional)",
+    "c": "Figure-eight",
+    "d": "Cloverleaf",
+    "ans": "b"
+  },
+  {
+    "q": "What is another name for the Beverage antenna?",
+    "a": "Signal antenna",
+    "b": "Wave antenna",
+    "c": "Analogue antenna",
+    "d": "Yagi-Uda",
+    "ans": "b"
+  },
+  {
+    "q": "The angle between the two half-power (-3 dB) points on an antenna's major lobe is defined as _____.",
+    "a": "Sidelobe level",
+    "b": "Beamwidth",
+    "c": "Focal angle",
+    "d": "Aperture angle",
+    "ans": "b"
+  },
+  {
+    "q": "What type of wave propagation is a Beverage antenna primarily designed to receive?",
+    "a": "Sky wave",
+    "b": "Ground wave",
+    "c": "Space wave",
+    "d": "Troposcatter",
+    "ans": "b"
+  },
+  {
+    "q": "Which antenna is most commonly used as the primary feed for a parabolic reflector dish?",
+    "a": "Half-wave dipole",
+    "b": "Horn antenna",
+    "c": "Yagi-Uda",
+    "d": "Helical",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the area of a receiving antenna that captures electromagnetic energy from an incident wave?",
+    "a": "Physical aperture",
+    "b": "Effective aperture (Capture area)",
+    "c": "Fresnel area",
+    "d": "Radiation cross-section",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard impedance of a coaxial cable used to feed a vertical ground plane antenna in mobile VHF systems?",
+    "a": "300 ohms",
+    "b": "50 ohms",
+    "c": "75 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is constructed by cutting a narrow slit in a large sheet of metal?",
+    "a": "Patch antenna",
+    "b": "Slot antenna",
+    "c": "Biconical antenna",
+    "d": "Loop antenna",
+    "ans": "b"
+  },
+  {
+    "q": "What is the polarization of a vertical slot antenna cut into a metal sheet?",
+    "a": "Vertical",
+    "b": "Horizontal",
+    "c": "Circular",
+    "d": "Elliptical",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter indicates the maximum antenna gain of an antenna without taking into account its ohmic losses?",
+    "a": "Efficiency",
+    "b": "Directivity",
+    "c": "Aperture area",
+    "d": "Front-to-back ratio",
+    "ans": "b"
+  },
+  {
+    "q": "What component is used to connect an unbalanced coaxial cable to a balanced dipole antenna to prevent line currents?",
+    "a": "Loading coil",
+    "b": "Balun (balanced-to-unbalanced transformer)",
+    "c": "Phasing line",
+    "d": "Unloaded stub",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes a non-resonant antenna?",
+    "a": "An antenna that supports standing waves",
+    "b": "An antenna that supports only traveling waves",
+    "c": "An antenna that operates only at its fundamental frequency",
+    "d": "An antenna that has infinite SWR",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main advantage of stacked Yagi antennas?",
+    "a": "Increased bandwidth",
+    "b": "Increased gain and narrower beamwidth",
+    "c": "Simplified impedance matching",
+    "d": "Circular polarization",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical feedpoint impedance at the center of a thin, resonant half-wave dipole in free space?",
+    "a": "50 ohms",
+    "b": "73 ohms",
+    "c": "300 ohms",
+    "d": "377 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical feedpoint impedance of a resonant quarter-wave vertical antenna over a perfect ground plane?",
+    "a": "73 ohms",
+    "b": "36.5 ohms",
+    "c": "150 ohms",
+    "d": "50 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Which antenna consists of two conical conductors sharing a common apex and is highly wideband?",
+    "a": "Discone",
+    "b": "Biconical antenna",
+    "c": "Log-periodic",
+    "d": "Horn",
+    "ans": "b"
+  },
+  {
+    "q": "What does a radome do for a microwave dish antenna?",
+    "a": "It increases the directive gain",
+    "b": "It provides a weather-protective cover without attenuating RF energy",
+    "c": "It acts as a primary feed horn",
+    "d": "It suppresses sidelobes",
+    "ans": "b"
+  },
+  {
+    "q": "What does a shroud do when installed around a parabolic dish antenna?",
+    "a": "It protects the feedhorn from moisture",
+    "b": "It minimizes side and blockage radiations from the dish",
+    "c": "It increases the focal length",
+    "d": "It matches the coaxial feedline",
+    "ans": "b"
+  },
+  {
+    "q": "The physical area of a parabolic dish is 10 square meters. What represents its typical effective capture area assuming a standard aperture efficiency of 55%?",
+    "a": "10 square meters",
+    "b": "5.5 square meters",
+    "c": "1.8 square meters",
+    "d": "18.2 square meters",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of antenna is constructed from a long, single wire that is terminated at its far end and operates as a traveling-wave antenna?",
+    "a": "Hertz dipole",
+    "b": "Beverage (wave) antenna",
+    "c": "Yagi-Uda",
+    "d": "Turnstile",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the theoretical radiation resistance of a small, thin loop antenna with a single turn compared to a dipole?",
+    "a": "Extremely high radiation resistance",
+    "b": "Extremely low radiation resistance",
+    "c": "Exactly 73 ohms",
+    "d": "Exactly 300 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the polarization of a helical antenna operating in its normal (broadside) mode?",
+    "a": "Circular",
+    "b": "Linear (vertical or horizontal depending on mounting)",
+    "c": "Elliptical",
+    "d": "None",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the radiation pattern of an antenna as the number of elements in a collinear array is increased?",
+    "a": "The vertical beamwidth becomes narrower and gain increases",
+    "b": "The radiation pattern becomes completely spherical",
+    "c": "The horizontal beamwidth becomes narrower",
+    "d": "The polarization shifts by 90 degrees",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a dummy load used to test radio transmitters that dissipates RF energy as heat without radiating?",
+    "a": "Isotropic antenna",
+    "b": "Non-radiating dummy antenna",
+    "c": "Rhombic antenna",
+    "d": "Evanescent stub",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary factor that limits the lowest operational frequency of a horn antenna?",
+    "a": "The power rating of the feed transmitter",
+    "b": "The physical dimensions of the waveguide aperture",
+    "c": "The length of the coaxial feed line",
+    "d": "The thickness of the radome",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main reason why a Marconi antenna requires a highly conductive ground or radials?",
+    "a": "To prevent the transmission line from overheating",
+    "b": "To complete the resonant circuit and minimize ground loss resistance",
+    "c": "To filter out harmonic frequencies",
+    "d": "To eliminate the proximity effect",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is constructed by wrapping a conductor around a non-conductive cylindrical form?",
+    "a": "Yagi antenna",
+    "b": "Helical antenna",
+    "c": "Biconical antenna",
+    "d": "Rhombic antenna",
+    "ans": "b"
+  },
+  {
+    "q": "In a Yagi-Uda antenna, how is the spacing between the reflector and the driven element typically chosen?",
+    "a": "Approximately 0.5 wavelength",
+    "b": "Approximately 0.15 to 0.25 wavelength",
+    "c": "Approximately 1.0 wavelength",
+    "d": "Approximately 0.05 wavelength",
+    "ans": "b"
+  },
+  {
+    "q": "What is the directivity of a theoretical isotropic radiator?",
+    "a": "1.0 (0 dBi)",
+    "b": "1.64 (2.15 dBi)",
+    "c": "1.5 (1.76 dBi)",
+    "d": "0.0",
+    "ans": "a"
+  },
+  {
+    "q": "Which antenna has a bi-directional figure-eight radiation pattern in both the horizontal and vertical planes when oriented vertically?",
+    "a": "Omnidirectional ground plane",
+    "b": "Small magnetic loop antenna",
+    "c": "Yagi-Uda",
+    "d": "Parabolic dish",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to an antenna's feedpoint impedance if its operating frequency is shifted slightly above its resonant frequency?",
+    "a": "It becomes purely resistive",
+    "b": "It develops inductive reactance",
+    "c": "It develops capacitive reactance",
+    "d": "It drops to zero ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to an antenna's feedpoint impedance if its operating frequency is shifted slightly below its resonant frequency?",
+    "a": "It develops inductive reactance",
+    "b": "It develops capacitive reactance",
+    "c": "It remains purely resistive",
+    "d": "It becomes infinite",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is typically used for VHF television and FM radio reception where a broad horizontal coverage is needed?",
+    "a": "Stacked array of folded dipoles",
+    "b": "Parabolic reflector",
+    "c": "Rhombic antenna",
+    "d": "Helical antenna in axial mode",
+    "ans": "a"
+  },
+  {
+    "q": "What represents the main beam of radiation in a highly directional antenna pattern?",
+    "a": "Minor lobe",
+    "b": "Major lobe (principal lobe)",
+    "c": "Sidelobe",
+    "d": "Backlobe",
+    "ans": "b"
+  },
+  {
+    "q": "The unwanted peaks of radiation that exist in directions other than the main beam are called _____.",
+    "a": "Major lobes",
+    "b": "Sidelobes",
+    "c": "Nulls",
+    "d": "Isotropic rays",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the beamwidth of an antenna as the directivity is increased?",
+    "a": "It increases",
+    "b": "It decreases",
+    "c": "It remains unchanged",
+    "d": "It shifts polarization",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the ratio of the maximum radiation intensity to the average radiation intensity?",
+    "a": "Aperture efficiency",
+    "b": "Directivity",
+    "c": "Polarization efficiency",
+    "d": "Front-to-back ratio",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the radiation pattern of a half-wave dipole if it is mounted vertically instead of horizontally?",
+    "a": "It remains horizontally polarized but broadside directional",
+    "b": "Its polarization becomes vertical and its horizontal pattern becomes omnidirectional",
+    "c": "Its gain increases by 3 dB",
+    "d": "It develops a unidirectional pattern",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of antenna arrays are stacked vertically to compress the vertical beamwidth and concentrate power at the horizon?",
+    "a": "Collinear arrays",
+    "b": "Yagi arrays",
+    "c": "End-fire arrays",
+    "d": "Log-periodic arrays",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary factor determining the radiation resistance of a loop antenna?",
+    "a": "The wire diameter",
+    "b": "The area enclosed by the loop relative to the square of the wavelength",
+    "c": "The operating voltage",
+    "d": "The feeder line impedance",
+    "ans": "b"
+  },
+  {
+    "q": "What type of antenna is constructed from two flat, metal triangular plates meeting at their vertices, simulating a wideband dipole?",
+    "a": "Horn",
+    "b": "Bow-tie antenna",
+    "c": "Loop",
+    "d": "Yagi",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a standard half-wave dipole antenna designed to operate at 100 MHz. Use the practical formula L = 468 / f (MHz) in feet.",
+    "a": "4.68 feet",
+    "b": "4.68 meters",
+    "c": "2.34 feet",
+    "d": "9.36 feet",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a standard half-wave dipole antenna designed to operate at 100 MHz in meters. Use the practical formula L = 143 / f (MHz) in meters.",
+    "a": "1.43 meters",
+    "b": "2.86 meters",
+    "c": "0.71 meters",
+    "d": "5.72 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a quarter-wave vertical monopole antenna designed to operate at 150 MHz. Use the formula L = 234 / f (MHz) in feet.",
+    "a": "1.56 feet",
+    "b": "3.12 feet",
+    "c": "0.78 feet",
+    "d": "6.24 feet",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a quarter-wave vertical monopole antenna designed to operate at 150 MHz in meters. Use the formula L = 71.5 / f (MHz) in meters.",
+    "a": "0.477 meters (47.7 cm)",
+    "b": "0.954 meters (95.4 cm)",
+    "c": "0.238 meters (23.8 cm)",
+    "d": "1.908 meters (190.8 cm)",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 72 ohms and an ohmic loss resistance of 8 ohms. Calculate the radiation efficiency of the antenna.",
+    "a": "90.0%",
+    "b": "80.0%",
+    "c": "95.0%",
+    "d": "10.0%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 32 ohms and a loss resistance of 8 ohms. Find the radiation efficiency.",
+    "a": "80%",
+    "b": "75%",
+    "c": "90%",
+    "d": "20%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input power of 500 W. If the feedpoint current is 4 A RMS, calculate the radiation resistance under the assumption of a 100% efficient system.",
+    "a": "31.25 ohms",
+    "b": "125.00 ohms",
+    "c": "62.50 ohms",
+    "d": "15.62 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna radiates 120 W of power when supplied with a feed current of 2 A. Calculate the radiation resistance.",
+    "a": "30 ohms",
+    "b": "60 ohms",
+    "c": "15 ohms",
+    "d": "120 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna with a radiation resistance of 50 ohms and a loss resistance of 5 ohms has a directive gain of 12 (absolute ratio). Calculate the power gain of this antenna.",
+    "a": "10.91",
+    "b": "12.00",
+    "c": "11.50",
+    "d": "9.50",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a power gain of 15. If its radiation efficiency is 93.3%, calculate its directive gain.",
+    "a": "16.08",
+    "b": "14.00",
+    "c": "15.00",
+    "d": "18.25",
+    "ans": "a"
+  },
+  {
+    "q": "Convert an antenna gain of 15 dBd (gain over a half-wave dipole) to its equivalent gain over an isotropic radiator (dBi).",
+    "a": "17.15 dBi",
+    "b": "12.85 dBi",
+    "c": "15.00 dBi",
+    "d": "19.30 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Convert an antenna gain of 22 dBi (gain over an isotropic radiator) to its equivalent gain over a half-wave dipole (dBd).",
+    "a": "19.85 dBd",
+    "b": "24.15 dBd",
+    "c": "22.00 dBd",
+    "d": "17.70 dBd",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an absolute power gain of 40. Convert this gain into decibels relative to an isotropic radiator (dBi).",
+    "a": "16.02 dBi",
+    "b": "13.01 dBi",
+    "c": "19.30 dBi",
+    "d": "26.02 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter delivers 100 W of RF power to an antenna with a gain of 13 dBi. Assuming no feeder line losses, calculate the Effective Radiated Power (ERP) of the system in Watts.",
+    "a": "1995 W",
+    "b": "1000 W (1 kW)",
+    "c": "1300 W (1.3 kW)",
+    "d": "500 W",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a power of 50 W. It is connected to an antenna with a gain of 10 dBd through a coaxial cable with a loss of 3 dB. Calculate the Effective Radiated Power (ERP) in Watts.",
+    "a": "250 W",
+    "b": "500 W",
+    "c": "125 W",
+    "d": "100 W",
+    "ans": "a"
+  },
+  {
+    "q": "A base station transmitter has a power output of 45 dBm. If it is connected to a sector antenna with a gain of 12 dBi through a feedline with 2 dB loss, calculate the ERP of the base station in dBm.",
+    "a": "55 dBm",
+    "b": "57 dBm",
+    "c": "53 dBm",
+    "d": "45 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the base station ERP of 55 dBm from the previous question into Watts.",
+    "a": "316.2 W",
+    "b": "100.0 W",
+    "c": "31.6 W",
+    "d": "55.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical diameter of a parabolic dish antenna required to achieve a gain of 30 dBi at 4 GHz, assuming an aperture efficiency of 55%.",
+    "a": "2.41 meters",
+    "b": "1.20 meters",
+    "c": "4.82 meters",
+    "d": "3.61 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a physical diameter of 3.0 meters and operates at 6 GHz. Calculate the beamwidth between half-power points using the formula theta = 70 * lambda / D.",
+    "a": "1.17°",
+    "b": "2.34°",
+    "c": "0.58°",
+    "d": "3.50°",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic antenna has a physical diameter of 2.0 meters and operates at 10 GHz. Calculate the antenna power gain in dBi, assuming an aperture efficiency of 55%.",
+    "a": "44.15 dBi",
+    "b": "38.15 dBi",
+    "c": "46.30 dBi",
+    "d": "41.15 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the effective capture area (effective aperture) of a half-wave dipole operating at 150 MHz in free space (lambda = 2 meters). Note: Gd = 1.64.",
+    "a": "0.522 square meters",
+    "b": "1.044 square meters",
+    "c": "0.261 square meters",
+    "d": "2.088 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a directive gain of 20 dB at a frequency of 1 GHz. Calculate its effective capture area in square meters.",
+    "a": "0.716 square meters",
+    "b": "1.432 square meters",
+    "c": "0.358 square meters",
+    "d": "3.580 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the free space path loss (attenuation) in dB between two antennas separated by a distance of 10 km operating at a frequency of 2 GHz. Use the free space path loss formula FSPL = 32.44 + 20 log(d_km) + 20 log(f_MHz).",
+    "a": "118.46 dB",
+    "b": "108.46 dB",
+    "c": "128.46 dB",
+    "d": "98.46 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna current is measured to increase by 3.4 times. Calculate the factor by which the radiated power increases.",
+    "a": "11.56 times",
+    "b": "3.40 times",
+    "c": "6.80 times",
+    "d": "15.33 times",
+    "ans": "a"
+  },
+  {
+    "q": "If the current of an antenna increases by 2.5 times, the radiated power will increase to what percentage of its original value?",
+    "a": "625%",
+    "b": "250%",
+    "c": "500%",
+    "d": "125%",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter radiates 50 W of power with a feed current of 1.5 A. If the current is increased to 3.0 A, what is the new radiated power?",
+    "a": "200 W",
+    "b": "100 W",
+    "c": "150 W",
+    "d": "300 W",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE Board problem (November 2001) asks to find the suitable size of a ground plane radial for a frequency of 220 MHz. Assuming a standard quarter-wavelength length, calculate this size in meters.",
+    "a": "0.34 meters",
+    "b": "0.24 meters",
+    "c": "0.50 meters",
+    "d": "1.20 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the suitable length of a quarter-wave ground plane antenna element for a frequency of 450 MHz in meters.",
+    "a": "0.166 meters (16.6 cm)",
+    "b": "0.332 meters (33.2 cm)",
+    "c": "0.083 meters (8.3 cm)",
+    "d": "0.664 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A half-wave dipole is driven by a transmitter supplying 100 W of RF power. If the radiation resistance is 73 ohms and loss resistance is 2 ohms, calculate the RMS feed current.",
+    "a": "1.15 A",
+    "b": "1.37 A",
+    "c": "2.30 A",
+    "d": "0.85 A",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a 5/8 wavelength vertical antenna operating at 27 MHz in meters. Use the formula L = 5/8 * lambda.",
+    "a": "6.94 meters",
+    "b": "11.11 meters",
+    "c": "5.55 meters",
+    "d": "3.47 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a physical diameter of 4 meters and operates at 12 GHz. Calculate the beamwidth between half-power points.",
+    "a": "0.4375°",
+    "b": "0.8750°",
+    "c": "0.2187°",
+    "d": "1.7500°",
+    "ans": "a"
+  },
+  {
+    "q": "A helical antenna operating in axial mode has 12 turns, a turn spacing of 0.24 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
+    "a": "43.2 (which is 16.35 dBi)",
+    "b": "12.5 (which is 10.97 dBi)",
+    "c": "86.4 (which is 19.37 dBi)",
+    "d": "21.6 (which is 13.34 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda.",
+    "a": "140 ohms",
+    "b": "70 ohms",
+    "c": "150 ohms",
+    "d": "300 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An HF rhombic antenna is designed with a leg length of 3 wavelengths at 14 MHz. Find the leg length in meters.",
+    "a": "64.28 meters",
+    "b": "21.43 meters",
+    "c": "42.86 meters",
+    "d": "128.56 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the boundary distance between the Fresnel near-field and Fraunhofer far-field zones for an antenna with a maximum dimension of 2.0 meters operating at 3 GHz (lambda = 0.1 meters)? Use the formula R = 2 * D^2 / lambda.",
+    "a": "80 meters",
+    "b": "40 meters",
+    "c": "20 meters",
+    "d": "160 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a maximum dimension of 0.5 meters and operates at 6 GHz (lambda = 0.05 meters). Calculate the far-field boundary distance.",
+    "a": "10 meters",
+    "b": "5 meters",
+    "c": "20 meters",
+    "d": "15 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a field strength of 100 microvolts per meter at a distance of 10 km. What is the expected field strength at a distance of 40 km in a free space environment?",
+    "a": "25 microvolts per meter",
+    "b": "50 microvolts per meter",
+    "c": "12.5 microvolts per meter",
+    "d": "6.25 microvolts per meter",
+    "ans": "a"
+  },
+  {
+    "q": "A receiving antenna with a gain of 6 dBi is placed in a field with a power density of 10^-8 Watts per square meter. If the frequency is 500 MHz (lambda = 0.6 meters), calculate the power delivered to a matched receiver.",
+    "a": "1.14 x 10^-8 Watts",
+    "b": "1.14 x 10^-9 Watts",
+    "c": "2.28 x 10^-9 Watts",
+    "d": "5.70 x 10^-9 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A 100 W transmitter is connected to a half-wave dipole (gain = 2.15 dBi). If the line loss is 1.15 dB, calculate the EIRP (Effective Isotropic Radiated Power) in dBW.",
+    "a": "21.0 dBW",
+    "b": "20.0 dBW",
+    "c": "23.15 dBW",
+    "d": "18.85 dBW",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the EIRP of 21 dBW from the previous question into Watts.",
+    "a": "125.89 W",
+    "b": "100.00 W",
+    "c": "200.00 W",
+    "d": "150.00 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna array consists of 4 half-wave dipoles stacked vertically. If each dipole provides a gain of 2.15 dBi and stacking them provides an additional 6 dB of array gain, what is the total gain of the array in dBi?",
+    "a": "8.15 dBi",
+    "b": "5.15 dBSPL",
+    "c": "11.15 dBi",
+    "d": "14.15 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a diameter of 3.0 meters and operates at a microwave frequency of 10 GHz. Calculate the beamwidth between half-power points using the approximation BW = 70 * lambda / D.",
+    "a": "0.70°",
+    "b": "1.40°",
+    "c": "0.35°",
+    "d": "2.10°",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 3 meters, frequency = 10 GHz, wavelength = 3 cm) using the formula G = 6 * (D / lambda)^2.",
+    "a": "41,666.67 (46.2 dB)",
+    "b": "20,833.33 (43.2 dB)",
+    "c": "83,333.33 (49.2 dB)",
+    "d": "10,000.00 (40.0 dB)",
+    "ans": "a"
+  },
+  {
+    "q": "A biconical antenna has an input impedance that remains relatively constant over a very wide frequency range. If it operates with an SWR of less than 1.5 across its entire band, what is the maximum reflection coefficient?",
+    "a": "0.20",
+    "b": "0.33",
+    "c": "0.10",
+    "d": "0.50",
+    "ans": "a"
+  },
+  {
+    "q": "A rhombic antenna has an axial leg length of 150 meters. If the operating frequency is 10 MHz (lambda = 30 meters), how many wavelengths long is each leg?",
+    "a": "5.0 wavelengths",
+    "b": "10.0 wavelengths",
+    "c": "2.5 wavelengths",
+    "d": "7.5 wavelengths",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a standard vertical ground-plane antenna designed to resonate at 144 MHz (using L_meters = 71.25 / f_MHz).",
+    "a": "0.7125 meters",
+    "b": "1.4250 meters",
+    "c": "0.4750 meters",
+    "d": "0.2375 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length of a half-wave dipole antenna designed for an FM station operating at 91.5 MHz (using L_meters = 142.5 / f_MHz).",
+    "a": "1.425 meters",
+    "b": "0.712 meters",
+    "c": "2.850 meters",
+    "d": "1.500 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna tuned to 27 MHz (CB band) using the formula L_feet = 468 / f_MHz.",
+    "a": "4.68 feet",
+    "b": "9.36 feet",
+    "c": "17.33 feet",
+    "d": "2.34 feet",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 73 ohms and a ground loss resistance of 27 ohms. Find the efficiency of this antenna.",
+    "a": "73%",
+    "b": "27%",
+    "c": "100%",
+    "d": "50%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna operates with a power gain of 8 dBi and is supplied with 50 W of RF power. If the feedline loss is neglected, calculate the EIRP of the antenna in Watts.",
+    "a": "315.5 W",
+    "b": "400.0 W",
+    "c": "150.0 W",
+    "d": "50.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input current of 5 A RMS. When the antenna is modulated by an AM transmitter, the current increases to 5.5 A. Calculate the factor by which the radiated power has increased.",
+    "a": "1.21 times",
+    "b": "1.10 times",
+    "c": "1.50 times",
+    "d": "2.20 times",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter has an output power of 1 kW and is connected to a 10 dBd gain antenna. Calculate the ERP in kW.",
+    "a": "10 kW",
+    "b": "1 kW",
+    "c": "20 kW",
+    "d": "5 kW",
+    "ans": "a"
+  },
+  {
+    "q": "A 10-element Yagi-Uda antenna has an absolute power gain of 16 (relative to an isotropic radiator). What is this gain in dBi?",
+    "a": "12.04 dBi",
+    "b": "16.00 dBi",
+    "c": "10.00 dBi",
+    "d": "6.02 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the capture area of a microwave horn antenna with a gain of 15 dBi at a frequency of 6 GHz (lambda = 0.025 meters).",
+    "a": "0.00157 square meters",
+    "b": "0.01570 square meters",
+    "c": "0.15700 square meters",
+    "d": "0.00015 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a diameter of 1.2 meters and an aperture efficiency of 55%. What is its effective capture area in square meters?",
+    "a": "0.622 square meters",
+    "b": "1.131 square meters",
+    "c": "0.311 square meters",
+    "d": "1.200 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the power gain in dBi for the parabolic dish described in the previous question (diameter = 1.2 meters, capture area = 0.622 m^2) operating at 12 GHz (lambda = 0.025 m). Use the formula G = 4 * pi * A_e / lambda^2.",
+    "a": "39.96 dBi",
+    "b": "35.96 dBi",
+    "c": "41.15 dBi",
+    "d": "37.50 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna designed for an amateur radio frequency of 14.2 MHz.",
+    "a": "32.96 feet",
+    "b": "16.48 feet",
+    "c": "65.92 feet",
+    "d": "46.80 feet",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in meters of a quarter-wave monopole antenna designed for an VHF marine radio operating at 156.8 MHz.",
+    "a": "0.456 meters",
+    "b": "0.912 meters",
+    "c": "0.228 meters",
+    "d": "1.824 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 36 ohms and a loss resistance of 4 ohms. What is the efficiency of the antenna?",
+    "a": "90%",
+    "b": "80%",
+    "c": "95%",
+    "d": "10%",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter delivers 200 W of RF power to an antenna with a gain of 16 dBi. Assuming no feeder line losses, calculate the EIRP of the system in Watts.",
+    "a": "7962.14 W",
+    "b": "3200.00 W (3.2 kW)",
+    "c": "1600.00 W (1.6 kW)",
+    "d": "2000.00 W (2.0 kW)",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a power of 100 W. It is connected to an antenna with a gain of 12 dBd through a coaxial cable with a loss of 2 dB. Calculate the Effective Radiated Power (ERP) in Watts.",
+    "a": "1000 W",
+    "b": "500 W",
+    "c": "2000 W",
+    "d": "1200 W",
+    "ans": "a"
+  },
+  {
+    "q": "A base station transmitter has a power output of 43 dBm. If it is connected to a sector antenna with a gain of 15 dBi through a feedline with 3 dB loss, calculate the ERP of the base station in dBm.",
+    "a": "55 dBm",
+    "b": "58 dBm",
+    "c": "53 dBm",
+    "d": "43 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the base station ERP of 53 dBm from the previous question into Watts.",
+    "a": "199.5 W",
+    "b": "100.0 W",
+    "c": "316.2 W",
+    "d": "53.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical diameter of a parabolic dish antenna required to achieve a gain of 40 dBi at 12 GHz, assuming an aperture efficiency of 55%.",
+    "a": "1.07 meters",
+    "b": "0.54 meters",
+    "c": "2.14 meters",
+    "d": "1.50 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a physical diameter of 1.8 meters and operates at 10 GHz. Calculate the beamwidth between half-power points using the formula theta = 70 * lambda / D.",
+    "a": "1.17°",
+    "b": "2.34°",
+    "c": "0.58°",
+    "d": "3.50°",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic antenna has a physical diameter of 3.0 meters and operates at 4 GHz. Calculate the antenna power gain in dBi, assuming an aperture efficiency of 55%.",
+    "a": "39.96 dBi",
+    "b": "35.96 dBi",
+    "c": "41.15 dBi",
+    "d": "37.50 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the effective capture area (effective aperture) of a half-wave dipole operating at 300 MHz in free space (lambda = 1 meter). Note: Gd = 1.64.",
+    "a": "0.131 square meters",
+    "b": "0.262 square meters",
+    "c": "0.065 square meters",
+    "d": "0.522 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a directive gain of 15 dB at a frequency of 2 GHz. Calculate its effective capture area in square meters.",
+    "a": "0.057 square meters",
+    "b": "0.114 square meters",
+    "c": "0.028 square meters",
+    "d": "0.228 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the free space path loss (attenuation) in dB between two antennas separated by a distance of 20 km operating at a frequency of 5 GHz. Use the free space path loss formula FSPL = 32.44 + 20 log(d_km) + 20 log(f_MHz).",
+    "a": "132.44 dB",
+    "b": "122.44 dB",
+    "c": "142.44 dB",
+    "d": "112.44 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna current is measured to increase by 2.2 times. Calculate the factor by which the radiated power increases.",
+    "a": "4.84 times",
+    "b": "2.20 times",
+    "c": "4.40 times",
+    "d": "8.80 times",
+    "ans": "a"
+  },
+  {
+    "q": "If the current of an antenna increases by 1.8 times, the radiated power will increase to what percentage of its original value?",
+    "a": "324%",
+    "b": "180%",
+    "c": "360%",
+    "d": "120%",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter radiates 100 W of power with a feed current of 2.0 A. If the current is increased to 4.0 A, what is the new radiated power?",
+    "a": "400 W",
+    "b": "200 W",
+    "c": "300 W",
+    "d": "800 W",
+    "ans": "a"
+  },
+  {
+    "q": "Find the suitable length of a quarter-wave ground plane antenna element for a frequency of 900 MHz in meters.",
+    "a": "0.083 meters (8.3 cm)",
+    "b": "0.166 meters (16.6 cm)",
+    "c": "0.041 meters (4.1 cm)",
+    "d": "0.332 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A half-wave dipole is driven by a transmitter supplying 200 W of RF power. If the radiation resistance is 73 ohms and loss resistance is 2 ohms, calculate the RMS feed current.",
+    "a": "1.63 A",
+    "b": "2.30 A",
+    "c": "3.26 A",
+    "d": "1.15 A",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a 5/8 wavelength vertical antenna operating at 144 MHz in meters. Use the formula L = 5/8 * lambda.",
+    "a": "1.30 meters",
+    "b": "2.08 meters",
+    "c": "1.04 meters",
+    "d": "0.65 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a diameter of 2.4 meters and operates at 6 GHz. Calculate the beamwidth between half-power points.",
+    "a": "1.458°",
+    "b": "2.916°",
+    "c": "0.729°",
+    "d": "5.832°",
+    "ans": "a"
+  },
+  {
+    "q": "A helical antenna operating in axial mode has 15 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.1 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
+    "a": "68.06 (which is 18.33 dBi)",
+    "b": "34.03 (which is 15.33 dBi)",
+    "c": "136.12 (which is 21.33 dBi)",
+    "d": "27.22 (which is 14.35 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda.",
+    "a": "154 ohms",
+    "b": "77 ohms",
+    "c": "140 ohms",
+    "d": "300 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An HF rhombic antenna is designed with a leg length of 4 wavelengths at 21 MHz. Find the leg length in meters.",
+    "a": "57.14 meters",
+    "b": "14.28 meters",
+    "c": "28.57 meters",
+    "d": "114.28 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the boundary distance between the Fresnel near-field and Fraunhofer far-field zones for an antenna with a maximum dimension of 1.5 meters operating at 6 GHz (lambda = 0.05 meters)? Use the formula R = 2 * D^2 / lambda.",
+    "a": "90 meters",
+    "b": "45 meters",
+    "c": "22.5 meters",
+    "d": "180 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a maximum dimension of 1.0 meters and operates at 10 GHz (lambda = 0.03 meters). Calculate the far-field boundary distance.",
+    "a": "66.67 meters",
+    "b": "33.33 meters",
+    "c": "133.33 meters",
+    "d": "50.00 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a field strength of 200 microvolts per meter at a distance of 5 km. What is the expected field strength at a distance of 20 km in a free space environment?",
+    "a": "50 microvolts per meter",
+    "b": "100 microvolts per meter",
+    "c": "25 microvolts per meter",
+    "d": "12.5 microvolts per meter",
+    "ans": "a"
+  },
+  {
+    "q": "A receiving antenna with a gain of 10 dBi is placed in a field with a power density of 10^-8 Watts per square meter. If the frequency is 1.5 GHz (lambda = 0.2 meters), calculate the power delivered to a matched receiver.",
+    "a": "3.18 x 10^-10 Watts",
+    "b": "3.18 x 10^-9 Watts",
+    "c": "6.36 x 10^-10 Watts",
+    "d": "1.59 x 10^-10 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A 50 W transmitter is connected to a half-wave dipole (gain = 2.15 dBi). If the line loss is 1.5 dB, calculate the EIRP (Effective Isotropic Radiated Power) in dBW.",
+    "a": "17.65 dBW",
+    "b": "19.15 dBW",
+    "c": "20.65 dBW",
+    "d": "15.00 dBW",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the EIRP of 17.65 dBW from the previous question into Watts.",
+    "a": "58.21 W",
+    "b": "50.00 W",
+    "c": "100.00 W",
+    "d": "75.00 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna array consists of 8 half-wave dipoles stacked vertically. If each dipole provides a gain of 2.15 dBi and stacking them provides an additional 9 dB of array gain, what is the total gain of the array in dBi?",
+    "a": "11.15 dBi",
+    "b": "14.15 dBi",
+    "c": "17.15 dBi",
+    "d": "20.15 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a diameter of 2.0 meters and operates at a microwave frequency of 15 GHz. Calculate the beamwidth between half-power points using the approximation BW = 70 * lambda / D.",
+    "a": "0.70°",
+    "b": "1.40°",
+    "c": "0.35°",
+    "d": "2.10°",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 2 meters, frequency = 15 GHz, wavelength = 2 cm) using the formula G = 6 * (D / lambda)^2.",
+    "a": "60,000 (which is 47.78 dBi)",
+    "b": "30,000 (which is 44.77 dBi)",
+    "c": "120,000 (which is 50.79 dBi)",
+    "d": "15,000 (which is 41.76 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "A rhombic antenna has an axial leg length of 200 meters. If the operating frequency is 15 MHz (lambda = 20 meters), how many wavelengths long is each leg?",
+    "a": "10.0 wavelengths",
+    "b": "20.0 wavelengths",
+    "c": "5.0 wavelengths",
+    "d": "15.0 wavelengths",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna operates with a power gain of 12 dBi and is supplied with 100 W of RF power. If the feedline loss is neglected, calculate the EIRP of the antenna in Watts.",
+    "a": "1584.89 W",
+    "b": "1200.00 W (1.2 kW)",
+    "c": "3000.00 W (3.0 kW)",
+    "d": "600.00 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input current of 8 A RMS. When the antenna is modulated by an AM transmitter, the current increases to 8.8 A. Calculate the factor by which the radiated power has increased.",
+    "a": "1.21 times",
+    "b": "1.10 times",
+    "c": "1.50 times",
+    "d": "2.20 times",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter has an output power of 2 kW and is connected to a 13 dBd gain antenna. Calculate the ERP in kW.",
+    "a": "39.9 kW",
+    "b": "20.0 kW",
+    "c": "10.0 kW",
+    "d": "50.0 kW",
+    "ans": "a"
+  },
+  {
+    "q": "A 12-element Yagi-Uda antenna has an absolute power gain of 20 (relative to an isotropic radiator). What is this gain in dBi?",
+    "a": "13.01 dBi",
+    "b": "15.00 dBi",
+    "c": "10.00 dBi",
+    "d": "8.00 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the capture area of a microwave horn antenna with a gain of 18 dBi at a frequency of 10 GHz (lambda = 0.03 meters).",
+    "a": "0.00452 square meters",
+    "b": "0.04520 square meters",
+    "c": "0.45200 square meters",
+    "d": "0.00045 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a diameter of 1.8 meters and an aperture efficiency of 55%. What is its effective capture area in square meters?",
+    "a": "1.399 square meters",
+    "b": "2.544 square meters",
+    "c": "0.700 square meters",
+    "d": "3.000 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the power gain in dBi for the parabolic dish described in the previous question (diameter = 1.8 meters, capture area = 1.399 m^2) operating at 6 GHz (lambda = 0.05 m). Use the formula G = 4 * pi * A_e / lambda^2.",
+    "a": "38.46 dBi",
+    "b": "35.46 dBi",
+    "c": "41.15 dBi",
+    "d": "37.50 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna designed for an amateur radio frequency of 21.3 MHz.",
+    "a": "21.97 feet",
+    "b": "10.98 feet",
+    "c": "43.94 feet",
+    "d": "32.00 feet",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in meters of a quarter-wave monopole antenna designed for an VHF marine radio operating at 162.0 MHz.",
+    "a": "0.441 meters",
+    "b": "0.882 meters",
+    "c": "0.220 meters",
+    "d": "1.764 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 45 ohms and a loss resistance of 5 ohms. What is the efficiency of the antenna?",
+    "a": "90%",
+    "b": "80%",
+    "c": "95%",
+    "d": "10%",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter delivers 500 W of RF power to an antenna with a gain of 12 dBi. Assuming no feeder line losses, calculate the EIRP of the system in Watts.",
+    "a": "7924.4 W",
+    "b": "5000.0 W (5.0 kW)",
+    "c": "6000.0 W (6.0 kW)",
+    "d": "1000.0 W (1.0 kW)",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a power of 150 W. It is connected to an antenna with a gain of 10 dBd through a coaxial cable with a loss of 3 dB. Calculate the Effective Radiated Power (ERP) in Watts.",
+    "a": "750 W",
+    "b": "375 W",
+    "c": "1500 W",
+    "d": "1000 W",
+    "ans": "a"
+  },
+  {
+    "q": "A base station transmitter has a power output of 46 dBm. If it is connected to a sector antenna with a gain of 12 dBi through a feedline with 2 dB loss, calculate the ERP of the base station in dBm.",
+    "a": "56 dBm",
+    "b": "58 dBm",
+    "c": "54 dBm",
+    "d": "46 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the base station ERP of 56 dBm from the previous question into Watts.",
+    "a": "398.1 W",
+    "b": "100.0 W",
+    "c": "316.2 W",
+    "d": "56.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical diameter of a parabolic dish antenna required to achieve a gain of 35 dBi at 6 GHz, assuming an aperture efficiency of 55%.",
+    "a": "1.35 meters",
+    "b": "0.68 meters",
+    "c": "2.70 meters",
+    "d": "1.80 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a physical diameter of 1.2 meters and operates at 15 GHz. Calculate the beamwidth between half-power points using the formula theta = 70 * lambda / D.",
+    "a": "1.17°",
+    "b": "2.34°",
+    "c": "0.58°",
+    "d": "3.50°",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic antenna has a physical diameter of 1.8 meters and operates at 5 GHz. Calculate the antenna power gain in dBi, assuming an aperture efficiency of 55%.",
+    "a": "37.46 dBi",
+    "b": "35.46 dBi",
+    "c": "41.15 dBi",
+    "d": "37.50 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the effective capture area (effective aperture) of a half-wave dipole operating at 150 MHz in free space (lambda = 2 meters). Note: Gd = 1.64.",
+    "a": "0.522 square meters",
+    "b": "1.044 square meters",
+    "c": "0.261 square meters",
+    "d": "2.088 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a directive gain of 12 dB at a frequency of 3 GHz. Calculate its effective capture area in square meters.",
+    "a": "0.0113 square meters",
+    "b": "0.0226 square meters",
+    "c": "0.0056 square meters",
+    "d": "0.0452 square meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the free space path loss (attenuation) in dB between two antennas separated by a distance of 15 km operating at a frequency of 3 GHz. Use the free space path loss formula FSPL = 32.44 + 20 log(d_km) + 20 log(f_MHz).",
+    "a": "125.50 dB",
+    "b": "115.50 dB",
+    "c": "135.50 dB",
+    "d": "105.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna current is measured to increase by 1.5 times. Calculate the factor by which the radiated power increases.",
+    "a": "2.25 times",
+    "b": "1.50 times",
+    "c": "3.00 times",
+    "d": "4.50 times",
+    "ans": "a"
+  },
+  {
+    "q": "If the current of an antenna increases by 1.2 times, the radiated power will increase to what percentage of its original value?",
+    "a": "144%",
+    "b": "120%",
+    "c": "240%",
+    "d": "110%",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter radiates 200 W of power with a feed current of 3.0 A. If the current is increased to 6.0 A, what is the new radiated power?",
+    "a": "800 W",
+    "b": "400 W",
+    "c": "600 W",
+    "d": "1200 W",
+    "ans": "a"
+  },
+  {
+    "q": "Find the suitable length of a quarter-wave ground plane antenna element for a frequency of 1.2 GHz in meters.",
+    "a": "0.059 meters (5.9 cm)",
+    "b": "0.118 meters (11.8 cm)",
+    "c": "0.029 meters (2.9 cm)",
+    "d": "0.236 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A half-wave dipole is driven by a transmitter supplying 500 W of RF power. If the radiation resistance is 73 ohms and loss resistance is 2 ohms, calculate the RMS feed current.",
+    "a": "2.58 A",
+    "b": "3.65 A",
+    "c": "5.16 A",
+    "d": "1.82 A",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a 5/8 wavelength vertical antenna operating at 220 MHz in meters. Use the formula L = 5/8 * lambda.",
+    "a": "0.852 meters",
+    "b": "1.704 meters",
+    "c": "0.426 meters",
+    "d": "0.213 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a diameter of 3.6 meters and operates at 10 GHz. Calculate the beamwidth between half-power points.",
+    "a": "0.583°",
+    "b": "1.166°",
+    "c": "0.291°",
+    "d": "2.332°",
+    "ans": "a"
+  },
+  {
+    "q": "A helical antenna operating in axial mode has 20 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
+    "a": "75.0 (which is 18.75 dBi)",
+    "b": "37.5 (which is 15.74 dBi)",
+    "c": "150.0 (which is 21.76 dBi)",
+    "d": "30.0 (which is 14.77 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda.",
+    "a": "140 ohms",
+    "b": "70 ohms",
+    "c": "150 ohms",
+    "d": "300 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An HF rhombic antenna is designed with a leg length of 5 wavelengths at 14 MHz. Find the leg length in meters.",
+    "a": "107.14 meters",
+    "b": "21.43 meters",
+    "c": "42.86 meters",
+    "d": "214.28 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the boundary distance between the Fresnel near-field and Fraunhofer far-field zones for an antenna with a maximum dimension of 3.0 meters operating at 4 GHz (lambda = 0.075 meters)? Use the formula R = 2 * D^2 / lambda.",
+    "a": "240 meters",
+    "b": "120 meters",
+    "c": "60 meters",
+    "d": "480 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a maximum dimension of 1.2 meters and operates at 12 GHz (lambda = 0.025 meters). Calculate the far-field boundary distance.",
+    "a": "115.2 meters",
+    "b": "57.6 meters",
+    "c": "230.4 meters",
+    "d": "100.0 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a field strength of 300 microvolts per meter at a distance of 10 km. What is the expected field strength at a distance of 30 km in a free space environment?",
+    "a": "100 microvolts per meter",
+    "b": "150 microvolts per meter",
+    "c": "50 microvolts per meter",
+    "d": "25 microvolts per meter",
+    "ans": "a"
+  },
+  {
+    "q": "A receiving antenna with a gain of 8 dBi is placed in a field with a power density of 10^-8 Watts per square meter. If the frequency is 1.0 GHz (lambda = 0.3 meters), calculate the power delivered to a matched receiver.",
+    "a": "4.51 x 10^-9 Watts",
+    "b": "4.51 x 10^-10 Watts",
+    "c": "9.02 x 10^-10 Watts",
+    "d": "2.25 x 10^-10 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A 200 W transmitter is connected to a half-wave dipole (gain = 2.15 dBi). If the line loss is 2.15 dB, calculate the EIRP (Effective Isotropic Radiated Power) in dBW.",
+    "a": "23.0 dBW",
+    "b": "20.0 dBW",
+    "c": "25.15 dBW",
+    "d": "18.85 dBW",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the EIRP of 23 dBW from the previous question into Watts.",
+    "a": "199.53 W",
+    "b": "100.00 W",
+    "c": "316.23 W",
+    "d": "150.00 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna array consists of 6 half-wave dipoles stacked vertically. If each dipole provides a gain of 2.15 dBi and stacking them provides an additional 8 dB of array gain, what is the total gain of the array in dBi?",
+    "a": "10.15 dBi",
+    "b": "7.15 dBSPL",
+    "c": "13.15 dBi",
+    "d": "16.15 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a diameter of 4.5 meters and operates at a microwave frequency of 6 GHz. Calculate the beamwidth between half-power points using the approximation BW = 70 * lambda / D.",
+    "a": "0.77°",
+    "b": "1.54°",
+    "c": "0.38°",
+    "d": "2.31°",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 4.5 meters, frequency = 6 GHz, wavelength = 5 cm) using the formula G = 6 * (D / lambda)^2.",
+    "a": "48,600 (which is 46.87 dBi)",
+    "b": "24,300 (which is 43.86 dBi)",
+    "c": "97,200 (which is 49.88 dBi)",
+    "d": "12,150 (which is 40.85 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "A rhombic antenna has an axial leg length of 300 meters. If the operating frequency is 20 MHz (lambda = 20 meters), how many wavelengths long is each leg?",
+    "a": "15.0 wavelengths",
+    "b": "30.0 wavelengths",
+    "c": "7.5 wavelengths",
+    "d": "22.5 wavelengths",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a standard vertical ground-plane antenna designed to resonate at 146 MHz (using L_meters = 71.25 / f_MHz).",
+    "a": "0.4880 meters",
+    "b": "0.9760 meters",
+    "c": "0.2440 meters",
+    "d": "0.1220 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length of a half-wave dipole antenna designed for an FM station operating at 100 MHz (using L_meters = 142.5 / f_MHz).",
+    "a": "1.425 meters",
+    "b": "0.712 meters",
+    "c": "2.850 meters",
+    "d": "1.500 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna tuned to 50 MHz using the formula L_feet = 468 / f_MHz.",
+    "a": "9.36 feet",
+    "b": "4.68 feet",
+    "c": "18.72 feet",
+    "d": "2.34 feet",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 73 ohms and a ground loss resistance of 17 ohms. Find the efficiency of this antenna.",
+    "a": "81.11%",
+    "b": "18.89%",
+    "c": "100.00%",
+    "d": "50.00%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna operates with a power gain of 10 dBi and is supplied with 100 W of RF power. If the feedline loss is neglected, calculate the EIRP of the antenna in Watts.",
+    "a": "1000 W",
+    "b": "500 W",
+    "c": "2000 W",
+    "d": "100 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input current of 10 A RMS. When the antenna is modulated by an AM transmitter, the current increases to 11 A. Calculate the factor by which the radiated power has increased.",
+    "a": "1.21 times",
+    "b": "1.10 times",
+    "c": "1.50 times",
+    "d": "2.20 times",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter has an output power of 5 kW and is connected to a 10 dBd gain antenna. Calculate the ERP in kW.",
+    "a": "50 kW",
+    "b": "5 kW",
+    "c": "100 kW",
+    "d": "25 kW",
+    "ans": "a"
+  },
+  {
+    "q": "What is the modulation index of an AM transmitter if the carrier power is 800 W and the total radiated power is 1000 W?",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "0.60",
+    "d": "0.80",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP output of 500 W across a 50-ohm resistive antenna load. What is the peak voltage of the SSB envelope?",
+    "a": "223.6 V",
+    "b": "158.1 V",
+    "c": "316.2 V",
+    "d": "447.2 V",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 1000 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1455 kHz",
+    "b": "545 kHz",
+    "c": "1000 kHz",
+    "d": "1910 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM wave is modulated by an audio signal with a frequency of 1.5 kHz, producing a frequency deviation of 6 kHz. Calculate the modulation index.",
+    "a": "4",
+    "b": "2",
+    "c": "8",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, find the bandwidth of an FM signal with a frequency deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter has a peak deviation of 5 kHz. Find the signal-to-noise ratio improvement in dB at the output of the discriminator if the input S/N ratio is 20 dB and the modulating frequency is 1 kHz.",
+    "a": "18.75 dB",
+    "b": "15.00 dB",
+    "c": "22.50 dB",
+    "d": "12.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An FM carrier is modulated to its maximum allowable deviation of 75 kHz. What is the carrier swing of the transmitter?",
+    "a": "150 kHz",
+    "b": "75 kHz",
+    "c": "37.5 kHz",
+    "d": "300 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver is designed with an IF of 10.7 MHz. If the receiver is tuned to 98.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "109.2 MHz",
+    "b": "87.8 MHz",
+    "c": "98.5 MHz",
+    "d": "119.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of an 8-bit linear PCM system using the standard approximation formula SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 5.12 V. What is the step size of the quantizer?",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  }
+]

@@ -1,0 +1,2722 @@
+[
+  {
+    "q": "What is the general term for any undesired electrical energy that falls within the passband of a communication receiver and interferes with the wanted signal?",
+    "a": "Attenuation",
+    "b": "Noise",
+    "c": "Modulation",
+    "d": "Slew rate",
+    "ans": "b"
+  },
+  {
+    "q": "Electrical noise whose sources are located outside of the communication transmitter or receiver is classified as _____.",
+    "a": "Internal noise",
+    "b": "External noise",
+    "c": "Thermal noise",
+    "d": "Shot noise",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is the primary source of static or atmospheric noise?",
+    "a": "Solar flares",
+    "b": "Lightning discharges and thunderstorms",
+    "c": "Distant stars",
+    "d": "High-voltage power lines",
+    "ans": "b"
+  },
+  {
+    "q": "At what frequency range does atmospheric noise become negligible or show a dramatic decrease in intensity?",
+    "a": "Below 300 kHz",
+    "b": "Between 1 MHz and 10 MHz",
+    "c": "Above 30 MHz",
+    "d": "Above 10 GHz",
+    "ans": "c"
+  },
+  {
+    "q": "Extraterrestrial noise is subdivided into which two primary categories?",
+    "a": "Atmospheric and man-made noise",
+    "b": "Solar and cosmic noise",
+    "c": "Thermal and shot noise",
+    "d": "White and pink noise",
+    "ans": "b"
+  },
+  {
+    "q": "Extraterrestrial noise originating from distant stars and galaxies is referred to as _____.",
+    "a": "Solar noise",
+    "b": "Cosmic or galactic noise",
+    "c": "Atmospheric static",
+    "d": "Industrial noise",
+    "ans": "b"
+  },
+  {
+    "q": "Which solar cycle, characterized by intense electromagnetic disturbances and sunspots, repeats approximately every 11 years?",
+    "a": "Milankovitch cycle",
+    "b": "Solar cycle",
+    "c": "Chandler cycle",
+    "d": "Hale cycle",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of external noise is caused by automobile ignitions, electric motors, switching equipment, and fluorescent lights?",
+    "a": "Cosmic noise",
+    "b": "Man-made or industrial noise",
+    "c": "Atmospheric static",
+    "d": "Thermal noise",
+    "ans": "b"
+  },
+  {
+    "q": "Electrical noise generated entirely within the active or passive components of a communication receiver is called _____.",
+    "a": "External noise",
+    "b": "Internal noise",
+    "c": "Galactic static",
+    "d": "Industrial noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary physical cause of thermal agitation noise in a conductor?",
+    "a": "Random movement of free electrons due to thermal agitation",
+    "b": "Discrete arrival of electrons at an anode",
+    "c": "Division of current between multiple active paths",
+    "d": "The presence of crystalline defects in silicon",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is not a common alias for thermal agitation noise?",
+    "a": "Johnson noise",
+    "b": "White noise",
+    "c": "Shot noise",
+    "d": "Thermal noise",
+    "ans": "c"
+  },
+  {
+    "q": "Under what physical condition will thermal noise power in a component become exactly zero?",
+    "a": "At a temperature of 0 degrees Celsius",
+    "b": "At absolute zero temperature (0 K)",
+    "c": "When the component is shielded in a Faraday cage",
+    "d": "When the bandwidth of the system is infinite",
+    "ans": "b"
+  },
+  {
+    "q": "What type of internal noise is caused by the random arrival of discrete charge carriers (electrons or holes) at the electrodes of active semiconductor devices?",
+    "a": "Thermal noise",
+    "b": "Shot noise",
+    "c": "Flicker noise",
+    "d": "Burst noise",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of internal noise occurs specifically in multi-grid vacuum tubes or multi-electrode semiconductors due to the random division of current among different paths?",
+    "a": "Shot noise",
+    "b": "Partition noise",
+    "c": "Thermal noise",
+    "d": "Flicker noise",
+    "ans": "b"
+  },
+  {
+    "q": "Flicker noise, also known as 1/f noise, has a power spectral density that is inversely proportional to _____.",
+    "a": "The ambient temperature",
+    "b": "The operating frequency",
+    "c": "The system bandwidth",
+    "d": "The bias voltage",
+    "ans": "b"
+  },
+  {
+    "q": "At what frequency range does flicker noise become a major, dominant noise contributor in electronic circuits?",
+    "a": "At high microwave frequencies above 10 GHz",
+    "b": "At low audio frequencies below a few kilohertz",
+    "c": "At standard intermediate frequencies (455 kHz)",
+    "d": "In the ultraviolet spectrum",
+    "ans": "b"
+  },
+  {
+    "q": "What type of high-frequency internal noise is caused by the fact that the travel time of electrons crossing a semiconductor junction is comparable to the period of the high-frequency signal?",
+    "a": "Shot noise",
+    "b": "Transit-time noise",
+    "c": "Flicker noise",
+    "d": "Popcorn noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is another common name for the low-frequency, impulsive noise known as 'popcorn noise'?",
+    "a": "Johnson noise",
+    "b": "Burst noise",
+    "c": "Shot noise",
+    "d": "Transit noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical cause of burst or popcorn noise in semiconductor devices?",
+    "a": "Continuous vibration of the active crystal lattice",
+    "b": "Transient traps or crystal defects in the semiconductor junction",
+    "c": "Random splitting of the bias current among output pins",
+    "d": "Atmospheric electromagnetic pulses entering the circuit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ratio of the power of the desired signal to the power of the unwanted background noise called?",
+    "a": "Noise factor",
+    "b": "Signal-to-Noise Ratio (SNR)",
+    "c": "Noise Figure (NF)",
+    "d": "Directivity index",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the Signal-to-Noise Ratio at the input of a circuit to the Signal-to-Noise Ratio at its output is defined as the _____.",
+    "a": "Noise Figure (NF)",
+    "b": "Noise Factor (F)",
+    "c": "Equivalent Noise Temperature",
+    "d": "Noise spectral density",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Noise Figure (NF) of a mathematically perfect, noiseless amplifier in decibels?",
+    "a": "Negative infinity dB",
+    "b": "0 dB",
+    "c": "1 dB",
+    "d": "3 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Noise Factor (F) of an ideal, noiseless amplifier expressed as an absolute ratio?",
+    "a": "0",
+    "b": "1",
+    "c": "10",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "What kind of noise is introduced during the process of converting a continuous analog wave into discrete digital steps in a PCM system?",
+    "a": "Shot noise",
+    "b": "Quantizing noise",
+    "c": "Thermal noise",
+    "d": "Flicker noise",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes the unwanted electromagnetic coupling of a signal from one transmission line or circuit path into an adjacent path?",
+    "a": "Crosstalk",
+    "b": "Intermodulation",
+    "c": "Fading",
+    "d": "Aliasing",
+    "ans": "a"
+  },
+  {
+    "q": "Crosstalk that is measured at the transmitter end of a transmission line is referred to as _____.",
+    "a": "Far-End Crosstalk (FEXT)",
+    "b": "Near-End Crosstalk (NEXT)",
+    "c": "Adjacent Crosstalk",
+    "d": "Co-directional Crosstalk",
+    "ans": "b"
+  },
+  {
+    "q": "The rapid and unpredictable fluctuations in the received strength of a radio wave propagation signal are known as _____.",
+    "a": "Fading",
+    "b": "Crosstalk",
+    "c": "Thermal drift",
+    "d": "Slew distortion",
+    "ans": "a"
+  },
+  {
+    "q": "What type of fading occurs when different frequency components of a modulated signal undergo different amounts of attenuation over a multi-path propagation channel?",
+    "a": "Flat fading",
+    "b": "Selective fading",
+    "c": "Thermal fading",
+    "d": "Popcorn fading",
+    "ans": "b"
+  },
+  {
+    "q": "What type of noise consists of short-duration, high-amplitude voltage or current spikes, typically caused by lightning or nearby electrical switching?",
+    "a": "Thermal noise",
+    "b": "Impulse noise",
+    "c": "White noise",
+    "d": "Flicker noise",
+    "ans": "b"
+  },
+  {
+    "q": "Which noise type has a completely flat, constant power spectral density across all frequencies of interest?",
+    "a": "Pink noise",
+    "b": "White noise",
+    "c": "Red noise",
+    "d": "Popcorn noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a Low Noise Amplifier (LNA) placed at the very first stage of a receiver system?",
+    "a": "To provide the highest possible power output to drive speakers",
+    "b": "To establish a very low overall system noise figure by amplifying weak signals immediately",
+    "c": "To filter out all adjacent channel frequency components",
+    "d": "To act as a buffer for local oscillator leakage",
+    "ans": "b"
+  },
+  {
+    "q": "According to the laws of physics, if the ambient temperature of a resistor is increased, what is the effect on its thermal noise power?",
+    "a": "It decreases linearly",
+    "b": "It increases linearly",
+    "c": "It remains completely unchanged",
+    "d": "It drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which circuit design technique is commonly used at the transmitter to boost high-frequency components of a signal prior to transmission, helping to override high-frequency noise?",
+    "a": "De-emphasis",
+    "b": "Pre-emphasis",
+    "c": "Companding",
+    "d": "Quantization",
+    "ans": "b"
+  },
+  {
+    "q": "Which circuit in a receiver is used to restore the original frequency spectrum after pre-emphasis has been applied at the transmitter?",
+    "a": "Pre-emphasis",
+    "b": "De-emphasis",
+    "c": "Limiter",
+    "d": "Squelch",
+    "ans": "b"
+  },
+  {
+    "q": "Interference caused by two separate transmitters operating on the exact same assigned frequency is called _____.",
+    "a": "Adjacent-channel interference",
+    "b": "Co-channel interference",
+    "c": "Intermodulation interference",
+    "d": "Harmonic interference",
+    "ans": "b"
+  },
+  {
+    "q": "Interference caused by a transmitter operating on a frequency band immediately adjacent to the wanted signal channel is called _____.",
+    "a": "Co-channel interference",
+    "b": "Adjacent-channel interference",
+    "c": "Crosstalk",
+    "d": "Image frequency distortion",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main reason why FM receivers have superior noise immunity compared to standard AM receivers?",
+    "a": "FM signals operate at much lower carrier frequencies",
+    "b": "FM receivers utilize amplitude limiters to remove noise-induced amplitude variations",
+    "c": "FM transmitters require much less bandwidth",
+    "d": "FM sidebands contain no noise components",
+    "ans": "b"
+  },
+  {
+    "q": "What mathematical law defines the fundamental relationships of channel bandwidth, signal power, and white noise power to the absolute capacity of a channel?",
+    "a": "Ohm's Law",
+    "b": "Shannon-Hartley Theorem",
+    "c": "Carson's Rule",
+    "d": "Kirchhoff's Laws",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following noise types has a power spectral density that drops by 3 dB per octave as frequency increases?",
+    "a": "White noise",
+    "b": "Pink noise",
+    "c": "Red noise",
+    "d": "Johnson noise",
+    "ans": "b"
+  },
+  {
+    "q": "At what time of day is atmospheric or static noise generally at its highest level of intensity?",
+    "a": "At noon",
+    "b": "During the night",
+    "c": "In the early morning",
+    "d": "It is completely constant 24 hours a day",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of internal noise is also referred to as 'excess noise' or 'contact noise' because it occurs due to current fluctuations at contact points?",
+    "a": "Thermal noise",
+    "b": "Flicker noise",
+    "c": "Shot noise",
+    "d": "Transit-time noise",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the noise figure of a lossy passive transmission line or attenuator operating at room temperature?",
+    "a": "It is equal to 0 dB",
+    "b": "It is equal to its physical loss or attenuation in dB",
+    "c": "It is always equal to 3 dB",
+    "d": "It drops to a negative value",
+    "ans": "b"
+  },
+  {
+    "q": "What type of receiver circuit is designed to automatically mute or shut off the audio output when no RF signal is present, preventing loud background static?",
+    "a": "Limiter circuit",
+    "b": "Squelch circuit",
+    "c": "Discriminator",
+    "d": "AGC circuit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the ratio of the desired signal power to the total intermodulation distortion product power?",
+    "a": "Signal-to-Noise Ratio",
+    "b": "Carrier-to-Intermodulation Ratio (C/I)",
+    "c": "Noise Factor",
+    "d": "Total Harmonic Distortion (THD)",
+    "ans": "b"
+  },
+  {
+    "q": "The equivalent noise temperature of a component is a mathematical way of representing the component's internal noise as if it were thermal noise generated at a specific _____.",
+    "a": "Bandwidth limit",
+    "b": "Temperature in Kelvin",
+    "c": "Resistor value",
+    "d": "Voltage level",
+    "ans": "b"
+  },
+  {
+    "q": "In high-frequency receivers, which passive element can be placed at the input of the RF amplifier to protect the receiver from out-of-band noise?",
+    "a": "Low-pass filter",
+    "b": "Pre-selector bandpass filter",
+    "c": "De-emphasis network",
+    "d": "AGC loop",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the ratio of the total signal power (including harmonics) to the power of the harmonic distortion components?",
+    "a": "Noise factor",
+    "b": "Signal-to-Noise-and-Distortion (SINAD)",
+    "c": "Pre-emphasis index",
+    "d": "Crosstalk ratio",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of diode is designed to operate as a low-noise switch or mixer element at microwave frequencies because it has minimal shot noise?",
+    "a": "Zener diode",
+    "b": "Schottky barrier (hot-carrier) diode",
+    "c": "Varactor diode",
+    "d": "Tunnel diode",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when multiple signals of different frequencies pass through a non-linear device, creating new, unwanted frequency components?",
+    "a": "Flicker modulation",
+    "b": "Intermodulation distortion",
+    "c": "Phase jitter",
+    "d": "NEXT crosstalk",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the background electromagnetic radiation filling the universe, acting as a source of cosmic background noise?",
+    "a": "Solar wind",
+    "b": "Cosmic Microwave Background (CMB)",
+    "c": "Auroral absorption",
+    "d": "Van Allen static",
+    "ans": "b"
+  },
+  {
+    "q": "The noise produced by active semiconductor devices at very high frequencies is heavily dominated by which type of internal noise?",
+    "a": "Flicker noise",
+    "b": "Transit-time noise",
+    "c": "Popcorn noise",
+    "d": "Atmospheric static",
+    "ans": "b"
+  },
+  {
+    "q": "In a digital data network, what represents the ratio of the number of incorrect bits received to the total number of bits transmitted?",
+    "a": "S/N ratio",
+    "b": "Bit Error Rate (BER)",
+    "c": "Throughput efficiency",
+    "d": "Baud index",
+    "ans": "b"
+  },
+  {
+    "q": "What is the relationship between the Bit Error Rate (BER) and the Signal-to-Noise Ratio (SNR) in a digital communication link?",
+    "a": "BER increases as SNR increases",
+    "b": "BER decreases as SNR increases",
+    "c": "BER is completely independent of SNR",
+    "d": "BER and SNR are always equal",
+    "ans": "b"
+  },
+  {
+    "q": "Which layout design technique is crucial on printed circuit boards (PCBs) to minimize NEXT and FEXT crosstalk between adjacent high-speed traces?",
+    "a": "Increasing the trace length",
+    "b": "Placing ground traces or ground planes between signal traces",
+    "c": "Using unshielded wires",
+    "d": "Increasing the output resistance of the drivers",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of external noise is strongly influenced by local weather conditions, geography, and seasonal changes?",
+    "a": "Galactic cosmic noise",
+    "b": "Atmospheric static",
+    "c": "Thermal component noise",
+    "d": "Transit-time noise",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the thermal noise voltage of a resistor if its physical resistance value is halved, while keeping all other parameters constant?",
+    "a": "It remains the same",
+    "b": "It is reduced to 70.7% of its original value (by a factor of sqrt(0.5))",
+    "c": "It is halved",
+    "d": "It is doubled",
+    "ans": "b"
+  },
+  {
+    "q": "In communication receivers, what process is used to compensate for fading by utilizing multiple antennas separated in space?",
+    "a": "Companding",
+    "b": "Space diversity reception",
+    "c": "De-emphasis filtering",
+    "d": "Frequency-division multiplexing",
+    "ans": "b"
+  },
+  {
+    "q": "The noise power generated by a resistor is completely independent of which parameter?",
+    "a": "The system bandwidth",
+    "b": "The resistance value of the resistor",
+    "c": "The absolute temperature in Kelvin",
+    "d": "Boltzmann's constant",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical noise performance improvement obtained by cooling a receiver's front-end LNA to cryogenic temperatures?",
+    "a": "Thermal noise decreases because absolute temperature T is lowered",
+    "b": "Shot noise is eliminated completely",
+    "c": "Flicker noise is shifted to microwave frequencies",
+    "d": "Transit-time noise is bypassed",
+    "ans": "a"
+  },
+  {
+    "q": "What type of noise reduction technique uses an analog voice signal compression at the transmitter and expansion at the receiver to maintain a high S/N ratio?",
+    "a": "Pre-emphasis",
+    "b": "Companding",
+    "c": "Quantization",
+    "d": "Squelching",
+    "ans": "b"
+  },
+  {
+    "q": "Which frequency band is most susceptible to severe atmospheric and static noise?",
+    "a": "UHF and VHF bands",
+    "b": "LF and MF bands",
+    "c": "C-band and Ku-band",
+    "d": "Ka-band",
+    "ans": "b"
+  },
+  {
+    "q": "Which frequency band is the least susceptible to atmospheric static but highly affected by space and cosmic noise?",
+    "a": "VLF",
+    "b": "VHF and UHF",
+    "c": "LF",
+    "d": "MF",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a rapid, short-term variation in the phase or timing of a digital signal's transitions, often caused by circuit noise?",
+    "a": "Fading",
+    "b": "Jitter",
+    "c": "Crosstalk",
+    "d": "Harmonic lag",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of passive filter has a response that rolls off at a rate of 20 dB per decade, commonly used in basic de-emphasis circuits?",
+    "a": "1st-order RC low-pass filter",
+    "b": "2nd-order LC bandpass filter",
+    "c": "High-pass notch filter",
+    "d": "Comb filter",
+    "ans": "a"
+  },
+  {
+    "q": "The standard de-emphasis curve used in FM broadcasting in the United States has a time constant of _____.",
+    "a": "50 microseconds",
+    "b": "75 microseconds",
+    "c": "150 microseconds",
+    "d": "25 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "The standard de-emphasis curve used in FM broadcasting in Europe has a time constant of _____.",
+    "a": "75 microseconds",
+    "b": "50 microseconds",
+    "c": "100 microseconds",
+    "d": "25 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the unwanted generation of harmonic frequencies when a single-frequency sine wave is distorted by a non-linear amplifier?",
+    "a": "Intermodulation distortion",
+    "b": "Total Harmonic Distortion (THD)",
+    "c": "Quantization noise",
+    "d": "Partition noise",
+    "ans": "b"
+  },
+  {
+    "q": "Which electronic instrument is specifically designed to measure and display the frequency spectrum of noise and signals?",
+    "a": "Oscilloscope",
+    "b": "Spectrum analyzer",
+    "c": "Digital multimeter",
+    "d": "Frequency counter",
+    "ans": "b"
+  },
+  {
+    "q": "What type of noise is modeled mathematically as having a power density that is flat up to a specific cutoff frequency and zero thereafter?",
+    "a": "Pink noise",
+    "b": "Band-limited white noise",
+    "c": "Popcorn noise",
+    "d": "Flicker noise",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two major components of space noise?",
+    "a": "Static and industrial noise",
+    "b": "Solar noise and cosmic noise",
+    "c": "Thermal noise and shot noise",
+    "d": "Quantizing and partition noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary cause of partition noise in transistors?",
+    "a": "The current splitting randomly between the base and collector paths",
+    "b": "The thermal agitation of atoms in the silicon base",
+    "c": "The discrete passage of electrons across the depletion region",
+    "d": "Physical defects in the crystal structure",
+    "ans": "a"
+  },
+  {
+    "q": "What parameter indicates the total harmonic distortion (THD) of a system?",
+    "a": "The ratio of the RMS sum of all harmonic components to the fundamental frequency amplitude",
+    "b": "The ratio of input signal to output noise",
+    "c": "The equivalent noise temperature of the final mixer stage",
+    "d": "The NEXT crosstalk attenuation in dB",
+    "ans": "a"
+  },
+  {
+    "q": "Why is thermal agitation noise referred to as 'white noise'?",
+    "a": "It has equal noise power across all visible colors",
+    "b": "It contains all frequency components with equal power density, analogous to white light containing all visible colors",
+    "c": "It is only generated in white-hot conductors",
+    "d": "It was discovered by the physicist Lord White",
+    "ans": "b"
+  },
+  {
+    "q": "Which component in a receiver generally sets the baseline sensitivity and noise figure of the entire system?",
+    "a": "The detector stage",
+    "b": "The first RF amplifier stage",
+    "c": "The local oscillator",
+    "d": "The audio output stage",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for fading that occurs due to ionospheric disturbances and causes the signal strength to fade slowly over several minutes or hours?",
+    "a": "Fast fading",
+    "b": "Slow fading",
+    "c": "Selective fading",
+    "d": "Multipath fading",
+    "ans": "b"
+  },
+  {
+    "q": "What type of fading is caused by rapid movements of the receiver or surrounding obstacles, typical in mobile cellular environments?",
+    "a": "Slow fading",
+    "b": "Fast fading (Rayleigh fading)",
+    "c": "Industrial fading",
+    "d": "Cosmic fading",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical term for the constant k = 1.38 x 10^-23 Joules per Kelvin?",
+    "a": "Planck's constant",
+    "b": "Boltzmann's constant",
+    "c": "Avogadro's number",
+    "d": "Stefan-Boltzmann constant",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard reference temperature (T0) used worldwide for noise calculations, equivalent to 17 degrees Celsius?",
+    "a": "273 Kelvin",
+    "b": "290 Kelvin",
+    "c": "300 Kelvin",
+    "d": "0 Kelvin",
+    "ans": "b"
+  },
+  {
+    "q": "In receiver design, what is the impact of matching the source impedance to the input impedance of the amplifier?",
+    "a": "It eliminates thermal noise completely",
+    "b": "It maximizes power transfer and results in the noise voltage across the load being half of the open-circuit noise voltage",
+    "c": "It doubles the system bandwidth",
+    "d": "It causes partition noise to drop to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which noise term describes the random variations in the emission of electrons from a hot cathode in a vacuum tube?",
+    "a": "Partition noise",
+    "b": "Shot noise (Schrot effect)",
+    "c": "Johnson noise",
+    "d": "Transit noise",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the thermal noise power (Pn) generated by a resistor operating at a standard reference temperature of 290 K over a bandwidth of 1 MHz.",
+    "a": "4.00 x 10^-15 Watts",
+    "b": "4.00 x 10^-12 Watts",
+    "c": "1.38 x 10^-15 Watts",
+    "d": "2.90 x 10^-15 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the thermal noise power of a resistor at 290 K over a 1 MHz bandwidth (Pn = 4.00 x 10^-15 W) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-114 dBm",
+    "b": "-144 dBm",
+    "c": "-84 dBm",
+    "d": "-104 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the thermal noise voltage (Vn) generated by a 10 kilohm resistor operating at 17 degrees Celsius (290 K) over a bandwidth of 10 kHz under open-circuit conditions.",
+    "a": "1.26 microvolts",
+    "b": "1.26 millivolts",
+    "c": "1.26 nanovolts",
+    "d": "1.26 picovolts",
+    "ans": "a"
+  },
+  {
+    "q": "What is the open-circuit thermal noise voltage generated by a 50 ohm resistor at a hot room temperature of 27 degrees Celsius (300 K) over a television channel bandwidth of 6 MHz?",
+    "a": "2.23 microvolts",
+    "b": "1.11 microvolts",
+    "c": "4.46 microvolts",
+    "d": "0.55 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 50 kHz. If the ambient temperature is 27 degrees Celsius (300 K), calculate the thermal noise power in Watts.",
+    "a": "2.07 x 10^-16 Watts",
+    "b": "4.14 x 10^-16 Watts",
+    "c": "2.07 x 10^-13 Watts",
+    "d": "1.38 x 10^-16 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has an input Signal-to-Noise Ratio (SNR) of 15 dB. If the amplifier introduces internal noise such that the output SNR is 11 dB, calculate the Noise Figure (NF) of the amplifier.",
+    "a": "4 dB",
+    "b": "26 dB",
+    "c": "1.36 dB",
+    "d": "8 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Convert a Noise Figure (NF) of 3 dB into its equivalent absolute Noise Factor (F) value.",
+    "a": "2.00",
+    "b": "1.41",
+    "c": "1.99",
+    "d": "4.00",
+    "ans": "a"
+  },
+  {
+    "q": "Convert a Noise Figure (NF) of 8 dB into its equivalent absolute Noise Factor (F) value.",
+    "a": "6.31",
+    "b": "8.00",
+    "c": "3.16",
+    "d": "4.00",
+    "ans": "a"
+  },
+  {
+    "q": "A low-noise amplifier has an absolute Noise Factor (F) of 1.25. Calculate its corresponding Noise Figure (NF) in decibels.",
+    "a": "0.97 dB",
+    "b": "1.25 dB",
+    "c": "2.50 dB",
+    "d": "0.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has an overall absolute Noise Factor of 4.5. Calculate the Equivalent Noise Temperature (Te) of the receiver using a standard reference temperature of 290 K.",
+    "a": "1015 K",
+    "b": "1305 K",
+    "c": "1160 K",
+    "d": "870 K",
+    "ans": "a"
+  },
+  {
+    "q": "An LNA has an Equivalent Noise Temperature (Te) of 72.5 K. Calculate the Noise Factor (F) of this amplifier relative to T0 = 290 K.",
+    "a": "1.25",
+    "b": "1.50",
+    "c": "0.25",
+    "d": "1.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in decibels for the LNA described in the previous question (Te = 72.5 K, F = 1.25).",
+    "a": "0.97 dB",
+    "b": "1.25 dB",
+    "c": "2.50 dB",
+    "d": "1.80 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite earth station receiver front-end LNA has a Noise Figure of 0.5 dB. Calculate its Equivalent Noise Temperature (Te) in Kelvin relative to T0 = 290 K.",
+    "a": "35.39 K",
+    "b": "145.00 K",
+    "c": "72.50 K",
+    "d": "17.69 K",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier operates at a room temperature of 17 degrees Celsius. If it has a Noise Figure of 6 dB, find its Equivalent Noise Temperature.",
+    "a": "864.5 K",
+    "b": "1154.5 K",
+    "c": "574.5 K",
+    "d": "290.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver consists of two cascaded stages. Stage 1 has a Noise Factor of 2.0 (3 dB) and a power gain of 10. Stage 2 has a Noise Factor of 4.0 (6 dB). Calculate the total cascaded Noise Factor (F_total) using Friis' formula.",
+    "a": "2.30",
+    "b": "2.00",
+    "c": "3.00",
+    "d": "6.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 2.30).",
+    "a": "3.62 dB",
+    "b": "3.00 dB",
+    "c": "6.00 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver system has the following parameters: Stage 1: F1 = 1.5, G1 = 20 (absolute ratio). Stage 2: F2 = 3.0, G2 = 10. Stage 3: F3 = 8.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.61",
+    "b": "1.50",
+    "c": "2.10",
+    "d": "1.85",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 1.61).",
+    "a": "2.07 dB",
+    "b": "1.76 dB",
+    "c": "3.12 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is connected to an antenna. The signal voltage at the receiver input is 5 uV RMS across an 80 ohm input resistance. If the open-circuit thermal noise voltage generated at 27 degrees Celsius (300 K) over a 2 MHz bandwidth is to be calculated, what is its value?",
+    "a": "1.63 microvolts",
+    "b": "2.63 microvolts",
+    "c": "0.81 microvolts",
+    "d": "3.26 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "For the receiver system in the previous question, the RMS input signal is 5 uV. Calculate the input Signal-to-Noise Ratio (SNR) in dB, assuming the matching load is noiseless and the input noise voltage is 0.814 uV (half of the open-circuit voltage 1.628 uV).",
+    "a": "15.77 dB",
+    "b": "9.74 dB",
+    "c": "21.77 dB",
+    "d": "11.77 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has an input resistance of 50 ohms and operates at 27 degrees Celsius (300 K). If its noise bandwidth is 1 MHz, calculate the RMS noise voltage developed across the load when it is matched to a 50 ohm source.",
+    "a": "0.455 microvolts",
+    "b": "0.910 microvolts",
+    "c": "0.228 microvolts",
+    "d": "1.820 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "The noise produced by a resistor is amplified by a noiseless amplifier having a voltage gain of 100 and a bandwidth of 100 kHz. A sensitive RMS voltmeter at the amplifier output reads 300 uV. If the resistor is operating at 27 degrees Celsius (300 K), calculate its resistance value.",
+    "a": "5.43 kilohms",
+    "b": "10.86 kilohms",
+    "c": "2.71 kilohms",
+    "d": "1.36 kilohms",
+    "ans": "a"
+  },
+  {
+    "q": "A 10 kilohm resistor and a 15 kilohm resistor are connected in series. If both resistors are at a temperature of 27 degrees Celsius (300 K), calculate the total thermal noise voltage generated over a bandwidth of 10 kHz.",
+    "a": "2.03 microvolts",
+    "b": "1.28 microvolts",
+    "c": "4.06 microvolts",
+    "d": "0.64 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A 10 kilohm resistor and a 15 kilohm resistor are connected in parallel. If both resistors are at a temperature of 27 degrees Celsius (300 K), calculate the total thermal noise voltage generated over a bandwidth of 10 kHz.",
+    "a": "0.996 microvolts",
+    "b": "1.992 microvolts",
+    "c": "0.498 microvolts",
+    "d": "1.500 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the shot noise RMS current (In) in a diode if the DC bias current is 5 mA and the measurement bandwidth is 20 kHz. (The electron charge q is 1.6 x 10^-19 Coulombs).",
+    "a": "5.66 nanoamperes",
+    "b": "5.66 microamperes",
+    "c": "5.66 picoamperes",
+    "d": "5.66 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "A photodiode in a fiber optic receiver has a dark current of 2 nA. Calculate the shot noise current generated by this dark current over a bandwidth of 10 MHz.",
+    "a": "0.113 nanoamperes",
+    "b": "1.130 nanoamperes",
+    "c": "0.011 nanoamperes",
+    "d": "0.550 nanoamperes",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier operates over a bandwidth of 1 MHz and has a 100 ohm input resistance. It is operating at 27 degrees Celsius, has a voltage gain of 150, and an input RMS signal of 10 uV. If the amplifier is noiseless, calculate the output RMS noise voltage.",
+    "a": "193.3 microvolts",
+    "b": "193.3 millivolts",
+    "c": "386.6 microvolts",
+    "d": "96.6 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the output Signal-to-Noise Ratio (SNR) in dB for the amplifier in the previous question (output signal voltage = 1500 uV, output noise voltage = 193.3 uV).",
+    "a": "17.79 dB",
+    "b": "27.79 dB",
+    "c": "7.79 dB",
+    "d": "37.79 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has an equivalent noise bandwidth of 5 kHz and an input resistance of 50 ohms. If the input signal power is 10^-14 Watts, and the receiver is operating at 290 K, calculate the input S/N ratio in dB.",
+    "a": "-3.01 dB",
+    "b": "3.01 dB",
+    "c": "-6.02 dB",
+    "d": "10.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "If the receiver in the previous question has an overall Noise Figure of 6 dB, calculate the output S/N ratio in dB.",
+    "a": "-9.01 dB",
+    "b": "-3.01 dB",
+    "c": "3.01 dB",
+    "d": "-6.02 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A digital-to-analog converter operates with an 8-bit linear PCM code. Calculate the maximum theoretical quantization Signal-to-Noise Ratio (SQR) in dB.",
+    "a": "49.92 dB",
+    "b": "55.92 dB",
+    "c": "43.92 dB",
+    "d": "61.92 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-fidelity 16-bit linear PCM system is used in a recording device. Calculate the maximum theoretical quantization SQR in dB.",
+    "a": "98.08 dB",
+    "b": "96.00 dB",
+    "c": "100.08 dB",
+    "d": "92.08 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone subscriber line must have an output Signal-to-Noise Ratio (S/N) of at least 40 dB. What is the minimum number of PCM bits required to meet this specification using linear quantization?",
+    "a": "7 bits",
+    "b": "6 bits",
+    "c": "8 bits",
+    "d": "5 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the noise power spectral density (N0 = Pn / B) in Watts/Hz for a receiver operating at 290 K.",
+    "a": "4.00 x 10^-21 W/Hz",
+    "b": "1.38 x 10^-23 W/Hz",
+    "c": "4.00 x 10^-18 W/Hz",
+    "d": "2.90 x 10^-21 W/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the noise power spectral density N0 = 4.00 x 10^-21 W/Hz into dBm/Hz.",
+    "a": "-174 dBm/Hz",
+    "b": "-144 dBm/Hz",
+    "c": "-204 dBm/Hz",
+    "d": "-114 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite receiver has a noise power spectral density of -180 dBm/Hz. What is its equivalent system noise temperature?",
+    "a": "72.46 K",
+    "b": "145.00 K",
+    "c": "36.23 K",
+    "d": "290.00 K",
+    "ans": "a"
+  },
+  {
+    "q": "An attenuator has a physical loss of 6 dB and is operating at an ambient temperature of 290 K. What is the absolute Noise Factor (F) of this attenuator?",
+    "a": "3.98",
+    "b": "6.00",
+    "c": "2.00",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature (Te) of the 6 dB attenuator described in the previous question (absolute loss F = 3.98, T0 = 290 K).",
+    "a": "864.5 K",
+    "b": "1740.0 K",
+    "c": "290.0 K",
+    "d": "580.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has a first stage RF amplifier with NF = 2 dB and Gain = 12 dB. The second stage mixer has NF = 10 dB. Convert the Noise Figures and Gain to absolute ratios.",
+    "a": "F1 = 1.585, G1 = 15.85, F2 = 10.00",
+    "b": "F1 = 2.000, G1 = 12.00, F2 = 10.00",
+    "c": "F1 = 1.585, G1 = 12.00, F2 = 10.00",
+    "d": "F1 = 1.250, G1 = 15.85, F2 = 8.00",
+    "ans": "a"
+  },
+  {
+    "q": "Using the absolute ratios from the previous question (F1 = 1.585, G1 = 15.85, F2 = 10.00), calculate the total cascaded Noise Factor of the receiver.",
+    "a": "2.153",
+    "b": "1.585",
+    "c": "3.153",
+    "d": "2.585",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 2.153).",
+    "a": "3.33 dB",
+    "b": "2.00 dB",
+    "c": "4.50 dB",
+    "d": "5.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver's LNA stage has an equivalent noise temperature of 50 K, followed by an RF amplifier with an equivalent noise temperature of 150 K and a power gain of 20 (absolute ratio). Calculate the total cascaded equivalent noise temperature at the input.",
+    "a": "57.5 K",
+    "b": "200.0 K",
+    "c": "75.0 K",
+    "d": "100.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total equivalent noise temperature of the system in the previous question (Te_total = 57.5 K) into the system's total cascaded Noise Factor (F) relative to T0 = 290 K.",
+    "a": "1.198",
+    "b": "1.500",
+    "c": "1.250",
+    "d": "1.098",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total cascaded Noise Figure in dB for the system in the previous question (F = 1.198).",
+    "a": "0.78 dB",
+    "b": "1.20 dB",
+    "c": "1.98 dB",
+    "d": "0.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active device has an input signal power of 5 uW and an input noise power of 50 nW. If the output signal power is 100 mW and the output noise power is 2.5 uW, calculate the input SNR as an absolute ratio.",
+    "a": "100",
+    "b": "1000",
+    "c": "10",
+    "d": "500",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the output SNR as an absolute ratio for the device in the previous question (output signal = 100 mW, output noise = 2.5 uV).",
+    "a": "40,000",
+    "b": "100,000",
+    "c": "10,000",
+    "d": "4,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Factor (F) of the active device from the previous questions (input SNR = 100, output SNR = 40,000). (Wait, if output SNR is larger than input SNR, this indicates a physically impossible system or measurement error. Let's recalculate the output SNR correctly: output signal = 100 mW = 0.1 W, output noise = 2.5 uW = 2.5 x 10^-6 W. Output SNR = 0.1 / (2.5 x 10^-6) = 40,000. Wait, input SNR is 5 uW / 50 nW = 100. Since output SNR cannot exceed input SNR in a passive or active noisy system, let's reverse the numbers to make it physically realistic: input signal is 500 uW, input noise is 50 nW, giving input SNR = 10,000. Let's find the correct Noise Factor where input SNR = 10,000 and output SNR = 4,000). What is the Noise Factor?",
+    "a": "2.5",
+    "b": "4.0",
+    "c": "1.5",
+    "d": "0.4",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the device in the previous question (F = 2.5).",
+    "a": "3.98 dB",
+    "b": "4.00 dB",
+    "c": "6.02 dB",
+    "d": "1.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A pre-emphasis circuit has a time constant (tau = R * C) of 75 microseconds. Calculate the corresponding 3 dB cutoff frequency of the pre-emphasis filter.",
+    "a": "2122 Hz",
+    "b": "3183 Hz",
+    "c": "1000 Hz",
+    "d": "1500 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A de-emphasis circuit is designed to have a 3 dB cutoff frequency of 3183 Hz. Calculate the required time constant of this filter.",
+    "a": "50 microseconds",
+    "b": "75 microseconds",
+    "c": "100 microseconds",
+    "d": "25 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An analog voice communication channel has a Signal-to-Noise Ratio of 35 dB. Convert this SNR into an absolute power ratio.",
+    "a": "3162 to 1",
+    "b": "1000 to 1",
+    "c": "5000 to 1",
+    "d": "316 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent RMS thermal noise voltage of a 75 ohm antenna input resistance tuned over a bandwidth of 200 kHz at a standard temperature of 17 degrees Celsius (290 K)?",
+    "a": "0.49 microvolts",
+    "b": "0.98 microvolts",
+    "c": "0.24 microvolts",
+    "d": "1.96 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 1 megohm resistor in a sensitive preamplifier stage operating at 27 degrees Celsius (300 K) over an audio bandwidth of 20 kHz.",
+    "a": "18.2 microvolts",
+    "b": "1.82 microvolts",
+    "c": "36.4 microvolts",
+    "d": "9.1 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A system operates with a receiver bandwidth of 10 MHz. If the overall Equivalent Noise Temperature of the system is 150 K, find the total noise power at the receiver input.",
+    "a": "2.07 x 10^-14 Watts",
+    "b": "2.07 x 10^-11 Watts",
+    "c": "4.14 x 10^-14 Watts",
+    "d": "1.38 x 10^-14 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -120 dBm over a bandwidth of 10 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-160 dBm/Hz",
+    "b": "-140 dBm/Hz",
+    "c": "-180 dBm/Hz",
+    "d": "-170 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -160 dBm/Hz = 10^-19 W/Hz).",
+    "a": "724.6 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "1000.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A non-ideal mixer circuit has an absolute Noise Factor of 8.0. If the first RF stage has a Noise Figure of 3 dB (F1 = 2.0) and a gain of 15 dB (G1 = 31.62), calculate the total cascaded Noise Factor.",
+    "a": "2.22",
+    "b": "2.00",
+    "c": "2.50",
+    "d": "3.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total cascaded Noise Figure in dB for the receiver in the previous question (F_total = 2.22).",
+    "a": "3.46 dB",
+    "b": "3.00 dB",
+    "c": "4.50 dB",
+    "d": "5.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A low-frequency sensor uses an operational amplifier with a Noise Figure of 1.5 dB. Calculate its absolute Noise Factor.",
+    "a": "1.41",
+    "b": "1.50",
+    "c": "1.25",
+    "d": "2.00",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Equivalent Noise Temperature of the operational amplifier in the previous question (F = 1.41, T0 = 290 K).",
+    "a": "118.9 K",
+    "b": "145.0 K",
+    "c": "72.5 K",
+    "d": "290.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "The total power output of a transmitter is 100 W. If the unwanted intermodulation distortion products have a combined power of 10 mW, calculate the Carrier-to-Intermodulation ratio (C/I) in dB.",
+    "a": "40 dB",
+    "b": "30 dB",
+    "c": "50 dB",
+    "d": "20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna with a radiation resistance of 72 ohms has an equivalent noise temperature of 150 K. Calculate the noise power delivered by the antenna to a matched receiver over a channel bandwidth of 5 MHz.",
+    "a": "1.035 x 10^-14 Watts",
+    "b": "2.070 x 10^-14 Watts",
+    "c": "1.035 x 10^-11 Watts",
+    "d": "4.140 x 10^-14 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 5 dB. If the input S/N ratio is 25 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "20 dB",
+    "b": "30 dB",
+    "c": "15 dB",
+    "d": "10 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A voice communication channel has a bandwidth of 3 kHz and a Signal-to-Noise Ratio of 20 dB (which is a ratio of 100 to 1). Using the Shannon-Hartley theorem, calculate the maximum theoretical capacity of the channel.",
+    "a": "19.98 kbps",
+    "b": "9.99 kbps",
+    "c": "29.97 kbps",
+    "d": "39.96 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard television channel has a bandwidth of 6 MHz. If the channel is subjected to white noise with a Signal-to-Noise Ratio of 30 dB (which is 1000 to 1), calculate the maximum theoretical data capacity.",
+    "a": "59.8 kbps",
+    "b": "59.8 Mbps",
+    "c": "19.9 Mbps",
+    "d": "119.6 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "Two noisy resistors are connected in series. Resistor 1 (1 kilohm) is at a temperature of 27 degrees Celsius (300 K), and Resistor 2 (2 kilohms) is at 127 degrees Celsius (400 K). Calculate the total thermal noise voltage generated over a bandwidth of 10 kHz.",
+    "a": "0.71 microvolts",
+    "b": "0.81 microvolts",
+    "c": "0.91 microvolts",
+    "d": "1.01 microvolts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 50 ohm resistor at a room temperature of 20 degrees Celsius (293 K) over a bandwidth of 20 MHz.",
+    "a": "1.27 microvolts",
+    "b": "0.64 microvolts",
+    "c": "2.54 microvolts",
+    "d": "0.32 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 50 ohm resistor in the previous question is connected to a matched 50 ohm load, what is the noise voltage developed across the load?",
+    "a": "0.64 microvolts",
+    "b": "1.27 microvolts",
+    "c": "0.32 microvolts",
+    "d": "0.16 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has a Noise Figure of 1.8 dB. Convert this to an absolute Noise Factor (F).",
+    "a": "1.51",
+    "b": "1.80",
+    "c": "1.25",
+    "d": "2.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the RF amplifier from the previous question (F = 1.51) using a standard reference temperature of 290 K.",
+    "a": "147.9 K",
+    "b": "72.5 K",
+    "c": "290.0 K",
+    "d": "118.9 K",
+    "ans": "a"
+  },
+  {
+    "q": "A mixer circuit has an Equivalent Noise Temperature of 1200 K. What is the Noise Factor of this mixer relative to T0 = 290 K?",
+    "a": "5.14",
+    "b": "4.14",
+    "c": "6.14",
+    "d": "3.14",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the mixer in the previous question (F = 5.14).",
+    "a": "7.11 dB",
+    "b": "6.11 dB",
+    "c": "8.11 dB",
+    "d": "5.11 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver contains an RF amplifier stage with F1 = 1.5 and G1 = 10 (absolute values), followed by a mixer stage with F2 = 6.0 and G2 = 5, followed by an IF amplifier stage with F3 = 4.0. Calculate the total cascaded Noise Factor.",
+    "a": "2.10",
+    "b": "1.50",
+    "c": "2.50",
+    "d": "3.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the receiver in the previous question (F_total = 2.10).",
+    "a": "3.22 dB",
+    "b": "2.00 dB",
+    "c": "4.50 dB",
+    "d": "5.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A microwave receiver has an overall system equivalent noise temperature of 80 K. If the receiver operates over a bandwidth of 1 GHz, calculate the total noise power at the receiver input.",
+    "a": "1.10 x 10^-12 Watts",
+    "b": "2.20 x 10^-12 Watts",
+    "c": "1.10 x 10^-9 Watts",
+    "d": "4.40 x 10^-12 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 1.10 x 10^-12 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-89.58 dBm",
+    "b": "-99.58 dBm",
+    "c": "-79.58 dBm",
+    "d": "-69.58 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A commercial FM receiver uses a de-emphasis time constant of 75 microseconds. If a high-frequency noise component is present at 15 kHz, calculate the attenuation of this noise component in dB relative to the low-frequency response.",
+    "a": "17.11 dB",
+    "b": "12.11 dB",
+    "c": "22.11 dB",
+    "d": "7.11 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active transistor has a measured input Signal-to-Noise Ratio (SNR) of 45 dB and an output SNR of 39 dB. Calculate the Noise Figure (NF) of the transistor in dB.",
+    "a": "6 dB",
+    "b": "84 dB",
+    "c": "3 dB",
+    "d": "12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the Noise Figure of the transistor from the previous question (NF = 6 dB) into its equivalent absolute Noise Factor (F).",
+    "a": "3.98",
+    "b": "6.00",
+    "c": "2.00",
+    "d": "1.58",
+    "ans": "a"
+  },
+  {
+    "q": "An optical detector operates with a bandwidth of 50 MHz. If the shot noise RMS current is measured to be 1.2 nA, find the equivalent DC bias current flowing through the detector.",
+    "a": "90.0 microamperes",
+    "b": "45.0 microamperes",
+    "c": "180.0 microamperes",
+    "d": "22.5 microamperes",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has a sensitivity such that it requires a minimum input signal of -110 dBm to maintain a satisfactory S/N ratio. If the total noise power at the receiver input is -114 dBm, calculate the input S/N ratio in dB.",
+    "a": "4 dB",
+    "b": "224 dB",
+    "c": "2 dB",
+    "d": "8 dB",
+    "ans": "a"
+  },
+  {
+    "q": "The noise temperature of a satellite antenna is measured to be 40 K. If the antenna is connected to a matched receiver with an equivalent noise temperature of 60 K, calculate the total equivalent system noise temperature at the receiver input.",
+    "a": "100 K",
+    "b": "50 K",
+    "c": "200 K",
+    "d": "150 K",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total noise power spectral density in Watts/Hz for the antenna-receiver system in the previous question (T_system = 100 K).",
+    "a": "1.38 x 10^-21 Watts/Hz",
+    "b": "1.38 x 10^-23 Watts/Hz",
+    "c": "2.76 x 10^-21 Watts/Hz",
+    "d": "4.14 x 10^-21 Watts/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 2.5 W at the fundamental frequency. If the total power of all harmonic distortion products is 50 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "14.14%",
+    "b": "2.00%",
+    "c": "4.00%",
+    "d": "7.07%",
+    "ans": "a"
+  },
+  {
+    "q": "An RF preamplifier has a Gain of 20 dB (G1 = 100) and a Noise Figure of 1.5 dB (F1 = 1.41). If it is followed by a second amplifier stage with a Noise Figure of 6 dB (F2 = 3.98), calculate the total cascaded Noise Factor.",
+    "a": "1.44",
+    "b": "1.41",
+    "c": "1.50",
+    "d": "1.85",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the preamplifier-amplifier cascade in the previous question (F_total = 1.44).",
+    "a": "1.58 dB",
+    "b": "1.50 dB",
+    "c": "2.10 dB",
+    "d": "1.80 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the cascaded system from the previous questions (F_total = 1.44) relative to T0 = 290 K.",
+    "a": "127.6 K",
+    "b": "72.5 K",
+    "c": "290.0 K",
+    "d": "145.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 12 dB and the output S/N ratio is 8.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "3.5 dB",
+    "b": "20.5 dB",
+    "c": "1.75 dB",
+    "d": "7.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 8 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-57 dBm",
+    "b": "-65 dBm",
+    "c": "-47 dBm",
+    "d": "-73 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 300 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 200 kHz.",
+    "a": "0.98 microvolts",
+    "b": "1.96 microvolts",
+    "c": "0.49 microvolts",
+    "d": "3.92 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 300 ohm feedline in the previous question is connected to a matched 300 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.49 microvolts",
+    "b": "0.98 microvolts",
+    "c": "0.24 microvolts",
+    "d": "1.96 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 10 MHz and a Signal-to-Noise Ratio of 15 dB (which is a power ratio of 31.62 to 1). Calculate the Shannon capacity limit.",
+    "a": "40.3 Mbps",
+    "b": "20.15 Mbps",
+    "c": "80.6 Mbps",
+    "d": "150.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 50 ohm resistor at a hot operating temperature of 77 degrees Celsius (350 K) over a bandwidth of 10 MHz.",
+    "a": "0.98 microvolts",
+    "b": "1.96 microvolts",
+    "c": "0.49 microvolts",
+    "d": "0.24 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the thermal noise power of a resistor at a temperature of 290 K over a 100 kHz bandwidth into dBm.",
+    "a": "-124 dBm",
+    "b": "-114 dBm",
+    "c": "-134 dBm",
+    "d": "-104 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the thermal noise power of a resistor at a temperature of 290 K over a 10 MHz bandwidth into dBm.",
+    "a": "-104 dBm",
+    "b": "-114 dBm",
+    "c": "-94 dBm",
+    "d": "-124 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier stage has an absolute Noise Factor of 1.5. Calculate the Equivalent Noise Temperature of the stage relative to T0 = 290 K.",
+    "a": "145 K",
+    "b": "150 K",
+    "c": "75 K",
+    "d": "290 K",
+    "ans": "a"
+  },
+  {
+    "q": "A low-noise block downconverter (LNB) has an equivalent noise temperature of 80 K. Calculate its noise figure in dB relative to a reference temperature of 290 K.",
+    "a": "1.03 dB",
+    "b": "1.50 dB",
+    "c": "2.05 dB",
+    "d": "0.55 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cascaded Noise Factor of two identical amplifiers connected in tandem. Each amplifier has F = 1.5 and a power gain G = 10 (absolute ratios).",
+    "a": "1.55",
+    "b": "1.50",
+    "c": "2.00",
+    "d": "1.65",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.55).",
+    "a": "1.90 dB",
+    "b": "1.50 dB",
+    "c": "3.00 dB",
+    "d": "2.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active device has an input signal voltage of 10 uV RMS and an input noise voltage of 1 uV RMS. If the output signal voltage is 1.0 V RMS and the output noise voltage is 200 mV RMS, calculate the Noise Factor (F) of the device.",
+    "a": "4.0",
+    "b": "2.0",
+    "c": "10.0",
+    "d": "5.0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the active device in the previous question (F = 4.0).",
+    "a": "6.02 dB",
+    "b": "3.01 dB",
+    "c": "10.00 dB",
+    "d": "1.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the shot noise current generated by a 10 mA DC bias current in a silicon photodetector operating over an equivalent bandwidth of 1 MHz.",
+    "a": "56.57 nanoamperes",
+    "b": "56.57 microamperes",
+    "c": "56.57 picoamperes",
+    "d": "56.57 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "An LNA operates at a cryogenically cooled temperature of 77 K (liquid nitrogen). If its noise temperature is 20 K, find its Noise Figure in dB relative to T0 = 290 K.",
+    "a": "0.29 dB",
+    "b": "1.05 dB",
+    "c": "0.55 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Two resistors in series (R1 = 50 ohms, R2 = 150 ohms) are at 27 degrees Celsius. Calculate the total thermal noise voltage generated over a bandwidth of 1 MHz.",
+    "a": "1.82 microvolts",
+    "b": "3.64 microvolts",
+    "c": "0.91 microvolts",
+    "d": "0.45 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 25 kHz. If the thermal noise power at its input at 290 K is to be calculated in Watts, what is its value?",
+    "a": "1.00 x 10^-16 Watts",
+    "b": "2.00 x 10^-16 Watts",
+    "c": "4.00 x 10^-16 Watts",
+    "d": "1.38 x 10^-16 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A digital link has a transmission rate of 100 kbps. If the system is measured to have 5 bit errors over a continuous period of 10 seconds, calculate the Bit Error Rate (BER).",
+    "a": "5.00 x 10^-6",
+    "b": "5.00 x 10^-5",
+    "c": "5.00 x 10^-7",
+    "d": "5.00 x 10^-4",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier has a noise figure of 2.5 dB. If the input S/N ratio is 18 dB, find the output S/N ratio in dB.",
+    "a": "15.5 dB",
+    "b": "20.5 dB",
+    "c": "12.5 dB",
+    "d": "10.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has a first stage with Noise Figure F1 = 1.3 and power gain G1 = 8 (absolute ratios). The second stage mixer has F2 = 5.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.80",
+    "b": "1.30",
+    "c": "2.10",
+    "d": "1.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total cascaded Noise Figure in dB for the receiver in the previous question (F_total = 1.80).",
+    "a": "2.55 dB",
+    "b": "1.80 dB",
+    "c": "3.12 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sensitive audio preamplifier has a total voltage gain of 200 and operates over a bandwidth of 15 kHz. If the input resistance of the first stage is 10 kilohms and it operates at 27 degrees Celsius, calculate the output RMS noise voltage under open-circuit conditions.",
+    "a": "313.3 microvolts",
+    "b": "313.3 millivolts",
+    "c": "156.6 microvolts",
+    "d": "626.6 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A standard 12-bit linear PCM system operates over a dynamic range of 10 V. Calculate the maximum theoretical SQR in dB.",
+    "a": "74.00 dB",
+    "b": "72.24 dB",
+    "c": "75.76 dB",
+    "d": "70.24 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 100 pA. Calculate the shot noise current generated by this dark current over a bandwidth of 5 MHz.",
+    "a": "12.65 picoamperes",
+    "b": "12.65 nanoamperes",
+    "c": "12.65 microamperes",
+    "d": "12.65 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 100 kHz. If the absolute Equivalent Noise Temperature of the system is 290 K, calculate the total thermal noise power in dBm.",
+    "a": "-124 dBm",
+    "b": "-114 dBm",
+    "c": "-134 dBm",
+    "d": "-104 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A lossy coaxial cable has an attenuation loss of 3 dB at room temperature (290 K). What is the equivalent absolute Noise Factor of this cable?",
+    "a": "2.00",
+    "b": "3.00",
+    "c": "1.41",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the 3 dB coaxial cable described in the previous question (F = 2.00, T0 = 290 K).",
+    "a": "290 K",
+    "b": "145 K",
+    "c": "580 K",
+    "d": "72.5 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has a first stage RF amplifier with F1 = 1.4 and G1 = 15 (absolute values), followed by a second stage mixer with F2 = 8.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.87",
+    "b": "1.40",
+    "c": "2.10",
+    "d": "2.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.87).",
+    "a": "2.72 dB",
+    "b": "1.87 dB",
+    "c": "3.12 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the cascaded system from the previous questions (F_total = 1.87) relative to T0 = 290 K.",
+    "a": "252.3 K",
+    "b": "145.0 K",
+    "c": "72.5 K",
+    "d": "290.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A pre-emphasis circuit has R = 10 kilohms and C = 7.5 nanofarads. Calculate the time constant of this filter.",
+    "a": "75 microseconds",
+    "b": "50 microseconds",
+    "c": "100 microseconds",
+    "d": "25 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the 3 dB cutoff frequency for the pre-emphasis circuit described in the previous question (tau = 75 microseconds).",
+    "a": "2122 Hz",
+    "b": "3183 Hz",
+    "c": "1000 Hz",
+    "d": "1500 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier operates with a Signal-to-Noise Ratio of 50 dB. Convert this SNR into an absolute power ratio.",
+    "a": "100,000 to 1",
+    "b": "10,000 to 1",
+    "c": "1,000,000 to 1",
+    "d": "50,000 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 5 MHz.",
+    "a": "3.47 microvolts",
+    "b": "1.73 microvolts",
+    "c": "6.94 microvolts",
+    "d": "0.86 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "a": "1.73 microvolts",
+    "b": "3.47 microvolts",
+    "c": "0.86 microvolts",
+    "d": "0.43 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 120 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "8.28 x 10^-14 Watts",
+    "b": "8.28 x 10^-11 Watts",
+    "c": "4.14 x 10^-14 Watts",
+    "d": "1.65 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 8.28 x 10^-14 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-100.82 dBm",
+    "b": "-110.82 dBm",
+    "c": "-90.82 dBm",
+    "d": "-120.82 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -115 dBm over a bandwidth of 50 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-162 dBm/Hz",
+    "b": "-142 dBm/Hz",
+    "c": "-182 dBm/Hz",
+    "d": "-172 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -162 dBm/Hz = 6.31 x 10^-20 W/Hz).",
+    "a": "457.2 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "914.4 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.25, G1 = 15 (absolute values). Stage 2: F2 = 4.0, G2 = 10. Stage 3: F3 = 10.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.51",
+    "b": "1.25",
+    "c": "1.85",
+    "d": "2.10",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 1.51).",
+    "a": "1.79 dB",
+    "b": "1.50 dB",
+    "c": "2.50 dB",
+    "d": "3.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 3.5 dB. If the input S/N ratio is 22 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "18.5 dB",
+    "b": "25.5 dB",
+    "c": "15.0 dB",
+    "d": "12.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 20 MHz and a Signal-to-Noise Ratio of 12 dB (which is a power ratio of 15.85 to 1). Calculate the Shannon capacity limit.",
+    "a": "81.5 Mbps",
+    "b": "40.75 Mbps",
+    "c": "163.0 Mbps",
+    "d": "240.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 5.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 125 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "15.81%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "7.91%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 15 dB and the output S/N ratio is 11.2 dB, calculate the Noise Figure of the receiver.",
+    "a": "3.8 dB",
+    "b": "26.2 dB",
+    "c": "1.90 dB",
+    "d": "7.6 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 6 dB. If the noise power at the receiver input is -108 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 35 dB?",
+    "a": "-67 dBm",
+    "b": "-73 dBm",
+    "c": "-55 dBm",
+    "d": "-79 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 250 kHz.",
+    "a": "0.78 microvolts",
+    "b": "1.56 microvolts",
+    "c": "0.39 microvolts",
+    "d": "3.12 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.39 microvolts",
+    "b": "0.78 microvolts",
+    "c": "0.19 microvolts",
+    "d": "1.56 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 5 MHz and a Signal-to-Noise Ratio of 18 dB (which is a power ratio of 63.10 to 1). Calculate the Shannon capacity limit.",
+    "a": "30.0 Mbps",
+    "b": "15.0 Mbps",
+    "c": "60.0 Mbps",
+    "d": "90.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 50 ohm resistor at a hot operating temperature of 100 degrees Celsius (373 K) over a bandwidth of 10 MHz.",
+    "a": "1.01 microvolts",
+    "b": "2.02 microvolts",
+    "c": "0.51 microvolts",
+    "d": "0.25 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cascaded Noise Factor of two identical amplifiers connected in tandem. Each amplifier has F = 1.35 and a power gain G = 15 (absolute ratios).",
+    "a": "1.373",
+    "b": "1.350",
+    "c": "1.700",
+    "d": "1.500",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.373).",
+    "a": "1.38 dB",
+    "b": "1.35 dB",
+    "c": "2.50 dB",
+    "d": "1.80 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active device has an input signal voltage of 15 uV RMS and an input noise voltage of 1.5 uV RMS. If the output signal voltage is 1.5 V RMS and the output noise voltage is 300 mV RMS, calculate the Noise Factor (F) of the device.",
+    "a": "4.0",
+    "b": "2.0",
+    "c": "10.0",
+    "d": "5.0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the active device in the previous question (F = 4.0).",
+    "a": "6.02 dB",
+    "b": "3.01 dB",
+    "c": "10.00 dB",
+    "d": "1.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the shot noise current generated by a 20 mA DC bias current flowing through a diode operating over an equivalent bandwidth of 2 MHz.",
+    "a": "113.14 nanoamperes",
+    "b": "113.14 microamperes",
+    "c": "113.14 picoamperes",
+    "d": "113.14 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "An LNA operates at a cryogenically cooled temperature of 77 K. If its noise temperature is 15 K, find its Noise Figure in dB relative to T0 = 290 K.",
+    "a": "0.22 dB",
+    "b": "1.05 dB",
+    "c": "0.55 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Two resistors in series (R1 = 100 ohms, R2 = 300 ohms) are at 27 degrees Celsius. Calculate the total thermal noise voltage generated over a bandwidth of 2 MHz.",
+    "a": "3.64 microvolts",
+    "b": "1.82 microvolts",
+    "c": "7.28 microvolts",
+    "d": "0.91 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 15 kHz. If the thermal noise power at its input at 290 K is to be calculated in Watts, what is its value?",
+    "a": "6.00 x 10^-17 Watts",
+    "b": "1.20 x 10^-16 Watts",
+    "c": "2.40 x 10^-16 Watts",
+    "d": "1.38 x 10^-16 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A digital link has a transmission rate of 250 kbps. If the system is measured to have 8 bit errors over a continuous period of 20 seconds, calculate the Bit Error Rate (BER).",
+    "a": "1.60 x 10^-6",
+    "b": "3.20 x 10^-6",
+    "c": "1.60 x 10^-5",
+    "d": "3.20 x 10^-5",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier has a noise figure of 3.2 dB. If the input S/N ratio is 20 dB, find the output S/N ratio in dB.",
+    "a": "16.8 dB",
+    "b": "23.2 dB",
+    "c": "13.6 dB",
+    "d": "10.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has a first stage with Noise Figure F1 = 1.45 and power gain G1 = 12 (absolute ratios). The second stage mixer has F2 = 6.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.866",
+    "b": "1.450",
+    "c": "2.200",
+    "d": "1.600",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total cascaded Noise Figure in dB for the receiver in the previous question (F_total = 1.866).",
+    "a": "2.71 dB",
+    "b": "1.87 dB",
+    "c": "3.12 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sensitive audio preamplifier has a total voltage gain of 150 and operates over a bandwidth of 10 kHz. If the input resistance of the first stage is 15 kilohms and it operates at 27 degrees Celsius, calculate the output RMS noise voltage under open-circuit conditions.",
+    "a": "236.7 microvolts",
+    "b": "236.7 millivolts",
+    "c": "118.4 microvolts",
+    "d": "473.4 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A standard 14-bit linear PCM system operates over a dynamic range of 10 V. Calculate the maximum theoretical SQR in dB.",
+    "a": "86.04 dB",
+    "b": "84.28 dB",
+    "c": "87.80 dB",
+    "d": "82.28 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 150 pA. Calculate the shot noise current generated by this dark current over a bandwidth of 10 MHz.",
+    "a": "21.91 picoamperes",
+    "b": "21.91 nanoamperes",
+    "c": "21.91 microamperes",
+    "d": "21.91 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 150 kHz. If the absolute Equivalent Noise Temperature of the system is 290 K, calculate the total thermal noise power in dBm.",
+    "a": "-122.2 dBm",
+    "b": "-112.2 dBm",
+    "c": "-132.2 dBm",
+    "d": "-102.2 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A lossy coaxial cable has an attenuation loss of 4 dB at room temperature (290 K). What is the equivalent absolute Noise Factor of this cable?",
+    "a": "2.51",
+    "b": "4.00",
+    "c": "1.58",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the 4 dB coaxial cable described in the previous question (F = 2.51, T0 = 290 K).",
+    "a": "437.9 K",
+    "b": "145 K",
+    "c": "580 K",
+    "d": "72.5 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has a first stage RF amplifier with F1 = 1.3 and G1 = 20 (absolute values), followed by a second stage mixer with F2 = 10.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.75",
+    "b": "1.30",
+    "c": "2.10",
+    "d": "2.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.75).",
+    "a": "2.43 dB",
+    "b": "1.75 dB",
+    "c": "3.12 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the cascaded system from the previous questions (F_total = 1.75) relative to T0 = 290 K.",
+    "a": "217.5 K",
+    "b": "145.0 K",
+    "c": "72.5 K",
+    "d": "290.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A pre-emphasis circuit has R = 20 kilohms and C = 3.75 nanofarads. Calculate the time constant of this filter.",
+    "a": "75 microseconds",
+    "b": "50 microseconds",
+    "c": "100 microseconds",
+    "d": "25 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the 3 dB cutoff frequency for the pre-emphasis circuit described in the previous question (tau = 75 microseconds).",
+    "a": "2122 Hz",
+    "b": "3183 Hz",
+    "c": "1000 Hz",
+    "d": "1500 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier operates with a Signal-to-Noise Ratio of 60 dB. Convert this SNR into an absolute power ratio.",
+    "a": "1,000,000 to 1",
+    "b": "100,000 to 1",
+    "c": "10,000,000 to 1",
+    "d": "500,000 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "4.91 microvolts",
+    "b": "2.45 microvolts",
+    "c": "9.82 microvolts",
+    "d": "1.23 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "a": "2.45 microvolts",
+    "b": "4.91 microvolts",
+    "c": "1.23 microvolts",
+    "d": "0.61 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 150 K. If the system operates over a bandwidth of 100 MHz, calculate the total noise power at the receiver input.",
+    "a": "2.07 x 10^-13 Watts",
+    "b": "2.07 x 10^-11 Watts",
+    "c": "1.035 x 10^-13 Watts",
+    "d": "4.14 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 2.07 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-96.84 dBm",
+    "b": "-106.84 dBm",
+    "c": "-86.84 dBm",
+    "d": "-116.84 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -112 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-162 dBm/Hz",
+    "b": "-142 dBm/Hz",
+    "c": "-182 dBm/Hz",
+    "d": "-172 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -162 dBm/Hz = 6.31 x 10^-20 W/Hz).",
+    "a": "457.2 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "914.4 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.35, G1 = 20 (absolute values). Stage 2: F2 = 5.0, G2 = 10. Stage 3: F3 = 12.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.61",
+    "b": "1.35",
+    "c": "1.95",
+    "d": "2.20",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 1.61).",
+    "a": "2.07 dB",
+    "b": "1.50 dB",
+    "c": "2.50 dB",
+    "d": "3.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 4.2 dB. If the input S/N ratio is 25 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "20.8 dB",
+    "b": "29.2 dB",
+    "c": "15.0 dB",
+    "d": "10.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 5 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "33.29 Mbps",
+    "b": "16.65 Mbps",
+    "c": "66.58 Mbps",
+    "d": "100.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 10.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 250 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "15.81%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "7.91%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 18 dB and the output S/N ratio is 14.2 dB, calculate the Noise Figure of the receiver.",
+    "a": "3.8 dB",
+    "b": "26.2 dB",
+    "c": "1.90 dB",
+    "d": "7.6 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 5 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 35 dB?",
+    "a": "-65 dBm",
+    "b": "-70 dBm",
+    "c": "-55 dBm",
+    "d": "-75 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 300 kHz.",
+    "a": "0.85 microvolts",
+    "b": "1.70 microvolts",
+    "c": "0.43 microvolts",
+    "d": "3.40 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.43 microvolts",
+    "b": "0.85 microvolts",
+    "c": "0.21 microvolts",
+    "d": "1.70 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 10 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "66.58 Mbps",
+    "b": "33.29 Mbps",
+    "c": "133.16 Mbps",
+    "d": "200.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 100 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "4.00 microvolts",
+    "b": "2.00 microvolts",
+    "c": "8.00 microvolts",
+    "d": "1.00 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 100 ohm resistor in the previous question is connected to a matched 100 ohm load, what is the noise voltage developed across the load?",
+    "a": "2.00 microvolts",
+    "b": "4.00 microvolts",
+    "c": "1.00 microvolts",
+    "d": "0.50 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 200 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "1.38 x 10^-13 Watts",
+    "b": "1.38 x 10^-11 Watts",
+    "c": "6.90 x 10^-14 Watts",
+    "d": "2.76 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 1.38 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-98.60 dBm",
+    "b": "-108.60 dBm",
+    "c": "-88.60 dBm",
+    "d": "-118.60 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -110 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-160 dBm/Hz",
+    "b": "-140 dBm/Hz",
+    "c": "-180 dBm/Hz",
+    "d": "-170 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -160 dBm/Hz = 10^-19 W/Hz).",
+    "a": "724.6 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "914.4 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.45, G1 = 15 (absolute values). Stage 2: F2 = 6.0, G2 = 10. Stage 3: F3 = 15.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.89",
+    "b": "1.45",
+    "c": "2.20",
+    "d": "2.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 1.89).",
+    "a": "2.76 dB",
+    "b": "1.50 dB",
+    "c": "2.50 dB",
+    "d": "3.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 5.5 dB. If the input S/N ratio is 30 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "24.5 dB",
+    "b": "35.5 dB",
+    "c": "20.0 dB",
+    "d": "15.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 10 MHz and a Signal-to-Noise Ratio of 30 dB (which is a power ratio of 1000 to 1). Calculate the Shannon capacity limit.",
+    "a": "99.67 Mbps",
+    "b": "49.83 Mbps",
+    "c": "199.34 Mbps",
+    "d": "300.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 50.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 500 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "10.00%",
+    "b": "1.00%",
+    "c": "5.00%",
+    "d": "20.00%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 20 dB and the output S/N ratio is 15.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "4.5 dB",
+    "b": "35.5 dB",
+    "c": "2.25 dB",
+    "d": "9.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 4 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-61 dBm",
+    "b": "-65 dBm",
+    "c": "-55 dBm",
+    "d": "-70 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 400 kHz.",
+    "a": "0.98 microvolts",
+    "b": "1.96 microvolts",
+    "c": "0.49 microvolts",
+    "d": "3.92 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.49 microvolts",
+    "b": "0.98 microvolts",
+    "c": "0.24 microvolts",
+    "d": "1.96 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 12 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "79.89 Mbps",
+    "b": "39.95 Mbps",
+    "c": "159.78 Mbps",
+    "d": "240.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 200 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "5.66 microvolts",
+    "b": "2.83 microvolts",
+    "c": "11.32 microvolts",
+    "d": "1.41 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 200 ohm resistor in the previous question is connected to a matched 200 ohm load, what is the noise voltage developed across the load?",
+    "a": "2.83 microvolts",
+    "b": "5.66 microvolts",
+    "c": "1.41 microvolts",
+    "d": "0.71 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 250 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "1.725 x 10^-13 Watts",
+    "b": "1.725 x 10^-11 Watts",
+    "c": "8.625 x 10^-14 Watts",
+    "d": "3.450 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 1.725 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-97.63 dBm",
+    "b": "-107.63 dBm",
+    "c": "-87.63 dBm",
+    "d": "-117.63 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -108 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-158 dBm/Hz",
+    "b": "-138 dBm/Hz",
+    "c": "-178 dBm/Hz",
+    "d": "-168 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -158 dBm/Hz = 1.585 x 10^-19 W/Hz).",
+    "a": "1148.5 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "574.3 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.5, G1 = 10 (absolute values). Stage 2: F2 = 5.0, G2 = 10. Stage 3: F3 = 15.0. Calculate the total cascaded Noise Factor.",
+    "a": "2.04",
+    "b": "1.50",
+    "c": "2.50",
+    "d": "3.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 2.04).",
+    "a": "3.10 dB",
+    "b": "1.50 dB",
+    "c": "2.50 dB",
+    "d": "4.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 6.2 dB. If the input S/N ratio is 30 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "23.8 dB",
+    "b": "36.2 dB",
+    "c": "20.0 dB",
+    "d": "15.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 15 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "99.87 Mbps",
+    "b": "49.93 Mbps",
+    "c": "199.74 Mbps",
+    "d": "300.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 20.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 500 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "15.81%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "7.91%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 22 dB and the output S/N ratio is 17.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "4.5 dB",
+    "b": "39.5 dB",
+    "c": "2.25 dB",
+    "d": "9.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 3.8 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-61.2 dBm",
+    "b": "-65.0 dBm",
+    "c": "-55.0 dBm",
+    "d": "-70.0 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 500 kHz.",
+    "a": "1.11 microvolts",
+    "b": "2.22 microvolts",
+    "c": "0.55 microvolts",
+    "d": "4.44 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.55 microvolts",
+    "b": "1.11 microvolts",
+    "c": "0.27 microvolts",
+    "d": "2.22 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 20 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "133.16 Mbps",
+    "b": "66.58 Mbps",
+    "c": "266.32 Mbps",
+    "d": "400.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 300 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "6.94 microvolts",
+    "b": "3.47 microvolts",
+    "c": "13.88 microvolts",
+    "d": "1.73 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 300 ohm resistor in the previous question is connected to a matched 300 ohm load, what is the noise voltage developed across the load?",
+    "a": "3.47 microvolts",
+    "b": "6.94 microvolts",
+    "c": "1.73 microvolts",
+    "d": "0.86 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 300 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "2.07 x 10^-13 Watts",
+    "b": "2.07 x 10^-11 Watts",
+    "c": "1.035 x 10^-13 Watts",
+    "d": "4.14 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 2.07 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-96.84 dBm",
+    "b": "-106.84 dBm",
+    "c": "-86.84 dBm",
+    "d": "-116.84 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -105 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-155 dBm/Hz",
+    "b": "-135 dBm/Hz",
+    "c": "-175 dBm/Hz",
+    "d": "-165 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -155 dBm/Hz = 3.162 x 10^-19 W/Hz).",
+    "a": "2291.30 K",
+    "b": "290.00 K",
+    "c": "145.00 K",
+    "d": "1145.65 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.6, G1 = 10 (absolute values). Stage 2: F2 = 6.0, G2 = 10. Stage 3: F3 = 20.0. Calculate the total cascaded Noise Factor.",
+    "a": "2.29",
+    "b": "1.60",
+    "c": "2.60",
+    "d": "3.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 2.29).",
+    "a": "3.60 dB",
+    "b": "1.60 dB",
+    "c": "2.60 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 6.5 dB. If the input S/N ratio is 30 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "23.5 dB",
+    "b": "36.5 dB",
+    "c": "20.0 dB",
+    "d": "15.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 25 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "166.45 Mbps",
+    "b": "83.22 Mbps",
+    "c": "332.90 Mbps",
+    "d": "500.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 30.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 500 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "12.91%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "6.45%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 25 dB and the output S/N ratio is 20.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "4.5 dB",
+    "b": "45.5 dB",
+    "c": "2.25 dB",
+    "d": "9.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 3.5 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-61.5 dBm",
+    "b": "-65.0 dBm",
+    "c": "-55.0 dBm",
+    "d": "-70.0 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 600 kHz.",
+    "a": "1.21 microvolts",
+    "b": "2.42 microvolts",
+    "c": "0.60 microvolts",
+    "d": "4.84 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.60 microvolts",
+    "b": "1.21 microvolts",
+    "c": "0.30 microvolts",
+    "d": "2.42 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 30 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "199.74 Mbps",
+    "b": "99.87 Mbps",
+    "c": "399.48 Mbps",
+    "d": "600.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 400 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "8.01 microvolts",
+    "b": "4.00 microvolts",
+    "c": "16.02 microvolts",
+    "d": "2.00 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 400 ohm resistor in the previous question is connected to a matched 400 ohm load, what is the noise voltage developed across the load?",
+    "a": "4.00 microvolts",
+    "b": "8.01 microvolts",
+    "c": "2.00 microvolts",
+    "d": "1.00 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 350 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "2.415 x 10^-13 Watts",
+    "b": "2.415 x 10^-11 Watts",
+    "c": "1.207 x 10^-13 Watts",
+    "d": "4.830 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 2.415 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-96.17 dBm",
+    "b": "-106.17 dBm",
+    "c": "-86.17 dBm",
+    "d": "-116.17 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -102 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-152 dBm/Hz",
+    "b": "-132 dBm/Hz",
+    "c": "-172 dBm/Hz",
+    "d": "-162 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -152 dBm/Hz = 6.31 x 10^-19 W/Hz).",
+    "a": "4572.4 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "2286.2 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.7, G1 = 10 (absolute values). Stage 2: F2 = 6.0, G2 = 10. Stage 3: F3 = 25.0. Calculate the total cascaded Noise Factor.",
+    "a": "2.44",
+    "b": "1.70",
+    "c": "2.70",
+    "d": "3.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 2.44).",
+    "a": "3.87 dB",
+    "b": "1.70 dB",
+    "c": "2.70 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 6.8 dB. If the input S/N ratio is 30 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "23.2 dB",
+    "b": "36.8 dB",
+    "c": "20.0 dB",
+    "d": "15.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 35 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "233.03 Mbps",
+    "b": "116.51 Mbps",
+    "c": "466.06 Mbps",
+    "d": "700.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 40.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 500 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "11.18%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "5.59%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 28 dB and the output S/N ratio is 23.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "4.5 dB",
+    "b": "51.5 dB",
+    "c": "2.25 dB",
+    "d": "9.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 3.2 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-61.8 dBm",
+    "b": "-65.0 dBm",
+    "c": "-55.0 dBm",
+    "d": "-70.0 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 700 kHz.",
+    "a": "1.30 microvolts",
+    "b": "2.60 microvolts",
+    "c": "0.65 microvolts",
+    "d": "5.20 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.65 microvolts",
+    "b": "1.30 microvolts",
+    "c": "0.32 microvolts",
+    "d": "2.60 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 40 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "266.32 Mbps",
+    "b": "133.16 Mbps",
+    "c": "532.64 Mbps",
+    "d": "800.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 500 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "8.95 microvolts",
+    "b": "4.48 microvolts",
+    "c": "17.90 microvolts",
+    "d": "2.24 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 500 ohm resistor in the previous question is connected to a matched 500 ohm load, what is the noise voltage developed across the load?",
+    "a": "4.48 microvolts",
+    "b": "8.95 microvolts",
+    "c": "2.24 microvolts",
+    "d": "1.12 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 400 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "2.76 x 10^-13 Watts",
+    "b": "2.76 x 10^-11 Watts",
+    "c": "1.38 x 10^-13 Watts",
+    "d": "5.52 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 2.76 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-95.59 dBm",
+    "b": "-105.59 dBm",
+    "c": "-85.59 dBm",
+    "d": "-115.59 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -99 dBm over a bandwidth of 100 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-149 dBm/Hz",
+    "b": "-129 dBm/Hz",
+    "c": "-169 dBm/Hz",
+    "d": "-159 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -149 dBm/Hz = 1.259 x 10^-18 W/Hz).",
+    "a": "9123.19 K",
+    "b": "290.00 K",
+    "c": "145.00 K",
+    "d": "4561.59 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.8, G1 = 10 (absolute values). Stage 2: F2 = 6.0, G2 = 10. Stage 3: F3 = 30.0. Calculate the total cascaded Noise Factor.",
+    "a": "2.59",
+    "b": "1.80",
+    "c": "2.80",
+    "d": "3.12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 2.59).",
+    "a": "4.13 dB",
+    "b": "1.80 dB",
+    "c": "2.80 dB",
+    "d": "5.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 7.2 dB. If the input S/N ratio is 30 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "22.8 dB",
+    "b": "37.2 dB",
+    "c": "20.0 dB",
+    "d": "15.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 45 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "299.61 Mbps",
+    "b": "149.80 Mbps",
+    "c": "599.22 Mbps",
+    "d": "900.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 50.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 1.0 W, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "14.14%",
+    "b": "2.00%",
+    "c": "5.00%",
+    "d": "10.00%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 30 dB and the output S/N ratio is 25.5 dB, calculate the Noise Figure of the receiver.",
+    "a": "4.5 dB",
+    "b": "55.5 dB",
+    "c": "2.25 dB",
+    "d": "9.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 3.0 dB. If the noise power at the receiver input is -105 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 40 dB?",
+    "a": "-62.0 dBm",
+    "b": "-65.0 dBm",
+    "c": "-55.0 dBm",
+    "d": "-70.0 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 800 kHz.",
+    "a": "1.39 microvolts",
+    "b": "2.78 microvolts",
+    "c": "0.70 microvolts",
+    "d": "5.56 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.70 microvolts",
+    "b": "1.39 microvolts",
+    "c": "0.35 microvolts",
+    "d": "2.78 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 50 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1). Calculate the Shannon capacity limit.",
+    "a": "332.90 Mbps",
+    "b": "166.45 Mbps",
+    "c": "665.80 Mbps",
+    "d": "1000.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 600 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 10 MHz.",
+    "a": "9.80 microvolts",
+    "b": "4.90 microvolts",
+    "c": "19.60 microvolts",
+    "d": "2.45 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 600 ohm resistor in the previous question is connected to a matched 600 ohm load, what is the noise voltage developed across the load?",
+    "a": "4.90 microvolts",
+    "b": "9.80 microvolts",
+    "c": "2.45 microvolts",
+    "d": "1.23 microvolts",
+    "ans": "a"
+  }
+]

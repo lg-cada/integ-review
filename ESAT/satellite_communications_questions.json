@@ -1,0 +1,2306 @@
+[
+  {
+    "q": "What is defined as a celestial body or man-made object that orbits around a primary planet?",
+    "a": "Meteor",
+    "b": "Comet",
+    "c": "Satellite",
+    "d": "Quasar",
+    "ans": "c"
+  },
+  {
+    "q": "Which of Kepler's laws states that the orbit of a satellite is an ellipse with the primary body located at one of its foci?",
+    "a": "Kepler's First Law",
+    "b": "Kepler's Second Law",
+    "c": "Kepler's Third Law",
+    "d": "Kepler's Fourth Law",
+    "ans": "a"
+  },
+  {
+    "q": "Which of Kepler's laws states that a line segment joining a satellite and its primary sweeps out equal areas during equal intervals of time?",
+    "a": "Kepler's First Law",
+    "b": "Kepler's Second Law",
+    "c": "Kepler's Third Law",
+    "d": "Newton's Universal Law",
+    "ans": "b"
+  },
+  {
+    "q": "Which of Kepler's laws states that the square of the orbital period of a satellite is directly proportional to the cube of its semi-major axis?",
+    "a": "Kepler's First Law",
+    "b": "Kepler's Second Law",
+    "c": "Kepler's Third Law",
+    "d": "Newton's First Law",
+    "ans": "c"
+  },
+  {
+    "q": "What was the world's first artificial satellite, launched by the Soviet Union in October 1957?",
+    "a": "Explorer 1",
+    "b": "Sputnik 1",
+    "c": "Telstar 1",
+    "d": "Early Bird",
+    "ans": "b"
+  },
+  {
+    "q": "What was the first active communications satellite launched, capable of receiving, amplifying, and retransmitting signals?",
+    "a": "Echo 1",
+    "b": "Telstar 1",
+    "c": "Sputnik 1",
+    "d": "Syncom 3",
+    "ans": "b"
+  },
+  {
+    "q": "What was the first commercial geostationary communications satellite, also known as INTELSAT I, launched in 1965?",
+    "a": "Early Bird",
+    "b": "Telstar 1",
+    "c": "Syncom 3",
+    "d": "Sputnik 1",
+    "ans": "a"
+  },
+  {
+    "q": "What is the approximate altitude of a geostationary (GEO) satellite above the Earth's equator?",
+    "a": "10,120 km",
+    "b": "20,200 km",
+    "c": "35,786 km",
+    "d": "42,164 km",
+    "ans": "c"
+  },
+  {
+    "q": "How many operational satellites comprise the baseline GPS (NAVSTAR) constellation?",
+    "a": "12",
+    "b": "18",
+    "c": "24",
+    "d": "36",
+    "ans": "c"
+  },
+  {
+    "q": "Into what orbital category are NAVSTAR GPS satellites classified?",
+    "a": "Low Earth Orbit (LEO)",
+    "b": "Medium Earth Orbit (MEO)",
+    "c": "Geostationary Orbit (GEO)",
+    "d": "Highly Elliptical Orbit (HEO)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the approximate orbital period of a NAVSTAR GPS satellite?",
+    "a": "24 hours",
+    "b": "12 hours",
+    "c": "90 minutes",
+    "d": "6 hours",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary carrier frequency used for the civilian GPS L1 signal?",
+    "a": "1227.60 MHz",
+    "b": "1575.42 MHz",
+    "c": "1176.45 MHz",
+    "d": "1375.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency used for the military GPS L2 signal?",
+    "a": "1575.42 MHz",
+    "b": "1227.60 MHz",
+    "c": "1176.45 MHz",
+    "d": "1430.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What type of satellite simply reflects radio signals back to Earth without providing any onboard amplification or processing?",
+    "a": "Active satellite",
+    "b": "Passive satellite",
+    "c": "Regenerative transponder",
+    "d": "Bent-pipe transponder",
+    "ans": "b"
+  },
+  {
+    "q": "What is another name for a transparent satellite transponder that amplifies and frequency-translates incoming signals without demodulating them?",
+    "a": "Regenerative transponder",
+    "b": "Bent-pipe transponder",
+    "c": "Active switch transponder",
+    "d": "Telemetry transponder",
+    "ans": "b"
+  },
+  {
+    "q": "What component is used in a satellite transponder to separate the wideband uplink spectrum into individual frequency channels?",
+    "a": "Output multiplexer (OMUX)",
+    "b": "Input multiplexer (IMUX)",
+    "c": "Upconverter",
+    "d": "Local oscillator",
+    "ans": "b"
+  },
+  {
+    "q": "What is the angle measured above the local horizontal plane to a satellite at the Earth station antenna?",
+    "a": "Azimuth angle",
+    "b": "Elevation angle",
+    "c": "Inclination angle",
+    "d": "Declination angle",
+    "ans": "b"
+  },
+  {
+    "q": "What is the horizontal angle measured clockwise from true North to the satellite projection on the Earth's surface?",
+    "a": "Elevation angle",
+    "b": "Azimuth angle",
+    "c": "Inclination angle",
+    "d": "Hour angle",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two primary angles required to point an Earth station antenna directly toward a geostationary satellite?",
+    "a": "Inclination and declination",
+    "b": "Azimuth and elevation",
+    "c": "Latitude and longitude",
+    "d": "Apogee and perigee angles",
+    "ans": "b"
+  },
+  {
+    "q": "What is the geographical region on the Earth's surface where a satellite's antenna beams can be received with sufficient strength?",
+    "a": "Boresight",
+    "b": "Footprint",
+    "c": "Virtual aperture",
+    "d": "Fresnel zone",
+    "ans": "b"
+  },
+  {
+    "q": "What is the point on the Earth's surface representing the direction of maximum gain of a satellite's transmitting antenna?",
+    "a": "Sub-satellite point",
+    "b": "Boresight",
+    "c": "Footprint boundary",
+    "d": "Apex",
+    "ans": "b"
+  },
+  {
+    "q": "When does a geostationary satellite experience orbital eclipses where the Earth blocks the sun's rays?",
+    "a": "Continually every day",
+    "b": "Twice a year during the vernal and autumnal equinoxes",
+    "c": "Only during solar sunspot maximums",
+    "d": "During lunar solstices",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum duration of a satellite eclipse for a geostationary satellite?",
+    "a": "24 hours",
+    "b": "Approximately 72 minutes",
+    "c": "12 hours",
+    "d": "15 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Which battery type was widely used in early geostationary satellites to power subsystems during eclipses?",
+    "a": "Lead-acid battery",
+    "b": "Nickel-Cadmium battery",
+    "c": "Lithium-ion battery",
+    "d": "Alkaline battery",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary power generation source for modern operational communications satellites during non-eclipse periods?",
+    "a": "Nickel-Hydrogen batteries",
+    "b": "Silicon or Gallium Arsenide solar panels",
+    "c": "Thermoelectric nuclear generators",
+    "d": "Liquid hydrogen fuel cells",
+    "ans": "b"
+  },
+  {
+    "q": "What satellite stabilization method achieves orientation stability by physically rotating the outer body of the spacecraft?",
+    "a": "Three-axis stabilization",
+    "b": "Spin stabilization",
+    "c": "Gravity gradient stabilization",
+    "d": "Magnetic torquing",
+    "ans": "b"
+  },
+  {
+    "q": "What satellite stabilization method keeps the spacecraft's body fixed in space relative to Earth using internal momentum wheels?",
+    "a": "Spin stabilization",
+    "b": "Three-axis stabilization",
+    "c": "Passive stabilization",
+    "d": "Aerodynamic stabilization",
+    "ans": "b"
+  },
+  {
+    "q": "What multiple access scheme allocates dedicated time slots on a single carrier frequency to different Earth stations?",
+    "a": "FDMA",
+    "b": "TDMA",
+    "c": "CDMA",
+    "d": "SDMA",
+    "ans": "b"
+  },
+  {
+    "q": "What multiple access scheme allocates unique, dedicated frequency bands to different Earth stations within a transponder's bandwidth?",
+    "a": "TDMA",
+    "b": "FDMA",
+    "c": "CDMA",
+    "d": "DAMA",
+    "ans": "b"
+  },
+  {
+    "q": "What type of channelization and allocation system is used in the SPADE satellite voice communications link?",
+    "a": "TDMA / TDM",
+    "b": "Single Channel Per Carrier (SCPC) / FDMA",
+    "c": "Broadband CDMA",
+    "d": "Wavelength division multiplexing",
+    "ans": "b"
+  },
+  {
+    "q": "What digital modulation technique is used for data transmission in the SPADE system?",
+    "a": "BPSK",
+    "b": "QPSK",
+    "c": "16-QAM",
+    "d": "BFSK",
+    "ans": "b"
+  },
+  {
+    "q": "What mathematical positioning technique is used by GPS receivers to calculate their exact physical coordinates using timing signals?",
+    "a": "Triangulation",
+    "b": "Trilateration",
+    "c": "Resectioning",
+    "d": "Phase tracking",
+    "ans": "b"
+  },
+  {
+    "q": "What high-accuracy GPS positioning service is reserved exclusively for military and authorized government personnel?",
+    "a": "Standard Positioning Service (SPS)",
+    "b": "Precise Positioning Service (PPS)",
+    "c": "Real-Time Kinematic (RTK)",
+    "d": "Differential GPS (DGPS)",
+    "ans": "b"
+  },
+  {
+    "q": "What GPS positioning service is available to all civilian users worldwide on a continuous basis, with no direct charge?",
+    "a": "PPS",
+    "b": "SPS",
+    "c": "RTK",
+    "d": "P-code service",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical downlink frequency range for a standard C-band satellite transponder?",
+    "a": "5.925 to 6.425 GHz",
+    "b": "3.700 to 4.200 GHz",
+    "c": "11.700 to 12.200 GHz",
+    "d": "14.000 to 14.500 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical uplink frequency range for a standard C-band satellite transponder?",
+    "a": "3.700 to 4.200 GHz",
+    "b": "5.925 to 6.425 GHz",
+    "c": "11.700 to 12.200 GHz",
+    "d": "14.000 to 14.500 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical downlink frequency range for a standard Ku-band satellite transponder?",
+    "a": "14.00 to 14.50 GHz",
+    "b": "11.70 to 12.20 GHz",
+    "c": "3.70 to 4.20 GHz",
+    "d": "5.92 to 6.42 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical uplink frequency range for a standard Ku-band satellite transponder?",
+    "a": "11.70 to 12.20 GHz",
+    "b": "14.00 to 14.50 GHz",
+    "c": "3.70 to 4.20 GHz",
+    "d": "27.50 to 30.00 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "What highly elliptical, high-inclination orbit is widely used by northern countries to provide satellite coverage to polar regions?",
+    "a": "Geostationary orbit",
+    "b": "Molniya orbit",
+    "c": "Sun-synchronous orbit",
+    "d": "Clarke orbit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the specific inclination angle used for a Molniya orbit to prevent apsidal drift?",
+    "a": "0.0°",
+    "b": "63.4°",
+    "c": "90.0°",
+    "d": "45.0°",
+    "ans": "b"
+  },
+  {
+    "q": "What is the mathematical eccentricity of a perfectly circular satellite orbit?",
+    "a": "1.0",
+    "b": "0.0",
+    "c": "0.5",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "What is the approximate inclination angle of a polar-orbiting satellite?",
+    "a": "0.0°",
+    "b": "90.0°",
+    "c": "45.0°",
+    "d": "63.4°",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes a satellite orbit that travels in the opposite direction of the Earth's rotation?",
+    "a": "Prograde orbit",
+    "b": "Retrograde orbit",
+    "c": "Equatorial orbit",
+    "d": "Polar orbit",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes a satellite orbit that travels in the same direction as the Earth's rotation?",
+    "a": "Retrograde orbit",
+    "b": "Prograde orbit",
+    "c": "Polar orbit",
+    "d": "Asynchronous orbit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the point in a satellite's elliptical orbit that is closest to the Earth's surface?",
+    "a": "Apogee",
+    "b": "Perigee",
+    "c": "Ascending node",
+    "d": "Boresight",
+    "ans": "b"
+  },
+  {
+    "q": "What is the point in a satellite's elliptical orbit that is furthest from the Earth's surface?",
+    "a": "Perigee",
+    "b": "Apogee",
+    "c": "Descending node",
+    "d": "Boresight",
+    "ans": "b"
+  },
+  {
+    "q": "What type of orbit remains fixed relative to the sun, allowing a satellite to pass over a given point on Earth at the same local solar time each day?",
+    "a": "Geostationary orbit",
+    "b": "Sun-synchronous orbit",
+    "c": "Molniya orbit",
+    "d": "Sidereal orbit",
+    "ans": "b"
+  },
+  {
+    "q": "How many classical Keplerian orbital elements are required to completely specify a satellite's orbit in three-dimensional space?",
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "12",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the doughnut-shaped regions of highly energetic trapped charged particles surrounding the Earth that satellites must avoid or be shielded against?",
+    "a": "Ozone layers",
+    "b": "Van Allen radiation belts",
+    "c": "Ionospheric D layers",
+    "d": "Tropospheric ducts",
+    "ans": "b"
+  },
+  {
+    "q": "What spacecraft subsystem is responsible for monitoring satellite health parameters, tracking position, and receiving commands from the ground control station?",
+    "a": "Attitude and Orbit Control System (AOCS)",
+    "b": "Telemetry, Tracking, and Command (TT&C)",
+    "c": "Electrical Power Subsystem (EPS)",
+    "d": "Reaction Control Subsystem (RCS)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary purpose of guard times in a TDMA satellite transmission frame?",
+    "a": "To provide a window for solar panel alignment",
+    "b": "To prevent overlapping of burst transmissions from different Earth stations",
+    "c": "To allow the local oscillators to stabilize between channels",
+    "d": "To transmit parity check bits for forward error correction",
+    "ans": "b"
+  },
+  {
+    "q": "What type of satellite transponder demodulates the received uplink signal down to the digital baseband level, processes or regenerates the data, and then modulates a new downlink carrier?",
+    "a": "Bent-pipe transponder",
+    "b": "Regenerative transponder",
+    "c": "Passive reflector transponder",
+    "d": "FDM analog translator",
+    "ans": "b"
+  },
+  {
+    "q": "Which multiple access technique assigns different pseudo-random noise codes to different users, allowing them to share the same frequency band and time slot?",
+    "a": "FDMA",
+    "b": "CDMA",
+    "c": "TDMA",
+    "d": "SDMA",
+    "ans": "b"
+  },
+  {
+    "q": "The term VSAT stands for which satellite communications network classification?",
+    "a": "Very Small Amplitude Transceiver",
+    "b": "Very Small Aperture Terminal",
+    "c": "Variable Space Aperture Transmitter",
+    "d": "Virtual Satellite Access Technology",
+    "ans": "b"
+  },
+  {
+    "q": "In a star-topology VSAT network, which station acts as the high-power central coordinator that relays all traffic between the small VSAT terminals?",
+    "a": "Remote terminal",
+    "b": "Hub station",
+    "c": "Bent-pipe transponder",
+    "d": "Tracking node",
+    "ans": "b"
+  },
+  {
+    "q": "What type of VSAT network topology allows direct terminal-to-terminal communications without passing through a central hub station?",
+    "a": "Star network",
+    "b": "Mesh network",
+    "c": "Ring network",
+    "d": "Point-to-point backbone",
+    "ans": "b"
+  },
+  {
+    "q": "What type of satellite orbital altitude category is characterized by orbits below 2,000 km, exhibiting short periods of 90 to 120 minutes?",
+    "a": "MEO",
+    "b": "LEO",
+    "c": "GEO",
+    "d": "HEO",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes a sun-synchronous orbit altitude and inclination?",
+    "a": "Altitude of 35,786 km, inclination of 0 degrees",
+    "b": "Altitude of 600 to 800 km, inclination of approximately 98 degrees",
+    "c": "Altitude of 20,200 km, inclination of 55 degrees",
+    "d": "Highly eccentric altitude, inclination of 63.4 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a satellite's attitude control system?",
+    "a": "To control the thermal temperature of the payload",
+    "b": "To maintain the satellite's angular orientation and pointing direction toward Earth",
+    "c": "To regulate the electrical voltage of the solar array",
+    "d": "To switch channels in the input multiplexer",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the line of apsides of an elliptical satellite orbit?",
+    "a": "The line connecting the ascending and descending nodes",
+    "b": "The line connecting the apogee and perigee through the Earth's center",
+    "c": "The line perpendicular to the equatorial plane",
+    "d": "The trajectory path of the satellite's sub-point",
+    "ans": "b"
+  },
+  {
+    "q": "The line of nodes in an orbital system is defined as the intersection of _____.",
+    "a": "The semi-major and semi-minor axes",
+    "b": "The satellite's orbital plane and the Earth's equatorial plane",
+    "c": "The apogee and perigee coordinates",
+    "d": "The Greenwich meridian and the sub-satellite longitude",
+    "ans": "b"
+  },
+  {
+    "q": "What Keplerian orbital element represents the angular distance of the ascending node measured eastward from the vernal equinox?",
+    "a": "Argument of perigee",
+    "b": "Right Ascension of the Ascending Node (RAAN)",
+    "c": "Mean anomaly",
+    "d": "True anomaly",
+    "ans": "b"
+  },
+  {
+    "q": "What orbital parameter represents the angle measured from the ascending node to the perigee along the orbital plane?",
+    "a": "Right Ascension of the Ascending Node",
+    "b": "Argument of perigee",
+    "c": "Mean anomaly",
+    "d": "Orbital inclination",
+    "ans": "b"
+  },
+  {
+    "q": "In satellite link design, what is the term for the ratio of the receiving antenna gain to the equivalent system noise temperature?",
+    "a": "Figure of Merit (G/T)",
+    "b": "Carrier-to-Noise Ratio (C/N)",
+    "c": "Bit Error Rate (BER)",
+    "d": "S/N improvement factor",
+    "ans": "a"
+  },
+  {
+    "q": "What represents the boresight of a satellite antenna?",
+    "a": "The outer boundary of the -10 dB footprint",
+    "b": "The physical axis of maximum radiation gain of the antenna",
+    "c": "The mounting bracket of the feedhorn",
+    "d": "The connection point to the travel-wave tube",
+    "ans": "b"
+  },
+  {
+    "q": "Which multiple access scheme allows Earth stations to adjust their transmission rates and bandwidth dynamically based on real-time traffic demand?",
+    "a": "Fixed-assignment FDMA",
+    "b": "Demand-Assignment Multiple Access (DAMA)",
+    "c": "Random-access ALOHA",
+    "d": "Static TDMA slotting",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the major advantage of L-band frequencies over Ku-band frequencies for mobile satellite communications?",
+    "a": "Much higher data rate capacities",
+    "b": "Negligible rain attenuation and atmospheric absorption",
+    "c": "Smaller physical dish requirements",
+    "d": "Higher transponder efficiency limits",
+    "ans": "b"
+  },
+  {
+    "q": "The orbit of a satellite that has an orbital period exactly equal to one sidereal day is called a _____.",
+    "a": "Low Earth orbit",
+    "b": "Geosynchronous orbit",
+    "c": "Sun-synchronous orbit",
+    "d": "Molniya orbit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the key difference between a geosynchronous orbit and a geostationary orbit?",
+    "a": "A geosynchronous orbit has a period of 12 hours",
+    "b": "A geostationary orbit is a circular geosynchronous orbit with an inclination angle of exactly 0 degrees",
+    "c": "A geostationary orbit has a highly elliptical trajectory",
+    "d": "Geosynchronous orbits do not suffer from eclipses",
+    "ans": "b"
+  },
+  {
+    "q": "What are the thrusters on a satellite used for orbital correction and attitude maintenance collectively called?",
+    "a": "AOCS wheels",
+    "b": "Reaction Control System (RCS) or station-keeping thrusters",
+    "c": "Solar sails",
+    "d": "Gimbaled platforms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the drift of a geostationary satellite from its assigned orbital slot, requiring periodic thruster firings?",
+    "a": "Precession",
+    "b": "Orbital decay or drift",
+    "c": "Nutational oscillation",
+    "d": "Apsidal rotation",
+    "ans": "b"
+  },
+  {
+    "q": "What station-keeping correction counteracts the gravitational pull of the sun and the moon to maintain a geostationary satellite's 0-degree inclination?",
+    "a": "East-West station-keeping",
+    "b": "North-South station-keeping",
+    "c": "Attitude spin correction",
+    "d": "Yaw-axis momentum dumping",
+    "ans": "b"
+  },
+  {
+    "q": "What station-keeping correction counteracts the triaxiality of the Earth (the Earth's non-spherical shape) to prevent a geostationary satellite from drifting in longitude?",
+    "a": "North-South station-keeping",
+    "b": "East-West station-keeping",
+    "c": "Roll-axis alignment",
+    "d": "Perigee height correction",
+    "ans": "b"
+  },
+  {
+    "q": "In satellite communications, what does 'dual polarization' (frequency reuse) refer to?",
+    "a": "Transmitting on both C-band and Ku-band simultaneously",
+    "b": "Using orthogonal polarizations (e.g., horizontal/vertical or LHCP/RHCP) to transmit two separate signals on the same frequency",
+    "c": "Using space diversity at the Earth station",
+    "d": "Demodulating the signal using both AM and FM detectors",
+    "ans": "b"
+  },
+  {
+    "q": "What component in a satellite Earth station represents the first stage of RF amplification, having a very low noise contribution?",
+    "a": "High Power Amplifier (HPA)",
+    "b": "Low Noise Amplifier (LNA) or Low Noise Block (LNB)",
+    "c": "Upconverter",
+    "d": "Frequency diplexer",
+    "ans": "b"
+  },
+  {
+    "q": "Which microwave amplifier tube is widely used in high-power satellite transponders and Earth stations due to its high gain and wideband capabilities?",
+    "a": "Klystron amplifier",
+    "b": "Traveling Wave Tube (TWT) or TWTA",
+    "c": "Magnetron",
+    "d": "Gunn diode",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the telemetry link of a satellite?",
+    "a": "The uplink channel for sending commands to the spacecraft",
+    "b": "The downlink channel for transmitting sensor data and status parameters of the spacecraft to the ground station",
+    "c": "The voice channel in the SPADE system",
+    "d": "The inter-satellite tracking path",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary legislative or regulatory body responsible for coordinating international satellite orbital slot assignments and frequency allocations?",
+    "a": "Federal Communications Commission (FCC)",
+    "b": "International Telecommunication Union (ITU)",
+    "c": "National Telecommunications Commission (NTC)",
+    "d": "European Space Agency (ESA)",
+    "ans": "b"
+  },
+  {
+    "q": "The orbital slot position of a geostationary satellite is specified in terms of _____.",
+    "a": "Latitude coordinates",
+    "b": "Degrees of Longitude (East or West)",
+    "c": "Altitude in nautical miles",
+    "d": "Right ascension angles",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is placed in an orbit with an eccentricity of e = 0.2 and a semi-major axis of a = 10,000 km. Calculate the radius of perigee (rp). Use rp = a * (1 - e).",
+    "a": "12,000 km",
+    "b": "8,000 km",
+    "c": "10,000 km",
+    "d": "9,800 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is placed in an orbit with an eccentricity of e = 0.2 and a semi-major axis of a = 10,000 km. Calculate the radius of apogee (ra). Use ra = a * (1 + e).",
+    "a": "10,000 km",
+    "b": "12,000 km",
+    "c": "8,000 km",
+    "d": "14,000 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite elliptical orbit is measured to have an apogee radius of 15,000 km and a perigee radius of 9,000 km. Calculate the semi-major axis (a) of the orbit.",
+    "a": "6,000 km",
+    "b": "12,000 km",
+    "c": "24,000 km",
+    "d": "10,500 km",
+    "ans": "b"
+  },
+  {
+    "q": "Using the orbital parameters from the previous question (ra = 15,000 km, rp = 9,000 km), calculate the mathematical eccentricity (e) of the orbit. Use e = (ra - rp) / (ra + rp).",
+    "a": "0.40",
+    "b": "0.25",
+    "c": "0.33",
+    "d": "0.50",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite has an orbit with a semi-major axis of a = 7,000 km. Calculate its orbital velocity (v) in km/s assuming a circular orbit. Use Kepler's geocentric constant mu = 3.986 x 10^5 km^3/s^2. Use v = sqrt(mu / a).",
+    "a": "5.69 km/s",
+    "b": "7.54 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "A MEO satellite orbits at a radius of 26,500 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "1.50 km/s",
+    "b": "3.88 km/s",
+    "c": "5.69 km/s",
+    "d": "7.54 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital velocity (v) of a geostationary satellite orbiting at a radius of 42,164 km.",
+    "a": "1.54 km/s",
+    "b": "3.07 km/s",
+    "c": "4.12 km/s",
+    "d": "6.14 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 8,000 km. Calculate its orbital period (T) in seconds. Use mu = 3.986 x 10^5 km^3/s^2. Use T = 2 * pi * sqrt(a^3 / mu).",
+    "a": "3,570 seconds",
+    "b": "7,112 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the orbital period of the LEO satellite from the previous question (T = 7,112 seconds) into minutes.",
+    "a": "90.0 minutes",
+    "b": "118.5 minutes",
+    "c": "59.5 minutes",
+    "d": "144.0 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A circular orbit has a semi-major axis of a = 26,600 km. Calculate the orbital period (T) in hours.",
+    "a": "6.0 hours",
+    "b": "12.0 hours",
+    "c": "24.0 hours",
+    "d": "1.5 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds). Calculate the required semi-major axis (a) of the orbit in kilometers. Use mu = 3.986 x 10^5 km^3/s^2.",
+    "a": "26,196 km",
+    "b": "42,241 km",
+    "c": "35,786 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 12 hours (43,200 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "20,200 km",
+    "b": "26,610 km",
+    "c": "15,800 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A geostationary satellite transponder operates with an uplink frequency of 6 GHz. Calculate the free-space path loss (FSPL) in dB over a slant range distance of 38,000 km. Use FSPL = 32.44 + 20 * log(d_km) + 20 * log(f_MHz).",
+    "a": "180.00 dB",
+    "b": "199.59 dB",
+    "c": "195.50 dB",
+    "d": "205.25 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A geostationary satellite transponder operates with a downlink frequency of 4 GHz. Calculate the free-space path loss (FSPL) in dB over a slant range distance of 38,000 km.",
+    "a": "180.00 dB",
+    "b": "196.07 dB",
+    "c": "199.59 dB",
+    "d": "202.83 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A Ku-band satellite downlink operates at 12 GHz. Calculate the free-space path loss (FSPL) in dB over a slant range of 40,000 km.",
+    "a": "196.07 dB",
+    "b": "206.02 dB",
+    "c": "199.59 dB",
+    "d": "209.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite earth station transmitter has a power output of 100 Watts (20 dBW). If it is connected to a parabolic dish antenna with a gain of 50 dBi, and the waveguide feeder loss is 2 dB, calculate the uplink EIRP in dBW.",
+    "a": "70 dBW",
+    "b": "68 dBW",
+    "c": "72 dBW",
+    "d": "50 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts.",
+    "a": "6.31 kW",
+    "b": "6.31 MW",
+    "c": "63.10 kW",
+    "d": "631.00 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder has a downlink EIRP of 45 dBW. If the slant range path distance to the Earth station is 38,000 km (FSPL = 196.07 dB at 4 GHz) and atmospheric absorption loss is 0.5 dB, calculate the Received Signal Level (RSL) at the Earth station receiving antenna with a gain of 48 dBi.",
+    "a": "-101.57 dBW",
+    "b": "-103.57 dBW",
+    "c": "-105.57 dBW",
+    "d": "-98.07 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Received Signal Level of -103.57 dBW from the previous question into decibel-milliwatts (dBm).",
+    "a": "-133.57 dBm",
+    "b": "-73.57 dBm",
+    "c": "-103.57 dBm",
+    "d": "-43.57 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station antenna with a physical diameter of 3.0 meters operates at 4 GHz (lambda = 0.075 m). Calculate the antenna power gain in dBi, assuming an aperture efficiency of 55%. Use G = eta * (pi * D / lambda)^2.",
+    "a": "38.15 dBi",
+    "b": "39.85 dBi",
+    "c": "41.15 dBi",
+    "d": "42.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station antenna operates at 12 GHz (lambda = 0.025 m) and has a physical diameter of 1.2 meters. Calculate the antenna power gain in dBi, assuming an aperture efficiency of 55%.",
+    "a": "39.85 dBi",
+    "b": "41.85 dBi",
+    "c": "43.15 dBi",
+    "d": "44.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the half-power beamwidth (-3 dB angle) of a 3.0-meter parabolic antenna operating at 4 GHz (lambda = 0.075 m). Use the practical approximation Beamwidth = 70 * lambda / D.",
+    "a": "3.50 degrees",
+    "b": "1.75 degrees",
+    "c": "2.10 degrees",
+    "d": "1.05 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the half-power beamwidth (-3 dB angle) of a 1.2-meter parabolic antenna operating at 12 GHz (lambda = 0.025 m).",
+    "a": "2.33 degrees",
+    "b": "1.46 degrees",
+    "c": "1.17 degrees",
+    "d": "0.58 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving antenna has a gain of 45 dBi. If the equivalent system noise temperature of the receiver is 120 Kelvin, calculate the Earth station Figure of Merit (G/T) in dB/K. Use G/T = G_dBi - 10 * log10(T_Kelvin).",
+    "a": "21.11 dB/K",
+    "b": "24.21 dB/K",
+    "c": "18.50 dB/K",
+    "d": "26.02 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving antenna has a gain of 48 dBi. If the system noise temperature is 150 Kelvin, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "23.15 dB/K",
+    "b": "26.24 dB/K",
+    "c": "21.05 dB/K",
+    "d": "28.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A low-noise block downconverter (LNB) has a noise temperature of 50 K. If the antenna feedline noise temperature is 20 K and the receiving antenna noise temperature is 30 K, calculate the total equivalent system noise temperature (T_system) at the input of the LNB, assuming no other lossy elements.",
+    "a": "50 K",
+    "b": "100 K",
+    "c": "70 K",
+    "d": "120 K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder operates at a downlink frequency of 4 GHz with a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -103 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW. Use Pn_Watts = k * T * B, where k = 1.38 x 10^-23 J/K. Use k in dBW/K/Hz = -228.6 dBW/K/Hz.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -103 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "29.2 dB",
+    "c": "25.0 dB",
+    "d": "32.2 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 29.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz. Use C/N0 = C/N + 10 * log10(B).",
+    "a": "75.56 dB-Hz",
+    "b": "104.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 20 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 196.07 dB at 4 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz. Use C/N0 = EIRP - FSPL + G/T + 228.6.",
+    "a": "80.53 dB-Hz",
+    "b": "100.53 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite system in the previous question (C/N0 = 100.53 dB-Hz), the digital link transmits a data rate of 10 Mbps (70 dB-Hz). Calculate the Energy per Bit to Noise spectral density ratio (Eb/N0) in dB. Use Eb/N0 = C/N0 - 10 * log10(R).",
+    "a": "20.53 dB",
+    "b": "30.53 dB",
+    "c": "25.53 dB",
+    "d": "15.53 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz. Calculate the free-space path loss (FSPL) in dB over a slant range of 38,000 km.",
+    "a": "199.59 dB",
+    "b": "205.59 dB",
+    "c": "202.00 dB",
+    "d": "208.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver is located at a position where the slant range to the geostationary satellite is 37,500 km. Find the round-trip propagation time delay in milliseconds for a signal to go from Earth to satellite and back. (Use c = 3 x 10^8 m/s).",
+    "a": "125 milliseconds",
+    "b": "250 milliseconds",
+    "c": "500 milliseconds",
+    "d": "750 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A GPS receiver is located at a position where the distance to a specific GPS satellite is 20,200 km. Calculate the propagation time delay in milliseconds for the GPS timing signal to reach the receiver.",
+    "a": "33.7 milliseconds",
+    "b": "67.3 milliseconds",
+    "c": "134.6 milliseconds",
+    "d": "20.2 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A GPS receiver measures a timing delay of exactly 70.0 milliseconds from a GPS satellite. Calculate the pseudo-range distance to the satellite in kilometers.",
+    "a": "10,500 km",
+    "b": "21,000 km",
+    "c": "42,000 km",
+    "d": "31,500 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite earth station operates with an uplink antenna gain of 52 dBi and an amplifier output power of 50 Watts (17 dBW). If the waveguide loss is 1 dB, calculate the uplink EIRP in dBW.",
+    "a": "66 dBW",
+    "b": "68 dBW",
+    "c": "70 dBW",
+    "d": "52 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts.",
+    "a": "63.1 kW",
+    "b": "6.31 MW",
+    "c": "631.0 kW",
+    "d": "6.31 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An Earth station antenna with a diameter of 2.4 meters has a receiving gain of 37.8 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 6 GHz using the relationship G2_dBi = G1_dBi + 20 * log10(f2/f1).",
+    "a": "39.80 dBi",
+    "b": "41.32 dBi",
+    "c": "42.50 dBi",
+    "d": "44.15 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 10 Watts (10 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 40,000 km in free space. Use F_dBW = EIRP_dBW - 10 * log10(4 * pi * d^2) where d is in meters.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-138.01 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-118.01 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power flux density (F) in Watts per square meter for the satellite in the previous question (F = -138.01 dBW/m^2).",
+    "a": "1.58 x 10^-11 W/m^2",
+    "b": "1.58 x 10^-14 W/m^2",
+    "c": "1.58 x 10^-12 W/m^2",
+    "d": "1.58 x 10^-10 W/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNA with a noise figure of 1.0 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.259",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.259), calculate the equivalent noise temperature (Te) of the LNA in Kelvin. Use Te = T0 * (F - 1) where T0 = 290 Kelvin.",
+    "a": "145.0 K",
+    "b": "75.1 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 75 Kelvin. If it is connected to a receiver with a noise temperature of 145 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "220 K",
+    "b": "76.45 K",
+    "c": "150 K",
+    "d": "112.5 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 76.45 K) utilizes a receiving antenna with a gain of 48 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "29.17 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 50 MHz. If the Received Signal Level (RSL) at the Earth station is -105 dBW, and the system noise temperature is 150 K, calculate the total thermal noise power (Pn) in dBW. Use Pn_dBW = -228.6 + 10 * log10(T) + 10 * log10(B).",
+    "a": "-125.8 dBW",
+    "b": "-129.8 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -105 dBW, noise power Pn = -129.8 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "24.8 dB",
+    "c": "20.0 dB",
+    "d": "32.2 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 24.8 dB over a 50 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "101.79 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 45 dBW and the path distance is 40,000 km (FSPL = 206.02 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.58 dB-Hz",
+    "b": "92.58 dB-Hz",
+    "c": "90.58 dB-Hz",
+    "d": "112.58 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 10,000 km and a perigee altitude of 1,000 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "11,878 km",
+    "b": "15,500 km",
+    "c": "10,000 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 11,878 km), calculate the orbital period (T) in hours. Use mu = 3.986 x 10^5 km^3/s^2.",
+    "a": "1.5 hours",
+    "b": "3.57 hours",
+    "c": "6.0 hours",
+    "d": "12.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 7,500 km. Calculate its orbital velocity (v) in km/s. Use mu = 3.986 x 10^5 km^3/s^2.",
+    "a": "5.69 km/s",
+    "b": "7.29 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 7,500 km).",
+    "a": "3,570 seconds",
+    "b": "6,472 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 6 hours (21,600 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "16,756 km",
+    "c": "20,200 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 1.8 meters has a receiving gain of 35.0 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "39.80 dBi",
+    "b": "44.54 dBi",
+    "c": "42.50 dBi",
+    "d": "46.15 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 5 Watts (7 dBW) and an antenna gain of 12 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-143.60 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 1.2 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.318",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.318), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "92.3 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 50 Kelvin. If it is connected to a receiver with a noise temperature of 100 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "150 K",
+    "b": "51.0 K",
+    "c": "75 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 51 K) utilizes a receiving antenna with a gain of 45 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "27.92 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -100 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -100 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "32.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 32.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "107.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 22 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "99.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 20,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "16,628 km",
+    "b": "10,250 km",
+    "c": "20,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 16,628 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "5.97 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 8,500 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "6.85 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 8,500 km).",
+    "a": "3,570 seconds",
+    "b": "7,794 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 8 hours (28,800 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "20,305 km",
+    "c": "35,786 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 2.0 meters has a receiving gain of 36.0 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "39.80 dBi",
+    "b": "45.54 dBi",
+    "c": "42.50 dBi",
+    "d": "48.15 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 2 Watts (3 dBW) and an antenna gain of 10 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-149.60 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 1.5 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.413",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.413), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "119.8 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 60 Kelvin. If it is connected to a receiver with a noise temperature of 120 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "180 K",
+    "b": "61.2 K",
+    "c": "75 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 61.2 K) utilizes a receiving antenna with a gain of 48 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.13 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 50 MHz. If the Received Signal Level (RSL) at the Earth station is -100 dBW, and the system noise temperature is 150 K, calculate the total thermal noise power (Pn) of the receiver in Watts.",
+    "a": "1.035 x 10^-14 Watts",
+    "b": "1.035 x 10^-13 Watts",
+    "c": "2.070 x 10^-13 Watts",
+    "d": "5.175 x 10^-14 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the total thermal noise power from the previous question (Pn = 1.035 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-114.0 dBm",
+    "b": "-99.85 dBm",
+    "c": "-89.85 dBm",
+    "d": "-109.85 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous questions (RSL = -100 dBW = -70 dBm, Pn = -99.85 dBm), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "19.85 dB",
+    "b": "29.85 dB",
+    "c": "25.00 dB",
+    "d": "35.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 29.85 dB over a 50 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "106.84 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 20 dB/K. If the satellite downlink EIRP is 45 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "94.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 25,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "19,128 km",
+    "b": "12,750 km",
+    "c": "25,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 19,128 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "7.35 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 9,000 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "6.66 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 9,000 km).",
+    "a": "3,570 seconds",
+    "b": "8,491 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 10 hours (36,000 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "23,556 km",
+    "c": "35,786 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 2.4 meters has a receiving gain of 37.8 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "47.34 dBi",
+    "c": "43.50 dBi",
+    "d": "49.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 5 Watts (7 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 40,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-141.01 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.01 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 1.8 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.513",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.513), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "148.9 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 75 Kelvin. If it is connected to a receiver with a noise temperature of 150 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "220 K",
+    "b": "76.5 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 76.5 K) utilizes a receiving antenna with a gain of 48 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "29.16 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 50 MHz. If the Received Signal Level (RSL) at the Earth station is -105 dBW, and the system noise temperature is 150 K, calculate the total thermal noise power (Pn) of the receiver in Watts.",
+    "a": "1.035 x 10^-14 Watts",
+    "b": "1.035 x 10^-13 Watts",
+    "c": "2.070 x 10^-13 Watts",
+    "d": "5.175 x 10^-14 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the total thermal noise power from the previous question (Pn = 1.035 x 10^-13 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-114.0 dBm",
+    "b": "-99.85 dBm",
+    "c": "-89.85 dBm",
+    "d": "-109.85 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous questions (RSL = -105 dBW = -75 dBm, Pn = -99.85 dBm), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "19.85 dB",
+    "b": "24.85 dB",
+    "c": "25.00 dB",
+    "d": "35.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 24.85 dB over a 50 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "101.84 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 45 dBW and the path distance is 40,000 km (FSPL = 206.02 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.58 dB-Hz",
+    "b": "92.58 dB-Hz",
+    "c": "90.58 dB-Hz",
+    "d": "112.58 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 30,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "21,628 km",
+    "b": "15,250 km",
+    "c": "30,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 21,628 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "8.85 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 9,500 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "6.48 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 9,500 km).",
+    "a": "3,570 seconds",
+    "b": "9,206 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 12 hours (43,200 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "26,610 km",
+    "c": "35,786 km",
+    "d": "42,164 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 3.0 meters has a receiving gain of 39.8 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "49.34 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 10 Watts (10 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-137.56 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-118.01 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 2.0 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.585",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "a"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.585), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "169.6 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 100 Kelvin. If it is connected to a receiver with a noise temperature of 200 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "300 K",
+    "b": "102.0 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 102 K) utilizes a receiving antenna with a gain of 50 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "29.91 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -105 dBW, and the system noise temperature is 150 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-131.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -105 dBW, noise power Pn = -131.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "26.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 26.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "101.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 35,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "24,128 km",
+    "b": "17,750 km",
+    "c": "35,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 24,128 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "10.42 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 10,000 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "6.31 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 10,000 km).",
+    "a": "3,570 seconds",
+    "b": "9,943 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 3.6 meters has a receiving gain of 41.3 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "50.84 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 20 Watts (10 dBW) and an antenna gain of 18 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-130.56 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.01 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 2.5 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.778",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.778), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "225.7 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 120 Kelvin. If it is connected to a receiver with a noise temperature of 250 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "370 K",
+    "b": "122.5 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 122.5 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "31.12 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.00 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite earth station antenna with a diameter of 2.4 meters has a gain of 48.0 dBi at 12 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 14 GHz.",
+    "a": "41.32 dBi",
+    "b": "49.33 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 40 Watts (13 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-140.57 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.01 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 3.0 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "1.995",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 1.995), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "288.6 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 300 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "450 K",
+    "b": "153.0 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 153 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.15 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -105 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -105 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "27.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 27.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "102.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 40,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "26,628 km",
+    "b": "18,250 km",
+    "c": "40,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 26,628 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "12.11 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 11,000 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "6.02 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 11,000 km).",
+    "a": "3,570 seconds",
+    "b": "11,472 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 4.5 meters has a receiving gain of 43.1 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "52.64 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 50 Watts (17 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-136.60 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 3.2 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "2.089",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 2.089), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "315.8 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 350 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "500 K",
+    "b": "153.5 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 153.5 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.14 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 45,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "29,128 km",
+    "b": "19,250 km",
+    "c": "45,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 29,128 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "13.91 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 12,000 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "5.76 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 12,000 km).",
+    "a": "3,570 seconds",
+    "b": "13,072 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 5.0 meters has a receiving gain of 44.0 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "53.54 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 100 Watts (20 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-133.60 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 3.5 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "2.239",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 2.239), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "359.3 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 400 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "550 K",
+    "b": "154.0 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 154 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.13 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 50,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "31,628 km",
+    "b": "20,250 km",
+    "c": "50,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 31,628 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "15.74 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 12,500 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "5.65 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 12,500 km).",
+    "a": "3,570 seconds",
+    "b": "13,898 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 6.0 meters has a receiving gain of 45.6 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "55.14 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 200 Watts (20 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-133.60 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 4.0 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "2.512",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 2.512), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "438.5 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 450 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "600 K",
+    "b": "154.5 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 154.5 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.12 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 55,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "34,128 km",
+    "b": "20,250 km",
+    "c": "55,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 34,128 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "17.65 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 13,000 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "5.54 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 13,000 km).",
+    "a": "3,570 seconds",
+    "b": "14,738 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 7.0 meters has a receiving gain of 46.9 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "56.44 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 300 Watts (24.77 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-128.83 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 4.5 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "2.818",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 2.818), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "527.2 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 500 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "650 K",
+    "b": "155.0 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 155 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.10 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An elliptical satellite orbit has an apogee altitude of 60,000 km and a perigee altitude of 500 km above the Earth's surface. Given the Earth's radius is 6,378 km, calculate the semi-major axis (a) of the orbit.",
+    "a": "36,628 km",
+    "b": "20,250 km",
+    "c": "60,500 km",
+    "d": "12,241 km",
+    "ans": "a"
+  },
+  {
+    "q": "For the elliptical satellite orbit in the previous question (a = 36,628 km), calculate the orbital period (T) in hours.",
+    "a": "1.5 hours",
+    "b": "19.62 hours",
+    "c": "12.0 hours",
+    "d": "24.0 hours",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite circular orbit has a semi-major axis of a = 13,500 km. Calculate its orbital velocity (v) in km/s.",
+    "a": "5.69 km/s",
+    "b": "5.43 km/s",
+    "c": "8.12 km/s",
+    "d": "3.08 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the orbital period (T) in seconds of the LEO satellite from the previous question (a = 13,500 km).",
+    "a": "3,570 seconds",
+    "b": "15,595 seconds",
+    "c": "5,026 seconds",
+    "d": "1,440 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite is designed to have an orbital period of exactly 24 hours (86,400 seconds) in a circular orbit. Calculate the required semi-major axis (a) of the orbit in kilometers.",
+    "a": "10,120 km",
+    "b": "42,164 km",
+    "c": "35,786 km",
+    "d": "26,610 km",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite Earth station antenna with a diameter of 8.0 meters has a receiving gain of 48.0 dBi at 4 GHz. Assuming the aperture efficiency is 55%, calculate the gain at 12 GHz.",
+    "a": "41.32 dBi",
+    "b": "57.54 dBi",
+    "c": "43.50 dBi",
+    "d": "45.50 dBi",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite has a transmitter power output of 400 Watts (26.02 dBW) and an antenna gain of 15 dBi. Calculate the power flux density (F) in dBW/m^2 at a distance of 38,000 km in free space.",
+    "a": "-147.01 dBW/m^2",
+    "b": "-127.58 dBW/m^2",
+    "c": "-128.01 dBW/m^2",
+    "d": "-138.60 dBW/m^2",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiving system has an LNB with a noise figure of 5.0 dB. Convert this noise figure into its equivalent absolute Noise Factor (F).",
+    "a": "1.585",
+    "b": "3.162",
+    "c": "1.995",
+    "d": "1.122",
+    "ans": "b"
+  },
+  {
+    "q": "Using the absolute Noise Factor from the previous question (F = 3.162), calculate the equivalent noise temperature (Te) of the LNB in Kelvin.",
+    "a": "145.0 K",
+    "b": "627.0 K",
+    "c": "112.5 K",
+    "d": "290.0 K",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station receiver LNA has an equivalent noise temperature of 150 Kelvin. If it is connected to a receiver with a noise temperature of 600 Kelvin and a gain of 20 dB (absolute ratio 100), calculate the overall cascaded system noise temperature (T_system) at the input of the LNA.",
+    "a": "750 K",
+    "b": "156.0 K",
+    "c": "150 K",
+    "d": "100 K",
+    "ans": "b"
+  },
+  {
+    "q": "If the Earth station in the previous question (T_system = 156 K) utilizes a receiving antenna with a gain of 52 dBi, calculate the Earth station Figure of Merit (G/T) in dB/K.",
+    "a": "25.21 dB/K",
+    "b": "30.07 dB/K",
+    "c": "21.36 dB/K",
+    "d": "32.50 dB/K",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder downlink has a frequency of 12 GHz and a bandwidth of 36 MHz. If the Received Signal Level (RSL) at the Earth station is -110 dBW, and the system noise temperature is 120 K, calculate the total thermal noise power (Pn) in dBW.",
+    "a": "-125.8 dBW",
+    "b": "-132.2 dBW",
+    "c": "-120.0 dBW",
+    "d": "-115.5 dBW",
+    "ans": "b"
+  },
+  {
+    "q": "For the satellite link in the previous question (RSL = -110 dBW, noise power Pn = -132.2 dBW), calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.0 dB",
+    "b": "22.2 dB",
+    "c": "20.0 dB",
+    "d": "25.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the Carrier-to-Noise Ratio (C/N) of 22.2 dB over a 36 MHz bandwidth into the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "75.56 dB-Hz",
+    "b": "97.76 dB-Hz",
+    "c": "114.76 dB-Hz",
+    "d": "95.56 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station is designed with a receiving system Figure of Merit G/T = 25 dB/K. If the satellite downlink EIRP is 48 dBW and the path distance is 38,000 km (FSPL = 199.59 dB at 12 GHz), calculate the Carrier-to-Noise spectral density ratio (C/N0) in dB-Hz.",
+    "a": "80.53 dB-Hz",
+    "b": "102.01 dB-Hz",
+    "c": "90.53 dB-Hz",
+    "d": "110.53 dB-Hz",
+    "ans": "b"
+  }
+]

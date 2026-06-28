@@ -1,0 +1,1762 @@
+[
+  {
+    "q": "What is the typical energy bandgap of pure silicon at room temperature (300 Kelvin)?",
+    "a": "0.67 eV",
+    "b": "1.12 eV",
+    "c": "1.43 eV",
+    "d": "0.32 eV",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following elements is classified as a trivalent impurity used to create a P-type extrinsic semiconductor?",
+    "a": "Phosphorus",
+    "b": "Arsenic",
+    "c": "Boron",
+    "d": "Antimony",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following impurities is pentavalent and can be used to form an N-type semiconductor?",
+    "a": "Indium",
+    "b": "Gallium",
+    "c": "Arsenic",
+    "d": "Aluminum",
+    "ans": "c"
+  },
+  {
+    "q": "In an N-type semiconductor, what are the majority and minority charge carriers respectively?",
+    "a": "Holes, electrons",
+    "b": "Electrons, holes",
+    "c": "Holes, donor ions",
+    "d": "Acceptor ions, holes",
+    "ans": "b"
+  },
+  {
+    "q": "The movement of charge carriers due to a spatial variation in carrier concentration (concentration gradient) is called:",
+    "a": "Drift current",
+    "b": "Diffusion current",
+    "c": "Avalanche current",
+    "d": "Displacement current",
+    "ans": "b"
+  },
+  {
+    "q": "The transport of charge carriers under the influence of an applied electric field is defined as:",
+    "a": "Diffusion current",
+    "b": "Drift current",
+    "c": "Recombination current",
+    "d": "Tunneling current",
+    "ans": "b"
+  },
+  {
+    "q": "Which relationship mathematically links the diffusion constant (D) and mobility (u) of charge carriers in semiconductors?",
+    "a": "Ohm's Law",
+    "b": "Einstein Relation",
+    "c": "Mass-Action Law",
+    "d": "Poisson's Equation",
+    "ans": "b"
+  },
+  {
+    "q": "The built-in potential barrier (V_bi) of a silicon PN junction at room temperature is approximately:",
+    "a": "0.3 Volts",
+    "b": "0.7 Volts",
+    "c": "1.1 Volts",
+    "d": "0.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "The depletion region of a PN junction is composed of which structural elements?",
+    "a": "Free electrons and free holes",
+    "b": "Uncovered (fixed) donor and acceptor ions",
+    "c": "Neutral semiconductor atoms only",
+    "d": "Metal-semiconductor contacts",
+    "ans": "b"
+  },
+  {
+    "q": "When a PN junction is reverse-biased, what happens to the width of the depletion region and the barrier height respectively?",
+    "a": "Decreases, decreases",
+    "b": "Increases, increases",
+    "c": "Increases, decreases",
+    "d": "Decreases, increases",
+    "ans": "b"
+  },
+  {
+    "q": "Which diode breakdown mechanism occurs due to direct field ionization under extremely high electric fields in highly doped junctions?",
+    "a": "Avalanche breakdown",
+    "b": "Zener breakdown",
+    "c": "Thermal runaway",
+    "d": "Schottky breakdown",
+    "ans": "b"
+  },
+  {
+    "q": "Avalanche breakdown in a semiconductor junction is primarily caused by which of the following processes?",
+    "a": "Direct tunneling of electrons across the thin barrier",
+    "b": "Impact ionization due to high carrier velocity",
+    "c": "Thermal generation of minority carriers",
+    "d": "Doping concentration asymmetry",
+    "ans": "b"
+  },
+  {
+    "q": "How do the temperature coefficients of Zener and Avalanche breakdown voltages compare?",
+    "a": "Both are positive",
+    "b": "Zener is negative, Avalanche is positive",
+    "c": "Zener is positive, Avalanche is negative",
+    "d": "Both are negative",
+    "ans": "b"
+  },
+  {
+    "q": "What specific operating state is required for a varactor diode to act as a voltage-controlled capacitor?",
+    "a": "Forward bias",
+    "b": "Reverse bias",
+    "c": "Zero bias",
+    "d": "Breakdown region",
+    "ans": "b"
+  },
+  {
+    "q": "A tunnel diode exhibits negative resistance because of which quantum mechanical phenomenon?",
+    "a": "Thermionic emission",
+    "b": "Quantum tunneling across a very narrow barrier",
+    "c": "Impact ionization in the depletion layer",
+    "d": "Transferred electron effect",
+    "ans": "b"
+  },
+  {
+    "q": "Which device depends on the transferred electron effect (Gunn effect) to produce microwave oscillations?",
+    "a": "PIN Diode",
+    "b": "Gunn Diode",
+    "c": "Tunnel Diode",
+    "d": "Varactor Diode",
+    "ans": "b"
+  },
+  {
+    "q": "At microwave frequencies, a PIN diode under forward bias behaves primarily as which of the following?",
+    "a": "A high-Q capacitor",
+    "b": "A low-value pure resistance",
+    "c": "A negative resistance device",
+    "d": "An open circuit",
+    "ans": "b"
+  },
+  {
+    "q": "A Schottky diode is constructed from a junction of:",
+    "a": "P-type and N-type semiconductors",
+    "b": "Metal and heavily-doped semiconductor",
+    "c": "Two highly doped P-type semiconductors",
+    "d": "A semiconductor and an insulator",
+    "ans": "b"
+  },
+  {
+    "q": "Because a Schottky diode is a majority-carrier device (hot carrier diode), it features:",
+    "a": "A very large reverse recovery time",
+    "b": "Virtually zero reverse recovery time",
+    "c": "A higher forward voltage drop than silicon",
+    "d": "An extremely low switching speed",
+    "ans": "b"
+  },
+  {
+    "q": "Which semiconductor material is most commonly used for manufacturing light-emitting diodes (LEDs) for red emission?",
+    "a": "Silicon",
+    "b": "Gallium Arsenide Phosphide (GaAsP)",
+    "c": "Germanium",
+    "d": "Silicon Carbide",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode is typically operated under which biasing condition to optimize response time and sensitivity?",
+    "a": "Forward bias",
+    "b": "Reverse bias",
+    "c": "Zero bias (photovoltaic mode only)",
+    "d": "Zener breakdown",
+    "ans": "b"
+  },
+  {
+    "q": "For a bipolar junction transistor (BJT) to operate in the active region, its junctions must be biased as follows:",
+    "a": "Emitter-base junction reverse-biased, collector-base junction forward-biased",
+    "b": "Emitter-base junction forward-biased, collector-base junction reverse-biased",
+    "c": "Both junctions forward-biased",
+    "d": "Both junctions reverse-biased",
+    "ans": "b"
+  },
+  {
+    "q": "The common-base current gain (alpha) of a BJT is mathematically defined as the ratio of:",
+    "a": "Base current to emitter current",
+    "b": "Collector current to emitter current",
+    "c": "Collector current to base current",
+    "d": "Emitter current to base current",
+    "ans": "b"
+  },
+  {
+    "q": "The common-emitter current gain (beta) of a BJT is defined as the ratio of:",
+    "a": "Collector current to emitter current",
+    "b": "Collector current to base current",
+    "c": "Base current to collector current",
+    "d": "Emitter current to base current",
+    "ans": "b"
+  },
+  {
+    "q": "A Junction Field-Effect Transistor (JFET) controls current flow using:",
+    "a": "An electric field created by gate-to-source voltage",
+    "b": "A base current injected into the channel",
+    "c": "A minority carrier injection mechanism",
+    "d": "Thermal energy gradients",
+    "ans": "a"
+  },
+  {
+    "q": "To ensure correct operation of an N-channel JFET, the gate-to-source junction must always be:",
+    "a": "Forward-biased",
+    "b": "Reverse-biased",
+    "c": "Left open-circuited",
+    "d": "Biased into avalanche breakdown",
+    "ans": "b"
+  },
+  {
+    "q": "Which field-effect transistor requires a channel to be electrostatically induced by gate-to-source voltage because no physical channel is fabricated?",
+    "a": "Depletion-mode MOSFET",
+    "b": "Enhancement-mode MOSFET",
+    "c": "JFET",
+    "d": "MESFET",
+    "ans": "b"
+  },
+  {
+    "q": "Complementary MOS (CMOS) technology utilizes a combination of which structural devices?",
+    "a": "BJTs and MOSFETs",
+    "b": "PMOS and NMOS transistors",
+    "c": "JFETs and Schottky diodes",
+    "d": "SCRs and TRIACs",
+    "ans": "b"
+  },
+  {
+    "q": "A Silicon Controlled Rectifier (SCR) is a semiconductor device consisting of how many layers?",
+    "a": "Two layers (PN)",
+    "b": "Three layers (PNP)",
+    "c": "Four layers (PNPN)",
+    "d": "Five layers (PNPNP)",
+    "ans": "c"
+  },
+  {
+    "q": "Which thyristor device operates as a bidirectional triode switch that can trigger conduction in either direction of voltage polarity?",
+    "a": "SCR",
+    "b": "TRIAC",
+    "c": "DIAC",
+    "d": "SCS",
+    "ans": "b"
+  },
+  {
+    "q": "A DIAC is a bidirectional thyristor structure designed specifically to function as a:",
+    "a": "High-frequency microwave oscillator",
+    "b": "Bidirectional trigger diode",
+    "c": "Constant voltage reference regulator",
+    "d": "High-power rectifier",
+    "ans": "b"
+  },
+  {
+    "q": "A Unijunction Transistor (UJT) is most commonly used in trigger circuits because of its:",
+    "a": "Extremely high voltage gain",
+    "b": "Negative resistance characteristic",
+    "c": "High current handling capability",
+    "d": "High input capacitance",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is classified as a direct-bandgap semiconductor, making it highly efficient for optical emission?",
+    "a": "Silicon",
+    "b": "Gallium Arsenide (GaAs)",
+    "c": "Germanium",
+    "d": "Silicon Carbide",
+    "ans": "b"
+  },
+  {
+    "q": "Why is silicon classified as an indirect-bandgap semiconductor?",
+    "a": "Its valence band maximum does not align in momentum space with the conduction band minimum",
+    "b": "It has no free electrons at room temperature",
+    "c": "It is a metal-like element",
+    "d": "It can only form covalent bonds",
+    "ans": "a"
+  },
+  {
+    "q": "The process where a free electron falls into a hole, neutralizing both carriers and releasing energy, is called:",
+    "a": "Generation",
+    "b": "Recombination",
+    "c": "Diffusion",
+    "d": "Ionization",
+    "ans": "b"
+  },
+  {
+    "q": "At room temperature, why is the mobility of electrons in silicon significantly higher than the mobility of holes?",
+    "a": "Electrons have a larger effective mass",
+    "b": "Electrons move in the conduction band where scattering is less severe",
+    "c": "Holes have negative charge",
+    "d": "Silicon has only donor levels",
+    "ans": "b"
+  },
+  {
+    "q": "For an intrinsic semiconductor at thermal equilibrium, where is the Fermi level located?",
+    "a": "Exactly at the conduction band edge",
+    "b": "In the middle of the forbidden bandgap",
+    "c": "Exactly at the valence band edge",
+    "d": "Inside the valence band",
+    "ans": "b"
+  },
+  {
+    "q": "In an N-type semiconductor, as the donor doping concentration increases, how does the Fermi level position shift?",
+    "a": "It shifts closer to the valence band",
+    "b": "It shifts closer to the conduction band",
+    "c": "It remains exactly in the middle of the bandgap",
+    "d": "It moves completely outside the semiconductor",
+    "ans": "b"
+  },
+  {
+    "q": "The minimum energy required to remove an electron from the Fermi level of a metal to a point in the vacuum outside is called the:",
+    "a": "Ionization potential",
+    "b": "Work function",
+    "c": "Electron affinity",
+    "d": "Bandgap energy",
+    "ans": "b"
+  },
+  {
+    "q": "What term defines the voltage at which a diode's current begins to increase rapidly under forward bias?",
+    "a": "Breakdown voltage",
+    "b": "Knee or Cut-in voltage",
+    "c": "Reverse recovery voltage",
+    "d": "Pinch-off voltage",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter describes the capacitance associated with minority carriers stored in the neutral regions of a forward-biased diode?",
+    "a": "Depletion capacitance",
+    "b": "Diffusion capacitance",
+    "c": "Junction capacitance",
+    "d": "Varactor capacitance",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical value of the knee voltage for a germanium diode under forward-biased conditions?",
+    "a": "0.7 Volts",
+    "b": "0.3 Volts",
+    "c": "1.2 Volts",
+    "d": "0.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode converts light energy into electrical current based on which physical principle?",
+    "a": "Seebeck effect",
+    "b": "Photoelectric or Photovoltaic effect",
+    "c": "Electroluminescence",
+    "d": "Piezoelectric effect",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the change in drain current to the change in gate-to-source voltage with a constant drain-to-source voltage in a FET is called:",
+    "a": "Amplification factor",
+    "b": "Transconductance (gm)",
+    "c": "Drain resistance",
+    "d": "Dynamic conductance",
+    "ans": "b"
+  },
+  {
+    "q": "Which field-effect transistor structure uses a Schottky metal-semiconductor junction for its gate electrode?",
+    "a": "MOSFET",
+    "b": "MESFET",
+    "c": "JFET",
+    "d": "IGBT",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the drain current in an enhancement-mode NMOS transistor when the gate-to-source voltage is less than the threshold voltage?",
+    "a": "It reaches maximum saturation value",
+    "b": "It is virtually zero (cutoff)",
+    "c": "It flows backward from source to drain",
+    "d": "It oscillates continuously",
+    "ans": "b"
+  },
+  {
+    "q": "The parameter that indicates the minimum current required to maintain an SCR in its conduction state is called the:",
+    "a": "Latching current",
+    "b": "Holding current",
+    "c": "Triggering current",
+    "d": "Anode current",
+    "ans": "b"
+  },
+  {
+    "q": "The parameter indicating the minimum current required to keep an SCR in the ON state immediately after the gate trigger signal is removed is called:",
+    "a": "Holding current",
+    "b": "Latching current",
+    "c": "Trigger current",
+    "d": "Reverse current",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a DIAC in a phase-control circuit containing a TRIAC?",
+    "a": "To filter out unwanted high-frequency noise",
+    "b": "To provide symmetrical triggering pulses to the TRIAC gate",
+    "c": "To limit the maximum anode current of the TRIAC",
+    "d": "To act as a reverse current bypass path",
+    "ans": "b"
+  },
+  {
+    "q": "A three-terminal semiconductor switch that combines the simple gate drive of a MOSFET with the high-current, low-saturation-voltage capability of a BJT is the:",
+    "a": "UJT",
+    "b": "IGBT",
+    "c": "SCR",
+    "d": "GTO",
+    "ans": "b"
+  },
+  {
+    "q": "In a BJT, the base region is engineered to be:",
+    "a": "Thick and highly doped",
+    "b": "Thin and lightly doped",
+    "c": "Thick and lightly doped",
+    "d": "Thin and highly doped",
+    "ans": "b"
+  },
+  {
+    "q": "The process of deliberately adding a tiny quantity of controlled impurity atoms to a pure semiconductor crystal is known as:",
+    "a": "Recombination",
+    "b": "Doping",
+    "c": "Ionization",
+    "d": "Diffusion",
+    "ans": "b"
+  },
+  {
+    "q": "Which diode has a highly doped junction that creates a negative resistance region used to build high-frequency relaxation oscillators?",
+    "a": "PIN Diode",
+    "b": "Tunnel Diode",
+    "c": "Schottky Diode",
+    "d": "LED",
+    "ans": "b"
+  },
+  {
+    "q": "The capacitance that arises in a reverse-biased PN junction due to the dipole charge layers in the depletion region is called:",
+    "a": "Diffusion capacitance",
+    "b": "Depletion or Transition capacitance",
+    "c": "Storage capacitance",
+    "d": "Stray capacitance",
+    "ans": "b"
+  },
+  {
+    "q": "Which component is a bidirectional solid-state switch with no gate electrode, triggered into conduction by exceeding its breakover voltage?",
+    "a": "TRIAC",
+    "b": "DIAC",
+    "c": "SCR",
+    "d": "SCS",
+    "ans": "b"
+  },
+  {
+    "q": "What type of device is a thyristor that can be turned off by applying a negative current pulse to its gate?",
+    "a": "SCR",
+    "b": "Gate Turn-Off Thyristor (GTO)",
+    "c": "TRIAC",
+    "d": "UJT",
+    "ans": "b"
+  },
+  {
+    "q": "In the study of semiconductor materials, what does the term 'recombination lifetime' refer to?",
+    "a": "The time required to dope a semiconductor wafer",
+    "b": "The average time a free carrier exists before recombining",
+    "c": "The operational life of a transistor",
+    "d": "The response speed of a photodetector",
+    "ans": "b"
+  },
+  {
+    "q": "Under high thermal conditions, an increase in temperature will cause a semiconductor's conductivity to:",
+    "a": "Decrease",
+    "b": "Increase",
+    "c": "Remain completely constant",
+    "d": "Drop immediately to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical value of intrinsic carrier concentration (ni) in silicon at room temperature?",
+    "a": "2.5 x 10^13 per cm^3",
+    "b": "1.5 x 10^10 per cm^3",
+    "c": "1.0 x 10^16 per cm^3",
+    "d": "3.8 x 10^8 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter describes the thermal voltage (V_T) value at room temperature (300 Kelvin)?",
+    "a": "0.7 Volts",
+    "b": "25.9 milli-Volts (approx. 26 mV)",
+    "c": "1.1 Volts",
+    "d": "1.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Which state occurs in a JFET when the depletion regions from opposite sides of the channel meet, stopping any further increase in drain current?",
+    "a": "Saturation cutoff",
+    "b": "Pinch-off",
+    "c": "Avalanche breakdown",
+    "d": "Breakover conduction",
+    "ans": "b"
+  },
+  {
+    "q": "The gate of a JFET is formed by what structural combination?",
+    "a": "A metal contact on an oxide layer",
+    "b": "A highly doped PN junction biased in reverse",
+    "c": "A direct metal-semiconductor contact with no PN junction",
+    "d": "An alloyed resistor junction",
+    "ans": "b"
+  },
+  {
+    "q": "In an N-channel depletion-mode MOSFET, what happens to the channel when a negative gate-to-source voltage is applied?",
+    "a": "It widens, increasing conduction",
+    "b": "It depletes of electrons, decreasing conduction",
+    "c": "It turns into a P-type channel instantly",
+    "d": "It causes avalanche breakdown immediately",
+    "ans": "b"
+  },
+  {
+    "q": "The main advantage of using a CMOS gate compared to a standard TTL gate is:",
+    "a": "Higher operating speed",
+    "b": "Extremely low static power dissipation",
+    "c": "Lower input impedance",
+    "d": "Higher output current capability",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the time required for a diode's reverse current to decay to a specified low value after switching from forward to reverse bias?",
+    "a": "Storage time",
+    "b": "Reverse recovery time (trr)",
+    "c": "Transition time",
+    "d": "Delay time",
+    "ans": "b"
+  },
+  {
+    "q": "What terminal is missing on a DIAC compared to a TRIAC?",
+    "a": "Anode",
+    "b": "Gate",
+    "c": "Cathode",
+    "d": "Main Terminal 2",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical forward voltage drop across a conducting Gallium Arsenide (GaAs) light-emitting diode (LED)?",
+    "a": "0.7 Volts",
+    "b": "1.5 to 2.2 Volts",
+    "c": "0.3 Volts",
+    "d": "5.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A thyristor can be modeled as a regenerative feedback combination of which of the following components?",
+    "a": "Two JFETs",
+    "b": "One NPN and one PNP bipolar transistor",
+    "c": "Two NMOS transistors",
+    "d": "One BJT and one MOSFET",
+    "ans": "b"
+  },
+  {
+    "q": "What specific device uses a PN junction that is heavily doped on both sides, leading to a breakdown voltage below 5 Volts?",
+    "a": "Schottky Diode",
+    "b": "Zener Diode",
+    "c": "PIN Diode",
+    "d": "Varactor Diode",
+    "ans": "b"
+  },
+  {
+    "q": "A semiconductor material has a negative temperature coefficient of resistance. This means that as temperature increases, its resistance will:",
+    "a": "Increase",
+    "b": "Decrease",
+    "c": "Remain the same",
+    "d": "Fluctuate randomly",
+    "ans": "b"
+  },
+  {
+    "q": "In a BJT, the leakage current ICBO is defined as the leakage current between:",
+    "a": "Collector and emitter with base open",
+    "b": "Collector and base with emitter open",
+    "c": "Base and emitter with collector open",
+    "d": "Emitter and base under forward bias",
+    "ans": "b"
+  },
+  {
+    "q": "What physical parameter determines the built-in potential (V_bi) of a PN junction diode?",
+    "a": "The applied forward voltage",
+    "b": "The doping concentrations and intrinsic carrier density of the material",
+    "c": "The physical area of the diode",
+    "d": "The current rating of the device",
+    "ans": "b"
+  },
+  {
+    "q": "Which diode structure consists of an intrinsic layer sandwiched between highly doped P and N regions?",
+    "a": "Tunnel Diode",
+    "b": "PIN Diode",
+    "c": "Zener Diode",
+    "d": "Schottky Diode",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary carrier type responsible for current conduction in an N-channel JFET?",
+    "a": "Holes",
+    "b": "Electrons",
+    "c": "Both holes and electrons",
+    "d": "Trivalent ions",
+    "ans": "b"
+  },
+  {
+    "q": "The gate-to-source leakage current of a MOSFET is extremely small because of which structural feature?",
+    "a": "The gate is reverse-biased",
+    "b": "The gate is insulated by a thin layer of silicon dioxide (SiO2)",
+    "c": "The gate is highly doped with arsenic",
+    "d": "The channel is very narrow",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter indicates the maximum reverse voltage that a diode can withstand without entering breakdown?",
+    "a": "Knee voltage",
+    "b": "Peak Inverse Voltage (PIV)",
+    "c": "Breakover voltage",
+    "d": "Threshold voltage",
+    "ans": "b"
+  },
+  {
+    "q": "The intrinsic stand-off ratio (eta) is a design parameter associated with which semiconductor device?",
+    "a": "BJT",
+    "b": "UJT",
+    "c": "SCR",
+    "d": "JFET",
+    "ans": "b"
+  },
+  {
+    "q": "The condition of thermal runaway in a BJT occurs when:",
+    "a": "The base current is completely removed",
+    "b": "An increase in collector leakage current due to temperature raises power dissipation, further increasing temperature",
+    "c": "The collector junction is forward-biased",
+    "d": "The BJT enters saturation state",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main charge transport mechanism in a Schottky barrier diode?",
+    "a": "Diffusion of minority carriers",
+    "b": "Thermionic emission of majority carriers over a potential barrier",
+    "c": "Recombination of excess electron-hole pairs",
+    "d": "Quantum mechanical tunneling of holes",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon sample is doped with 10^16 donor atoms per cm^3. If the intrinsic carrier concentration ni is 1.5 x 10^10 per cm^3, calculate the concentration of holes in this extrinsic sample at room temperature.",
+    "a": "1.5 x 10^4 per cm^3",
+    "b": "2.25 x 10^4 per cm^3",
+    "c": "1.0 x 10^6 per cm^3",
+    "d": "2.25 x 10^6 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "An extrinsic germanium crystal at room temperature (ni = 2.5 x 10^13 per cm^3) has a hole concentration of 5 x 10^11 per cm^3. Find the electron concentration in this crystal.",
+    "a": "1.25 x 10^15 per cm^3",
+    "b": "1.25 x 10^16 per cm^3",
+    "c": "5.0 x 10^14 per cm^3",
+    "d": "2.5 x 10^15 per cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electrical conductivity of an N-type silicon sample with an electron concentration of 10^16 per cm^3. Assume electron mobility is 1350 cm^2/V-s and the electron charge is 1.6 x 10^-19 Coulombs. (Ignore holes)",
+    "a": "0.135 S/cm",
+    "b": "2.16 S/cm",
+    "c": "1.35 S/cm",
+    "d": "0.216 S/cm",
+    "ans": "b"
+  },
+  {
+    "q": "Find the resistivity of a P-type silicon semiconductor doped with an acceptor concentration of 5 x 10^15 per cm^3. Assume hole mobility is 450 cm^2/V-s and hole charge is 1.6 x 10^-19 Coulombs.",
+    "a": "0.36 Ohm-cm",
+    "b": "2.78 Ohm-cm",
+    "c": "1.39 Ohm-cm",
+    "d": "5.56 Ohm-cm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the diffusion coefficient (Dn) of electrons in silicon at room temperature (T = 300 K, thermal voltage V_T = 25.9 mV) if the electron mobility is 1200 cm^2/V-s.",
+    "a": "31.1 cm^2/s",
+    "b": "46.2 cm^2/s",
+    "c": "15.5 cm^2/s",
+    "d": "62.2 cm^2/s",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the diffusion coefficient (Dp) of holes in a semiconductor sample where the hole mobility is 400 cm^2/V-s at a room temperature thermal voltage of 25.9 mV.",
+    "a": "5.18 cm^2/s",
+    "b": "10.36 cm^2/s",
+    "c": "20.72 cm^2/s",
+    "d": "40.00 cm^2/s",
+    "ans": "b"
+  },
+  {
+    "q": "Find the built-in potential V_bi of a silicon PN junction at room temperature (V_T = 25.9 mV) if the donor doping N_D is 10^15 per cm^3 and the acceptor doping N_A is 10^17 per cm^3. (Use ni = 1.5 x 10^10 per cm^3)",
+    "a": "0.582 Volts",
+    "b": "0.697 Volts",
+    "c": "0.718 Volts",
+    "d": "0.635 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A germanium PN junction (ni = 2.5 x 10^13 per cm^3) has doping concentrations N_D = 10^16 per cm^3 and N_A = 10^16 per cm^3. Calculate the built-in potential at 300 K (V_T = 25.9 mV).",
+    "a": "0.312 Volts",
+    "b": "0.263 Volts",
+    "c": "0.370 Volts",
+    "d": "0.185 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An ideal silicon diode at room temperature (V_T = 26 mV) has a reverse saturation current of 10 pA. Calculate the diode current when a forward bias voltage of 0.65 Volts is applied.",
+    "a": "720 uA",
+    "b": "720 mA",
+    "c": "72.0 uA",
+    "d": "7.2 mA",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the forward bias voltage across an ideal silicon diode (reverse saturation current Is = 1 pA) at room temperature (V_T = 25.9 mV) when the forward current flowing through it is 2.5 mA.",
+    "a": "0.456 Volts",
+    "b": "0.560 Volts",
+    "c": "0.620 Volts",
+    "d": "0.685 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the forward current of a diode increases by a factor of 10, find the corresponding increase in its forward voltage drop at room temperature (V_T = 26 mV, ideality factor n = 1).",
+    "a": "26.0 mV",
+    "b": "59.9 mV",
+    "c": "120.0 mV",
+    "d": "6.0 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A Zener diode regulator circuit consists of a 12-Volt unregulated DC source, a 150 Ohm series current-limiting resistor, and a 5.1-Volt Zener diode. Calculate the current flowing through the Zener diode when there is no load connected.",
+    "a": "34.0 mA",
+    "b": "46.0 mA",
+    "c": "80.0 mA",
+    "d": "23.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the same Zener regulator circuit (12 V supply, 150 Ohm series resistor, 5.1 V Zener), a load resistor of 250 Ohms is connected in parallel with the Zener diode. Find the new current through the Zener diode.",
+    "a": "46.0 mA",
+    "b": "25.6 mA",
+    "c": "20.4 mA",
+    "d": "15.2 mA",
+    "ans": "b"
+  },
+  {
+    "q": "In the previous regulator circuit, what is the minimum load resistance (RL) required to keep the Zener diode in the breakdown state? (Assume the minimum required Zener current is 5 mA).",
+    "a": "124 Ohms",
+    "b": "102 Ohms",
+    "c": "150 Ohms",
+    "d": "146 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter BJT has a base current of 50 uA and a collector current of 4.5 mA. Calculate the common-emitter current gain (beta) of this BJT.",
+    "a": "90",
+    "b": "100",
+    "c": "45",
+    "d": "150",
+    "ans": "a"
+  },
+  {
+    "q": "For the same BJT with IB = 50 uA and IC = 4.5 mA, calculate the value of its common-base current gain (alpha).",
+    "a": "0.985",
+    "b": "0.989",
+    "c": "0.950",
+    "d": "0.995",
+    "ans": "b"
+  },
+  {
+    "q": "If a transistor has an alpha of 0.995, calculate its common-emitter current gain (beta).",
+    "a": "100",
+    "b": "199",
+    "c": "200",
+    "d": "99",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the emitter current (IE) of a transistor that has a beta of 120 and a base current of 25 uA.",
+    "a": "3.000 mA",
+    "b": "3.025 mA",
+    "c": "2.975 mA",
+    "d": "3.250 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A certain transistor has a collector current of 10 mA and a base current of 100 uA. Calculate the leakage current IC (approximate) if the collector-emitter leakage with base open ICEO is 2 uA. (Find base-to-collector current amplification beta).",
+    "a": "100",
+    "b": "98",
+    "c": "102",
+    "d": "50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic forward resistance of a PN junction diode carrying a forward DC current of 5 mA at room temperature (V_T = 26 mV, n = 1).",
+    "a": "5.2 Ohms",
+    "b": "1.3 Ohms",
+    "c": "2.6 Ohms",
+    "d": "10.4 Ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 12 mA and V_P = -4 Volts. Calculate the drain current (ID) when the gate-to-source voltage V_GS is -1 Volt.",
+    "a": "9.00 mA",
+    "b": "6.75 mA",
+    "c": "3.00 mA",
+    "d": "4.50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the JFET in the previous question (IDSS = 12 mA, V_P = -4 V), calculate the drain current when V_GS is -2 Volts.",
+    "a": "6.00 mA",
+    "b": "3.00 mA",
+    "c": "1.50 mA",
+    "d": "4.50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum transconductance (gm0) of an N-channel JFET at V_GS = 0 V if IDSS = 16 mA and V_P = -4 Volts.",
+    "a": "4.0 mS",
+    "b": "8.0 mS",
+    "c": "2.0 mS",
+    "d": "16.0 mS",
+    "ans": "b"
+  },
+  {
+    "q": "Using the maximum transconductance gm0 = 8 mS and pinch-off voltage V_P = -4 V from the previous question, calculate the transconductance gm when V_GS is -1 Volt.",
+    "a": "4.0 mS",
+    "b": "6.0 mS",
+    "c": "3.0 mS",
+    "d": "2.0 mS",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel enhancement-mode MOSFET has a threshold voltage V_th = 2 Volts and conduction parameter K = 0.5 mA/V^2. Find the drain current in saturation when V_GS = 4 Volts.",
+    "a": "1.0 mA",
+    "b": "2.0 mA",
+    "c": "0.5 mA",
+    "d": "4.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the MOSFET in the previous question (V_th = 2 V, K = 0.5 mA/V^2), what is the saturation drain current when V_GS is 6 Volts?",
+    "a": "4.0 mA",
+    "b": "8.0 mA",
+    "c": "16.0 mA",
+    "d": "2.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A certain silicon PN junction at zero bias has a depletion capacitance of 50 pF. If the built-in potential V_bi is 0.7 Volts, calculate the depletion capacitance when a reverse bias of 2.1 Volts is applied. (Assume junction exponent m = 0.5).",
+    "a": "35.4 pF",
+    "b": "25.0 pF",
+    "c": "16.7 pF",
+    "d": "12.5 pF",
+    "ans": "b"
+  },
+  {
+    "q": "An SCR in a circuit is turned on. It has a holding current of 10 mA and a latching current of 25 mA. If the anode current falls to 8 mA, what happens to the SCR?",
+    "a": "It stays in full conduction state",
+    "b": "It turns off immediately",
+    "c": "It enters a high-frequency oscillatory state",
+    "d": "The gate current must be reversed",
+    "ans": "b"
+  },
+  {
+    "q": "An SCR is triggered by a gate pulse. If the latching current of the SCR is 30 mA and the gate trigger pulse width is very narrow, what is the minimum load current required to keep the SCR on after the gate pulse ends?",
+    "a": "10 mA",
+    "b": "30 mA",
+    "c": "15 mA",
+    "d": "5 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A UJT circuit has an intrinsic stand-off ratio (eta) of 0.6. If the interbase voltage V_BB is 15 Volts and the forward diode drop is 0.7 Volts, calculate the peak-point voltage (V_P) required to trigger the UJT.",
+    "a": "9.0 Volts",
+    "b": "9.7 Volts",
+    "c": "10.3 Volts",
+    "d": "8.3 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the UJT in the previous question, if the interbase resistance R_BB is 10k Ohms and eta is 0.6, calculate the base-1 resistance (R_B1) under non-conducting conditions.",
+    "a": "4.0k Ohms",
+    "b": "6.0k Ohms",
+    "c": "5.0k Ohms",
+    "d": "3.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reverse recovery charge (Q_rr) stored in a fast recovery diode if the reverse recovery time (trr) is 50 nano-seconds and the peak reverse current (Irr) is 4 Amperes. (Assume a triangular recovery waveform shape).",
+    "a": "200 nC",
+    "b": "100 nC",
+    "c": "50 nC",
+    "d": "400 nC",
+    "ans": "b"
+  },
+  {
+    "q": "A certain silicon wafer is doped with 10^16 boron atoms per cm^3. Find the majority carrier concentration in this sample at 300 K.",
+    "a": "1.5 x 10^10 per cm^3",
+    "b": "1.0 x 10^16 per cm^3",
+    "c": "2.25 x 10^4 per cm^3",
+    "d": "1.0 x 10^15 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the resistivity of intrinsic silicon at room temperature (300 K) if ni = 1.5 x 10^10 per cm^3, electron mobility = 1350 cm^2/V-s, and hole mobility = 450 cm^2/V-s.",
+    "a": "2.3 x 10^5 Ohm-cm",
+    "b": "4.3 x 10^5 Ohm-cm",
+    "c": "1.2 x 10^5 Ohm-cm",
+    "d": "8.6 x 10^5 Ohm-cm",
+    "ans": "a"
+  },
+  {
+    "q": "In a semiconductor sample, the electron concentration profile decreases linearly from 10^18 per cm^3 to 10^15 per cm^3 over a distance of 2 micro-meters. Find the electron concentration gradient.",
+    "a": "-5.0 x 10^21 per cm^4",
+    "b": "-4.995 x 10^21 per cm^4",
+    "c": "-2.5 x 10^21 per cm^4",
+    "d": "-1.0 x 10^22 per cm^4",
+    "ans": "b"
+  },
+  {
+    "q": "Using the concentration gradient from the previous question (-4.995 x 10^21 per cm^4), calculate the diffusion current density (Jn) of electrons if the diffusion constant Dn is 25 cm^2/s.",
+    "a": "10,000 A/cm^2",
+    "b": "20,000 A/cm^2",
+    "c": "19,980 A/cm^2",
+    "d": "5,000 A/cm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A silicon PN junction has doping concentrations N_A = 10^18 per cm^3 and N_D = 10^15 per cm^3. If the built-in potential is 0.75 Volts, calculate the depletion region width (W) at zero bias. (Use permittivity of silicon epsilon_s = 1.04 x 10^-12 F/cm).",
+    "a": "0.49 micro-meters",
+    "b": "0.99 micro-meters",
+    "c": "1.50 micro-meters",
+    "d": "0.25 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "For the same silicon PN junction, calculate the depletion width under a reverse bias voltage of 5.25 Volts. (Total potential = V_bi + V_R = 6.0 Volts).",
+    "a": "0.99 micro-meters",
+    "b": "2.80 micro-meters",
+    "c": "1.40 micro-meters",
+    "d": "4.20 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "A certain diode has a reverse saturation current of 5 pA. Find the ratio of forward current at 0.7 Volts forward bias to the current at 0.6 Volts forward bias at room temperature (V_T = 26 mV).",
+    "a": "10.0",
+    "b": "46.8",
+    "c": "25.4",
+    "d": "5.0",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal silicon diode operates at 300 K. If the forward voltage is 0.6 Volts when the current is 1 mA, calculate the forward voltage when the current increases to 10 mA.",
+    "a": "0.626 Volts",
+    "b": "0.660 Volts",
+    "c": "0.720 Volts",
+    "d": "0.685 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reverse breakdown voltage of a diode if the maximum electric field is 3 x 10^5 V/cm, the donor concentration is 10^15 per cm^3, and the acceptor concentration is 10^18 per cm^3. (Use breakdown formula V_B = epsilon_s * E_max^2 / (2 * q * N_D)).",
+    "a": "15 Volts",
+    "b": "29 Volts",
+    "c": "58 Volts",
+    "d": "100 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter amplifier has a collector resistor RC = 2k Ohms and operates from a 15-Volt DC source. If the transistor is in saturation and V_CE(sat) is 0.2 Volts, calculate the saturation collector current.",
+    "a": "7.5 mA",
+    "b": "7.4 mA",
+    "c": "15.0 mA",
+    "d": "3.7 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the transistor in the previous question has a minimum beta of 50, calculate the minimum base current (IB) required to guarantee saturation.",
+    "a": "100 uA",
+    "b": "148 uA",
+    "c": "74 uA",
+    "d": "200 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A BJT is biased in the active region with IC = 2 mA and IB = 15 uA. Calculate the collector-to-emitter current gain beta.",
+    "a": "100",
+    "b": "133",
+    "c": "150",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "For the same BJT (IC = 2 mA, IB = 15 uA), calculate the total emitter current.",
+    "a": "2.000 mA",
+    "b": "2.015 mA",
+    "c": "1.985 mA",
+    "d": "2.150 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET is biased at V_GS = -1.5 Volts. If IDSS = 10 mA and V_P = -3.0 Volts, calculate the drain current ID.",
+    "a": "5.00 mA",
+    "b": "2.50 mA",
+    "c": "1.25 mA",
+    "d": "3.75 mA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.67 mS?",
+    "a": "5.00 mS",
+    "b": "3.33 mS",
+    "c": "1.67 mS",
+    "d": "2.50 mS",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 8 mA and V_P = -4 Volts. Find the drain-to-source voltage (V_DS) required to pinch off the channel when V_GS = -1 Volt.",
+    "a": "4 Volts",
+    "b": "3 Volts",
+    "c": "1 Volt",
+    "d": "5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the JFET operating in the saturation region with V_GS = -1 Volt (IDSS = 8 mA, V_P = -4 V), calculate the drain current ID.",
+    "a": "8.0 mA",
+    "b": "4.5 mA",
+    "c": "2.0 mA",
+    "d": "6.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An enhancement-mode NMOS has V_th = 1.5 Volts and K = 0.25 mA/V^2. Find the drain current ID in saturation when the applied gate-to-source voltage V_GS is 3.5 Volts.",
+    "a": "0.50 mA",
+    "b": "1.00 mA",
+    "c": "2.00 mA",
+    "d": "0.25 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the drain-to-source voltage V_DS of the NMOS in the previous question is 1.0 Volt, verify if it operates in saturation or linear region. (V_GS = 3.5 V, V_th = 1.5 V). Find the drain current ID using the linear equation.",
+    "a": "1.00 mA",
+    "b": "0.75 mA",
+    "c": "0.50 mA",
+    "d": "0.25 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A PIN photodiode has a quantum efficiency of 80% at an illumination wavelength of 0.8 micro-meters. Calculate the responsivity of the photodiode.",
+    "a": "0.41 A/W",
+    "b": "0.52 A/W",
+    "c": "0.64 A/W",
+    "d": "0.80 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "If the incident optical power on the photodiode described in the previous question is 5 micro-Watts, calculate the generated photocurrent.",
+    "a": "2.05 uA",
+    "b": "2.60 uA",
+    "c": "3.20 uA",
+    "d": "4.00 uA",
+    "ans": "b"
+  },
+  {
+    "q": "An SCR has a gate trigger voltage of 0.8 Volts and a gate trigger current of 15 mA. If it is triggered using a 10-Volt DC trigger supply, calculate the series resistor value required in the gate circuit.",
+    "a": "613 Ohms",
+    "b": "613k Ohms",
+    "c": "120 Ohms",
+    "d": "540 Ohms",
+    "ans": "a"
+  },
+  {
+    "q": "A UJT relaxation oscillator has R = 10k Ohms and C = 0.1 micro-Farads. If the intrinsic stand-off ratio is 0.63, calculate the approximate period of oscillation. (Use formula T = R * C * ln(1 / (1 - eta))).",
+    "a": "0.50 milli-seconds",
+    "b": "1.00 milli-second",
+    "c": "2.00 milli-seconds",
+    "d": "0.10 milli-seconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question.",
+    "a": "2.0 kHz",
+    "b": "1.0 kHz",
+    "c": "500 Hz",
+    "d": "10.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A solar cell has an open-circuit voltage of 0.6 Volts and a short-circuit current of 150 mA. If the fill factor of the solar cell is 0.75, calculate the maximum power output.",
+    "a": "90.0 mW",
+    "b": "67.5 mW",
+    "c": "112.5 mW",
+    "d": "50.0 mW",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 500 mW.",
+    "a": "18.0%",
+    "b": "13.5%",
+    "c": "22.5%",
+    "d": "10.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A P-type semiconductor has an acceptor concentration N_A = 10^16 per cm^3. Find the hole concentration at 300 K.",
+    "a": "1.5 x 10^10 per cm^3",
+    "b": "1.0 x 10^16 per cm^3",
+    "c": "2.25 x 10^4 per cm^3",
+    "d": "1.0 x 10^15 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon sample contains 2 x 10^16 boron atoms/cm^3 and 5 x 10^15 phosphorus atoms/cm^3. What is the net type and carrier concentration of the sample?",
+    "a": "N-type, 5 x 10^15 per cm^3",
+    "b": "P-type, 1.5 x 10^16 per cm^3",
+    "c": "P-type, 2.5 x 10^16 per cm^3",
+    "d": "N-type, 1.5 x 10^16 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the resistivity of N-type silicon doped with 10^15 donor atoms per cm^3. Assume electron mobility is 1350 cm^2/V-s. (Use q = 1.6 x 10^-19 C).",
+    "a": "2.3 Ohm-cm",
+    "b": "4.6 Ohm-cm",
+    "c": "9.2 Ohm-cm",
+    "d": "1.2 Ohm-cm",
+    "ans": "b"
+  },
+  {
+    "q": "An electric field of 100 V/cm is applied across a semiconductor sample of length 1 mm. Calculate the voltage drop across the sample.",
+    "a": "100 Volts",
+    "b": "10 Volts",
+    "c": "1 Volt",
+    "d": "0.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the electron drift velocity in the semiconductor sample from the previous question is 10^5 cm/s, calculate the electron mobility.",
+    "a": "100 cm^2/V-s",
+    "b": "1000 cm^2/V-s",
+    "c": "10000 cm^2/V-s",
+    "d": "100000 cm^2/V-s",
+    "ans": "b"
+  },
+  {
+    "q": "A semiconductor has a bandgap of 1.43 eV. Calculate the minimum photon frequency required to excite an electron from the valence band to the conduction band. (Use Planck's constant h = 4.14 x 10^-15 eV-s).",
+    "a": "1.45 x 10^14 Hz",
+    "b": "3.45 x 10^14 Hz",
+    "c": "6.90 x 10^14 Hz",
+    "d": "1.00 x 10^15 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the wavelength corresponding to the photon frequency from the previous question (3.45 x 10^14 Hz).",
+    "a": "520 nano-meters",
+    "b": "869 nano-meters",
+    "c": "1200 nano-meters",
+    "d": "450 nano-meters",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon PN junction has doping concentrations N_D = 10^16 per cm^3 and N_A = 10^16 per cm^3. Find the built-in potential at 300 K.",
+    "a": "0.582 Volts",
+    "b": "0.695 Volts",
+    "c": "0.718 Volts",
+    "d": "0.320 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the width of the depletion region of the PN junction described in the previous question at zero bias. (Use epsilon_s = 1.04 x 10^-12 F/cm and built-in potential = 0.695 Volts).",
+    "a": "0.25 micro-meters",
+    "b": "0.425 micro-meters",
+    "c": "0.850 micro-meters",
+    "d": "0.125 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon diode at room temperature (V_T = 26 mV) has a reverse saturation current of 2 pA. Calculate the diode forward current when forward-biased at 0.70 Volts.",
+    "a": "490 uA",
+    "b": "980 uA",
+    "c": "980 mA",
+    "d": "4.9 mA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dynamic resistance of the silicon diode described in the previous question (forward-biased at 0.70 V, forward current = 980 uA)?",
+    "a": "13.3 Ohms",
+    "b": "26.5 Ohms",
+    "c": "53.0 Ohms",
+    "d": "6.6 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Zener voltage regulator has an input voltage of 15 Volts, a series resistor RS = 100 Ohms, and a 6.2-Volt Zener diode. Calculate the current flowing through the series resistor.",
+    "a": "62 mA",
+    "b": "88 mA",
+    "c": "150 mA",
+    "d": "44 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If a load resistor of 200 Ohms is connected across the 6.2-Volt Zener diode, calculate the current through the load.",
+    "a": "62.0 mA",
+    "b": "31.0 mA",
+    "c": "15.5 mA",
+    "d": "88.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the resulting Zener diode current under the loaded condition in the previous questions. (Series current = 88 mA, load current = 31 mA).",
+    "a": "88 mA",
+    "b": "57 mA",
+    "c": "31 mA",
+    "d": "5 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A transistor has an emitter current of 5.1 mA and a collector current of 5.0 mA. Calculate its common-base current gain (alpha).",
+    "a": "0.950",
+    "b": "0.980",
+    "c": "0.990",
+    "d": "0.995",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the common-emitter current gain (beta) for the transistor described in the previous question.",
+    "a": "50",
+    "b": "49",
+    "c": "100",
+    "d": "200",
+    "ans": "a"
+  },
+  {
+    "q": "A BJT has a beta of 150. If the base current is 20 uA, calculate the collector current.",
+    "a": "1.5 mA",
+    "b": "3.0 mA",
+    "c": "4.5 mA",
+    "d": "1.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the same BJT, calculate the total emitter current.",
+    "a": "3.00 mA",
+    "b": "3.02 mA",
+    "c": "2.98 mA",
+    "d": "3.20 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 10 mA and pinch-off voltage V_P = -3.0 Volts. Find the drain current when the gate-to-source voltage V_GS is -1.5 Volts.",
+    "a": "5.00 mA",
+    "b": "2.50 mA",
+    "c": "1.25 mA",
+    "d": "3.75 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the value of the transconductance (gm) of the JFET under the biased condition in the previous question if gm0 is 6.67 mS.",
+    "a": "5.00 mS",
+    "b": "3.33 mS",
+    "c": "1.67 mS",
+    "d": "2.50 mS",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 18 mA and V_P = -6 Volts. Calculate the drain current ID when V_GS is -2 Volts.",
+    "a": "12.0 mA",
+    "b": "8.0 mA",
+    "c": "4.0 mA",
+    "d": "16.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel enhancement-mode MOSFET has threshold voltage V_th = 2 Volts and K = 0.4 mA/V^2. Find the drain current ID in saturation when V_GS = 5 Volts.",
+    "a": "1.2 mA",
+    "b": "3.6 mA",
+    "c": "1.8 mA",
+    "d": "7.2 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the MOSFET described in the previous question has V_GS = 1 Volt, what is the drain current ID?",
+    "a": "0.4 mA",
+    "b": "0.0 mA",
+    "c": "1.6 mA",
+    "d": "0.2 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A certain silicon PN junction has depletion capacitance C_j0 = 100 pF at zero bias. If V_bi is 0.7 Volts, calculate the depletion capacitance when reverse-biased at 2.1 Volts. (Assume junction exponent m = 0.5).",
+    "a": "70.7 pF",
+    "b": "50.0 pF",
+    "c": "33.3 pF",
+    "d": "25.0 pF",
+    "ans": "b"
+  },
+  {
+    "q": "An SCR circuit uses a 20-Volt anode supply with a load resistor RL = 100 Ohms. If the holding current is 15 mA and the SCR is turned on, calculate the minimum anode voltage required to keep the SCR in conduction.",
+    "a": "1.5 Volts",
+    "b": "3.0 Volts",
+    "c": "0.7 Volts",
+    "d": "2.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A UJT has interbase resistance R_BB = 5k Ohms and R_B1 = 3k Ohms. Calculate the intrinsic stand-off ratio (eta).",
+    "a": "0.4",
+    "b": "0.6",
+    "c": "0.5",
+    "d": "0.8",
+    "ans": "b"
+  },
+  {
+    "q": "For the UJT described in the previous question, if V_BB is 10 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P.",
+    "a": "6.0 Volts",
+    "b": "6.7 Volts",
+    "c": "5.3 Volts",
+    "d": "7.3 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A fast recovery diode has a reverse recovery time of 40 nano-seconds and a peak reverse current of 2 Amperes. Calculate the stored reverse recovery charge.",
+    "a": "80 nC",
+    "b": "40 nC",
+    "c": "20 nC",
+    "d": "160 nC",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon wafer is doped with 10^17 arsenic atoms per cm^3. Find the minority carrier hole concentration in this extrinsic sample at room temperature.",
+    "a": "1.5 x 10^3 per cm^3",
+    "b": "2.25 x 10^3 per cm^3",
+    "c": "1.0 x 10^4 per cm^3",
+    "d": "2.25 x 10^4 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "An extrinsic silicon semiconductor has a hole concentration of 2.25 x 10^4 per cm^3. What is the donor doping concentration?",
+    "a": "1.5 x 10^10 per cm^3",
+    "b": "1.0 x 10^16 per cm^3",
+    "c": "1.0 x 10^15 per cm^3",
+    "d": "2.25 x 10^16 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the resistivity of a P-type silicon sample with an acceptor concentration of 10^16 per cm^3. Assume hole mobility is 450 cm^2/V-s.",
+    "a": "0.69 Ohm-cm",
+    "b": "1.39 Ohm-cm",
+    "c": "2.78 Ohm-cm",
+    "d": "0.35 Ohm-cm",
+    "ans": "b"
+  },
+  {
+    "q": "If the electric field across a semiconductor sample of length 0.5 cm is 200 V/cm, calculate the applied voltage.",
+    "a": "100 Volts",
+    "b": "50 Volts",
+    "c": "10 Volts",
+    "d": "20 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electron drift velocity in silicon if the electron mobility is 1350 cm^2/V-s and the applied electric field is 50 V/cm.",
+    "a": "33,750 cm/s",
+    "b": "67,500 cm/s",
+    "c": "135,000 cm/s",
+    "d": "13,500 cm/s",
+    "ans": "b"
+  },
+  {
+    "q": "A direct-bandgap semiconductor has a bandgap of 1.12 eV. Calculate the maximum wavelength of light that can be absorbed by this semiconductor.",
+    "a": "1107 nano-meters",
+    "b": "860 nano-meters",
+    "c": "520 nano-meters",
+    "d": "1200 nano-meters",
+    "ans": "a"
+  },
+  {
+    "q": "A silicon PN junction has doping levels N_D = 10^15 per cm^3 and N_A = 10^15 per cm^3. Find the built-in potential V_bi at 300 K.",
+    "a": "0.582 Volts",
+    "b": "0.635 Volts",
+    "c": "0.695 Volts",
+    "d": "0.718 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the depletion width of the PN junction described in the previous question at zero bias. (Use permittivity = 1.04 x 10^-12 F/cm and built-in potential = 0.582 Volts).",
+    "a": "0.49 micro-meters",
+    "b": "0.87 micro-meters",
+    "c": "1.25 micro-meters",
+    "d": "0.25 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the forward current of a silicon diode at a forward voltage of 0.65 Volts if the reverse saturation current is 5 pA.",
+    "a": "180 uA",
+    "b": "360 uA",
+    "c": "720 uA",
+    "d": "90 uA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dynamic resistance of the silicon diode described in the previous question at room temperature (V_T = 26 mV, forward current = 360 uA)?",
+    "a": "36 Ohms",
+    "b": "72 Ohms",
+    "c": "144 Ohms",
+    "d": "18 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Zener voltage regulator has an unregulated input voltage of 18 Volts, series resistor RS = 120 Ohms, and a 5.6-Volt Zener diode. Calculate the current through RS.",
+    "a": "103 mA",
+    "b": "51 mA",
+    "c": "150 mA",
+    "d": "75 mA",
+    "ans": "a"
+  },
+  {
+    "q": "For the same Zener regulator, a load resistor of 150 Ohms is connected across the Zener diode. Calculate the load current.",
+    "a": "37.3 mA",
+    "b": "74.6 mA",
+    "c": "18.6 mA",
+    "d": "50.0 mA",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the resulting Zener diode current under the loaded condition. (Series current = 103 mA, load current = 37.3 mA).",
+    "a": "103.0 mA",
+    "b": "65.7 mA",
+    "c": "37.3 mA",
+    "d": "5.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A transistor has an emitter current of 10.1 mA and a base current of 100 uA. Calculate its common-base current gain (alpha).",
+    "a": "0.980",
+    "b": "0.990",
+    "c": "0.995",
+    "d": "0.950",
+    "ans": "b"
+  },
+  {
+    "q": "Find the common-emitter current gain (beta) for the transistor described in the previous question.",
+    "a": "50",
+    "b": "100",
+    "c": "150",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "A BJT has a beta of 80. If the base current is 15 uA, calculate the collector current.",
+    "a": "1.2 mA",
+    "b": "2.4 mA",
+    "c": "0.6 mA",
+    "d": "1.8 mA",
+    "ans": "a"
+  },
+  {
+    "q": "For the same BJT, calculate the emitter current.",
+    "a": "1.200 mA",
+    "b": "1.215 mA",
+    "c": "1.185 mA",
+    "d": "1.500 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 16 mA and V_P = -4 Volts. Find the drain current when V_GS is -2 Volts.",
+    "a": "8.0 mA",
+    "b": "4.0 mA",
+    "c": "2.0 mA",
+    "d": "12.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Find the transconductance (gm) of the JFET described in the previous question if gm0 is 8.0 mS.",
+    "a": "8.0 mS",
+    "b": "4.0 mS",
+    "c": "2.0 mS",
+    "d": "1.0 mS",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 12 mA and V_P = -3 Volts. Calculate the drain current ID when V_GS is -1 Volt.",
+    "a": "8.00 mA",
+    "b": "5.33 mA",
+    "c": "2.67 mA",
+    "d": "1.33 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An NMOS enhancement transistor has threshold voltage V_th = 1 Volt and K = 0.5 mA/V^2. Find the drain current ID in saturation when V_GS = 3 Volts.",
+    "a": "1.0 mA",
+    "b": "2.0 mA",
+    "c": "0.5 mA",
+    "d": "4.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the gate-to-source voltage V_GS of the NMOS in the previous question is 0.5 Volts, find the drain current.",
+    "a": "0.25 mA",
+    "b": "0.00 mA",
+    "c": "0.50 mA",
+    "d": "0.10 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A reverse-biased PN junction has depletion capacitance C_j0 = 60 pF at zero bias. If V_bi is 0.8 Volts, calculate the depletion capacitance when reverse-biased at 2.4 Volts. (Assume junction exponent m = 0.5).",
+    "a": "42.4 pF",
+    "b": "30.0 pF",
+    "c": "20.0 pF",
+    "d": "15.0 pF",
+    "ans": "b"
+  },
+  {
+    "q": "An SCR circuit has an anode supply of 15 Volts and load resistor RL = 150 Ohms. If the holding current is 10 mA and the SCR is conducting, calculate the minimum anode voltage required to keep the SCR on.",
+    "a": "1.5 Volts",
+    "b": "3.0 Volts",
+    "c": "0.7 Volts",
+    "d": "1.0 Volt",
+    "ans": "a"
+  },
+  {
+    "q": "A UJT has interbase resistance R_BB = 8k Ohms and base-1 resistance R_B1 = 4.8k Ohms. Calculate the intrinsic stand-off ratio (eta).",
+    "a": "0.5",
+    "b": "0.6",
+    "c": "0.4",
+    "d": "0.8",
+    "ans": "b"
+  },
+  {
+    "q": "For the UJT described in the previous question, if V_BB is 12 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P.",
+    "a": "7.2 Volts",
+    "b": "7.9 Volts",
+    "c": "6.5 Volts",
+    "d": "8.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A diode has a reverse recovery time of 30 nano-seconds and a peak reverse current of 1.5 Amperes. Calculate the stored reverse recovery charge.",
+    "a": "45.0 nC",
+    "b": "22.5 nC",
+    "c": "11.2 nC",
+    "d": "90.0 nC",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon wafer is doped with 10^15 donor atoms per cm^3. Find the majority carrier concentration at room temperature.",
+    "a": "1.5 x 10^10 per cm^3",
+    "b": "1.0 x 10^15 per cm^3",
+    "c": "2.25 x 10^5 per cm^3",
+    "d": "1.0 x 10^16 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the resistivity of intrinsic germanium at room temperature (300 K) if ni = 2.5 x 10^13 per cm^3, electron mobility = 3800 cm^2/V-s, and hole mobility = 1800 cm^2/V-s.",
+    "a": "22.4 Ohm-cm",
+    "b": "44.6 Ohm-cm",
+    "c": "11.2 Ohm-cm",
+    "d": "89.2 Ohm-cm",
+    "ans": "b"
+  },
+  {
+    "q": "In a semiconductor sample, the electron concentration profile decreases linearly from 10^17 per cm^3 to 10^14 per cm^3 over a distance of 1 micro-meter. Find the electron concentration gradient.",
+    "a": "-1.0 x 10^21 per cm^4",
+    "b": "-9.9 x 10^20 per cm^4",
+    "c": "-5.0 x 10^20 per cm^4",
+    "d": "-2.0 x 10^21 per cm^4",
+    "ans": "b"
+  },
+  {
+    "q": "Using the concentration gradient from the previous question (-9.9 x 10^20 per cm^4), calculate the diffusion current density (Jn) of electrons if the diffusion constant Dn is 20 cm^2/s.",
+    "a": "1,584 A/cm^2",
+    "b": "3,168 A/cm^2",
+    "c": "6,336 A/cm^2",
+    "d": "792 A/cm^2",
+    "ans": "b"
+  },
+  {
+    "q": "A silicon PN junction has doping concentrations N_A = 10^17 per cm^3 and N_D = 10^16 per cm^3. If the built-in potential is 0.72 Volts, calculate the depletion region width (W) at zero bias. (Use permittivity = 1.04 x 10^-12 F/cm).",
+    "a": "0.15 micro-meters",
+    "b": "0.31 micro-meters",
+    "c": "0.62 micro-meters",
+    "d": "0.08 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "For the same silicon PN junction, calculate the depletion width under a reverse bias voltage of 5.28 Volts. (Total potential = V_bi + V_R = 6.0 Volts).",
+    "a": "0.31 micro-meters",
+    "b": "0.89 micro-meters",
+    "c": "1.78 micro-meters",
+    "d": "0.45 micro-meters",
+    "ans": "b"
+  },
+  {
+    "q": "A certain diode has a reverse saturation current of 10 pA. Find the ratio of forward current at 0.65 Volts forward bias to the current at 0.55 Volts forward bias at room temperature (V_T = 26 mV).",
+    "a": "10.0",
+    "b": "46.8",
+    "c": "25.4",
+    "d": "5.0",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal silicon diode operates at 300 K. If the forward voltage is 0.55 Volts when the current is 1 mA, calculate the forward voltage when the current increases to 10 mA.",
+    "a": "0.576 Volts",
+    "b": "0.610 Volts",
+    "c": "0.670 Volts",
+    "d": "0.635 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reverse breakdown voltage of a diode if the maximum electric field is 4 x 10^5 V/cm, the donor concentration is 10^16 per cm^3, and the acceptor concentration is 10^19 per cm^3. (Use breakdown formula V_B = epsilon_s * E_max^2 / (2 * q * N_D)).",
+    "a": "13.0 Volts",
+    "b": "52.0 Volts",
+    "c": "104.0 Volts",
+    "d": "26.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter amplifier has a collector resistor RC = 1k Ohms and operates from a 12-Volt DC source. If the transistor is in saturation and V_CE(sat) is 0.2 Volts, calculate the saturation collector current.",
+    "a": "6.0 mA",
+    "b": "11.8 mA",
+    "c": "12.0 mA",
+    "d": "5.9 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the transistor in the previous question has a minimum beta of 100, calculate the minimum base current (IB) required to guarantee saturation.",
+    "a": "118 uA",
+    "b": "118 mA",
+    "c": "59 uA",
+    "d": "236 uA",
+    "ans": "a"
+  },
+  {
+    "q": "A BJT is biased in the active region with IC = 5 mA and IB = 40 uA. Calculate the collector-to-emitter current gain beta.",
+    "a": "100",
+    "b": "125",
+    "c": "150",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "For the same BJT (IC = 5 mA, IB = 40 uA), calculate the total emitter current.",
+    "a": "5.00 mA",
+    "b": "5.04 mA",
+    "c": "4.96 mA",
+    "d": "5.40 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET is biased at V_GS = -2.0 Volts. If IDSS = 18 mA and V_P = -6.0 Volts, calculate the drain current ID.",
+    "a": "12.0 mA",
+    "b": "8.0 mA",
+    "c": "4.0 mA",
+    "d": "16.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.0 mS?",
+    "a": "4.0 mS",
+    "b": "3.0 mS",
+    "c": "2.0 mS",
+    "d": "1.0 mS",
+    "ans": "a"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 10 mA and V_P = -5 Volts. Find the drain-to-source voltage (V_DS) required to pinch off the channel when V_GS = -2 Volts.",
+    "a": "5 Volts",
+    "b": "3 Volts",
+    "c": "2 Volts",
+    "d": "6 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the JFET operating in the saturation region with V_GS = -2 Volts (IDSS = 10 mA, V_P = -5 V), calculate the drain current ID.",
+    "a": "10.0 mA",
+    "b": "3.6 mA",
+    "c": "1.8 mA",
+    "d": "7.2 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An enhancement-mode NMOS has V_th = 2.0 Volts and K = 0.5 mA/V^2. Find the drain current ID in saturation when the applied gate-to-source voltage V_GS is 5.0 Volts.",
+    "a": "1.5 mA",
+    "b": "4.5 mA",
+    "c": "2.25 mA",
+    "d": "9.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "If the drain-to-source voltage V_DS of the NMOS in the previous question is 1.5 Volts, find the drain current ID using the linear equation.",
+    "a": "3.38 mA",
+    "b": "2.25 mA",
+    "c": "1.12 mA",
+    "d": "4.50 mA",
+    "ans": "a"
+  },
+  {
+    "q": "A PIN photodiode has a quantum efficiency of 75% at an illumination wavelength of 0.9 micro-meters. Calculate the responsivity of the photodiode.",
+    "a": "0.54 A/W",
+    "b": "0.27 A/W",
+    "c": "0.81 A/W",
+    "d": "0.13 A/W",
+    "ans": "a"
+  },
+  {
+    "q": "If the incident optical power on the photodiode described in the previous question is 10 micro-Watts, calculate the generated photocurrent.",
+    "a": "5.4 uA",
+    "b": "2.7 uA",
+    "c": "8.1 uA",
+    "d": "1.3 uA",
+    "ans": "a"
+  },
+  {
+    "q": "An SCR has a gate trigger voltage of 0.7 Volts and a gate trigger current of 10 mA. If it is triggered using a 5-Volt DC trigger supply, calculate the series resistor value required in the gate circuit.",
+    "a": "430 Ohms",
+    "b": "430k Ohms",
+    "c": "100 Ohms",
+    "d": "500 Ohms",
+    "ans": "a"
+  },
+  {
+    "q": "A UJT relaxation oscillator has R = 22k Ohms and C = 0.01 micro-Farads. If the intrinsic stand-off ratio is 0.63, calculate the approximate period of oscillation. (Use formula T = R * C * ln(1 / (1 - eta))).",
+    "a": "0.11 milli-seconds",
+    "b": "0.22 milli-seconds",
+    "c": "0.44 milli-seconds",
+    "d": "0.05 milli-seconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question.",
+    "a": "2.27 kHz",
+    "b": "4.55 kHz",
+    "c": "9.10 kHz",
+    "d": "1.13 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A solar cell has an open-circuit voltage of 0.55 Volts and a short-circuit current of 200 mA. If the fill factor of the solar cell is 0.70, calculate the maximum power output.",
+    "a": "77.0 mW",
+    "b": "38.5 mW",
+    "c": "154.0 mW",
+    "d": "19.3 mW",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 800 mW.",
+    "a": "9.6%",
+    "b": "4.8%",
+    "c": "19.2%",
+    "d": "2.4%",
+    "ans": "a"
+  },
+  {
+    "q": "A silicon sample contains 10^16 donor atoms/cm^3 and 2 x 10^15 acceptor atoms/cm^3. What is the net carrier type and concentration?",
+    "a": "N-type, 1.2 x 10^16 per cm^3",
+    "b": "N-type, 8.0 x 10^15 per cm^3",
+    "c": "P-type, 8.0 x 10^15 per cm^3",
+    "d": "P-type, 1.2 x 10^16 per cm^3",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the resistivity of P-type silicon doped with 2 x 10^16 acceptor atoms per cm^3. Assume hole mobility is 450 cm^2/V-s. (Use q = 1.6 x 10^-19 C).",
+    "a": "0.69 Ohm-cm",
+    "b": "1.39 Ohm-cm",
+    "c": "2.78 Ohm-cm",
+    "d": "0.35 Ohm-cm",
+    "ans": "a"
+  }
+]

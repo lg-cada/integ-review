@@ -1,0 +1,3378 @@
+[
+  {
+    "q": "What is the primary method of multiplexing where multiple signals share the same transmission medium by occupying different, non-overlapping frequency bands?",
+    "a": "Time Division Multiplexing (TDM)",
+    "b": "Frequency Division Multiplexing (FDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Wavelength Division Multiplexing (WDM)",
+    "ans": "b"
+  },
+  {
+    "q": "Which multiplexing technique divides a high-speed transmission path into discrete time slots, allowing multiple channels to share the medium sequentially?",
+    "a": "Time Division Multiplexing (TDM)",
+    "b": "Frequency Division Multiplexing (FDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Code Division Multiplexing (CDM)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of the guard band used in Time Division Multiplexing (TDM) to prevent adjacent time slot overlap and timing jitter?",
+    "a": "Spectral gap",
+    "b": "Guard time",
+    "c": "Pilot interval",
+    "d": "Inter-symbol gap",
+    "ans": "b"
+  },
+  {
+    "q": "In an FDM system, what is the purpose of the guard bands between adjacent channels?",
+    "a": "To permit synchronized clock recovery",
+    "b": "To prevent crosstalk and spectral overlap",
+    "c": "To increase the total transmitted power",
+    "d": "To allow for automatic error correction",
+    "ans": "b"
+  },
+  {
+    "q": "Which multiplexing technique utilizes separate physical paths, cables, or space coordinates to isolate individual message channels?",
+    "a": "Time Division Multiplexing (TDM)",
+    "b": "Frequency Division Multiplexing (FDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Wavelength Division Multiplexing (WDM)",
+    "ans": "c"
+  },
+  {
+    "q": "What term describes a signal that has not undergone any frequency translation and occupies its original, low-frequency spectral band?",
+    "a": "Baseband signal",
+    "b": "Broadband signal",
+    "c": "Passband signal",
+    "d": "Sideband signal",
+    "ans": "a"
+  },
+  {
+    "q": "Which digital signal-encoding format alternates the polarity of the transmitted pulses to represent binary 1s, resulting in a zero DC component?",
+    "a": "Non-Return-to-Zero Level (NRZ-L)",
+    "b": "Bipolar Alternate Mark Inversion (AMI)",
+    "c": "Manchester encoding",
+    "d": "Unipolar Return-to-Zero (RZ)",
+    "ans": "b"
+  },
+  {
+    "q": "In which line encoding method does the signal transition at the middle of every bit interval, providing a highly reliable built-in clock recovery mechanism?",
+    "a": "Alternate Mark Inversion (AMI)",
+    "b": "Non-Return-to-Zero Inverted (NRZ-I)",
+    "c": "Manchester encoding",
+    "d": "B8ZS",
+    "ans": "c"
+  },
+  {
+    "q": "What is the name of the standard North American digital multiplexing hierarchy level that operates at 1.544 Mbps?",
+    "a": "DS0",
+    "b": "DS1",
+    "c": "DS2",
+    "d": "DS3",
+    "ans": "b"
+  },
+  {
+    "q": "How many standard 64-kbps voice channels (DS0) are multiplexed to form a single T1 (DS1) carrier frame?",
+    "a": "12",
+    "b": "24",
+    "c": "30",
+    "d": "32",
+    "ans": "b"
+  },
+  {
+    "q": "How many voice channels are multiplexed together in a standard European E1 digital transmission frame?",
+    "a": "24",
+    "b": "30",
+    "c": "32",
+    "d": "64",
+    "ans": "c"
+  },
+  {
+    "q": "What is the primary function of an encoder in a digital transmission system?",
+    "a": "To modulate a high-frequency carrier wave",
+    "b": "To convert analog signals or raw binary data into a structured line code",
+    "c": "To filter out unwanted high-frequency noise from the channel",
+    "d": "To demultiplex incoming signals at the receiver",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard frequency range of a basic FDM Group according to CCITT/ITU-T recommendations?",
+    "a": "12 to 60 kHz",
+    "b": "60 to 108 kHz",
+    "c": "312 to 552 kHz",
+    "d": "564 to 3084 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "How many voice-grade channels are contained in a standard CCITT basic FDM Group?",
+    "a": "12",
+    "b": "24",
+    "c": "60",
+    "d": "120",
+    "ans": "a"
+  },
+  {
+    "q": "What is the baseband frequency range of a standard basic FDM Supergroup?",
+    "a": "60 to 108 kHz",
+    "b": "312 to 552 kHz",
+    "c": "564 to 3084 kHz",
+    "d": "60 to 2788 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "How many voice channels are multiplexed together in a standard CCITT basic FDM Supergroup?",
+    "a": "12",
+    "b": "60",
+    "c": "120",
+    "d": "600",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard baseband frequency range of a CCITT basic Mastergroup?",
+    "a": "60 to 108 kHz",
+    "b": "312 to 552 kHz",
+    "c": "812 to 2044 kHz",
+    "d": "564 to 3084 kHz",
+    "ans": "d"
+  },
+  {
+    "q": "How many standard voice channels are combined to form a standard basic Mastergroup?",
+    "a": "60",
+    "b": "120",
+    "c": "600",
+    "d": "900",
+    "ans": "c"
+  },
+  {
+    "q": "Which multiplexing scheme is specifically designed for combining light waves of different wavelengths in optical fiber communication?",
+    "a": "Frequency Division Multiplexing (FDM)",
+    "b": "Time Division Multiplexing (TDM)",
+    "c": "Wavelength Division Multiplexing (WDM)",
+    "d": "Space Division Multiplexing (SDM)",
+    "ans": "c"
+  },
+  {
+    "q": "What is the line speed (data rate) of a standard CCITT/ITU E1 digital link?",
+    "a": "1.544 Mbps",
+    "b": "2.048 Mbps",
+    "c": "6.312 Mbps",
+    "d": "8.448 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "Which term describes the rate at which the signal transitions or changes states per second on a transmission line?",
+    "a": "Bit rate",
+    "b": "Baud rate",
+    "c": "Nyquist rate",
+    "d": "Throughput",
+    "ans": "b"
+  },
+  {
+    "q": "In a binary digital system using standard two-level signaling, what is the relationship between the bit rate and the baud rate?",
+    "a": "The bit rate is twice the baud rate",
+    "b": "The bit rate is equal to the baud rate",
+    "c": "The bit rate is half of the baud rate",
+    "d": "The bit rate is four times the baud rate",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary cause of intersymbol interference (ISI) in band-limited transmission channels?",
+    "a": "Thermal noise in active components",
+    "b": "Dispersion and overlapping of pulse shapes",
+    "c": "Incorrect sampling phase at the receiver",
+    "d": "Atmospheric absorption",
+    "ans": "b"
+  },
+  {
+    "q": "Which line coding scheme is characterized by adding a transition at the beginning of a bit interval if the bit is a binary 0, and no transition if it is a binary 1?",
+    "a": "Non-Return-to-Zero Inverted (NRZ-I)",
+    "b": "Alternate Mark Inversion (AMI)",
+    "c": "Differential Manchester encoding",
+    "d": "Bipolar 8-Zero Substitution (B8ZS)",
+    "ans": "c"
+  },
+  {
+    "q": "What is the main drawback of standard Non-Return-to-Zero (NRZ) line coding?",
+    "a": "It requires twice the bandwidth of Manchester coding",
+    "b": "It has no built-in clock synchronization during long runs of identical bits",
+    "c": "It is highly susceptible to high-frequency attenuation",
+    "d": "It introduces a 90-degree phase shift",
+    "ans": "b"
+  },
+  {
+    "q": "Which standard digital carrier hierarchy level matches the DS2 line speed?",
+    "a": "1.544 Mbps",
+    "b": "3.152 Mbps",
+    "c": "6.312 Mbps",
+    "d": "44.736 Mbps",
+    "ans": "c"
+  },
+  {
+    "q": "What is the line speed of a standard North American DS3 carrier system?",
+    "a": "1.544 Mbps",
+    "b": "6.312 Mbps",
+    "c": "44.736 Mbps",
+    "d": "274.176 Mbps",
+    "ans": "c"
+  },
+  {
+    "q": "How many T1 lines are multiplexed to form a single T2 digital carrier system?",
+    "a": "2",
+    "b": "4",
+    "c": "12",
+    "d": "28",
+    "ans": "b"
+  },
+  {
+    "q": "How many T1 lines are combined to make up a single standard T3 digital multiplex link?",
+    "a": "4",
+    "b": "14",
+    "c": "28",
+    "d": "56",
+    "ans": "c"
+  },
+  {
+    "q": "In a T1 frame, what is the dedicated purpose of the 193rd bit?",
+    "a": "Signaling for voice channel 24",
+    "b": "Frame synchronization and alignment",
+    "c": "Error correction using CRC-8",
+    "d": "Parity checking for the entire frame",
+    "ans": "b"
+  },
+  {
+    "q": "What is the purpose of pulse stuffing (justification) in asynchronous time division multiplexing?",
+    "a": "To increase the audio resolution of the multiplexed signals",
+    "b": "To synchronize incoming tributary data streams of varying rates to a common higher rate",
+    "c": "To prevent the occurrence of quantizing noise",
+    "d": "To implement forward error correction",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of multiplexer allocates time slots dynamically based on demand rather than allocating fixed dedicated slots?",
+    "a": "Synchronous TDM",
+    "b": "Statistical (Asynchronous) TDM",
+    "c": "Frequency Division Multiplexer",
+    "d": "Wavelength Division Multiplexer",
+    "ans": "b"
+  },
+  {
+    "q": "What standard voice-frequency (VF) bandwidth is allocated for a single analog telephone channel?",
+    "a": "300 to 3400 Hz",
+    "b": "0 to 4000 Hz",
+    "c": "50 to 15000 Hz",
+    "d": "20 to 20000 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total nominal bandwidth allocated to an FDM voice channel, including guard bands, in a standard basic group?",
+    "a": "3.1 kHz",
+    "b": "4.0 kHz",
+    "c": "8.0 kHz",
+    "d": "12.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Which digital signaling standard is used to interface a computer (DTE) directly to a modem (DCE)?",
+    "a": "IEEE 802.3",
+    "b": "EIA RS-232C",
+    "c": "IEEE 488",
+    "d": "ITU-T X.25",
+    "ans": "b"
+  },
+  {
+    "q": "How many active electrical circuits (lines) are defined in the RS-232-C specification for standard serial handshaking?",
+    "a": "9",
+    "b": "15",
+    "c": "25",
+    "d": "37",
+    "ans": "a"
+  },
+  {
+    "q": "In serial data transmission, which signal line is asserted by the modem (DCE) to inform the terminal (DTE) that it is connected to a telephone line and ready?",
+    "a": "Request to Send (RTS)",
+    "b": "Clear to Send (CTS)",
+    "c": "Data Set Ready (DSR)",
+    "d": "Data Terminal Ready (DTR)",
+    "ans": "c"
+  },
+  {
+    "q": "What transmission protocol allows the receiver to request a complete retransmission of corrupted blocks of data?",
+    "a": "Forward Error Correction (FEC)",
+    "b": "Automatic Repeat Request (ARQ)",
+    "c": "Viterbi decoding",
+    "d": "Hamming alignment",
+    "ans": "b"
+  },
+  {
+    "q": "What error detection mechanism appends a block of check bits derived from a polynomial division formula to the end of a transmission frame?",
+    "a": "Vertical Redundancy Check (VRC)",
+    "b": "Longitudinal Redundancy Check (LRC)",
+    "c": "Cyclic Redundancy Check (CRC)",
+    "d": "Hamming code",
+    "ans": "c"
+  },
+  {
+    "q": "In which transmission type is there no common clock synchronizing the sender and receiver, requiring start and stop bits for framing?",
+    "a": "Synchronous transmission",
+    "b": "Asynchronous transmission",
+    "c": "Isochronous transmission",
+    "d": "Plesiochronous transmission",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical start-bit and stop-bit logic polarity configuration in asynchronous serial systems?",
+    "a": "Start bit is low, stop bit is high",
+    "b": "Start bit is high, stop bit is low",
+    "c": "Both start and stop bits are low",
+    "d": "Both start and stop bits are high",
+    "ans": "a"
+  },
+  {
+    "q": "Which line coding format is most affected by the accumulation of DC offset (DC component)?",
+    "a": "Manchester encoding",
+    "b": "Bipolar AMI",
+    "c": "Unipolar Non-Return-to-Zero (NRZ)",
+    "d": "High-Density Bipolar 3-Zero (HDB3)",
+    "ans": "c"
+  },
+  {
+    "q": "What is the primary function of a Scrambler circuit in synchronous high-speed digital modems?",
+    "a": "To compress the dynamic range of the baseband voice signals",
+    "b": "To randomize the data stream to prevent long runs of 1s or 0s, ensuring stable clock recovery",
+    "c": "To filter out unwanted high-frequency noise from the local loop",
+    "d": "To multiplex several incoming channels",
+    "ans": "b"
+  },
+  {
+    "q": "Which term refers to the actual average rate of successfully delivered data packets over a communication channel under real operational conditions?",
+    "a": "Bandwidth",
+    "b": "Throughput",
+    "c": "Baud rate",
+    "d": "Bit rate",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the standard digital telephone trunk line format in Europe and Asia that supports 30 voice channels plus 2 signaling/synchronization channels?",
+    "a": "T1 line",
+    "b": "E1 line",
+    "c": "DS1 link",
+    "d": "T2 carrier",
+    "ans": "b"
+  },
+  {
+    "q": "Which line coding standard is commonly used for the DS-1 (T1) signal interface in North America to prevent clock drift during long sequences of zeros?",
+    "a": "Non-Return-to-Zero Level",
+    "b": "Bipolar with 8-Zero Substitution (B8ZS)",
+    "c": "High-Density Bipolar 3 (HDB3)",
+    "d": "Manchester encoding",
+    "ans": "a"
+  },
+  {
+    "q": "Which line coding format is standardized for European E1 systems to replace strings of four consecutive zeros?",
+    "a": "HDB3 (High-Density Bipolar 3-zero)",
+    "b": "B8ZS",
+    "c": "NRZ-L",
+    "d": "AMI",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary purpose of a codec (Coder-Decoder) LSI chip in modern telephone equipment?",
+    "a": "To perform analog-to-digital and digital-to-analog conversions of speech",
+    "b": "To combine multiple TDM frames into an FDM supergroup",
+    "c": "To generate dual-tone multi-frequency (DTMF) dial tones",
+    "d": "To route packets across the internet",
+    "ans": "a"
+  },
+  {
+    "q": "Which term describes the absolute maximum information transmission capacity of a noisy channel under the Shannon limit?",
+    "a": "Throughput limit",
+    "b": "Channel capacity",
+    "c": "Nyquist rate",
+    "d": "Spectral density",
+    "ans": "b"
+  },
+  {
+    "q": "What type of time division multiplexing divides a transmission line among channels by dedicating a repeating time slot to each user, even if they have no data to send?",
+    "a": "Synchronous TDM",
+    "b": "Statistical TDM",
+    "c": "Asynchronous TDM",
+    "d": "Dynamic TDM",
+    "ans": "a"
+  },
+  {
+    "q": "In a digital carrier system, what does the term 'DS0' represent?",
+    "a": "A single digital channel carrying data at 56 kbps",
+    "b": "The base-level digital service channel carrying voice data at 64 kbps",
+    "c": "A multiplexed system carrying 12 channels",
+    "d": "An unshielded twisted pair network port",
+    "ans": "b"
+  },
+  {
+    "q": "Which encoding format uses alternating positive and negative voltages for binary 1s, and zero voltage for binary 0s?",
+    "a": "Alternate Mark Inversion (AMI)",
+    "b": "Manchester",
+    "c": "NRZ-L",
+    "d": "NRZ-I",
+    "ans": "a"
+  },
+  {
+    "q": "Which multiplexing scheme is considered the oldest and simplest format, relying entirely on individual, isolated physical wire paths for each channel?",
+    "a": "Space Division Multiplexing (SDM)",
+    "b": "Frequency Division Multiplexing (FDM)",
+    "c": "Time Division Multiplexing (TDM)",
+    "d": "Wavelength Division Multiplexing (WDM)",
+    "ans": "a"
+  },
+  {
+    "q": "What kind of signal is produced when a continuous-time analog wave is sampled periodically at discrete time points?",
+    "a": "Pulse Amplitude Modulation (PAM) wave",
+    "b": "Pulse Code Modulation (PCM) wave",
+    "c": "Frequency modulated carrier",
+    "d": "Phase Shift Keying wave",
+    "ans": "a"
+  },
+  {
+    "q": "What CCITT FDM standard consists of five basic groups combined together?",
+    "a": "Supergroup",
+    "b": "Mastergroup",
+    "c": "Supermastergroup",
+    "d": "Subgroup",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth of a single standard basic CCITT FDM Group?",
+    "a": "48 kHz",
+    "b": "240 kHz",
+    "c": "1200 kHz",
+    "d": "4 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth of a standard basic CCITT FDM Supergroup?",
+    "a": "48 kHz",
+    "b": "240 kHz",
+    "c": "1200 kHz",
+    "d": "24 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "The primary disadvantage of FDM compared to TDM systems is _____.",
+    "a": "The need for complex analog filters and susceptibility to intermodulation distortion",
+    "b": "The large digital transmission bandwidth required",
+    "c": "The high quantizing noise level",
+    "d": "Incompatibility with fiber-optic links",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is not a typical application of Frequency Division Multiplexing (FDM)?",
+    "a": "Commercial FM stereo broadcasting subcarriers",
+    "b": "Analog telephone network trunks",
+    "c": "Cable television channel distribution",
+    "d": "Standard GSM cellular call multiplexing",
+    "ans": "d"
+  },
+  {
+    "q": "What type of transmission is logically equivalent to a dedicated private-line circuit but dynamically established over shared public network assets?",
+    "a": "Permanent Virtual Circuit (PVC)",
+    "b": "Switched Virtual Circuit (SVC)",
+    "c": "Point-to-point analog loop",
+    "d": "Simplex baseband link",
+    "ans": "b"
+  },
+  {
+    "q": "In telecommunication multiplexing, the term 'tributary' refers to _____.",
+    "a": "A high-speed trunk line leaving a multiplexer",
+    "b": "A low-speed individual input channel entering a multiplexer",
+    "c": "The power supply circuit of a repeater",
+    "d": "The frequency band of the guard interval",
+    "ans": "b"
+  },
+  {
+    "q": "Which network topology connects all nodes directly to a central controlling hub?",
+    "a": "Star topology",
+    "b": "Bus topology",
+    "c": "Ring topology",
+    "d": "Mesh topology",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a communication channel that allows transmission in both directions simultaneously?",
+    "a": "Simplex",
+    "b": "Half-Duplex",
+    "c": "Full-Duplex",
+    "d": "Unidirectional",
+    "ans": "c"
+  },
+  {
+    "q": "What is the term for a communication link that allows transmission in both directions but only one direction at a time?",
+    "a": "Simplex",
+    "b": "Half-Duplex",
+    "c": "Full-Duplex",
+    "d": "Asymmetric Duplex",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following systems is considered a purely simplex communication system?",
+    "a": "Commercial television broadcasting",
+    "b": "A cellular telephone call",
+    "c": "A two-way radio link using push-to-talk",
+    "d": "An internet browser session",
+    "ans": "a"
+  },
+  {
+    "q": "What interface standard defines only the functional descriptions of serial interface circuits, matching the functional spec of RS-232?",
+    "a": "V.24",
+    "b": "V.35",
+    "c": "X.21",
+    "d": "RS-422",
+    "ans": "a"
+  },
+  {
+    "q": "Which protocol specifies the use of parity, vertical redundancy checking, and LRC block checking to secure data integrity?",
+    "a": "Xmodem",
+    "b": "Ymodem",
+    "c": "Kermit",
+    "d": "TCP/IP",
+    "ans": "a"
+  },
+  {
+    "q": "What occurs when the sampling rate in a PCM system falls below the Nyquist rate?",
+    "a": "Quantization SQR increases",
+    "b": "Slope overload distortion occurs",
+    "c": "Aliasing (foldover) distortion is introduced",
+    "d": "The transmission line speed doubles",
+    "ans": "c"
+  },
+  {
+    "q": "Which type of digital line code represents binary data by making transitions at the center of each bit interval, where a 0-to-1 transition represents one state and a 1-to-0 transition represents the other?",
+    "a": "Alternate Mark Inversion (AMI)",
+    "b": "Biphase Manchester",
+    "c": "NRZ-L",
+    "d": "NRZ-I",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum specified cable length for a standard EIA-RS-232C serial interface operating at its top rate?",
+    "a": "10 feet",
+    "b": "50 feet",
+    "c": "100 feet",
+    "d": "500 feet",
+    "ans": "b"
+  },
+  {
+    "q": "Which digital network standard combines digital voice, high-speed data, and video services over a single access line using standard 2B+D or 23B+D channel structures?",
+    "a": "PSTN",
+    "b": "ISDN",
+    "c": "ATM",
+    "d": "ADSL",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a modem in a telecommunication link?",
+    "a": "To perform multiplexing of multiple baseband signals",
+    "b": "To convert digital data to analog tones for transmission over phone lines, and vice versa",
+    "c": "To amplify weak RF signals in the local loop",
+    "d": "To route packets based on MAC addresses",
+    "ans": "b"
+  },
+  {
+    "q": "Which term describes the minimum frequency at which an analog signal must be sampled to allow complete, error-free reconstruction?",
+    "a": "Baud rate",
+    "b": "Nyquist rate",
+    "c": "Shannon limit",
+    "d": "Sampling interval",
+    "ans": "b"
+  },
+  {
+    "q": "Which digital network standard represents a high-speed multiplexing protocol that uses fixed-size packets called 'cells' containing 53 bytes?",
+    "a": "Asynchronous Transfer Mode (ATM)",
+    "b": "Frame Relay",
+    "c": "Ethernet",
+    "d": "Synchronous Digital Hierarchy (SDH)",
+    "ans": "a"
+  },
+  {
+    "q": "In standard telephony TDM, what is the term for the continuous repeating time block that contains exactly one sample from each multiplexed channel?",
+    "a": "Time slot",
+    "b": "Frame",
+    "c": "Tributary block",
+    "d": "Packet",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the CCITT FDM standard that consists of fifteen supergroups multiplexed together?",
+    "a": "Supermastergroup",
+    "b": "Mastergroup",
+    "c": "Basic Group",
+    "d": "Submastergroup",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth of a single standard basic voice channel in a standard analog carrier system?",
+    "a": "3.1 kHz",
+    "b": "4.0 kHz",
+    "c": "8.0 kHz",
+    "d": "15.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Which line coding method is specifically optimized for transmission over fiber optic links due to its lack of a DC offset and constant power level?",
+    "a": "Manchester",
+    "b": "NRZ-L",
+    "c": "Unipolar RZ",
+    "d": "AMI",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary technical reason for using Synchronous Digital Hierarchy (SDH) standards in long-distance trunk lines?",
+    "a": "To permit extremely accurate timing and direct extraction of low-speed channels without demultiplexing the entire high-speed stream",
+    "b": "To eliminate the need for any optical-to-electrical conversion",
+    "c": "To reduce the required cable core diameter",
+    "d": "To allow the use of low-cost copper wire",
+    "ans": "a"
+  },
+  {
+    "q": "Which device is responsible for separating a composite multiplexed signal back into its original individual channel streams at the receiving station?",
+    "a": "Multiplexer",
+    "b": "Demultiplexer",
+    "c": "Codec",
+    "d": "Modem",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the Shannon limit for the information capacity of a standard telephone channel with a bandwidth of 3.4 kHz and a Signal-to-Noise Ratio (S/N) of 35 dB.",
+    "a": "39.55 kbps",
+    "b": "22.45 kbps",
+    "c": "11.23 kbps",
+    "d": "79.10 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital multiplexer combines four 100-kbps digital channels. If it uses a dynamic time slot size of 2 bits per channel per frame, find the resulting TDM frame duration.",
+    "a": "20 microseconds",
+    "b": "10 microseconds",
+    "c": "40 microseconds",
+    "d": "5 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A local area network has an absolute channel bandwidth of 10 Mbps. If it successfully passes 12,000 frames per minute, with each frame carrying an average of 10,000 bits of data, calculate the actual throughput of this network.",
+    "a": "2 Mbps",
+    "b": "4 Mbps",
+    "c": "1 Mbps",
+    "d": "5 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total data transmission rate of a T1 (DS1) carrier system multiplexing 24 PCM-encoded voice channels sampled at 8 kHz, where each channel uses an 8-bit code, and 1 framing bit is appended per frame?",
+    "a": "1.544 Mbps",
+    "b": "1.536 Mbps",
+    "c": "2.048 Mbps",
+    "d": "64 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total transmission line speed of a European E1 link multiplexing 32 standard channels, with each channel encoded into an 8-bit PCM word and sampled at a rate of 8000 samples per second?",
+    "a": "2.048 Mbps",
+    "b": "1.544 Mbps",
+    "c": "1.920 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the minimum number of quantization bits required in a PCM system to provide a dynamic range of at least 10,000 unique levels.",
+    "a": "14 bits",
+    "b": "10 bits",
+    "c": "12 bits",
+    "d": "16 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the maximum data transmission capacity of a noiseless channel with a bandwidth of 4 kHz using a 16-level signaling code.",
+    "a": "32 kbps",
+    "b": "16 kbps",
+    "c": "64 kbps",
+    "d": "8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A communication channel has a bandwidth of 500 Hz. If the highest frequency component of the input baseband signal is 600 Hz, what is the minimum sampling rate required according to the Nyquist theorem to avoid aliasing?",
+    "a": "1200 samples/sec",
+    "b": "1000 samples/sec",
+    "c": "200 samples/sec",
+    "d": "600 samples/sec",
+    "ans": "a"
+  },
+  {
+    "q": "If a digital transmission system uses a 4-PSK (QPSK) modulation format and operates at a baud rate of 400 baud, what is the output bit rate in bps?",
+    "a": "800 bps",
+    "b": "400 bps",
+    "c": "1600 bps",
+    "d": "100 bps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous data transmission system uses the standard ASCII character code (7 data bits) along with 1 start bit, 1 stop bit, and 1 parity bit. Calculate the maximum coding efficiency of this transmission.",
+    "a": "70%",
+    "b": "78%",
+    "c": "88%",
+    "d": "90%",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system must pass a data rate of 56 kbps. If the channel is noiseless, find the absolute minimum bandwidth required to transmit this binary (2-level) signal.",
+    "a": "28 kHz",
+    "b": "56 kHz",
+    "c": "14 kHz",
+    "d": "112 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A CCITT standard L600 mastergroup FDM baseband spans a frequency range from 60 kHz to 2788 kHz. Calculate the total baseband bandwidth of this mastergroup.",
+    "a": "2728 kHz",
+    "b": "2848 kHz",
+    "c": "2788 kHz",
+    "d": "564 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the bandwidth efficiency of a QPSK digital modulation system operating at a transmission data rate of 10 Mbps over an RF channel bandwidth of 5 MHz.",
+    "a": "2 bits/cycle",
+    "b": "4 bits/cycle",
+    "c": "1 bit/cycle",
+    "d": "0.5 bits/cycle",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the maximum data transmission rate over a standard 6 MHz broadcast television channel, assuming a noiseless channel and using a 16-level digital signaling code.",
+    "a": "48 Mbps",
+    "b": "24 Mbps",
+    "c": "12 Mbps",
+    "d": "96 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "If the bit rate of a digital transmission system employing Amplitude Shift Keying (ASK) is 1200 bps, what is the corresponding baud rate of the line?",
+    "a": "1200 baud",
+    "b": "600 baud",
+    "c": "300 baud",
+    "d": "2400 baud",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines four standard T1 lines. If each T1 line operates at 1.544 Mbps and the T2 line speed is 6.312 Mbps, find the rate of overhead bits used for framing and justification.",
+    "a": "136 kbps",
+    "b": "64 kbps",
+    "c": "272 kbps",
+    "d": "128 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital communication system operates at a baud rate of 2400 symbols per second. Calculate the data transmission rate in bps.",
+    "a": "9600 bps",
+    "b": "4800 bps",
+    "c": "2400 bps",
+    "d": "19200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Compute the time required to transmit a 4-character hexadecimal word (e.g. 11CB) using an 8-bit parallel data transfer interface if the transfer time is 1 millisecond per character block.",
+    "a": "4 ms",
+    "b": "2 ms",
+    "c": "1 ms",
+    "d": "8 ms",
+    "ans": "a"
+  },
+  {
+    "q": "A standard PCM telephone channel uses 8-bit quantization. If the reference noise level in the subscriber line requires a Signal-to-Quantization Noise Ratio (SQR) of at least 40 dB, find the minimum number of quantization bits required to achieve this.",
+    "a": "7 bits",
+    "b": "6 bits",
+    "c": "8 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "A standard basic FDM Group contains 12 voice channels, each with a nominal bandwidth of 4 kHz. If the guard band between channels is 300 Hz, what is the actual useful spectral bandwidth occupied by the active voice signals?",
+    "a": "37.2 kHz",
+    "b": "48.0 kHz",
+    "c": "44.7 kHz",
+    "d": "40.0 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 TDM line multiplexes 24 voice channels. If each voice channel is sampled at 8 kHz and coded into an 8-bit word, calculate the bit rate of the information channels alone, excluding the framing overhead.",
+    "a": "1.536 Mbps",
+    "b": "1.544 Mbps",
+    "c": "2.048 Mbps",
+    "d": "64 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the duration of a single bit on a standard T1 digital trunk line operating at 1.544 Mbps.",
+    "a": "0.648 microseconds",
+    "b": "1.544 microseconds",
+    "c": "0.488 microseconds",
+    "d": "2.048 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 256-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "76,800 bps",
+    "b": "38,400 bps",
+    "c": "19,200 bps",
+    "d": "153,600 bps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog voice channel is sampled at 8 kHz. What is the time duration of a single TDM frame in a standard T1 system?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single voice channel slot (containing 8 bits) within a standard 125-microsecond T1 frame.",
+    "a": "5.18 microseconds",
+    "b": "2.59 microseconds",
+    "c": "10.36 microseconds",
+    "d": "1.25 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supergroup is formed by multiplexing five basic groups. If each basic group occupies a bandwidth of 48 kHz, calculate the total bandwidth of the supergroup.",
+    "a": "240 kHz",
+    "b": "48 kHz",
+    "c": "60 kHz",
+    "d": "1200 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In a T1 frame, what percentage of the total transmitted data rate is composed of framing overhead?",
+    "a": "0.52%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "0.10%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 1 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "4.00 Mbps",
+    "b": "1.00 Mbps",
+    "c": "15.00 Mbps",
+    "d": "2.50 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A local loop telephone line has an average SNR of 30 dB and a bandwidth of 3 kHz. Find the Shannon limit for data capacity.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If a T1 multiplexer runs with exactly 24 voice channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "193 bits",
+    "b": "192 bits",
+    "c": "256 bits",
+    "d": "128 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 7 data bits, 1 parity bit, 1 start bit, and 2 stop bits. If the system transmits at 1200 bps, what is the character transmission rate?",
+    "a": "109.1 characters/sec",
+    "b": "120.0 characters/sec",
+    "c": "150.0 characters/sec",
+    "d": "100.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 1 stop bit at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "960 bytes/sec",
+    "b": "1200 bytes/sec",
+    "c": "1066 bytes/sec",
+    "d": "800 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 55 dB, what is the minimum number of bits required per sample?",
+    "a": "9 bits",
+    "b": "8 bits",
+    "c": "10 bits",
+    "d": "12 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 564 kHz to 3084 kHz.",
+    "a": "2520 kHz",
+    "b": "3084 kHz",
+    "c": "564 kHz",
+    "d": "3648 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 20 dB and a bandwidth of 4 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "26.6 kbps",
+    "b": "13.3 kbps",
+    "c": "80.0 kbps",
+    "d": "40.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 20 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "160 kbps",
+    "b": "80 kbps",
+    "c": "320 kbps",
+    "d": "40 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 10 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "40 Gbps",
+    "b": "20 Gbps",
+    "c": "10 Gbps",
+    "d": "80 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 256-QAM digital transmission system.",
+    "a": "8 bps/Hz",
+    "b": "4 bps/Hz",
+    "c": "16 bps/Hz",
+    "d": "6 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 24 kbps.",
+    "a": "8 kbaud",
+    "b": "24 kbaud",
+    "c": "12 kbaud",
+    "d": "48 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 10 dB.",
+    "a": "10.3 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of a 14-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "86.04 dB",
+    "b": "50.00 dB",
+    "c": "84.00 dB",
+    "d": "96.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 4800 symbols/sec, calculate the output bit rate in bps.",
+    "a": "28,800 bps",
+    "b": "14,400 bps",
+    "c": "9,600 bps",
+    "d": "57,600 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 7 (which is 8.45 dB) using the Shannon-Hartley theorem.",
+    "a": "6.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 40 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "41.2 kbps",
+    "b": "12.4 kbps",
+    "c": "24.8 kbps",
+    "d": "82.4 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 4800 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "436.3 bytes/sec",
+    "b": "600.0 bytes/sec",
+    "c": "533.3 bytes/sec",
+    "d": "400.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 10 mV.",
+    "a": "2.56 V",
+    "b": "5.12 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 45 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3.4 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "33.9 kbps",
+    "b": "16.9 kbps",
+    "c": "67.8 kbps",
+    "d": "34.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 5.12 V.",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 2400 symbols per second. What is the line speed in bps?",
+    "a": "9,600 bps",
+    "b": "4,800 bps",
+    "c": "2,400 bps",
+    "d": "19,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 27 kbps.",
+    "a": "4.5 kbaud",
+    "b": "9 kbaud",
+    "c": "13.5 kbaud",
+    "d": "27 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 50 MHz.",
+    "a": "332 Mbps",
+    "b": "166 Mbps",
+    "c": "665 Mbps",
+    "d": "100 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 4800 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "28,800",
+    "b": "4,800",
+    "c": "5,760",
+    "d": "36,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 64-QAM digital transmission system.",
+    "a": "6 bps/Hz",
+    "b": "3 bps/Hz",
+    "c": "12 bps/Hz",
+    "d": "8 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 2 stop bits, and no parity bit.",
+    "a": "70.0%",
+    "b": "77.8%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 600 Hz is required to prevent foldover distortion?",
+    "a": "7.4 kHz",
+    "b": "6.8 kHz",
+    "c": "4.0 kHz",
+    "d": "8.0 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 20 mV. Calculate the dynamic range in dB.",
+    "a": "42.14 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "48.16 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 12 kbps.",
+    "a": "4 kbaud",
+    "b": "12 kbaud",
+    "c": "6 kbaud",
+    "d": "24 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 15 dB.",
+    "a": "15.1 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 2400 symbols/sec, calculate the output bit rate in bps.",
+    "a": "14,400 bps",
+    "b": "7,200 bps",
+    "c": "4,800 bps",
+    "d": "28,800 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 35 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "36.0 kbps",
+    "b": "12.4 kbps",
+    "c": "24.8 kbps",
+    "d": "72.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 2 stop bits. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "738.5 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 1 stop bit at a rate of 2400 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "240 bytes/sec",
+    "b": "300 bytes/sec",
+    "c": "266 bytes/sec",
+    "d": "200 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 5 mV.",
+    "a": "1.28 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "5.12 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 35 dB, what is the minimum number of bits required per sample?",
+    "a": "6 bits",
+    "b": "5 bits",
+    "c": "7 bits",
+    "d": "8 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 564 kHz to 3084 kHz.",
+    "a": "2520 kHz",
+    "b": "3084 kHz",
+    "c": "564 kHz",
+    "d": "3648 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 25 dB and a bandwidth of 4 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "33.2 kbps",
+    "b": "16.6 kbps",
+    "c": "66.4 kbps",
+    "d": "34.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 2.56 V.",
+    "a": "10 mV",
+    "b": "5 mV",
+    "c": "20 mV",
+    "d": "2.5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 5 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "40 kbps",
+    "b": "20 kbps",
+    "c": "80 kbps",
+    "d": "10 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 2.5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "10 Gbps",
+    "b": "5 Gbps",
+    "c": "2.5 Gbps",
+    "d": "20 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 1200 symbols per second. What is the line speed in bps?",
+    "a": "4,800 bps",
+    "b": "2,400 bps",
+    "c": "1,200 bps",
+    "d": "9,600 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 13.5 kbps.",
+    "a": "2.25 kbaud",
+    "b": "4.5 kbaud",
+    "c": "6.75 kbaud",
+    "d": "13.5 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 25 MHz.",
+    "a": "166 Mbps",
+    "b": "83 Mbps",
+    "c": "332 Mbps",
+    "d": "50 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 2400 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "14,400",
+    "b": "2,400",
+    "c": "2,880",
+    "d": "18,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and 1 parity bit.",
+    "a": "70.0%",
+    "b": "77.8%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 48 kbps.",
+    "a": "16 kbaud",
+    "b": "48 kbaud",
+    "c": "24 kbaud",
+    "d": "96 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 20 dB.",
+    "a": "19.9 kbps",
+    "b": "9.9 kbps",
+    "c": "29.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of a 12-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "74.00 dB",
+    "b": "50.00 dB",
+    "c": "71.96 dB",
+    "d": "70.24 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 31 (which is 15 dB) using the Shannon-Hartley theorem.",
+    "a": "10.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 40 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "41.2 kbps",
+    "b": "12.4 kbps",
+    "c": "24.8 kbps",
+    "d": "82.4 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 4800 bps, what is the character transmission rate?",
+    "a": "436.3 characters/sec",
+    "b": "480.0 characters/sec",
+    "c": "600.0 characters/sec",
+    "d": "400.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 40 mV.",
+    "a": "10.24 V",
+    "b": "5.12 V",
+    "c": "2.56 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 1.28 V.",
+    "a": "5 mV",
+    "b": "2.5 mV",
+    "c": "10 mV",
+    "d": "1.25 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 15 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "120 kbps",
+    "b": "60 kbps",
+    "c": "240 kbps",
+    "d": "30 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 1.25 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "5 Gbps",
+    "b": "2.5 Gbps",
+    "c": "1.25 Gbps",
+    "d": "10 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 36 kbps.",
+    "a": "6 kbaud",
+    "b": "12 kbaud",
+    "c": "18 kbaud",
+    "d": "36 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 10 MHz.",
+    "a": "66.5 Mbps",
+    "b": "33.2 Mbps",
+    "c": "133.0 Mbps",
+    "d": "20.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 32-PSK digital transmission system.",
+    "a": "5 bps/Hz",
+    "b": "2.5 bps/Hz",
+    "c": "10 bps/Hz",
+    "d": "20 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and 1 parity bit.",
+    "a": "70.0%",
+    "b": "77.8%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 96 kbps.",
+    "a": "32 kbaud",
+    "b": "96 kbaud",
+    "c": "48 kbaud",
+    "d": "192 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 30 dB.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 30 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "30.9 kbps",
+    "b": "10.3 kbps",
+    "c": "20.6 kbps",
+    "d": "61.8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 24 kbps.",
+    "a": "8 kbaud",
+    "b": "24 kbaud",
+    "c": "12 kbaud",
+    "d": "48 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 10 dB.",
+    "a": "10.3 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 30 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "30.9 kbps",
+    "b": "10.3 kbps",
+    "c": "20.6 kbps",
+    "d": "61.8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 24 kbps.",
+    "a": "8 kbaud",
+    "b": "24 kbaud",
+    "c": "12 kbaud",
+    "d": "48 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 10 dB.",
+    "a": "10.3 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 30 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "30.9 kbps",
+    "b": "10.3 kbps",
+    "c": "20.6 kbps",
+    "d": "61.8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 24 kbps.",
+    "a": "8 kbaud",
+    "b": "24 kbaud",
+    "c": "12 kbaud",
+    "d": "48 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 10 dB.",
+    "a": "10.3 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 30 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "30.9 kbps",
+    "b": "10.3 kbps",
+    "c": "20.6 kbps",
+    "d": "61.8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 40 mV. Calculate the dynamic range in dB.",
+    "a": "48.16 dB",
+    "b": "50.00 dB",
+    "c": "40.00 dB",
+    "d": "52.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A telephone network trunk uses E1 lines. What is the total duration of a single 32-channel time frame?",
+    "a": "125 microseconds",
+    "b": "250 microseconds",
+    "c": "62.5 microseconds",
+    "d": "500 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the duration of a single 8-bit voice channel time slot in a standard European E1 frame.",
+    "a": "3.9 microseconds",
+    "b": "5.2 microseconds",
+    "c": "7.8 microseconds",
+    "d": "1.2 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "An E1 system has 32 channels. If channel 0 is dedicated to framing and channel 16 is dedicated to signaling, what is the bit rate used solely for payload voice traffic?",
+    "a": "1.92 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.544 Mbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bit rate of a single voice channel (DS0) in a standard T1 system if the voice signal is sampled at 8 kHz and coded using 8 bits?",
+    "a": "64 kbps",
+    "b": "56 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An FDM basic Group contains 12 channels. If each channel has a nominal bandwidth of 4 kHz, find the total bandwidth of the Group.",
+    "a": "48 kHz",
+    "b": "24 kHz",
+    "c": "96 kHz",
+    "d": "12 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the baud rate of an 8-PSK system operating at a bit rate of 24 kbps.",
+    "a": "8 kbaud",
+    "b": "24 kbaud",
+    "c": "12 kbaud",
+    "d": "48 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 3 kHz and a Signal-to-Noise Ratio (S/N) of 10 dB.",
+    "a": "10.3 kbps",
+    "b": "4.1 kbps",
+    "c": "8.0 kbps",
+    "d": "13.7 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A T2 digital multiplexer combines 96 channels of 64 kbps. Calculate the payload bit rate of the T2 line, excluding all framing and signaling overhead.",
+    "a": "6.144 Mbps",
+    "b": "6.312 Mbps",
+    "c": "1.544 Mbps",
+    "d": "3.152 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses 64-QAM. If the baud rate is 9600 symbols/sec, calculate the output bit rate in bps.",
+    "a": "57,600 bps",
+    "b": "28,800 bps",
+    "c": "19,200 bps",
+    "d": "115,200 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the time duration of a single bit on a standard E1 digital trunk line operating at 2.048 Mbps.",
+    "a": "0.488 microseconds",
+    "b": "2.048 microseconds",
+    "c": "0.648 microseconds",
+    "d": "1.544 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "A standard CCITT basic FDM Supermastergroup is formed by multiplexing fifteen supergroups. If each basic supergroup occupies a bandwidth of 240 kHz, calculate the total bandwidth of the supermastergroup.",
+    "a": "3600 kHz",
+    "b": "1200 kHz",
+    "c": "240 kHz",
+    "d": "4800 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In an E1 frame, what percentage of the total transmitted data rate is composed of framing and signaling overhead?",
+    "a": "6.25%",
+    "b": "1.25%",
+    "c": "5.18%",
+    "d": "12.50%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum theoretical capacity of a channel with a bandwidth of 2 MHz and a Signal-to-Noise Ratio (S/N) of 15 (which is 12 dB) using the Shannon-Hartley theorem.",
+    "a": "8.00 Mbps",
+    "b": "2.00 Mbps",
+    "c": "14.00 Mbps",
+    "d": "4.00 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An analog telephone line has an average SNR of 30 dB and a bandwidth of 3.1 kHz. Find the Shannon limit for data capacity.",
+    "a": "30.9 kbps",
+    "b": "10.3 kbps",
+    "c": "20.6 kbps",
+    "d": "61.8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "If an E1 multiplexer runs with exactly 32 channels, and each channel is coded with an 8-bit PCM word, find the total number of bits per frame.",
+    "a": "256 bits",
+    "b": "192 bits",
+    "c": "128 bits",
+    "d": "512 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the line speed of an E1 system if 30 of its channels are used for voice, 1 for framing, and 1 for signaling. Each channel carries 8 bits, and the sample rate is 8 kHz.",
+    "a": "2.048 Mbps",
+    "b": "1.920 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.560 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "In an asynchronous serial transmission, a character consists of 8 data bits, 1 parity bit, 1 start bit, and 1 stop bit. If the system transmits at 9600 bps, what is the character transmission rate?",
+    "a": "872.7 characters/sec",
+    "b": "960.0 characters/sec",
+    "c": "1200.0 characters/sec",
+    "d": "800.0 characters/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A computer transmits files over a serial link using ASCII with 1 start bit, 7 data bits, 1 parity bit, and 2 stop bits at a rate of 9600 bps. How many 8-bit text bytes can be sent per second?",
+    "a": "872.7 bytes/sec",
+    "b": "1200.0 bytes/sec",
+    "c": "1066.6 bytes/sec",
+    "d": "800.0 bytes/sec",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the dynamic range of an 8-bit linear PCM system where the smallest step size (resolution) is 20 mV.",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "If the Signal-to-Quantization Noise Ratio (SQR) of a PCM system must be at least 50 dB, what is the minimum number of bits required per sample?",
+    "a": "8 bits",
+    "b": "7 bits",
+    "c": "9 bits",
+    "d": "10 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Find the bandwidth of a basic CCITT FDM Mastergroup that occupies the frequency band from 812 kHz to 2044 kHz.",
+    "a": "1232 kHz",
+    "b": "2044 kHz",
+    "c": "812 kHz",
+    "d": "2856 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A voice band circuit has a signal-to-noise ratio of 30 dB and a bandwidth of 3 kHz. Find the maximum theoretical transmission rate according to the Shannon-Hartley theorem.",
+    "a": "29.9 kbps",
+    "b": "9.9 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the step size of an 8-bit linear DAC if the maximum output range is 10.24 V.",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A T3 carrier system multiplexes 28 T1 lines. Calculate the total payload voice channels (DS0) supported by a single T3 line.",
+    "a": "672",
+    "b": "96",
+    "c": "24",
+    "d": "2016",
+    "ans": "a"
+  },
+  {
+    "q": "A digital transmission system uses a 16-level code over an ideal noiseless channel with a bandwidth of 10 kHz. Calculate the maximum Nyquist bit rate.",
+    "a": "80 kbps",
+    "b": "40 kbps",
+    "c": "160 kbps",
+    "d": "20 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A standard fiber link has a bandwidth of 5 GHz. If a 4-level signaling scheme is used in a noiseless channel, what is the maximum possible data transmission rate?",
+    "a": "20 Gbps",
+    "b": "10 Gbps",
+    "c": "5 Gbps",
+    "d": "40 Gbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-PSK digital modem operates at a baud rate of 4800 symbols per second. What is the line speed in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the symbol rate (baud rate) of a 64-QAM modulator driven by an input binary data stream of 54 kbps.",
+    "a": "9 kbaud",
+    "b": "18 kbaud",
+    "c": "27 kbaud",
+    "d": "54 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum capacity of an optical fiber link that exhibits an SNR of 20 dB over an active bandwidth of 100 MHz.",
+    "a": "665 Mbps",
+    "b": "332 Mbps",
+    "c": "1330 Mbps",
+    "d": "200 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An asynchronous terminal transmits characters at 9600 bps. If each character block consists of 1 start bit, 8 data bits, and 1 stop bit, how many characters are sent per minute?",
+    "a": "57,600",
+    "b": "9,600",
+    "c": "11,520",
+    "d": "72,000",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the bandwidth efficiency of a 16-PSK digital transmission system.",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 system utilizes a framing bit in each of its frames. If the frame rate is 8 kHz, calculate the bandwidth used solely by the framing bits.",
+    "a": "8 kbps",
+    "b": "1.544 Mbps",
+    "c": "64 kbps",
+    "d": "1.536 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the code efficiency of a transmission system that uses ASCII with 7 data bits, 1 start bit, 1 stop bit, and no parity bit.",
+    "a": "77.8%",
+    "b": "70.0%",
+    "c": "87.5%",
+    "d": "90.0%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Nyquist sampling rate for a voice input signal band-limited to 3.4 kHz if a guard band of 1200 Hz is required to prevent foldover distortion?",
+    "a": "8.0 kHz",
+    "b": "6.8 kHz",
+    "c": "4.6 kHz",
+    "d": "9.2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 20 mV. What is the dynamic range of this quantizer?",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a mark frequency of 1200 Hz and a space frequency of 2200 Hz. What is the center (carrier) frequency of this system?",
+    "a": "1700 Hz",
+    "b": "1000 Hz",
+    "c": "1500 Hz",
+    "d": "2000 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the baud rate of an 8-PSK system operating with a binary data transmission rate of 19.2 kbps?",
+    "a": "6.4 kbaud",
+    "b": "9.6 kbaud",
+    "c": "19.2 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 64-QAM digital modulation system?",
+    "a": "6 bps/Hz",
+    "b": "4 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "12 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 3 kHz and a signal-to-noise ratio of 30 dB using the Shannon-Hartley Theorem.",
+    "a": "29.9 kbps",
+    "b": "9.0 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  }
+]

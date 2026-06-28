@@ -1,0 +1,2010 @@
+[
+  {
+    "q": "What historical device, constructed from mirrors and selenium detectors by Alexander Graham Bell, was the first to transmit sound waves over a beam of light?",
+    "a": "photophone",
+    "b": "optophone",
+    "c": "heliograph",
+    "d": "telegraph",
+    "ans": "a"
+  },
+  {
+    "q": "Who coined the term 'fiber optics' in the mid-1950s?",
+    "a": "N. S. Kapany",
+    "b": "Charles Kao",
+    "c": "Robert Maurer",
+    "d": "John Tyndall",
+    "ans": "a"
+  },
+  {
+    "q": "Which range represents the standard wavelengths of visible light?",
+    "a": "400 to 750 nm",
+    "b": "100 to 400 nm",
+    "c": "750 to 1600 nm",
+    "d": "0.1 to 10.0 um",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary physical phenomenon that allows light to be guided down an optical fiber without leaking through the cladding?",
+    "a": "total internal reflection",
+    "b": "diffraction",
+    "c": "constructive interference",
+    "d": "polarization filtering",
+    "ans": "a"
+  },
+  {
+    "q": "For total internal reflection to occur, what must be the relationship between the refractive index of the core (n1) and the cladding (n2)?",
+    "a": "n1 must be greater than n2",
+    "b": "n1 must be less than n2",
+    "c": "n1 must be exactly equal to n2",
+    "d": "n1 must be equal to 1.0",
+    "ans": "a"
+  },
+  {
+    "q": "What type of light ray travels down an optical fiber by continually crossing the fiber's central longitudinal axis?",
+    "a": "skew ray",
+    "b": "meridional ray",
+    "c": "axial ray",
+    "d": "diffracted ray",
+    "ans": "b"
+  },
+  {
+    "q": "What type of light ray propagates through an optical fiber in a helical or spiral path without ever intersecting the central axis?",
+    "a": "meridional ray",
+    "b": "skew ray",
+    "c": "axial ray",
+    "d": "refracted ray",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is a measure of the light-gathering or light-collecting ability of an optical fiber?",
+    "a": "acceptance angle",
+    "b": "numerical aperture",
+    "c": "refractive index",
+    "d": "normalized frequency",
+    "ans": "b"
+  },
+  {
+    "q": "In which type of optical fiber does the refractive index profile change abruptly at the core-cladding boundary?",
+    "a": "single-mode graded-index",
+    "b": "multimode step-index",
+    "c": "multimode graded-index",
+    "d": "coaxial step-index",
+    "ans": "b"
+  },
+  {
+    "q": "In which type of optical fiber does the refractive index of the core decrease continuously as distance increases from the center axis?",
+    "a": "multimode step-index",
+    "b": "multimode graded-index",
+    "c": "single-mode step-index",
+    "d": "coaxial graded-index",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary raw material used to manufacture high-purity glass optical fibers?",
+    "a": "pure copper",
+    "b": "silica glass (silicon dioxide)",
+    "c": "plastic polymer",
+    "d": "gallium arsenide",
+    "ans": "b"
+  },
+  {
+    "q": "What standard cladding diameter is universally utilized for most telecom-grade single-mode and multimode optical fibers?",
+    "a": "50 um",
+    "b": "125 um",
+    "c": "62.5 um",
+    "d": "250 um",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the typical core diameter of a standard single-mode optical fiber?",
+    "a": "50 um",
+    "b": "8 to 10 um",
+    "c": "62.5 um",
+    "d": "125 um",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two standard core diameters for commercial multimode graded-index fibers?",
+    "a": "8 um and 10 um",
+    "b": "50 um and 62.5 um",
+    "c": "125 um and 250 um",
+    "d": "100 um and 200 um",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main advantage of graded-index fiber over step-index multimode fiber?",
+    "a": "lower manufacturing cost",
+    "b": "significantly reduced modal dispersion",
+    "c": "complete elimination of Rayleigh scattering",
+    "d": "higher physical tensile strength",
+    "ans": "b"
+  },
+  {
+    "q": "What is the fundamental limitation on transmission distance in single-mode fiber systems?",
+    "a": "modal dispersion",
+    "b": "attenuation and chromatic dispersion",
+    "c": "crosstalk between modes",
+    "d": "mechanical splice fatigue",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary cause of intermodal (or modal) dispersion in optical fibers?",
+    "a": "different wavelengths of light traveling at different speeds",
+    "b": "different propagation modes traveling different path lengths down the fiber",
+    "c": "refraction at the outer boundary of the cladding",
+    "d": "absorption by metallic impurities in the core",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of dispersion is caused by the variation of the refractive index of the glass material with wavelength?",
+    "a": "modal dispersion",
+    "b": "material dispersion",
+    "c": "waveguide dispersion",
+    "d": "polarization mode dispersion",
+    "ans": "b"
+  },
+  {
+    "q": "What two sub-types of dispersion collectively make up chromatic dispersion in single-mode fibers?",
+    "a": "modal and waveguide dispersion",
+    "b": "material and waveguide dispersion",
+    "c": "material and polarization mode dispersion",
+    "d": "intermodal and intramodal dispersion",
+    "ans": "b"
+  },
+  {
+    "q": "At what approximate wavelength does standard single-mode silica fiber exhibit zero chromatic dispersion?",
+    "a": "850 nm",
+    "b": "1310 nm",
+    "c": "1550 nm",
+    "d": "1625 nm",
+    "ans": "b"
+  },
+  {
+    "q": "At what approximate wavelength does standard single-mode silica fiber exhibit its absolute minimum attenuation?",
+    "a": "850 nm",
+    "b": "1550 nm",
+    "c": "1310 nm",
+    "d": "980 nm",
+    "ans": "b"
+  },
+  {
+    "q": "What non-dispersive wave pulse can propagate through an optical fiber over long distances without changing its shape?",
+    "a": "photon",
+    "b": "soliton",
+    "c": "optimon",
+    "d": "coherent ray",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dominant loss mechanism in high-quality optical fibers at short wavelengths, caused by localized density fluctuations in the glass?",
+    "a": "metallic absorption",
+    "b": "Rayleigh scattering",
+    "c": "microbending",
+    "d": "hydroxyl ion absorption",
+    "ans": "b"
+  },
+  {
+    "q": "Rayleigh scattering loss is inversely proportional to which power of the wavelength?",
+    "a": "first power",
+    "b": "fourth power",
+    "c": "second power",
+    "d": "third power",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical fiber loss is caused by microscopic, high-frequency spatial deviations or bumps along the fiber axis, often introduced during cabling?",
+    "a": "macrobending loss",
+    "b": "microbending loss",
+    "c": "Rayleigh scattering",
+    "d": "intrinsic absorption",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical fiber loss occurs when a fiber cable is physically bent into a curve with a radius of several centimeters?",
+    "a": "microbending loss",
+    "b": "macrobending loss",
+    "c": "extrinsic absorption",
+    "d": "waveguide mismatch",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary cause of the prominent water-peak absorption bands observed in early optical fiber attenuation profiles?",
+    "a": "silica molecular vibration",
+    "b": "hydroxyl (OH-) ion impurities",
+    "c": "iron and transition metal contaminants",
+    "d": "ambient nitrogen gas leakage",
+    "ans": "b"
+  },
+  {
+    "q": "Which optical source operates based on spontaneous emission of light?",
+    "a": "Injection Laser Diode (ILD)",
+    "b": "Light Emitting Diode (LED)",
+    "c": "Helium-Neon laser",
+    "d": "Erbium-Doped Fiber Amplifier",
+    "ans": "b"
+  },
+  {
+    "q": "Which optical source operates based on stimulated emission of light?",
+    "a": "Light Emitting Diode (LED)",
+    "b": "Injection Laser Diode (ILD)",
+    "c": "incandescent lamp",
+    "d": "phototransistor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical spectral width (linewidth) of a standard surface-emitting LED?",
+    "a": "Less than 1 nm",
+    "b": "30 to 50 nm",
+    "c": "2 to 5 nm",
+    "d": "Over 100 nm",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical spectral width of a standard single-frequency Injection Laser Diode?",
+    "a": "30 to 50 nm",
+    "b": "Less than 1 nm",
+    "c": "5 to 10 nm",
+    "d": "15 to 20 nm",
+    "ans": "b"
+  },
+  {
+    "q": "What semiconductor material is widely used to manufacture optical sources and detectors operating in the short-wavelength window (850 nm)?",
+    "a": "Indium Gallium Arsenide Phosphide (InGaAsP)",
+    "b": "Gallium Aluminum Arsenide (AlGaAs) or GaAs",
+    "c": "pure Silicon (Si)",
+    "d": "pure Germanium (Ge)",
+    "ans": "b"
+  },
+  {
+    "q": "What semiconductor compound is standard for high-performance optical sources operating in the 1310 nm and 1550 nm windows?",
+    "a": "Gallium Aluminum Arsenide (AlGaAs)",
+    "b": "Indium Gallium Arsenide Phosphide (InGaAsP)",
+    "c": "Silicon Carbide (SiC)",
+    "d": "Gallium Phosphide (GaP)",
+    "ans": "b"
+  },
+  {
+    "q": "What semiconductor photodetector utilizes an internal avalanche multiplication process to provide high current gain and sensitivity?",
+    "a": "PIN photodiode",
+    "b": "Avalanche Photodiode (APD)",
+    "c": "phototransistor",
+    "d": "Photomultiplier Tube (PMT)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary structural difference between a PIN photodiode and a standard PN junction diode?",
+    "a": "An intrinsic semiconductor layer is sandwiched between the P and N regions",
+    "b": "It contains an extra metal gate electrode",
+    "c": "It has no depletion region under reverse bias",
+    "d": "It is made of amorphous copper-doped glass",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for the small current that flows through a photodetector even when there is no incident light striking the active area?",
+    "a": "leakage current",
+    "b": "dark current",
+    "c": "photocurrent",
+    "d": "recombination current",
+    "ans": "b"
+  },
+  {
+    "q": "Which optical detector generally provides the fastest operating speed and highest bandwidth?",
+    "a": "PIN photodiode",
+    "b": "Avalanche Photodiode (APD)",
+    "c": "phototransistor",
+    "d": "CdS photoconductive cell",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary advantage of a PIN photodiode over an Avalanche Photodiode (APD)?",
+    "a": "Much higher internal multiplication gain",
+    "b": "Lower bias voltage requirement and lower noise",
+    "c": "Greater sensitivity to extremely weak light levels",
+    "d": "Narrower spectral response bandwidth",
+    "ans": "b"
+  },
+  {
+    "q": "What does the term 'responsivity' describe in optical detectors?",
+    "a": "The time required for a detector to respond to a light pulse",
+    "b": "The ratio of output electrical current to input optical power",
+    "c": "The percentage of incident photons that generate electron-hole pairs",
+    "d": "The minimum detectable optical power level",
+    "ans": "b"
+  },
+  {
+    "q": "What optical amplifier technology amplifies optical signals directly in the fiber without converting them back to electrical signals, operating at 1550 nm?",
+    "a": "PIN regenerator",
+    "b": "Erbium-Doped Fiber Amplifier (EDFA)",
+    "c": "GaAs laser amplifier",
+    "d": "Raman converter",
+    "ans": "b"
+  },
+  {
+    "q": "What pump laser wavelength is commonly used to excite erbium ions in an EDFA system?",
+    "a": "850 nm",
+    "b": "980 nm",
+    "c": "1310 nm",
+    "d": "1550 nm",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical fiber splice permanently joins two fibers by melting their ends together using an electric arc?",
+    "a": "mechanical splice",
+    "b": "fusion splice",
+    "c": "adhesive splice",
+    "d": "V-groove connector",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical average insertion loss of a high-quality fusion splice?",
+    "a": "0.5 dB to 1.0 dB",
+    "b": "Less than 0.1 dB (typically 0.01 to 0.05 dB)",
+    "c": "Exactly 1.5 dB",
+    "d": "2.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical average insertion loss of a mechanical splice?",
+    "a": "3.0 dB",
+    "b": "0.1 dB to 0.2 dB",
+    "c": "0.01 dB",
+    "d": "1.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What substance is placed inside a mechanical splice or connector interface to minimize reflection losses by matching the core's refractive index?",
+    "a": "epoxy adhesive",
+    "b": "index-matching gel",
+    "c": "distilled water",
+    "d": "isopropyl alcohol",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical connection loss is caused by the physical gap or axial separation between two fiber cores?",
+    "a": "angular misalignment loss",
+    "b": "lateral displacement loss",
+    "c": "longitudinal separation loss",
+    "d": "reflection loss",
+    "ans": "c"
+  },
+  {
+    "q": "What type of optical connection loss is caused by the physical offset or axis displacement perpendicular to the fiber axis?",
+    "a": "longitudinal separation loss",
+    "b": "lateral misalignment loss",
+    "c": "angular misalignment loss",
+    "d": "Fresnel reflection loss",
+    "ans": "b"
+  },
+  {
+    "q": "What instrument is used to measure overall fiber attenuation, splice losses, and locate physical breaks by analyzing backscattered light?",
+    "a": "Optical Power Meter",
+    "b": "Optical Time Domain Reflectometer (OTDR)",
+    "c": "Optical Spectrum Analyzer",
+    "d": "monochromator",
+    "ans": "b"
+  },
+  {
+    "q": "What technique allows multiple optical channels of different wavelengths to be transmitted simultaneously down a single fiber?",
+    "a": "Time Division Multiplexing (TDM)",
+    "b": "Wavelength Division Multiplexing (WDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Frequency Division Multiplexing (FDM)",
+    "ans": "b"
+  },
+  {
+    "q": "What technology is used to multiplex a vast number of closely spaced wavelengths (typically spaced 0.8 nm or less) over the 1550 nm band?",
+    "a": "Coarse Wavelength Division Multiplexing (CWDM)",
+    "b": "Dense Wavelength Division Multiplexing (DWDM)",
+    "c": "Subcarrier Multiplexing",
+    "d": "Time Domain Multiplexing",
+    "ans": "b"
+  },
+  {
+    "q": "What component is used at the receiver of a WDM system to separate the individual optical wavelengths?",
+    "a": "Optical coupler",
+    "b": "Demultiplexer",
+    "c": "optical isolator",
+    "d": "circulator",
+    "ans": "b"
+  },
+  {
+    "q": "What device allows light to pass in one direction with low loss, but strongly attenuates reflections traveling in the opposite direction?",
+    "a": "optical coupler",
+    "b": "optical isolator",
+    "c": "circulator",
+    "d": "wavelength router",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary protective coating applied directly to the cladding of an optical fiber during the drawing process to prevent moisture and abrasions?",
+    "a": "buffer coating (acrylate polymer)",
+    "b": "Kevlar strength members",
+    "c": "outer PVC jacket",
+    "d": "steel armor",
+    "ans": "a"
+  },
+  {
+    "q": "The core of an optical fiber behaves as what type of physical waveguide?",
+    "a": "metallic waveguide",
+    "b": "dielectric waveguide",
+    "c": "coaxial waveguide",
+    "d": "microstrip waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter describes the maximum angle at which a light ray can enter the core of a fiber and still undergo total internal reflection?",
+    "a": "critical angle",
+    "b": "acceptance angle",
+    "c": "refraction angle",
+    "d": "Brewster angle",
+    "ans": "b"
+  },
+  {
+    "q": "What three-dimensional space extending from the fiber's core face represents all possible launch angles for guided rays?",
+    "a": "acceptance cone",
+    "b": "Fresnel ellipsoid",
+    "c": "Fraunhofer sector",
+    "d": "aperture circle",
+    "ans": "a"
+  },
+  {
+    "q": "What occurs when the angle of incidence at the core-cladding boundary is less than the critical angle?",
+    "a": "The ray is completely reflected back into the core",
+    "b": "The ray refracts into the cladding and is lost as a radiating wave",
+    "c": "The ray's velocity increases above the speed of light",
+    "d": "The ray's wavelength shifts to a higher value",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of optical fiber has the highest launch power capability and is typically used for short-distance power delivery?",
+    "a": "Single-mode step-index fiber",
+    "b": "Large-core multimode step-index fiber",
+    "c": "Multimode graded-index fiber",
+    "d": "dispersion-shifted fiber",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main advantage of plastic optical fiber (POF) over glass optical fiber?",
+    "a": "Much lower attenuation losses",
+    "b": "High flexibility, ease of installation, and low cost",
+    "c": "Complete absence of material dispersion",
+    "d": "Ability to operate at 1550 nm",
+    "ans": "b"
+  },
+  {
+    "q": "In what wavelength region do standard plastic optical fibers typically operate?",
+    "a": "1310 nm to 1550 nm",
+    "b": "Visible green/red region (typically 650 nm)",
+    "c": "Far-infrared region",
+    "d": "Ultraviolet region",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the velocity of light as it transitions from a less dense medium (like air) into a denser medium (like glass)?",
+    "a": "The velocity increases",
+    "b": "The velocity decreases",
+    "c": "The velocity remains constant",
+    "d": "The velocity drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes the ratio of the speed of light in a vacuum to the speed of light in a given material?",
+    "a": "dielectric constant",
+    "b": "refractive index (index of refraction)",
+    "c": "velocity factor",
+    "d": "absorption coefficient",
+    "ans": "b"
+  },
+  {
+    "q": "The refractive index of any optical material is always _____.",
+    "a": "Less than 1.0",
+    "b": "Greater than or equal to 1.0",
+    "c": "Exactly equal to 0.0",
+    "d": "A complex imaginary number",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical fiber is specifically designed to shift the zero-dispersion wavelength from 1310 nm to the minimum attenuation window of 1550 nm?",
+    "a": "multimode step-index fiber",
+    "b": "dispersion-shifted fiber (DSF)",
+    "c": "graded-index fiber",
+    "d": "non-zero dispersion-shifted fiber",
+    "ans": "b"
+  },
+  {
+    "q": "What type of single-mode fiber is optimized to have a small, flat chromatic dispersion across the entire C-band (1530 to 1565 nm) to prevent non-linear effects in DWDM networks?",
+    "a": "dispersion-shifted fiber",
+    "b": "non-zero dispersion-shifted fiber (NZDSF)",
+    "c": "standard step-index fiber",
+    "d": "multimode graded-index fiber",
+    "ans": "b"
+  },
+  {
+    "q": "What physical phenomenon describes the generation of new optical frequencies when high-power channels interact in a DWDM fiber, resembling intermodulation?",
+    "a": "Rayleigh scattering",
+    "b": "Four-Wave Mixing (FWM)",
+    "c": "chromatic dispersion",
+    "d": "modal noise",
+    "ans": "b"
+  },
+  {
+    "q": "What non-linear optical effect involves the scattering of light by acoustic phonons, causing a frequency shift and backward-traveling power?",
+    "a": "Stimulated Raman Scattering (SRS)",
+    "b": "Stimulated Brillouin Scattering (SBS)",
+    "c": "Four-Wave Mixing (FWM)",
+    "d": "Self-Phase Modulation (SPM)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of an optical circulator?",
+    "a": "To amplify weak signals at 1550 nm",
+    "b": "To route optical signals from port to port in a sequential, unidirectional path",
+    "c": "To filter out unwanted noise wavelengths",
+    "d": "To splice two single-mode fibers",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the V-number of an optical fiber if the operating wavelength of the light source is decreased?",
+    "a": "The V-number decreases",
+    "b": "The V-number increases",
+    "c": "The V-number remains constant",
+    "d": "The V-number drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the theoretical limit of single-mode propagation in a step-index fiber in terms of the V-number?",
+    "a": "V must be greater than 3.14",
+    "b": "V must be less than 2.405",
+    "c": "V must be equal to 0.0",
+    "d": "V must be greater than 10.0",
+    "ans": "b"
+  },
+  {
+    "q": "Which optical detector operates based on the generation of electron-hole pairs inside a reverse-biased PN junction?",
+    "a": "Light Emitting Diode",
+    "b": "PIN photodiode",
+    "c": "laser diode",
+    "d": "Erbium-doped amplifier",
+    "ans": "b"
+  },
+  {
+    "q": "What is a major advantage of the optical receiver preamplifier known as a transimpedance amplifier (TIA)?",
+    "a": "Extremely high optical input power handling",
+    "b": "Excellent balance between low noise, wide dynamic range, and high bandwidth",
+    "c": "Ability to regenerate optical signals without photodiodes",
+    "d": "Complete immunity to thermal noise",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the degradation of optical glass caused by moisture and humidity acting on micro-cracks under stress?",
+    "a": "Rayleigh decay",
+    "b": "static fatigue",
+    "c": "absorption aging",
+    "d": "dark current drift",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the standard diameter of the protective buffer jacket typically applied over the cladding of a tight-buffered fiber cable?",
+    "a": "125 um",
+    "b": "900 um",
+    "c": "3.0 mm",
+    "d": "10.0 mm",
+    "ans": "b"
+  },
+  {
+    "q": "Which fiber-optic component is used to distribute optical power from a single input fiber to multiple output fibers?",
+    "a": "optical isolator",
+    "b": "optical splitter or coupler",
+    "c": "optical circulator",
+    "d": "fusion splicer",
+    "ans": "b"
+  },
+  {
+    "q": "What type of optical fiber coupler is manufactured by placing two parallel fibers in contact and heating them until they fuse together?",
+    "a": "dielectric thin-film coupler",
+    "b": "Fused Biconical Taper (FBT) coupler",
+    "c": "planar waveguide coupler",
+    "d": "Cassegrain coupler",
+    "ans": "b"
+  },
+  {
+    "q": "What index of refraction represents a typical glass core used in telecom fibers?",
+    "a": "1.00",
+    "b": "1.46",
+    "c": "2.42",
+    "d": "3.60",
+    "ans": "b"
+  },
+  {
+    "q": "What index of refraction represents a typical air medium?",
+    "a": "1.50",
+    "b": "1.00 (approximately 1.0003)",
+    "c": "1.33",
+    "d": "0.00",
+    "ans": "b"
+  },
+  {
+    "q": "What index of refraction represents water?",
+    "a": "1.00",
+    "b": "1.33",
+    "c": "1.50",
+    "d": "2.00",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical meaning of a monochromatic light wave?",
+    "a": "Light that contains all visible colors",
+    "b": "Light consisting of a single, narrow frequency/wavelength",
+    "c": "Light that propagates in multiple spatial modes",
+    "d": "Light emitted by a spontaneous thermal source",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.48 and a cladding refractive index n2 = 1.46. Calculate the critical angle (theta_c) at the core-cladding interface.",
+    "a": "73.24°",
+    "b": "80.57°",
+    "c": "75.16°",
+    "d": "85.12°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.50 and a cladding refractive index n2 = 1.45. Calculate the critical angle (theta_c) at the boundary.",
+    "a": "80.57°",
+    "b": "75.16°",
+    "c": "73.24°",
+    "d": "85.12°",
+    "ans": "b"
+  },
+  {
+    "q": "A glass rod with a refractive index of n1 = 1.46 is surrounded by air (n2 = 1.00). Calculate the critical angle.",
+    "a": "38.54°",
+    "b": "43.23°",
+    "c": "48.15°",
+    "d": "53.24°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core index of n1 = 1.55 and a cladding index of n2 = 1.52. Calculate the critical angle.",
+    "a": "75.16°",
+    "b": "78.69°",
+    "c": "80.57°",
+    "d": "85.12°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.50 and a cladding refractive index n2 = 1.45. Calculate the Numerical Aperture (NA) of the fiber.",
+    "a": "0.224",
+    "b": "0.384",
+    "c": "0.296",
+    "d": "0.500",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.46 and a cladding refractive index n2 = 1.44. Calculate the Numerical Aperture (NA).",
+    "a": "0.141",
+    "b": "0.241",
+    "c": "0.296",
+    "d": "0.384",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core index n1 = 1.48 and a cladding index n2 = 1.45. Calculate the Numerical Aperture.",
+    "a": "0.241",
+    "b": "0.296",
+    "c": "0.384",
+    "d": "0.224",
+    "ans": "b"
+  },
+  {
+    "q": "A highly doped glass fiber has a core index n1 = 1.60 and a cladding index n2 = 1.40. Calculate the Numerical Aperture.",
+    "a": "0.550",
+    "b": "0.775",
+    "c": "0.600",
+    "d": "0.384",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.50 and a cladding refractive index n2 = 1.46. Calculate the fractional refractive index change (Delta).",
+    "a": "0.0133",
+    "b": "0.0267",
+    "c": "0.0135",
+    "d": "0.0323",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.45 and n2 = 1.43. Calculate the fractional refractive index change (Delta).",
+    "a": "0.0267",
+    "b": "0.0138",
+    "c": "0.0135",
+    "d": "0.0323",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.48 and n2 = 1.46. Calculate the fractional refractive index change (Delta).",
+    "a": "0.0267",
+    "b": "0.0135",
+    "c": "0.0138",
+    "d": "0.0323",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.55 and n2 = 1.50. Calculate the fractional refractive index change (Delta).",
+    "a": "0.0135",
+    "b": "0.0323",
+    "c": "0.0267",
+    "d": "0.0138",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index of 1.50 and a fractional refractive index change of Delta = 0.01. Calculate the Numerical Aperture (NA) using the approximation NA = n1 * sqrt(2 * Delta).",
+    "a": "0.150",
+    "b": "0.212",
+    "c": "0.250",
+    "d": "0.300",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index of 1.46 and a fractional refractive index change of Delta = 0.015. Calculate the Numerical Aperture.",
+    "a": "0.212",
+    "b": "0.253",
+    "c": "0.296",
+    "d": "0.192",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index of 1.48 and a fractional refractive index change of Delta = 0.02. Calculate the Numerical Aperture.",
+    "a": "0.253",
+    "b": "0.296",
+    "c": "0.384",
+    "d": "0.212",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index of 1.52 and a fractional refractive index change of Delta = 0.008. Calculate the Numerical Aperture.",
+    "a": "0.212",
+    "b": "0.192",
+    "c": "0.253",
+    "d": "0.296",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.50 and a cladding refractive index n2 = 1.45. Calculate the acceptance angle in air (n0 = 1.0) for this fiber.",
+    "a": "13.94°",
+    "b": "22.58°",
+    "c": "17.22°",
+    "d": "30.00°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.46 and a cladding refractive index n2 = 1.44. Calculate the acceptance angle in air.",
+    "a": "22.58°",
+    "b": "13.94°",
+    "c": "17.22°",
+    "d": "30.00°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.48 and n2 = 1.45. Calculate the acceptance angle in air.",
+    "a": "13.94°",
+    "b": "17.22°",
+    "c": "22.58°",
+    "d": "30.00°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.60 and n2 = 1.40. Calculate the acceptance angle in air.",
+    "a": "22.58°",
+    "b": "50.81°",
+    "c": "17.22°",
+    "d": "30.00°",
+    "ans": "b"
+  },
+  {
+    "q": "The core refractive index of an optical fiber is n1 = 1.50. Calculate the velocity of propagation of a light signal inside this core.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "The core refractive index of a standard silica fiber is n1 = 1.46. Calculate the velocity of propagation of light inside this core.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.05 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "The core refractive index of a fiber is n1 = 1.48. Calculate the velocity of propagation of light inside this core.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.03 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.55. Calculate the velocity of propagation of light inside this core.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.94 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number (normalized frequency) of a multimode fiber with a core radius a = 25 um, a Numerical Aperture NA = 0.20, operating at a wavelength lambda = 1.0 um.",
+    "a": "15.71",
+    "b": "31.42",
+    "c": "25.00",
+    "d": "50.00",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of a single-mode fiber with a core radius a = 4.0 um, a Numerical Aperture NA = 0.11, operating at a wavelength lambda = 1.31 um.",
+    "a": "1.05",
+    "b": "2.11",
+    "c": "4.22",
+    "d": "3.14",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of a fiber with a core radius a = 4.5 um, a Numerical Aperture NA = 0.12, operating at a wavelength lambda = 1.55 um.",
+    "a": "1.10",
+    "b": "2.19",
+    "c": "4.38",
+    "d": "3.50",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of a fiber with a core diameter D = 50 um, a Numerical Aperture NA = 0.22, operating at a wavelength lambda = 0.85 um.",
+    "a": "20.33",
+    "b": "40.66",
+    "c": "81.32",
+    "d": "50.00",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core diameter of 8.0 um and a Numerical Aperture NA = 0.12. Calculate the cutoff wavelength (lambda_c) below which the fiber ceases to be single-mode. Use the formula lambda_c = (pi * d * NA) / 2.405.",
+    "a": "0.62 um",
+    "b": "1.25 um",
+    "c": "2.50 um",
+    "d": "1.55 um",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core diameter of 9.0 um and a Numerical Aperture NA = 0.11. Calculate the cutoff wavelength (lambda_c) for single-mode operation.",
+    "a": "0.65 um",
+    "b": "1.29 um",
+    "c": "2.58 um",
+    "d": "1.31 um",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core diameter of 8.5 um and a Numerical Aperture NA = 0.13. Calculate the cutoff wavelength (lambda_c) for single-mode operation.",
+    "a": "0.72 um",
+    "b": "1.44 um",
+    "c": "2.88 um",
+    "d": "1.55 um",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core diameter of 10.0 um and a Numerical Aperture NA = 0.10. Calculate the cutoff wavelength (lambda_c) for single-mode operation.",
+    "a": "0.65 um",
+    "b": "1.31 um",
+    "c": "2.62 um",
+    "d": "1.55 um",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of exactly 10. Use the approximation M = V^2 / 2.",
+    "a": "25",
+    "b": "50",
+    "c": "100",
+    "d": "10",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of exactly 20.",
+    "a": "100",
+    "b": "200",
+    "c": "400",
+    "d": "50",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 31.42.",
+    "a": "247",
+    "b": "494",
+    "c": "987",
+    "d": "125",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 40.66.",
+    "a": "413",
+    "b": "827",
+    "c": "1653",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of exactly 10. Use the approximation M = V^2 / 4.",
+    "a": "50",
+    "b": "25",
+    "c": "12",
+    "d": "100",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of exactly 20.",
+    "a": "200",
+    "b": "100",
+    "c": "50",
+    "d": "400",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 31.42.",
+    "a": "494",
+    "b": "247",
+    "c": "123",
+    "d": "987",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 40.66.",
+    "a": "827",
+    "b": "413",
+    "c": "206",
+    "d": "1653",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the energy in Joules contained in a single photon of light with a wavelength lambda = 1.55 um. Use Planck's constant h = 6.63 x 10^-34 J-s and velocity of light c = 3.00 x 10^8 m/s.",
+    "a": "2.56 x 10^-19 J",
+    "b": "1.28 x 10^-19 J",
+    "c": "1.52 x 10^-19 J",
+    "d": "2.34 x 10^-19 J",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the energy in Joules contained in a single photon of light with a wavelength lambda = 1.31 um.",
+    "a": "2.56 x 10^-19 J",
+    "b": "1.52 x 10^-19 J",
+    "c": "1.28 x 10^-19 J",
+    "d": "2.34 x 10^-19 J",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the energy in Joules contained in a single photon of light with a wavelength lambda = 0.85 um.",
+    "a": "1.28 x 10^-19 J",
+    "b": "2.34 x 10^-19 J",
+    "c": "1.52 x 10^-19 J",
+    "d": "3.14 x 10^-19 J",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the energy in Joules contained in a single photon of light with a wavelength lambda = 0.633 um.",
+    "a": "1.28 x 10^-19 J",
+    "b": "3.14 x 10^-19 J",
+    "c": "2.34 x 10^-19 J",
+    "d": "1.52 x 10^-19 J",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy in electronvolts (eV) contained in a single photon of light with a wavelength lambda = 1.0 um. Use the simplified relationship E_eV = 1.24 / lambda_um.",
+    "a": "0.62 eV",
+    "b": "1.24 eV",
+    "c": "0.80 eV",
+    "d": "0.95 eV",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy in electronvolts (eV) contained in a single photon of light with a wavelength lambda = 1.55 um.",
+    "a": "1.24 eV",
+    "b": "0.80 eV",
+    "c": "0.95 eV",
+    "d": "1.46 eV",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy in electronvolts (eV) contained in a single photon of light with a wavelength lambda = 1.31 um.",
+    "a": "1.24 eV",
+    "b": "0.95 eV",
+    "c": "0.80 eV",
+    "d": "1.10 eV",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy in electronvolts (eV) in one photon at a wavelength of 0.85 um.",
+    "a": "0.80 eV",
+    "b": "1.46 eV",
+    "c": "1.24 eV",
+    "d": "0.95 eV",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.55 um with a quantum efficiency eta = 0.60. Calculate its responsivity (R) in Amperes per Watt (A/W) using R = (eta * lambda_um) / 1.24.",
+    "a": "0.37 A/W",
+    "b": "0.75 A/W",
+    "c": "0.60 A/W",
+    "d": "0.85 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.31 um with a quantum efficiency eta = 0.70. Calculate its responsivity (R) in A/W.",
+    "a": "0.37 A/W",
+    "b": "0.74 A/W",
+    "c": "0.60 A/W",
+    "d": "0.85 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 0.85 um with a quantum efficiency eta = 0.50. Calculate its responsivity (R) in A/W.",
+    "a": "0.74 A/W",
+    "b": "0.34 A/W",
+    "c": "0.50 A/W",
+    "d": "0.60 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.0 um with a quantum efficiency eta = 0.80. Calculate its responsivity (R) in A/W.",
+    "a": "0.34 A/W",
+    "b": "0.65 A/W",
+    "c": "0.80 A/W",
+    "d": "0.50 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodetector operating at a wavelength lambda = 1.30 um exhibits a responsivity of 0.60 A/W. Calculate the quantum efficiency (eta) of the detector.",
+    "a": "37.5%",
+    "b": "57.2%",
+    "c": "64.0%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A photodetector operating at a wavelength lambda = 1.55 um exhibits a responsivity of 0.80 A/W. Calculate the quantum efficiency (eta).",
+    "a": "57.2%",
+    "b": "64.0%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A photodetector operating at a wavelength lambda = 0.85 um exhibits a responsivity of 0.40 A/W. Calculate the quantum efficiency (eta).",
+    "a": "45.0%",
+    "b": "58.4%",
+    "c": "64.0%",
+    "d": "37.5%",
+    "ans": "b"
+  },
+  {
+    "q": "A photodetector operating at a wavelength lambda = 1.00 um exhibits a responsivity of 0.50 A/W. Calculate the quantum efficiency (eta).",
+    "a": "50.0%",
+    "b": "62.0%",
+    "c": "75.0%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode with a responsivity of R = 0.80 A/W is illuminated by an incident optical power Pin = 5.0 uW. Calculate the output photocurrent (Ip).",
+    "a": "2.0 uA",
+    "b": "4.0 uA",
+    "c": "6.0 uA",
+    "d": "8.0 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode with a responsivity of R = 0.70 A/W is illuminated by an incident optical power Pin = 1.0 uW. Calculate the output photocurrent (Ip) in nanoamperes.",
+    "a": "350 nA",
+    "b": "700 nA",
+    "c": "500 nA",
+    "d": "1000 nA",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode with a responsivity of R = 0.50 A/W is illuminated by an incident optical power Pin = 500 nW. Calculate the output photocurrent (Ip) in nanoamperes.",
+    "a": "125 nA",
+    "b": "250 nA",
+    "c": "500 nA",
+    "d": "350 nA",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode with a responsivity of R = 0.60 A/W is illuminated by an incident optical power Pin = 10.0 uW. Calculate the output photocurrent (Ip).",
+    "a": "3.0 uA",
+    "b": "6.0 uA",
+    "c": "8.0 uA",
+    "d": "10.0 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A 10-kilometer optical fiber link has an input power Pin = 1.0 mW and an output power Pout = 0.1 mW. Calculate the attenuation loss of the fiber in dB per kilometer (dB/km).",
+    "a": "0.5 dB/km",
+    "b": "1.0 dB/km",
+    "c": "2.0 dB/km",
+    "d": "1.5 dB/km",
+    "ans": "b"
+  },
+  {
+    "q": "A 5-kilometer optical fiber link has an input power Pin = 500 uW and an output power Pout = 250 uW. Calculate the attenuation loss of the fiber in dB/km.",
+    "a": "0.30 dB/km",
+    "b": "0.60 dB/km",
+    "c": "1.20 dB/km",
+    "d": "0.90 dB/km",
+    "ans": "b"
+  },
+  {
+    "q": "A 20-kilometer optical fiber link has an input power Pin = 2.0 mW and an output power Pout = 0.02 mW. Calculate the attenuation loss of the fiber in dB/km.",
+    "a": "0.50 dB/km",
+    "b": "1.00 dB/km",
+    "c": "2.00 dB/km",
+    "d": "1.50 dB/km",
+    "ans": "b"
+  },
+  {
+    "q": "A 15-kilometer optical fiber link has an input power Pin = 1.0 mW and an output power Pout = 0.10 mW. Calculate the attenuation loss of the fiber in dB/km.",
+    "a": "0.33 dB/km",
+    "b": "0.67 dB/km",
+    "c": "1.00 dB/km",
+    "d": "0.50 dB/km",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver has a photodiode operating at 1.30 um with a responsivity R = 0.65 A/W. If the input optical power is 500 nW, calculate the diode current in nanoamperes.",
+    "a": "150 nA",
+    "b": "325 nA",
+    "c": "500 nA",
+    "d": "250 nA",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver has a photodiode operating at 1.55 um with a responsivity R = 0.80 A/W. If the input optical power is 400 nW, calculate the diode current in nanoamperes.",
+    "a": "160 nA",
+    "b": "320 nA",
+    "c": "400 nA",
+    "d": "240 nA",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver has a photodiode operating at 0.85 um with a responsivity R = 0.40 A/W. If the input optical power is 2.0 uW, calculate the diode current.",
+    "a": "0.40 uA",
+    "b": "0.80 uA",
+    "c": "1.20 uA",
+    "d": "1.60 uA",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver has a photodiode operating at 1.00 um with a responsivity R = 0.50 A/W. If the input optical power is 10.0 uW, calculate the diode current.",
+    "a": "2.50 uA",
+    "b": "5.00 uA",
+    "c": "7.50 uA",
+    "d": "10.00 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode step-index fiber has a core index n1 = 1.46 and a fractional refractive index change Delta = 0.01. Calculate the intermodal dispersion pulse spreading (Delta_t) per kilometer of fiber.",
+    "a": "24.3 ns/km",
+    "b": "48.7 ns/km",
+    "c": "97.4 ns/km",
+    "d": "32.5 ns/km",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode step-index fiber has n1 = 1.50 and Delta = 0.005. Calculate the intermodal dispersion pulse spreading per kilometer of fiber.",
+    "a": "12.5 ns/km",
+    "b": "25.0 ns/km",
+    "c": "50.0 ns/km",
+    "d": "37.5 ns/km",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode step-index fiber has n1 = 1.48 and Delta = 0.015. Calculate the intermodal dispersion pulse spreading per kilometer of fiber.",
+    "a": "37.0 ns/km",
+    "b": "74.0 ns/km",
+    "c": "148.0 ns/km",
+    "d": "98.7 ns/km",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode step-index fiber has n1 = 1.45 and Delta = 0.02. Calculate the intermodal dispersion pulse spreading per kilometer of fiber.",
+    "a": "48.3 ns/km",
+    "b": "96.7 ns/km",
+    "c": "193.3 ns/km",
+    "d": "125.0 ns/km",
+    "ans": "b"
+  },
+  {
+    "q": "A standard single-mode fiber has a chromatic dispersion coefficient of 17 ps/(nm-km) at 1550 nm. If the fiber length is 50 km and the transmitter light source has a spectral linewidth of 2.0 nm, calculate the total chromatic dispersion pulse spreading.",
+    "a": "850 ps",
+    "b": "1700 ps",
+    "c": "3400 ps",
+    "d": "1250 ps",
+    "ans": "b"
+  },
+  {
+    "q": "A single-mode fiber has a dispersion coefficient of 15 ps/(nm-km) at 1550 nm. If the fiber length is 20 km and the light source spectral linewidth is 4.0 nm, calculate the total chromatic dispersion pulse spreading.",
+    "a": "600 ps",
+    "b": "1200 ps",
+    "c": "2400 ps",
+    "d": "1500 ps",
+    "ans": "b"
+  },
+  {
+    "q": "A single-mode fiber has a dispersion coefficient of 18 ps/(nm-km) at 1550 nm. If the fiber length is 100 km and the light source spectral linewidth is 1.5 nm, calculate the total chromatic dispersion pulse spreading.",
+    "a": "1350 ps",
+    "b": "2700 ps",
+    "c": "5400 ps",
+    "d": "2000 ps",
+    "ans": "b"
+  },
+  {
+    "q": "A single-mode fiber has a dispersion coefficient of 20 ps/(nm-km) at 1550 nm. If the fiber length is 10 km and the light source spectral linewidth is 3.0 nm, calculate the total chromatic dispersion pulse spreading.",
+    "a": "300 ps",
+    "b": "600 ps",
+    "c": "1200 ps",
+    "d": "900 ps",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode fiber has a bandwidth-distance product of 500 MHz-km. If a transmission link requires an operating bandwidth of 50 MHz, calculate the maximum allowable distance between repeaters.",
+    "a": "5.0 km",
+    "b": "10.0 km",
+    "c": "20.0 km",
+    "d": "15.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode fiber has a bandwidth-distance product of 800 MHz-km. If a link requires a bandwidth of 50 MHz, calculate the maximum allowable distance between repeaters.",
+    "a": "8.0 km",
+    "b": "16.0 km",
+    "c": "32.0 km",
+    "d": "20.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode fiber has a bandwidth-distance product of 1.2 GHz-km. If a link is designed with a repeater distance of 4.0 km, calculate the maximum operating bandwidth.",
+    "a": "150 MHz",
+    "b": "300 MHz",
+    "c": "600 MHz",
+    "d": "450 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A multimode fiber has a bandwidth-distance product of 2.0 GHz-km. If a link is designed with a repeater distance of 5.0 km, calculate the maximum operating bandwidth.",
+    "a": "200 MHz",
+    "b": "400 MHz",
+    "c": "800 MHz",
+    "d": "500 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 10.0 ns. Calculate the maximum digital transmission rate (Fb) for return-to-zero (RZ) data. Use the approximation Fb = 1 / (2 * Delta_t).",
+    "a": "25 Mbps",
+    "b": "50 Mbps",
+    "c": "100 Mbps",
+    "d": "75 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 25.0 ns. Calculate the maximum digital transmission rate (Fb) for RZ data.",
+    "a": "10 Mbps",
+    "b": "20 Mbps",
+    "c": "40 Mbps",
+    "d": "30 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 5.0 ns. Calculate the maximum digital transmission rate (Fb) for RZ data.",
+    "a": "50 Mbps",
+    "b": "100 Mbps",
+    "c": "200 Mbps",
+    "d": "150 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 100.0 ns. Calculate the maximum digital transmission rate (Fb) for RZ data.",
+    "a": "2.5 Mbps",
+    "b": "5.0 Mbps",
+    "c": "10.0 Mbps",
+    "d": "7.5 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 10.0 ns. Calculate the maximum digital transmission rate (Fb) for non-return-to-zero (NRZ) data. Use the approximation Fb = 1 / Delta_t.",
+    "a": "50 Mbps",
+    "b": "100 Mbps",
+    "c": "200 Mbps",
+    "d": "150 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 20.0 ns. Calculate the maximum digital transmission rate (Fb) for NRZ data.",
+    "a": "25 Mbps",
+    "b": "50 Mbps",
+    "c": "100 Mbps",
+    "d": "75 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 5.0 ns. Calculate the maximum digital transmission rate (Fb) for NRZ data.",
+    "a": "100 Mbps",
+    "b": "200 Mbps",
+    "c": "400 Mbps",
+    "d": "300 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber link experiences a total pulse spreading of 50.0 ns. Calculate the maximum digital transmission rate (Fb) for NRZ data.",
+    "a": "10 Mbps",
+    "b": "20 Mbps",
+    "c": "40 Mbps",
+    "d": "30 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber optic link uses a transmitter with an output power of -10 dBm and a receiver with a sensitivity of -35 dBm. If the link contains 5 connectors with a loss of 0.5 dB each, and 10 splices with a loss of 0.15 dB each, calculate the remaining allowable fiber loss.",
+    "a": "17.0 dB",
+    "b": "21.0 dB",
+    "c": "25.0 dB",
+    "d": "23.5 dB",
+    "ans": "b"
+  },
+  {
+    "q": "For the fiber optic link described in the previous question (remaining allowable fiber loss = 21.0 dB), if the fiber cable has an attenuation of 0.35 dB/km, calculate the maximum transmission distance.",
+    "a": "45.0 km",
+    "b": "60.0 km",
+    "c": "80.0 km",
+    "d": "70.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber optic link uses a transmitter with an output power of 3.0 dBm and a receiver with a sensitivity of -30.0 dBm. If the connector losses total 2.0 dB, splice losses total 1.0 dB, and a safety margin of 3.0 dB is required, calculate the total allowable fiber loss.",
+    "a": "21.0 dB",
+    "b": "27.0 dB",
+    "c": "33.0 dB",
+    "d": "30.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "For the link in the previous question (allowable fiber loss = 27.0 dB), the fiber has an attenuation of 0.3 dB/km. Calculate the maximum possible link distance.",
+    "a": "60.0 km",
+    "b": "90.0 km",
+    "c": "110.0 km",
+    "d": "100.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A light ray travels from a fiber core with index n1 = 1.50 into a cladding with index n2 = 1.40. If the angle of incidence relative to the normal is 30.0°, calculate the angle of refraction in the cladding using Snell's Law.",
+    "a": "24.5°",
+    "b": "32.4°",
+    "c": "41.8°",
+    "d": "45.0°",
+    "ans": "b"
+  },
+  {
+    "q": "A light ray travels from air (n1 = 1.00) into a glass slide with index n2 = 1.50. If the angle of incidence relative to the normal is 30.0°, calculate the angle of refraction inside the glass.",
+    "a": "13.9°",
+    "b": "19.5°",
+    "c": "22.6°",
+    "d": "25.0°",
+    "ans": "b"
+  },
+  {
+    "q": "A light ray travels from air (n1 = 1.00) into water (n2 = 1.33). If the angle of incidence is 45.0°, calculate the angle of refraction inside the water.",
+    "a": "22.5°",
+    "b": "32.1°",
+    "c": "35.0°",
+    "d": "41.2°",
+    "ans": "b"
+  },
+  {
+    "q": "A light ray inside glass (n1 = 1.50) hits an air boundary (n2 = 1.00) at an angle of incidence of 20.0°. Calculate the angle of refraction in air.",
+    "a": "15.0°",
+    "b": "30.9°",
+    "c": "22.5°",
+    "d": "45.0°",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number (normalized frequency) of an optical fiber with a core radius a = 4.5 um, a Numerical Aperture NA = 0.11, operating at a wavelength lambda = 1.30 um.",
+    "a": "1.10",
+    "b": "2.39",
+    "c": "4.78",
+    "d": "3.50",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of an optical fiber with a core radius a = 4.0 um, a Numerical Aperture NA = 0.12, operating at a wavelength lambda = 1.55 um.",
+    "a": "1.05",
+    "b": "1.95",
+    "c": "3.90",
+    "d": "2.50",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of an optical fiber with a core diameter D = 62.5 um, a Numerical Aperture NA = 0.275, operating at a wavelength lambda = 0.85 um.",
+    "a": "31.42",
+    "b": "63.49",
+    "c": "126.98",
+    "d": "81.32",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the V-number of an optical fiber with a core diameter D = 100.0 um, a Numerical Aperture NA = 0.30, operating at a wavelength lambda = 1.00 um.",
+    "a": "47.12",
+    "b": "94.25",
+    "c": "188.50",
+    "d": "125.00",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 15.0.",
+    "a": "56",
+    "b": "112",
+    "c": "225",
+    "d": "75",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 30.0.",
+    "a": "225",
+    "b": "450",
+    "c": "900",
+    "d": "300",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 63.49.",
+    "a": "1008",
+    "b": "2015",
+    "c": "4030",
+    "d": "1500",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a step-index fiber having a V-number of 94.25.",
+    "a": "2220",
+    "b": "4441",
+    "c": "8882",
+    "d": "3000",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 15.0.",
+    "a": "112",
+    "b": "56",
+    "c": "28",
+    "d": "225",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 30.0.",
+    "a": "450",
+    "b": "225",
+    "c": "112",
+    "d": "900",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 63.49.",
+    "a": "2015",
+    "b": "1008",
+    "c": "504",
+    "d": "4030",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the approximate number of guided modes that can propagate in a graded-index fiber having a V-number of 94.25.",
+    "a": "4441",
+    "b": "2221",
+    "c": "1110",
+    "d": "8882",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link uses optical frequencies at 193.1 THz (lambda = 1.55 um). Calculate the energy in eV of a single photon at this frequency.",
+    "a": "0.40 eV",
+    "b": "0.80 eV",
+    "c": "1.20 eV",
+    "d": "1.60 eV",
+    "ans": "b"
+  },
+  {
+    "q": "An optical link operates with a laser wavelength of 1240 nm. Find the energy in eV of a single photon at this wavelength.",
+    "a": "0.50 eV",
+    "b": "1.00 eV",
+    "c": "2.00 eV",
+    "d": "1.50 eV",
+    "ans": "b"
+  },
+  {
+    "q": "A laser diode emits light at a wavelength lambda = 980 nm. Find the energy in eV of a single photon at this wavelength.",
+    "a": "0.63 eV",
+    "b": "1.26 eV",
+    "c": "2.53 eV",
+    "d": "1.89 eV",
+    "ans": "b"
+  },
+  {
+    "q": "A light source operates at a wavelength lambda = 1480 nm. Find the energy in eV of a single photon at this wavelength.",
+    "a": "0.42 eV",
+    "b": "0.84 eV",
+    "c": "1.68 eV",
+    "d": "1.26 eV",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.30 um with a quantum efficiency eta = 0.60. Calculate its responsivity (R) in A/W.",
+    "a": "0.31 A/W",
+    "b": "0.63 A/W",
+    "c": "0.80 A/W",
+    "d": "0.50 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.55 um with a quantum efficiency eta = 0.50. Calculate its responsivity (R) in A/W.",
+    "a": "0.31 A/W",
+    "b": "0.625 A/W",
+    "c": "0.80 A/W",
+    "d": "0.50 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 0.85 um with a quantum efficiency eta = 0.70. Calculate its responsivity (R) in A/W.",
+    "a": "0.24 A/W",
+    "b": "0.48 A/W",
+    "c": "0.60 A/W",
+    "d": "0.35 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "A photodiode operates at a wavelength lambda = 1.00 um with a quantum efficiency eta = 0.62. Calculate its responsivity (R) in A/W.",
+    "a": "0.25 A/W",
+    "b": "0.50 A/W",
+    "c": "0.75 A/W",
+    "d": "0.40 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 150 pA. If the detector has a responsivity of 0.75 A/W, calculate the equivalent minimum detectable input optical power (noise equivalent power) in picowatts.",
+    "a": "100 pW",
+    "b": "200 pW",
+    "c": "300 pW",
+    "d": "150 pW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 240 pA. If the detector responsivity is 0.80 A/W, calculate the minimum detectable input power in picowatts.",
+    "a": "150 pW",
+    "b": "300 pW",
+    "c": "450 pW",
+    "d": "240 pW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 50 pA. If the detector responsivity is 0.50 A/W, calculate the minimum detectable input power in picowatts.",
+    "a": "50 pW",
+    "b": "100 pW",
+    "c": "150 pW",
+    "d": "75 pW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 120 pA. If the detector responsivity is 0.60 A/W, calculate the minimum detectable input power in picowatts.",
+    "a": "100 pW",
+    "b": "200 pW",
+    "c": "300 pW",
+    "d": "120 pW",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an optical power level of 0.1 mW into dBm.",
+    "a": "0 dBm",
+    "b": "-10 dBm",
+    "c": "-20 dBm",
+    "d": "10 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an optical power level of 2.0 mW into dBm.",
+    "a": "0 dBm",
+    "b": "3 dBm",
+    "c": "6 dBm",
+    "d": "10 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an optical power level of 10.0 mW into dBm.",
+    "a": "3 dBm",
+    "b": "10 dBm",
+    "c": "20 dBm",
+    "d": "0 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an optical power level of 0.01 mW into dBm.",
+    "a": "-10 dBm",
+    "b": "-20 dBm",
+    "c": "-30 dBm",
+    "d": "0 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver requires a signal power level of -35 dBm. Convert this power level into Watts.",
+    "a": "1.00 uW",
+    "b": "0.316 uW",
+    "c": "0.100 uW",
+    "d": "3.160 uW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver requires a signal power level of -25 dBm. Convert this power level into Watts.",
+    "a": "1.00 uW",
+    "b": "3.16 uW",
+    "c": "10.00 uW",
+    "d": "0.31 uW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver requires a signal power level of -17 dBm. Convert this power level into Watts.",
+    "a": "10.0 uW",
+    "b": "20.0 uW",
+    "c": "40.0 uW",
+    "d": "50.0 uW",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver requires a signal power level of -5.5 dBm. Convert this power level into Watts.",
+    "a": "100 uW",
+    "b": "281 uW",
+    "c": "500 uW",
+    "d": "150 uW",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total splice loss in dB for a 40 km fiber optic link if the fiber is available in lengths of 2.5 km and each splice incurs a loss of 0.25 dB.",
+    "a": "1.50 dB",
+    "b": "3.75 dB",
+    "c": "4.00 dB",
+    "d": "2.25 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total splice loss in dB for a 50 km fiber optic link if the fiber is available in lengths of 2.0 km and each splice incurs a loss of 0.15 dB.",
+    "a": "1.80 dB",
+    "b": "3.60 dB",
+    "c": "4.50 dB",
+    "d": "2.40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total splice loss in dB for a 100 km fiber optic link if the fiber is available in lengths of 5.0 km and each splice incurs a loss of 0.20 dB.",
+    "a": "1.90 dB",
+    "b": "3.80 dB",
+    "c": "4.50 dB",
+    "d": "2.40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total splice loss on a 15 km fiber link if splices occur every 2.5 km and each splice has an insertion loss of 0.25 dB.",
+    "a": "1.10 dB",
+    "b": "1.25 dB",
+    "c": "2.50 dB",
+    "d": "0.55 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber has zero dispersion at a wavelength of 1310 nm and has a zero-dispersion slope of 0.05 ps/(nm^2-km). Calculate the total chromatic dispersion over a 50 km length of this fiber when used with a source having a linewidth of 2 nm at a wavelength of 1550 nm. Use total dispersion dt = S_slope * L * delta_lambda * (lambda - lambda_zero).",
+    "a": "450 ps",
+    "b": "1200 ps",
+    "c": "949 ps",
+    "d": "500 ps",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bandwidth in MHz for a fiber optic system with a total pulse spreading dispersion of 949 ps.",
+    "a": "250.0 MHz",
+    "b": "526.8 MHz",
+    "c": "125.0 MHz",
+    "d": "500.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the bandwidth-distance product for the system described in the previous questions (bandwidth = 526.8 MHz, length = 50 km).",
+    "a": "13.1 GHz-km",
+    "b": "26.3 GHz-km",
+    "c": "52.6 GHz-km",
+    "d": "10.0 GHz-km",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a bandwidth-distance product of 500 MHz-km. If a bandwidth of 85 MHz is required for a particular transmission, calculate the maximum distance that can be used between repeaters.",
+    "a": "2.94 km",
+    "b": "5.88 km",
+    "c": "11.76 km",
+    "d": "8.50 km",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a bandwidth-distance product of 1000 MHz-km. If a link distance of 15 km is required, calculate the maximum operating bandwidth.",
+    "a": "33.3 MHz",
+    "b": "66.7 MHz",
+    "c": "133.3 MHz",
+    "d": "50.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a bandwidth-distance product of 2 GHz-km. If a link distance of 4 km is required, calculate the maximum operating bandwidth.",
+    "a": "250 MHz",
+    "b": "500 MHz",
+    "c": "1000 MHz",
+    "d": "750 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum single-mode core diameter (in um) for a step-index fiber with a Numerical Aperture NA = 0.12 at an operating wavelength of 1.30 um to maintain single-mode operation (V < 2.405). Use D = (2.405 * lambda) / (pi * NA).",
+    "a": "4.15 um",
+    "b": "8.30 um",
+    "c": "12.50 um",
+    "d": "5.00 um",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum single-mode core diameter (in um) for a step-index fiber with a Numerical Aperture NA = 0.11 at an operating wavelength of 1.55 um.",
+    "a": "5.39 um",
+    "b": "10.78 um",
+    "c": "15.00 um",
+    "d": "8.30 um",
+    "ans": "b"
+  },
+  {
+    "q": "A step-index fiber has a core refractive index n1 = 1.48 and a cladding refractive index n2 = 1.46. Calculate the core radius (in um) for single-mode operation (V < 2.405) at a wavelength of 1.31 um.",
+    "a": "2.10 um",
+    "b": "4.21 um",
+    "c": "8.42 um",
+    "d": "5.00 um",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the core radius (in um) for single-mode operation of a step-index fiber with n1 = 1.46 and n2 = 1.44 at a wavelength of 1.55 um.",
+    "a": "2.54 um",
+    "b": "4.87 um",
+    "c": "9.74 um",
+    "d": "6.20 um",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver uses an APD with an avalanche multiplication gain M = 50. If the primary photocurrent prior to multiplication is 15 nA, calculate the total output photodiode current.",
+    "a": "375 nA",
+    "b": "750 nA",
+    "c": "1500 nA",
+    "d": "500 nA",
+    "ans": "b"
+  },
+  {
+    "q": "An APD has a primary photocurrent of 10 nA. If the total output photodiode current is measured at 800 nA, calculate the multiplication gain (M) of the APD.",
+    "a": "40",
+    "b": "80",
+    "c": "160",
+    "d": "100",
+    "ans": "b"
+  },
+  {
+    "q": "An APD with a multiplication gain M = 100 has a dark current of 2 nA. If the primary dark current prior to multiplication is neglected, calculate the total output dark current.",
+    "a": "100 nA",
+    "b": "200 nA",
+    "c": "400 nA",
+    "d": "50 nA",
+    "ans": "b"
+  },
+  {
+    "q": "An APD with responsivity R = 0.50 A/W (prior to multiplication) has a multiplication gain M = 80. Calculate the effective multiplied responsivity of the APD.",
+    "a": "20 A/W",
+    "b": "40 A/W",
+    "c": "80 A/W",
+    "d": "10 A/W",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a tight-buffered fiber cable that introduces an optical time delay of exactly 1.0 microsecond if the core refractive index is n1 = 1.50.",
+    "a": "100 meters",
+    "b": "200 meters",
+    "c": "300 meters",
+    "d": "150 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a fiber cable that introduces an optical time delay of 1.5 microseconds if the core refractive index is n1 = 1.46.",
+    "a": "150 meters",
+    "b": "308 meters",
+    "c": "450 meters",
+    "d": "225 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber has an attenuation coefficient of 0.25 dB/km at 1550 nm. Calculate the remaining optical power (in mW) after propagating 40 km if the input power is 2.0 mW.",
+    "a": "0.10 mW",
+    "b": "0.20 mW",
+    "c": "0.40 mW",
+    "d": "0.05 mW",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber has an attenuation coefficient of 0.3 dB/km at 1310 nm. Calculate the remaining optical power after propagating 50 km if the input power is 1.0 mW.",
+    "a": "0.010 mW",
+    "b": "0.0316 mW",
+    "c": "0.100 mW",
+    "d": "0.050 mW",
+    "ans": "b"
+  },
+  {
+    "q": "The product of the bit rate and distance of a fiber optic system is 2 Gbps-km. What is the maximum allowable bit rate at a distance of 5.0 km?",
+    "a": "200 Mbps",
+    "b": "400 Mbps",
+    "c": "800 Mbps",
+    "d": "1000 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "The product of the bit rate and distance of a fiber optic system is 10 Gbps-km. What is the maximum allowable bit rate at a distance of 25.0 km?",
+    "a": "200 Mbps",
+    "b": "400 Mbps",
+    "c": "800 Mbps",
+    "d": "1000 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "The product of the bit rate and distance of a fiber optic system is 5 Gbps-km. If a transmission link requires a bit rate of 250 Mbps, calculate the maximum allowable distance.",
+    "a": "10.0 km",
+    "b": "20.0 km",
+    "c": "40.0 km",
+    "d": "30.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "The product of the bit rate and distance of a fiber optic system is 12 Gbps-km. If a link requires a bit rate of 600 Mbps, calculate the maximum allowable distance.",
+    "a": "10.0 km",
+    "b": "20.0 km",
+    "c": "40.0 km",
+    "d": "30.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has an index of refraction of the core n1 = 1.55 and an index of refraction of the cladding n2 = 1.51. Calculate the critical angle (theta_c) for total internal reflection inside the core. Use theta_c = arcsin(n2 / n1).",
+    "a": "63.4°",
+    "b": "76.8°",
+    "c": "90.0°",
+    "d": "45.0°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.48 and n2 = 1.45. Calculate the critical angle (theta_c) at the boundary.",
+    "a": "73.2°",
+    "b": "78.6°",
+    "c": "80.5°",
+    "d": "85.1°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.46 and n2 = 1.44. Calculate the critical angle.",
+    "a": "75.2°",
+    "b": "80.6°",
+    "c": "85.1°",
+    "d": "73.2°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has n1 = 1.50 and n2 = 1.45. Calculate the critical angle.",
+    "a": "80.6°",
+    "b": "75.2°",
+    "c": "73.2°",
+    "d": "85.1°",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.50 and a cladding refractive index n2 = 1.45. If the fiber is in air, calculate the Numerical Aperture.",
+    "a": "0.224",
+    "b": "0.384",
+    "c": "0.296",
+    "d": "0.500",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.46 and a cladding refractive index n2 = 1.44. Calculate the Numerical Aperture.",
+    "a": "0.141",
+    "b": "0.241",
+    "c": "0.296",
+    "d": "0.384",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.48 and a cladding refractive index n2 = 1.45. Calculate the Numerical Aperture.",
+    "a": "0.241",
+    "b": "0.296",
+    "c": "0.384",
+    "d": "0.224",
+    "ans": "b"
+  },
+  {
+    "q": "An optical fiber has a core refractive index n1 = 1.60 and a cladding refractive index n2 = 1.40. Calculate the Numerical Aperture.",
+    "a": "0.550",
+    "b": "0.775",
+    "c": "0.600",
+    "d": "0.384",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a standard vertical ground-plane antenna designed to resonate at 146 MHz (using L_meters = 71.25 / f_MHz).",
+    "a": "0.4880 meters",
+    "b": "0.9760 meters",
+    "c": "0.2440 meters",
+    "d": "0.1220 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length of a half-wave dipole antenna designed for an FM station operating at 100 MHz (using L_meters = 142.5 / f_MHz).",
+    "a": "1.425 meters",
+    "b": "0.712 meters",
+    "c": "2.850 meters",
+    "d": "1.500 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna tuned to 50 MHz using the formula L_feet = 468 / f_MHz.",
+    "a": "9.36 feet",
+    "b": "4.68 feet",
+    "c": "18.72 feet",
+    "d": "2.34 feet",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 73 ohms and a ground loss resistance of 17 ohms. Find the efficiency of this antenna.",
+    "a": "81.11%",
+    "b": "18.89%",
+    "c": "100.00%",
+    "d": "50.00%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna operates with a power gain of 10 dBi and is supplied with 100 W of RF power. If the feedline loss is neglected, calculate the EIRP of the antenna in Watts.",
+    "a": "1000 W",
+    "b": "500 W",
+    "c": "2000 W",
+    "d": "100 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input current of 10 A RMS. When the antenna is modulated by an AM transmitter, the current increases to 11 A. Calculate the factor by which the radiated power has increased.",
+    "a": "1.21 times",
+    "b": "1.10 times",
+    "c": "1.50 times",
+    "d": "2.20 times",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter has an output power of 5 kW and is connected to a 10 dBd gain antenna. Calculate the ERP in kW.",
+    "a": "50 kW",
+    "b": "5 kW",
+    "c": "100 kW",
+    "d": "25 kW",
+    "ans": "a"
+  },
+  {
+    "q": "What is the modulation index of an AM transmitter if the carrier power is 800 W and the total radiated power is 1000 W?",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "0.60",
+    "d": "0.80",
+    "ans": "a"
+  },
+  {
+    "q": "An propagation medium has a relative permittivity (dielectric constant) of 2.25. If a radio wave propagates through this medium, what is the speed of propagation?",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "1.33 x 10^8 m/s",
+    "ans": "b"
+  }
+]

@@ -1,0 +1,2250 @@
+[
+  {
+    "q": "What is the process of sending voice, speech, music, or images intended for reception by the general public?",
+    "a": "broadcasting",
+    "b": "telephony",
+    "c": "navigation",
+    "d": "tele-computing",
+    "ans": "a"
+  },
+  {
+    "q": "In standard television broadcasting, what type of modulation is used to transmit the visual (picture) carrier signal?",
+    "a": "frequency modulation",
+    "b": "amplitude modulation vestigial sideband",
+    "c": "phase modulation",
+    "d": "single sideband suppressed carrier",
+    "ans": "b"
+  },
+  {
+    "q": "In standard television broadcasting, what type of modulation is used to transmit the aural (sound) carrier signal?",
+    "a": "amplitude modulation",
+    "b": "frequency modulation",
+    "c": "phase shift keying",
+    "d": "pulse code modulation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard aspect ratio of a traditional television screen (NTSC)?",
+    "a": "16:9",
+    "b": "4:3",
+    "c": "1:1",
+    "d": "5:4",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard aspect ratio of a high-definition (HDTV) television screen?",
+    "a": "4:3",
+    "b": "16:9",
+    "c": "21:9",
+    "d": "3:2",
+    "ans": "b"
+  },
+  {
+    "q": "In NTSC television standards, how many horizontal scanning lines are there per frame?",
+    "a": "625",
+    "b": "525",
+    "c": "480",
+    "d": "1080",
+    "ans": "b"
+  },
+  {
+    "q": "In PAL and SECAM television standards, how many horizontal scanning lines are there per frame?",
+    "a": "525",
+    "b": "625",
+    "c": "825",
+    "d": "1125",
+    "ans": "b"
+  },
+  {
+    "q": "Why is interlaced scanning used in traditional analog television systems?",
+    "a": "To increase the horizontal resolution of the picture",
+    "b": "To eliminate flicker without increasing the video signal bandwidth",
+    "c": "To simplify the design of the receiver's local oscillator",
+    "d": "To separate the color information from the black-and-white data",
+    "ans": "b"
+  },
+  {
+    "q": "What is the vertical field-scanning frequency in standard monochrome NTSC television?",
+    "a": "30 Hz",
+    "b": "60 Hz",
+    "c": "50 Hz",
+    "d": "15750 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the vertical frame-scanning frequency in standard monochrome NTSC television?",
+    "a": "60 Hz",
+    "b": "30 Hz",
+    "c": "29.97 Hz",
+    "d": "59.94 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the horizontal scanning line frequency in standard monochrome NTSC television?",
+    "a": "60 Hz",
+    "b": "15750 Hz",
+    "c": "31500 Hz",
+    "d": "15625 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the horizontal scanning line frequency in standard color NTSC television?",
+    "a": "15750.00 Hz",
+    "b": "15734.26 Hz",
+    "c": "15625.00 Hz",
+    "d": "31500.00 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the exact vertical frame-scanning frequency in standard color NTSC television?",
+    "a": "30.00 Hz",
+    "b": "29.97 Hz",
+    "c": "60.00 Hz",
+    "d": "59.94 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What name is given to the black-and-white or brightness component of a composite video signal?",
+    "a": "chrominance",
+    "b": "luminance",
+    "c": "color burst",
+    "d": "blanking level",
+    "ans": "b"
+  },
+  {
+    "q": "In television, what is the letter designation used to represent the luminance signal?",
+    "a": "I",
+    "b": "Y",
+    "c": "Q",
+    "d": "C",
+    "ans": "b"
+  },
+  {
+    "q": "What mathematical matrix represents the composition of the luminance (Y) signal from the primary colors (Red, Green, Blue) in NTSC?",
+    "a": "Y = 0.30R + 0.30G + 0.30B",
+    "b": "Y = 0.30R + 0.59G + 0.11B",
+    "c": "Y = 0.59R + 0.30G + 0.11B",
+    "d": "Y = 0.11R + 0.59G + 0.30B",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two color-difference quadrature signals used to represent chrominance in the NTSC color TV system?",
+    "a": "U and V",
+    "b": "I and Q",
+    "c": "Y and C",
+    "d": "R-Y and B-Y",
+    "ans": "b"
+  },
+  {
+    "q": "What is the exact frequency of the color subcarrier used for chrominance transmission in the NTSC system?",
+    "a": "4.50 MHz",
+    "b": "3.579545 MHz",
+    "c": "4.433618 MHz",
+    "d": "1.25 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the exact frequency of the color subcarrier used in the PAL television system?",
+    "a": "3.58 MHz",
+    "b": "4.433618 MHz",
+    "c": "4.50 MHz",
+    "d": "1.25 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the purpose of the color burst signal in composite video waveforms?",
+    "a": "To control the brightness of the screen",
+    "b": "To synchronize the phase and frequency of the receiver's local 3.58 MHz subcarrier oscillator",
+    "c": "To trigger the horizontal deflection sweep",
+    "d": "To blank the picture tube during retrace",
+    "ans": "b"
+  },
+  {
+    "q": "Where is the color burst signal located in the composite video waveform?",
+    "a": "On the front porch of the horizontal blanking pulse",
+    "b": "On the back porch of the horizontal blanking pulse",
+    "c": "During the active trace portion of the line",
+    "d": "On the peak of the horizontal sync pulse",
+    "ans": "b"
+  },
+  {
+    "q": "How many cycles of the color subcarrier are typically transmitted during the color burst interval?",
+    "a": "2 to 4 cycles",
+    "b": "8 to 11 cycles",
+    "c": "15 to 20 cycles",
+    "d": "exactly 1 cycle",
+    "ans": "b"
+  },
+  {
+    "q": "What circuit in a color television receiver is used to separate the horizontal sync pulses from the composite video signal?",
+    "a": "integrator",
+    "b": "sync separator (clipper)",
+    "c": "differentiator",
+    "d": "envelope detector",
+    "ans": "b"
+  },
+  {
+    "q": "What passive circuit filter is used to extract the vertical sync pulses from the sync separator output?",
+    "a": "differentiator",
+    "b": "integrator",
+    "c": "bandpass filter",
+    "d": "notch filter",
+    "ans": "b"
+  },
+  {
+    "q": "What passive circuit filter is used to extract the horizontal sync pulses from the sync separator output?",
+    "a": "integrator",
+    "b": "differentiator",
+    "c": "low-pass filter",
+    "d": "clipper",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the equalizing pulses transmitted during the vertical blanking interval?",
+    "a": "To equalize the brightness of successive fields",
+    "b": "To maintain correct interlacing by equalizing the charge in the integrator before vertical retrace",
+    "c": "To amplify the color subcarrier signal",
+    "d": "To trigger the audio de-emphasis circuit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the serrations in the vertical sync pulse?",
+    "a": "To prevent the picture from blooming",
+    "b": "To keep the horizontal sweep oscillator in synchronization during the vertical sync period",
+    "c": "To blank the screen at the bottom of the raster",
+    "d": "To transmit closed captioning data",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the time period during which the electron beam in a picture tube is turned off as it flies back from right to left or bottom to top?",
+    "a": "retrace",
+    "b": "blanking interval",
+    "c": "trace period",
+    "d": "porch interval",
+    "ans": "b"
+  },
+  {
+    "q": "Which camera tube is photoconductive and uses antimony trisulfide as its target material?",
+    "a": "Image Orthicon",
+    "b": "Vidicon",
+    "c": "Iconoscope",
+    "d": "Plumbicon",
+    "ans": "b"
+  },
+  {
+    "q": "Which camera tube utilizes lead oxide (PbO) as its photoconductive target material, providing minimal lag and high resolution?",
+    "a": "Vidicon",
+    "b": "Plumbicon",
+    "c": "Saticon",
+    "d": "Iconoscope",
+    "ans": "b"
+  },
+  {
+    "q": "Which camera tube has a photoconductive target made of selenium, arsenic, and tellurium?",
+    "a": "Plumbicon",
+    "b": "Saticon",
+    "c": "Vidicon",
+    "d": "Chalnicon",
+    "ans": "b"
+  },
+  {
+    "q": "What solid-state image sensor has largely replaced vacuum-type camera tubes in modern television cameras?",
+    "a": "photomultiplier",
+    "b": "Charge-Coupled Device (CCD)",
+    "c": "vidicon crystal",
+    "d": "liquid crystal array",
+    "ans": "b"
+  },
+  {
+    "q": "What is the nominal bandwidth of a standard NTSC television channel?",
+    "a": "4.5 MHz",
+    "b": "6.0 MHz",
+    "c": "8.0 MHz",
+    "d": "10.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "In a standard 6-MHz NTSC channel, how far above the lower channel edge is the visual (picture) carrier frequency located?",
+    "a": "4.50 MHz",
+    "b": "1.25 MHz",
+    "c": "0.25 MHz",
+    "d": "5.75 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "In a standard 6-MHz NTSC channel, how far below the upper channel edge is the aural (sound) carrier frequency located?",
+    "a": "1.25 MHz",
+    "b": "0.25 MHz",
+    "c": "4.50 MHz",
+    "d": "5.75 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the exact frequency spacing (intercarrier frequency) between the visual carrier and the aural carrier in a standard NTSC television channel?",
+    "a": "1.25 MHz",
+    "b": "4.50 MHz",
+    "c": "3.58 MHz",
+    "d": "6.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the difference between the sound carrier and the color subcarrier frequencies in an NTSC channel?",
+    "a": "4.50 MHz",
+    "b": "0.92 MHz",
+    "c": "1.25 MHz",
+    "d": "3.58 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "In television receiver designs, what is the intercarrier sound method?",
+    "a": "Demodulating the audio directly at the RF tuner stage",
+    "b": "Using the 4.5-MHz beat frequency produced by mixing the visual and aural carriers to detect the sound information",
+    "c": "Transmitting the audio on an AM subcarrier",
+    "d": "Eliminating the sound carrier completely using DSP",
+    "ans": "b"
+  },
+  {
+    "q": "In standard NTSC television, the color difference signals I and Q are modulated in quadrature onto the color subcarrier using what modulation technique?",
+    "a": "Frequency Modulation (FM)",
+    "b": "Double-Sideband Suppressed-Carrier (DSB-SC)",
+    "c": "Amplitude Modulation (AM)",
+    "d": "Single-Sideband suppressed-carrier (SSB-SC)",
+    "ans": "b"
+  },
+  {
+    "q": "In standard television systems, what is the term used to describe a ghost image or smear in the picture caused by multipath reception?",
+    "a": "snow",
+    "b": "ghost",
+    "c": "aliasing",
+    "d": "keystoning",
+    "ans": "b"
+  },
+  {
+    "q": "The noise developed in the RF amplifier front end of a TV receiver, visible as random white or black dots on the screen, is commonly called _____.",
+    "a": "confetti",
+    "b": "snow",
+    "c": "ghosts",
+    "d": "hum",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the alignment of all three electron guns (Red, Green, Blue) to a common spot on the shadow mask of a color picture tube?",
+    "a": "confetti",
+    "b": "convergence",
+    "c": "purity",
+    "d": "demodulation",
+    "ans": "b"
+  },
+  {
+    "q": "What does a degaussing coil do for a color CRT television receiver?",
+    "a": "It increases the high voltage of the anode",
+    "b": "It demagnetizes the shadow mask to restore correct color purity",
+    "c": "It filters out high frequency power line hum",
+    "d": "It focuses the electron beams",
+    "ans": "b"
+  },
+  {
+    "q": "What waveform is required for the currents flowing through the horizontal and vertical deflection yokes to achieve linear scanning?",
+    "a": "square wave",
+    "b": "sawtooth wave",
+    "c": "sine wave",
+    "d": "trapezoidal wave",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency tolerance for the RF carrier in the standard AM radio broadcast band (535 to 1605 kHz) in the Philippines?",
+    "a": "10 Hz",
+    "b": "20 Hz",
+    "c": "100 Hz",
+    "d": "20 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency tolerance for the RF carrier in the standard FM radio broadcast band (88 to 108 MHz)?",
+    "a": "20 Hz",
+    "b": "2000 Hz",
+    "c": "1000 Hz",
+    "d": "25 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "The center-to-center frequency spacing between two adjacent stations in the Philippine AM broadcast band is _____.",
+    "a": "10 kHz",
+    "b": "9 kHz",
+    "c": "200 kHz",
+    "d": "800 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "The center-to-center frequency spacing between two adjacent stations in the Philippine FM broadcast band is _____.",
+    "a": "9 kHz",
+    "b": "200 kHz",
+    "c": "400 kHz",
+    "d": "800 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency of the pilot subcarrier used for stereo synchronization in commercial FM multiplex broadcasting?",
+    "a": "38 kHz",
+    "b": "19 kHz",
+    "c": "67 kHz",
+    "d": "92 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "In FM stereo multiplexing, the L-R difference signal is modulated onto what subcarrier frequency?",
+    "a": "19 kHz",
+    "b": "38 kHz",
+    "c": "67 kHz",
+    "d": "57 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What type of modulation is used for the L-R difference signal on the 38 kHz subcarrier in FM stereo?",
+    "a": "Frequency Modulation (FM)",
+    "b": "Double-Sideband Suppressed-Carrier (DSB-SC)",
+    "c": "Single-Sideband Suppressed-Carrier (SSB-SC)",
+    "d": "Amplitude Modulation (AM)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency of the Subsidiary Communications Authorization (SCA) subcarrier often used for background music or private paging on FM stations?",
+    "a": "19 kHz",
+    "b": "67 kHz",
+    "c": "38 kHz",
+    "d": "92 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What polarization is standard and required by KBP rules for AM radio broadcast antennas?",
+    "a": "Horizontal",
+    "b": "Vertical",
+    "c": "Circular",
+    "d": "Elliptical",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP and NTC rules, the portion of a broadcast day from 6 PM to 6 AM local time is defined as _____.",
+    "a": "daytime",
+    "b": "nighttime",
+    "c": "experimental period",
+    "d": "primetime",
+    "ans": "b"
+  },
+  {
+    "q": "What is the service area of an AM broadcast station where the signal is entirely ground wave, stable, and completely free from fading?",
+    "a": "Secondary Service Area",
+    "b": "Primary Service Area",
+    "c": "Intermittent Service Area",
+    "d": "Fringe Service Area",
+    "ans": "b"
+  },
+  {
+    "q": "What class of FM broadcast station in the Philippines is limited in antenna height to a maximum of 200 feet above average terrain (HAAT)?",
+    "a": "Class A",
+    "b": "Class B-1",
+    "c": "Class B",
+    "d": "Class C",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP rules, the maximum power permitted for an AM broadcast station operating in Metro Manila is _____.",
+    "a": "10 kW",
+    "b": "50 kW",
+    "c": "20 kW",
+    "d": "100 kW",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a television broadcast station of low power that simply receives a signal, translates it to another channel, and retransmits it to extend coverage?",
+    "a": "booster station",
+    "b": "translator station",
+    "c": "LPTV station",
+    "d": "auxiliary station",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a television transmission system that distributes modulated RF video and audio carriers over a coaxial or fiber-optic network directly to subscribers?",
+    "a": "CCTV",
+    "b": "CATV (Cable Television)",
+    "c": "MATV",
+    "d": "DTH",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard characteristic impedance of coaxial cables used in CATV distribution networks?",
+    "a": "50 ohms",
+    "b": "75 ohms",
+    "c": "300 ohms",
+    "d": "150 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What CATV component combines signals from satellite antennas, local cameras, and off-air antennas into a single cable feed?",
+    "a": "distribution tap",
+    "b": "head-end",
+    "c": "trunk amplifier",
+    "d": "directional coupler",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency of the upstream signal used for two-way communications in modern cable TV systems?",
+    "a": "0 to 455 kHz",
+    "b": "5 to 30 MHz",
+    "c": "54 to 88 MHz",
+    "d": "300 to 450 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the NTSC standard for the total number of frames transmitted per second in color television?",
+    "a": "30 frames",
+    "b": "29.97 frames",
+    "c": "25 frames",
+    "d": "59.94 frames",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP rules, the commercial load for radio stations in Metro Manila shall not exceed _____ minutes per hour.",
+    "a": "10 minutes",
+    "b": "15 minutes",
+    "c": "18 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the 'front porch' of the composite video horizontal blanking interval?",
+    "a": "The area of the signal before the horizontal blanking pulse starts",
+    "b": "The brief interval of blanking level immediately before the start of the horizontal sync pulse",
+    "c": "The interval containing the color burst",
+    "d": "The period of vertical retrace",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the 'back porch' of the horizontal blanking interval?",
+    "a": "The interval containing the horizontal sync pulse",
+    "b": "The blanking level period after the horizontal sync pulse but before the start of active video",
+    "c": "The start of the vertical blanking pulse",
+    "d": "The blanking level immediately preceding the sync pulse",
+    "ans": "b"
+  },
+  {
+    "q": "What class of TV camera lens is specifically designed to vary its focal length continuously while maintaining focus, allowing smooth close-ups?",
+    "a": "Wide-angle lens",
+    "b": "Zoom lens",
+    "c": "Telephoto lens",
+    "d": "Normal lens",
+    "ans": "b"
+  },
+  {
+    "q": "What is the device that combines television transmitter visual and aural output signals into a single feedline without mutual cross-coupling?",
+    "a": "duplexer",
+    "b": "diplexer",
+    "c": "combiner",
+    "d": "isolator",
+    "ans": "b"
+  },
+  {
+    "q": "What type of emission designation represents an amplitude-modulated television visual transmitter?",
+    "a": "A3E",
+    "b": "C3F",
+    "c": "F3F",
+    "d": "F3E",
+    "ans": "b"
+  },
+  {
+    "q": "What type of television system utilizes MPEG-4 transmission and digital compression standard formats?",
+    "a": "NTSC",
+    "b": "HDTV",
+    "c": "SECAM",
+    "d": "Standard PAL",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the system that distributes television and FM radio signals throughout an apartment building, school, or hotel from a single shared antenna setup?",
+    "a": "CCTV",
+    "b": "MATV (Master Antenna Television)",
+    "c": "CATV",
+    "d": "SMATV",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a television system where the signal is not broadcast to the public but is routed over a closed network for security or monitoring?",
+    "a": "MATV",
+    "b": "CCTV (Closed-Circuit Television)",
+    "c": "CATV",
+    "d": "SDTV",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical output channel of a cable TV converter box connected to a standard television receiver?",
+    "a": "Channel 2 or 3",
+    "b": "Channel 3 or 4",
+    "c": "Channel 14",
+    "d": "Channel 7 or 9",
+    "ans": "b"
+  },
+  {
+    "q": "What color TV camera optical block divides the incoming scene image into red, green, and blue components for routing to separate sensors?",
+    "a": "polarizing filter",
+    "b": "dichroic mirror or prism system",
+    "c": "focusing yoke",
+    "d": "charge-coupled matrix",
+    "ans": "b"
+  },
+  {
+    "q": "Which television color difference signal represents the orange-cyan vector with a bandwidth of approximately 1.5 MHz?",
+    "a": "Q signal",
+    "b": "I signal",
+    "c": "Y signal",
+    "d": "U signal",
+    "ans": "b"
+  },
+  {
+    "q": "Which television color difference signal represents the magenta-green vector with a narrower bandwidth of approximately 0.5 MHz?",
+    "a": "I signal",
+    "b": "Q signal",
+    "c": "V signal",
+    "d": "Y signal",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the maximum permitted frequency deviation for the sound carrier of an NTSC television broadcast station?",
+    "a": "75 kHz",
+    "b": "25 kHz",
+    "c": "50 kHz",
+    "d": "15 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the value of the video line scanning interval (H) in standard monochrome NTSC television?",
+    "a": "50.0 us",
+    "b": "63.5 us",
+    "c": "10.2 us",
+    "d": "83.3 us",
+    "ans": "b"
+  },
+  {
+    "q": "What is the duration of the horizontal blanking interval in standard NTSC television?",
+    "a": "1.25 us",
+    "b": "10.2 us",
+    "c": "53.3 us",
+    "d": "5.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "In standard FM broadcasting in the Philippines, what frequency deviation is defined as 100% modulation?",
+    "a": "25 kHz",
+    "b": "75 kHz",
+    "c": "50 kHz",
+    "d": "100 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 300? Use the standard FM channelization formula f_MHz = 88.1 + 0.2 * (Channel - 201).",
+    "a": "107.5 MHz",
+    "b": "107.9 MHz",
+    "c": "101.1 MHz",
+    "d": "99.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 250?",
+    "a": "107.9 MHz",
+    "b": "97.9 MHz",
+    "c": "99.5 MHz",
+    "d": "88.1 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 201?",
+    "a": "107.9 MHz",
+    "b": "88.1 MHz",
+    "c": "88.3 MHz",
+    "d": "99.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 220?",
+    "a": "88.1 MHz",
+    "b": "91.9 MHz",
+    "c": "92.1 MHz",
+    "d": "99.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 99.1 MHz. Use Channel = (f_MHz - 88.1) / 0.2 + 201.",
+    "a": "254",
+    "b": "256",
+    "c": "258",
+    "d": "259",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 101.1 MHz.",
+    "a": "256",
+    "b": "266",
+    "c": "276",
+    "d": "286",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 107.9 MHz.",
+    "a": "298",
+    "b": "300",
+    "c": "201",
+    "d": "250",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 88.3 MHz.",
+    "a": "201",
+    "b": "202",
+    "c": "203",
+    "d": "204",
+    "ans": "b"
+  },
+  {
+    "q": "If the HAAT of an FM broadcast antenna is 190 feet, calculate the depression angle of the radio horizon in degrees. Use the practical approximation theta_deg = 0.0153 * sqrt(H_feet).",
+    "a": "0.17°",
+    "b": "0.21°",
+    "c": "0.27°",
+    "d": "0.31°",
+    "ans": "b"
+  },
+  {
+    "q": "If an FM station antenna has a HAAT of 400 feet, calculate the depression angle of the radio horizon in degrees using the approximation theta_deg = 0.0153 * sqrt(H_feet).",
+    "a": "0.15°",
+    "b": "0.31°",
+    "c": "0.45°",
+    "d": "0.21°",
+    "ans": "b"
+  },
+  {
+    "q": "If a television antenna mast has a HAAT of 625 feet, find the depression angle of the radio horizon in degrees.",
+    "a": "0.31°",
+    "b": "0.38°",
+    "c": "0.45°",
+    "d": "0.21°",
+    "ans": "b"
+  },
+  {
+    "q": "An FM antenna has a height of 100 meters above average terrain. Calculate the depression angle of the radio horizon in degrees. Use the metric approximation theta_deg = 0.0277 * sqrt(H_meters).",
+    "a": "0.15°",
+    "b": "0.28°",
+    "c": "0.35°",
+    "d": "0.42°",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the effective radiated power (ERP) in kW of a 20 kW TV broadcast transmitter if the antenna has a power gain of 4.0 and the transmission line loss is neglected.",
+    "a": "45 kW",
+    "b": "80 kW",
+    "c": "12 kW",
+    "d": "65 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM transmitter has a power output of 10 kW. If the transmission line has a loss of 3 dB and the antenna has a power gain of 6.0, calculate the ERP of the station.",
+    "a": "15 kW",
+    "b": "30 kW",
+    "c": "60 kW",
+    "d": "20 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A low-power FM broadcast transmitter has an output power of 500 Watts. If the coaxial feedline loss is 1.5 dB and the antenna gain is 8 dBi (absolute ratio 6.3), calculate the ERP of the station in Watts.",
+    "a": "1125 Watts",
+    "b": "2225 Watts",
+    "c": "1560 Watts",
+    "d": "3150 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter operates with an output power of 5 kW. If the antenna has a gain of 10 dBd and the transmission line loss is 1.0 dB, calculate the station's ERP in kW.",
+    "a": "25 kW",
+    "b": "40 kW",
+    "c": "50 kW",
+    "d": "30 kW",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 2 occupies the frequency band of 54 to 60 MHz, calculate the frequency of its visual (picture) carrier. Use visual_frequency = lower_limit + 1.25 MHz.",
+    "a": "54.00 MHz",
+    "b": "55.25 MHz",
+    "c": "59.75 MHz",
+    "d": "58.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 2 (54 to 60 MHz), calculate the frequency of its aural (sound) carrier. Use aural_frequency = upper_limit - 0.25 MHz.",
+    "a": "55.25 MHz",
+    "b": "59.75 MHz",
+    "c": "58.83 MHz",
+    "d": "60.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 2 (54 to 60 MHz), calculate the frequency of its color subcarrier. Use color_subcarrier = visual_carrier + 3.58 MHz.",
+    "a": "55.25 MHz",
+    "b": "58.83 MHz",
+    "c": "59.75 MHz",
+    "d": "54.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 3 occupies the frequency band of 60 to 66 MHz, calculate the frequency of its visual carrier.",
+    "a": "60.00 MHz",
+    "b": "61.25 MHz",
+    "c": "65.75 MHz",
+    "d": "64.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 3 (60 to 66 MHz), calculate the frequency of its aural carrier.",
+    "a": "61.25 MHz",
+    "b": "65.75 MHz",
+    "c": "64.83 MHz",
+    "d": "66.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 3 (60 to 66 MHz), calculate the frequency of its color subcarrier.",
+    "a": "61.25 MHz",
+    "b": "64.83 MHz",
+    "c": "65.75 MHz",
+    "d": "60.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 4 occupies the frequency band of 66 to 72 MHz, calculate the frequency of its visual carrier.",
+    "a": "66.00 MHz",
+    "b": "67.25 MHz",
+    "c": "71.75 MHz",
+    "d": "70.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 4 (66 to 72 MHz), calculate the frequency of its aural carrier.",
+    "a": "67.25 MHz",
+    "b": "71.75 MHz",
+    "c": "70.83 MHz",
+    "d": "72.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 4 (66 to 72 MHz), calculate the frequency of its color subcarrier.",
+    "a": "67.25 MHz",
+    "b": "70.83 MHz",
+    "c": "71.75 MHz",
+    "d": "66.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 7 occupies the frequency band of 174 to 180 MHz, calculate the frequency of its visual carrier.",
+    "a": "174.00 MHz",
+    "b": "175.25 MHz",
+    "c": "179.75 MHz",
+    "d": "178.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 7 (174 to 180 MHz), calculate the frequency of its aural carrier.",
+    "a": "175.25 MHz",
+    "b": "179.75 MHz",
+    "c": "178.83 MHz",
+    "d": "180.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 7 (174 to 180 MHz), calculate the frequency of its color subcarrier.",
+    "a": "175.25 MHz",
+    "b": "178.83 MHz",
+    "c": "179.75 MHz",
+    "d": "174.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 9 occupies the frequency band of 186 to 192 MHz, calculate the frequency of its visual carrier.",
+    "a": "186.00 MHz",
+    "b": "187.25 MHz",
+    "c": "191.75 MHz",
+    "d": "190.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 9 (186 to 192 MHz), calculate the frequency of its aural carrier.",
+    "a": "187.25 MHz",
+    "b": "191.75 MHz",
+    "c": "190.83 MHz",
+    "d": "192.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 9 (186 to 192 MHz), calculate the frequency of its color subcarrier.",
+    "a": "187.25 MHz",
+    "b": "190.83 MHz",
+    "c": "191.75 MHz",
+    "d": "186.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 13 occupies the frequency band of 210 to 216 MHz, calculate the frequency of its visual carrier.",
+    "a": "210.00 MHz",
+    "b": "211.25 MHz",
+    "c": "215.75 MHz",
+    "d": "214.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 13 (210 to 216 MHz), calculate the frequency of its aural carrier.",
+    "a": "211.25 MHz",
+    "b": "215.75 MHz",
+    "c": "214.83 MHz",
+    "d": "216.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 13 (210 to 216 MHz), calculate the frequency of its color subcarrier.",
+    "a": "211.25 MHz",
+    "b": "214.83 MHz",
+    "c": "215.75 MHz",
+    "d": "210.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal line frequency of a TV system is 15750 Hz. Calculate the total duration of one horizontal line (H) in microseconds. Use H = 1 / f_H.",
+    "a": "50.0 us",
+    "b": "63.5 us",
+    "c": "10.2 us",
+    "d": "83.3 us",
+    "ans": "b"
+  },
+  {
+    "q": "If the horizontal line frequency of a color TV system is exactly 15734.26 Hz, calculate the total line period (H) in microseconds.",
+    "a": "63.500 us",
+    "b": "63.556 us",
+    "c": "10.150 us",
+    "d": "83.333 us",
+    "ans": "b"
+  },
+  {
+    "q": "In an NTSC television system, the horizontal blanking interval is specified as 10.2 us. If the total line period is 63.5 us, calculate the active line trace time.",
+    "a": "10.2 us",
+    "b": "53.3 us",
+    "c": "63.5 us",
+    "d": "50.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "The active line trace time in a color TV receiver is 53.3 us. If the horizontal retrace (flyback) time is 10.2 us, find the percentage of horizontal line time occupied by the retrace.",
+    "a": "10%",
+    "b": "16%",
+    "c": "20%",
+    "d": "8%",
+    "ans": "b"
+  },
+  {
+    "q": "In an NTSC system, the vertical blanking interval is equal to the time of exactly 21 horizontal lines. If the horizontal line frequency is 15750 Hz, calculate the vertical blanking period in milliseconds.",
+    "a": "0.67 ms",
+    "b": "1.33 ms",
+    "c": "2.67 ms",
+    "d": "0.33 ms",
+    "ans": "b"
+  },
+  {
+    "q": "If there are 625 horizontal scanning lines per TV frame in a PAL system, calculate the number of scanning lines per individual field.",
+    "a": "1250",
+    "b": "312.5",
+    "c": "625",
+    "d": "2500",
+    "ans": "b"
+  },
+  {
+    "q": "If there are 525 horizontal scanning lines per TV frame in an NTSC system, calculate the number of scanning lines per individual field.",
+    "a": "1050",
+    "b": "262.5",
+    "c": "525",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "A vertical field scan in standard NTSC television takes 1/60 of a second. If the vertical blanking interval lasts for 21 scanning lines (each 63.5 us), calculate the active vertical trace time per field.",
+    "a": "16.67 ms",
+    "b": "15.33 ms",
+    "c": "1.33 ms",
+    "d": "13.33 ms",
+    "ans": "b"
+  },
+  {
+    "q": "An FM stereo multiplex signal includes a pilot carrier at 19 kHz. Calculate the wavelength of this pilot subcarrier signal propagating through free space.",
+    "a": "15.8 km",
+    "b": "15.8 meters",
+    "c": "15.8 cm",
+    "d": "15.8 mm",
+    "ans": "a"
+  },
+  {
+    "q": "The actual peak frequency deviation of the FM sound signal in an NTSC channel is 18 kHz. Calculate its percentage of modulation relative to the maximum allowable sound deviation of 25 kHz.",
+    "a": "43 percent",
+    "b": "72 percent",
+    "c": "96 percent",
+    "d": "139 percent",
+    "ans": "b"
+  },
+  {
+    "q": "The sound carrier of an NTSC television channel is modulated with a peak deviation of 12.5 kHz. What is the corresponding percentage of modulation relative to the standard 25 kHz limit?",
+    "a": "25%",
+    "b": "50%",
+    "c": "75%",
+    "d": "100%",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station's sound transmitter is operating at 100% modulation with a peak deviation of 25 kHz. If the peak modulating frequency is 15 kHz, calculate the deviation ratio of the TV sound system.",
+    "a": "5.00",
+    "b": "1.67",
+    "c": "0.60",
+    "d": "3.00",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the worst-case (maximum) bandwidth required for an NTSC television sound channel using Carson's Rule with a peak frequency deviation of 25 kHz and a maximum modulating audio frequency of 15 kHz.",
+    "a": "50 kHz",
+    "b": "80 kHz",
+    "c": "120 kHz",
+    "d": "100 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total bandwidth of an FM radio broadcast station operating with a peak deviation of 75 kHz and a maximum audio modulating frequency of 15 kHz using Carson's Rule.",
+    "a": "150 kHz",
+    "b": "180 kHz",
+    "c": "90 kHz",
+    "d": "240 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "If the peak amplitude of the composite video signal in an NTSC transmitter represents 100% modulation, what is the standard relative amplitude of the carrier wave for the blanking level?",
+    "a": "25%",
+    "b": "75%",
+    "c": "50%",
+    "d": "12.5%",
+    "ans": "b"
+  },
+  {
+    "q": "In negative transmission television broadcasting, what is the relative amplitude of the modulated picture carrier wave for maximum peak white?",
+    "a": "0.0%",
+    "b": "12.5%",
+    "c": "75.0%",
+    "d": "100.0%",
+    "ans": "b"
+  },
+  {
+    "q": "In negative transmission television broadcasting, what is the relative amplitude of the modulated picture carrier wave for the horizontal sync tip?",
+    "a": "12.5%",
+    "b": "100.0%",
+    "c": "75.0%",
+    "d": "0.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A cable TV converter has an output intermediate frequency of 41.25 MHz for the sound carrier and 45.75 MHz for the picture carrier. What is the difference between these two IF values?",
+    "a": "6.00 MHz",
+    "b": "4.50 MHz",
+    "c": "1.25 MHz",
+    "d": "3.58 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If a cable TV system has a digital video feed transmitting at 36 Mbps using 64-QAM digital modulation, calculate the ideal required RF channel bandwidth. (Note: 64-QAM encodes 6 bits per symbol).",
+    "a": "12 MHz",
+    "b": "6 MHz",
+    "c": "8 MHz",
+    "d": "4 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If a cable TV system has a digital video feed transmitting at 48 Mbps using 256-QAM digital modulation (8 bits per symbol), calculate the ideal required RF channel bandwidth.",
+    "a": "12 MHz",
+    "b": "6 MHz",
+    "c": "8 MHz",
+    "d": "10 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A TV camera uses a telephoto lens with a focal length of 150 mm. If the target width is 12 mm, and the scene distance is 15 meters, calculate the horizontal width of the field of view on the scene. Use the linear lens magnification formula.",
+    "a": "0.6 meters",
+    "b": "1.2 meters",
+    "c": "2.4 meters",
+    "d": "1.8 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A TV camera uses a wide-angle lens with a focal length of 12 mm. If the sensor width is 12 mm, and the scene distance is 3 meters, calculate the width of the field of view on the scene.",
+    "a": "1.5 meters",
+    "b": "3.0 meters",
+    "c": "6.0 meters",
+    "d": "4.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A beam antenna on a broadcast tower has a height of 10 meters over its coverage service area. Calculate the beam tilt angle in degrees. Use the horizontal geometry approximation.",
+    "a": "0.088°",
+    "b": "8.8°",
+    "c": "9.2°",
+    "d": "0.9°",
+    "ans": "a"
+  },
+  {
+    "q": "A TV transmitter has an unmodulated video carrier power of 10 kW. If it is modulated by a flat grey field to a modulation index of 50%, calculate the total transmitted power.",
+    "a": "12.5 kW",
+    "b": "11.25 kW",
+    "c": "15.00 kW",
+    "d": "10.00 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An AM broadcast transmitter is tuned to 1000 kHz and is modulated by an audio tone of 5 kHz. Calculate the bandwidth of the transmitted AM signal.",
+    "a": "5 kHz",
+    "b": "10 kHz",
+    "c": "20 kHz",
+    "d": "15 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast transmitter has an unmodulated carrier frequency of 91.5 MHz. If the peak frequency deviation is 75 kHz when modulated by a 15 kHz audio tone, calculate the modulation index of the FM signal.",
+    "a": "1.5",
+    "b": "5.0",
+    "c": "10.0",
+    "d": "2.5",
+    "ans": "b"
+  },
+  {
+    "q": "A television camera has a solid-state sensor that operates with a dark current of 0.2 uA. If the photo-generated current under nominal lighting is 1.8 uA, calculate the total output current of the sensor.",
+    "a": "1.6 uA",
+    "b": "2.0 uA",
+    "c": "0.2 uA",
+    "d": "1.8 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube requires a high-voltage anode supply of 25 kV. If the beam current is 0.4 mA, calculate the electrical power delivered to the picture screen.",
+    "a": "5 Watts",
+    "b": "10 Watts",
+    "c": "20 Watts",
+    "d": "15 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A studio-transmitter link (STL) operates in the microwave band at 2.4 GHz. Calculate the free-space wavelength of the STL signal.",
+    "a": "25.0 cm",
+    "b": "12.5 cm",
+    "c": "6.25 cm",
+    "d": "30.0 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A line-of-sight STL link is designed over a distance of 10 km at a frequency of 7 GHz. Calculate the free-space path loss (FSPL) in dB. Use FSPL = 32.44 + 20 * log(d_km) + 20 * log(f_MHz).",
+    "a": "118.46 dB",
+    "b": "129.33 dB",
+    "c": "125.00 dB",
+    "d": "135.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical field-scanning frequency of a TV system is 60 Hz. Calculate the duration of one vertical field scan in milliseconds.",
+    "a": "33.3 ms",
+    "b": "16.67 ms",
+    "c": "8.33 ms",
+    "d": "20.00 ms",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical frame-scanning frequency of a TV system is 30 Hz. Calculate the duration of one complete TV frame scan in milliseconds.",
+    "a": "16.67 ms",
+    "b": "33.33 ms",
+    "c": "66.67 ms",
+    "d": "50.00 ms",
+    "ans": "b"
+  },
+  {
+    "q": "In a PAL TV system, the vertical field frequency is 50 Hz. Calculate the duration of one vertical field in milliseconds.",
+    "a": "40.0 ms",
+    "b": "20.0 ms",
+    "c": "10.0 ms",
+    "d": "50.0 ms",
+    "ans": "b"
+  },
+  {
+    "q": "In a PAL TV system, the vertical frame frequency is 25 Hz. Calculate the duration of one complete TV frame in milliseconds.",
+    "a": "20.0 ms",
+    "b": "40.0 ms",
+    "c": "80.0 ms",
+    "d": "50.0 ms",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace (flyback) time in a TV receiver is 10% of the total horizontal line period (63.5 us). Calculate the retrace time in microseconds.",
+    "a": "5.0 us",
+    "b": "6.35 us",
+    "c": "10.2 us",
+    "d": "8.3 us",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace time in a PAL TV receiver is 12% of the total line period (64 us). Calculate the retrace time in microseconds.",
+    "a": "6.40 us",
+    "b": "7.68 us",
+    "c": "10.20 us",
+    "d": "8.00 us",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 4:3. If the physical height of the screen is 15 inches, calculate the physical width of the screen.",
+    "a": "10 inches",
+    "b": "20 inches",
+    "c": "15 inches",
+    "d": "25 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical width of the screen is 32 inches, calculate the physical height of the screen.",
+    "a": "9 inches",
+    "b": "18 inches",
+    "c": "24 inches",
+    "d": "15 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV receiver contrast control is placed in the video amplifier circuit. If the contrast control is adjusted to increase the video voltage output from 2.0 V to 4.0 V peak-to-peak, calculate the dB increase in the video signal level.",
+    "a": "3.01 dB",
+    "b": "6.02 dB",
+    "c": "10.00 dB",
+    "d": "12.04 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 50 kW. If the visual-to-aural power ratio is specified as 5 to 1, calculate the power of the aural (sound) transmitter.",
+    "a": "5 kW",
+    "b": "10 kW",
+    "c": "25 kW",
+    "d": "15 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 50 kW. If the visual-to-aural power ratio is 5 to 1, calculate the power of the visual (picture) transmitter.",
+    "a": "10 kW",
+    "b": "40 kW",
+    "c": "30 kW",
+    "d": "25 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station operates with an ERP of 35 kW. If the transmitting antenna has a power gain of 7.0, calculate the power output of the transmitter assuming zero transmission line loss.",
+    "a": "10 kW",
+    "b": "5 kW",
+    "c": "25 kW",
+    "d": "15 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A MATV head-end amplifier has a voltage gain of 30 dB. If the input RF voltage from the antenna is 100 uV, calculate the output RF voltage in millivolts.",
+    "a": "1.00 mV",
+    "b": "3.16 mV",
+    "c": "10.00 mV",
+    "d": "5.00 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A CATV trunk amplifier has a voltage gain of 26 dB. If the input RF voltage is 200 uV, calculate the output RF voltage in millivolts.",
+    "a": "2.00 mV",
+    "b": "3.99 mV",
+    "c": "10.00 mV",
+    "d": "5.00 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable used in a CATV network has an attenuation loss of 2.0 dB per 100 meters at 300 MHz. Calculate the total attenuation loss in a 500-meter length of this cable.",
+    "a": "5.0 dB",
+    "b": "10.0 dB",
+    "c": "15.0 dB",
+    "d": "20.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable in a CATV network has an attenuation of 1.5 dB per 100 meters at 100 MHz. Calculate the total attenuation loss in a 400-meter length of this cable.",
+    "a": "3.0 dB",
+    "b": "6.0 dB",
+    "c": "9.0 dB",
+    "d": "12.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an unmodulated carrier frequency of 88.3 MHz. If the peak frequency deviation is 50 kHz when modulated by an audio tone, calculate the percentage of modulation of the station relative to the 75 kHz standard.",
+    "a": "33.3%",
+    "b": "66.7%",
+    "c": "50.0%",
+    "d": "100.0%",
+    "ans": "b"
+  },
+  {
+    "q": "If DZFE 89.7's antenna HAAT is 190 feet, find the distance to the radio horizon in miles using the formula d_miles = sqrt(2 * HAAT_feet).",
+    "a": "13.78 miles",
+    "b": "19.49 miles",
+    "c": "27.56 miles",
+    "d": "10.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station's antenna has a HAAT of 800 feet. Find the distance to the radio horizon in miles.",
+    "a": "20.00 miles",
+    "b": "40.00 miles",
+    "c": "28.28 miles",
+    "d": "56.56 miles",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station's antenna has a HAAT of 200 feet. Find the distance to the radio horizon in miles.",
+    "a": "14.14 miles",
+    "b": "20.00 miles",
+    "c": "28.28 miles",
+    "d": "10.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station antenna has a HAAT of 450 feet. Find the distance to the radio horizon in miles.",
+    "a": "15.00 miles",
+    "b": "30.00 miles",
+    "c": "21.21 miles",
+    "d": "45.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a carrier frequency of 55.25 MHz. Calculate the wavelength of this RF carrier in free space.",
+    "a": "2.71 meters",
+    "b": "5.43 meters",
+    "c": "1.36 meters",
+    "d": "10.86 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a carrier frequency of 175.25 MHz. Calculate the wavelength of this RF carrier in free space.",
+    "a": "0.85 meters",
+    "b": "1.71 meters",
+    "c": "3.42 meters",
+    "d": "2.50 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an RF carrier frequency of 100 MHz. Calculate the wavelength of this carrier in free space.",
+    "a": "1.5 meters",
+    "b": "3.0 meters",
+    "c": "6.0 meters",
+    "d": "4.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An AM broadcast station has an RF carrier frequency of 1000 kHz. Calculate the wavelength of this carrier in free space.",
+    "a": "150 meters",
+    "b": "300 meters",
+    "c": "600 meters",
+    "d": "450 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A TV transmitter has an unmodulated video carrier power of 50 kW. If it is modulated by a flat grey field to a modulation index of 60%, calculate the total transmitted power.",
+    "a": "55.0 kW",
+    "b": "59.0 kW",
+    "c": "68.0 kW",
+    "d": "50.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM transmitter has an output power of 5 kW. If the transmission line has a loss of 1.5 dB and the antenna has a power gain of 8.0, calculate the ERP of the station.",
+    "a": "15.0 kW",
+    "b": "28.3 kW",
+    "c": "40.0 kW",
+    "d": "20.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An AM broadcast transmitter is tuned to 1500 kHz and is modulated by an audio tone of 10 kHz. Calculate the bandwidth of the transmitted AM signal.",
+    "a": "10 kHz",
+    "b": "20 kHz",
+    "c": "30 kHz",
+    "d": "15 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal line frequency of a PAL TV system is 15625 Hz. Calculate the total duration of one horizontal line (H) in microseconds. Use H = 1 / f_H.",
+    "a": "50.0 us",
+    "b": "64.0 us",
+    "c": "10.2 us",
+    "d": "83.3 us",
+    "ans": "b"
+  },
+  {
+    "q": "In a PAL TV system, the horizontal blanking interval is specified as 12.0 us. If the total line period is 64.0 us, calculate the active line trace time.",
+    "a": "12.0 us",
+    "b": "52.0 us",
+    "c": "64.0 us",
+    "d": "50.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 4:3. If the physical height of the screen is 12 inches, calculate the physical width of the screen.",
+    "a": "9 inches",
+    "b": "16 inches",
+    "c": "12 inches",
+    "d": "20 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical width of the screen is 48 inches, calculate the physical height of the screen.",
+    "a": "18 inches",
+    "b": "27 inches",
+    "c": "36 inches",
+    "d": "20 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 100 kW. If the visual-to-aural power ratio is specified as 10 to 1, calculate the power of the aural (sound) transmitter.",
+    "a": "5 kW",
+    "b": "10 kW",
+    "c": "25 kW",
+    "d": "15 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 100 kW. If the visual-to-aural power ratio is 10 to 1, calculate the power of the visual (picture) transmitter.",
+    "a": "10 kW",
+    "b": "90 kW",
+    "c": "80 kW",
+    "d": "50 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station operates with an ERP of 50 kW. If the transmitting antenna has a power gain of 10.0, calculate the power output of the transmitter assuming zero transmission line loss.",
+    "a": "10 kW",
+    "b": "5 kW",
+    "c": "25 kW",
+    "d": "15 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A MATV head-end amplifier has a voltage gain of 20 dB. If the input RF voltage from the antenna is 200 uV, calculate the output RF voltage in millivolts.",
+    "a": "1.00 mV",
+    "b": "2.00 mV",
+    "c": "10.00 mV",
+    "d": "5.00 mV",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an unmodulated carrier frequency of 100.1 MHz. If the peak frequency deviation is 60 kHz when modulated by an audio tone, calculate the percentage of modulation of the station relative to the 75 kHz standard.",
+    "a": "40%",
+    "b": "80%",
+    "c": "50%",
+    "d": "100%",
+    "ans": "b"
+  },
+  {
+    "q": "If an FM antenna has a HAAT of 300 feet, find the distance to the radio horizon in miles.",
+    "a": "17.32 miles",
+    "b": "24.49 miles",
+    "c": "28.28 miles",
+    "d": "15.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station antenna has a HAAT of 500 feet. Find the distance to the radio horizon in miles.",
+    "a": "22.36 miles",
+    "b": "31.62 miles",
+    "c": "25.00 miles",
+    "d": "45.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a carrier frequency of 61.25 MHz. Calculate the wavelength of this RF carrier in free space.",
+    "a": "2.45 meters",
+    "b": "4.90 meters",
+    "c": "1.23 meters",
+    "d": "9.80 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an RF carrier frequency of 105 MHz. Calculate the wavelength of this carrier in free space.",
+    "a": "1.43 meters",
+    "b": "2.86 meters",
+    "c": "5.72 meters",
+    "d": "4.29 meters",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal line frequency of a TV system is 15750 Hz. If the horizontal retrace time is 16% of the total line period, calculate the retrace time in microseconds.",
+    "a": "5.0 us",
+    "b": "10.2 us",
+    "c": "8.3 us",
+    "d": "12.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical field-scanning frequency of a TV system is 60 Hz. If the vertical blanking interval is equal to 8% of the vertical field scan time, calculate the vertical blanking period in milliseconds.",
+    "a": "0.67 ms",
+    "b": "1.33 ms",
+    "c": "2.67 ms",
+    "d": "0.33 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical height of the screen is 27 inches, calculate the physical width of the screen.",
+    "a": "16 inches",
+    "b": "48 inches",
+    "c": "32 inches",
+    "d": "24 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV receiver contrast control is placed in the video amplifier circuit. If the contrast control is adjusted to increase the video voltage output from 1.5 V to 3.0 V peak-to-peak, calculate the dB increase in the video signal level.",
+    "a": "3.01 dB",
+    "b": "6.02 dB",
+    "c": "10.00 dB",
+    "d": "12.04 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 5 occupies the frequency band of 76 to 82 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "76.00 MHz",
+    "b": "77.25 MHz",
+    "c": "81.75 MHz",
+    "d": "80.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 5 (76 to 82 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "77.25 MHz",
+    "b": "81.75 MHz",
+    "c": "80.83 MHz",
+    "d": "82.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 5 (76 to 82 MHz), calculate the frequency of its color subcarrier.",
+    "a": "77.25 MHz",
+    "b": "80.83 MHz",
+    "c": "81.75 MHz",
+    "d": "76.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 6 occupies the frequency band of 82 to 88 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "82.00 MHz",
+    "b": "83.25 MHz",
+    "c": "87.75 MHz",
+    "d": "86.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 6 (82 to 88 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "83.25 MHz",
+    "b": "87.75 MHz",
+    "c": "86.83 MHz",
+    "d": "88.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 6 (82 to 88 MHz), calculate the frequency of its color subcarrier.",
+    "a": "83.25 MHz",
+    "b": "86.83 MHz",
+    "c": "87.75 MHz",
+    "d": "82.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 8 occupies the frequency band of 180 to 186 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "180.00 MHz",
+    "b": "181.25 MHz",
+    "c": "185.75 MHz",
+    "d": "184.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 8 (180 to 186 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "181.25 MHz",
+    "b": "185.75 MHz",
+    "c": "184.83 MHz",
+    "d": "186.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 8 (180 to 186 MHz), calculate the frequency of its color subcarrier.",
+    "a": "181.25 MHz",
+    "b": "184.83 MHz",
+    "c": "185.75 MHz",
+    "d": "180.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 10 occupies the frequency band of 192 to 198 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "192.00 MHz",
+    "b": "193.25 MHz",
+    "c": "197.75 MHz",
+    "d": "196.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 10 (192 to 198 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "193.25 MHz",
+    "b": "197.75 MHz",
+    "c": "196.83 MHz",
+    "d": "198.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 10 (192 to 198 MHz), calculate the frequency of its color subcarrier.",
+    "a": "193.25 MHz",
+    "b": "196.83 MHz",
+    "c": "197.75 MHz",
+    "d": "192.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 11 occupies the frequency band of 198 to 204 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "198.00 MHz",
+    "b": "199.25 MHz",
+    "c": "203.75 MHz",
+    "d": "202.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 11 (198 to 204 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "199.25 MHz",
+    "b": "203.75 MHz",
+    "c": "202.83 MHz",
+    "d": "204.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 11 (198 to 204 MHz), calculate the frequency of its color subcarrier.",
+    "a": "199.25 MHz",
+    "b": "202.83 MHz",
+    "c": "203.75 MHz",
+    "d": "198.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 12 occupies the frequency band of 204 to 210 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "204.00 MHz",
+    "b": "205.25 MHz",
+    "c": "209.75 MHz",
+    "d": "208.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 12 (204 to 210 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "205.25 MHz",
+    "b": "209.75 MHz",
+    "c": "208.83 MHz",
+    "d": "210.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 12 (204 to 210 MHz), calculate the frequency of its color subcarrier.",
+    "a": "205.25 MHz",
+    "b": "208.83 MHz",
+    "c": "209.75 MHz",
+    "d": "204.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A television camera has a solid-state sensor that operates with a dark current of 0.1 uA. If the photo-generated current under nominal lighting is 1.5 uA, calculate the total output current of the sensor.",
+    "a": "1.4 uA",
+    "b": "1.6 uA",
+    "c": "0.1 uA",
+    "d": "1.5 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube requires a high-voltage anode supply of 20 kV. If the beam current is 0.5 mA, calculate the electrical power delivered to the picture screen.",
+    "a": "5 Watts",
+    "b": "10 Watts",
+    "c": "20 Watts",
+    "d": "15 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A studio-transmitter link (STL) operates in the microwave band at 5.8 GHz. Calculate the free-space wavelength of the STL signal.",
+    "a": "10.3 cm",
+    "b": "5.17 cm",
+    "c": "2.58 cm",
+    "d": "12.50 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A line-of-sight STL link is designed over a distance of 15 km at a frequency of 10 GHz. Calculate the free-space path loss (FSPL) in dB.",
+    "a": "125.50 dB",
+    "b": "135.96 dB",
+    "c": "129.54 dB",
+    "d": "145.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace time in a TV receiver is 8% of the total horizontal line period (63.5 us). Calculate the retrace time in microseconds.",
+    "a": "2.54 us",
+    "b": "5.08 us",
+    "c": "10.16 us",
+    "d": "6.35 us",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace time in a PAL TV receiver is 10% of the total line period (64 us). Calculate the retrace time in microseconds.",
+    "a": "3.20 us",
+    "b": "6.40 us",
+    "c": "12.80 us",
+    "d": "8.00 us",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 4:3. If the physical height of the screen is 9 inches, calculate the physical width of the screen.",
+    "a": "6 inches",
+    "b": "12 inches",
+    "c": "9 inches",
+    "d": "15 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical width of the screen is 16 inches, calculate the physical height of the screen.",
+    "a": "4.5 inches",
+    "b": "9.0 inches",
+    "c": "12.0 inches",
+    "d": "7.5 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 25 kW. If the visual-to-aural power ratio is specified as 5 to 1, calculate the power of the aural (sound) transmitter.",
+    "a": "2.5 kW",
+    "b": "5.0 kW",
+    "c": "12.5 kW",
+    "d": "7.5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 25 kW. If the visual-to-aural power ratio is 5 to 1, calculate the power of the visual (picture) transmitter.",
+    "a": "5 kW",
+    "b": "20 kW",
+    "c": "15 kW",
+    "d": "12.5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station operates with an ERP of 20 kW. If the transmitting antenna has a power gain of 5.0, calculate the power output of the transmitter assuming zero transmission line loss.",
+    "a": "2 kW",
+    "b": "4 kW",
+    "c": "10 kW",
+    "d": "6 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A MATV head-end amplifier has a voltage gain of 40 dB. If the input RF voltage from the antenna is 50 uV, calculate the output RF voltage in millivolts.",
+    "a": "0.50 mV",
+    "b": "5.00 mV",
+    "c": "10.00 mV",
+    "d": "2.50 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A CATV trunk amplifier has a voltage gain of 20 dB. If the input RF voltage is 500 uV, calculate the output RF voltage in millivolts.",
+    "a": "2.50 mV",
+    "b": "5.00 mV",
+    "c": "10.00 mV",
+    "d": "1.25 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable used in a CATV network has an attenuation loss of 2.5 dB per 100 meters at 300 MHz. Calculate the total attenuation loss in a 200-meter length of this cable.",
+    "a": "2.5 dB",
+    "b": "5.0 dB",
+    "c": "7.5 dB",
+    "d": "10.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable in a CATV network has an attenuation of 2.0 dB per 100 meters at 100 MHz. Calculate the total attenuation loss in a 300-meter length of this cable.",
+    "a": "2.0 dB",
+    "b": "6.0 dB",
+    "c": "4.0 dB",
+    "d": "8.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an unmodulated carrier frequency of 95.5 MHz. If the peak frequency deviation is 37.5 kHz when modulated by an audio tone, calculate the percentage of modulation of the station relative to the 75 kHz standard.",
+    "a": "25%",
+    "b": "50%",
+    "c": "75%",
+    "d": "100%",
+    "ans": "b"
+  },
+  {
+    "q": "If an FM antenna has a HAAT of 800 feet, find the distance to the radio horizon in miles.",
+    "a": "20.00 miles",
+    "b": "40.00 miles",
+    "c": "28.28 miles",
+    "d": "10.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station antenna has a HAAT of 1800 feet. Find the distance to the radio horizon in miles.",
+    "a": "42.42 miles",
+    "b": "60.00 miles",
+    "c": "51.96 miles",
+    "d": "30.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a carrier frequency of 67.25 MHz. Calculate the wavelength of this RF carrier in free space.",
+    "a": "2.23 meters",
+    "b": "4.46 meters",
+    "c": "1.12 meters",
+    "d": "8.92 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an RF carrier frequency of 90 MHz. Calculate the wavelength of this carrier in free space.",
+    "a": "1.67 meters",
+    "b": "3.33 meters",
+    "c": "6.66 meters",
+    "d": "5.00 meters",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal line frequency of a TV system is 15750 Hz. If the horizontal retrace time is 12% of the total line period, calculate the retrace time in microseconds.",
+    "a": "3.81 us",
+    "b": "7.62 us",
+    "c": "5.08 us",
+    "d": "10.16 us",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical field-scanning frequency of a TV system is 60 Hz. If the vertical blanking interval is equal to 10% of the vertical field scan time, calculate the vertical blanking period in milliseconds.",
+    "a": "0.83 ms",
+    "b": "1.67 ms",
+    "c": "3.33 ms",
+    "d": "0.42 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical height of the screen is 18 inches, calculate the physical width of the screen.",
+    "a": "16 inches",
+    "b": "32 inches",
+    "c": "24 inches",
+    "d": "20 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV receiver contrast control is placed in the video amplifier circuit. If the contrast control is adjusted to increase the video voltage output from 1.0 V to 2.0 V peak-to-peak, calculate the dB increase in the video signal level.",
+    "a": "3.01 dB",
+    "b": "6.02 dB",
+    "c": "10.00 dB",
+    "d": "12.04 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 14 (UHF) occupies the frequency band of 470 to 476 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "470.00 MHz",
+    "b": "471.25 MHz",
+    "c": "475.75 MHz",
+    "d": "474.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 14 (470 to 476 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "471.25 MHz",
+    "b": "475.75 MHz",
+    "c": "474.83 MHz",
+    "d": "476.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 14 (470 to 476 MHz), calculate the frequency of its color subcarrier.",
+    "a": "471.25 MHz",
+    "b": "474.83 MHz",
+    "c": "475.75 MHz",
+    "d": "470.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 20 occupies the frequency band of 506 to 512 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "506.00 MHz",
+    "b": "507.25 MHz",
+    "c": "511.75 MHz",
+    "d": "510.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 20 (506 to 512 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "507.25 MHz",
+    "b": "511.75 MHz",
+    "c": "510.83 MHz",
+    "d": "512.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 20 (506 to 512 MHz), calculate the frequency of its color subcarrier.",
+    "a": "507.25 MHz",
+    "b": "510.83 MHz",
+    "c": "511.75 MHz",
+    "d": "506.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 30 occupies the frequency band of 566 to 572 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "566.00 MHz",
+    "b": "567.25 MHz",
+    "c": "571.75 MHz",
+    "d": "570.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 30 (566 to 572 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "567.25 MHz",
+    "b": "571.75 MHz",
+    "c": "570.83 MHz",
+    "d": "572.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 30 (566 to 572 MHz), calculate the frequency of its color subcarrier.",
+    "a": "567.25 MHz",
+    "b": "570.83 MHz",
+    "c": "571.75 MHz",
+    "d": "566.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 40 occupies the frequency band of 626 to 632 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "626.00 MHz",
+    "b": "627.25 MHz",
+    "c": "631.75 MHz",
+    "d": "630.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 40 (626 to 632 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "627.25 MHz",
+    "b": "631.75 MHz",
+    "c": "630.83 MHz",
+    "d": "632.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 40 (626 to 632 MHz), calculate the frequency of its color subcarrier.",
+    "a": "627.25 MHz",
+    "b": "630.83 MHz",
+    "c": "631.75 MHz",
+    "d": "626.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 50 occupies the frequency band of 686 to 692 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "686.00 MHz",
+    "b": "687.25 MHz",
+    "c": "691.75 MHz",
+    "d": "690.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 50 (686 to 692 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "687.25 MHz",
+    "b": "691.75 MHz",
+    "c": "690.83 MHz",
+    "d": "692.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 50 (686 to 692 MHz), calculate the frequency of its color subcarrier.",
+    "a": "687.25 MHz",
+    "b": "690.83 MHz",
+    "c": "691.75 MHz",
+    "d": "686.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A television camera has a solid-state sensor that operates with a dark current of 0.05 uA. If the photo-generated current under nominal lighting is 1.0 uA, calculate the total output current of the sensor.",
+    "a": "0.95 uA",
+    "b": "1.05 uA",
+    "c": "0.05 uA",
+    "d": "1.00 uA",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube requires a high-voltage anode supply of 15 kV. If the beam current is 0.4 mA, calculate the electrical power delivered to the picture screen.",
+    "a": "3 Watts",
+    "b": "6 Watts",
+    "c": "12 Watts",
+    "d": "9 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A studio-transmitter link (STL) operates in the microwave band at 13 GHz. Calculate the free-space wavelength of the STL signal.",
+    "a": "4.61 cm",
+    "b": "2.31 cm",
+    "c": "1.15 cm",
+    "d": "6.25 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A line-of-sight STL link is designed over a distance of 20 km at a frequency of 12 GHz. Calculate the free-space path loss (FSPL) in dB.",
+    "a": "130.00 dB",
+    "b": "140.02 dB",
+    "c": "135.50 dB",
+    "d": "145.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace time in a TV receiver is 6% of the total horizontal line period (63.5 us). Calculate the retrace time in microseconds.",
+    "a": "1.90 us",
+    "b": "3.81 us",
+    "c": "7.62 us",
+    "d": "5.08 us",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal retrace time in a PAL TV receiver is 8% of the total line period (64 us). Calculate the retrace time in microseconds.",
+    "a": "2.56 us",
+    "b": "5.12 us",
+    "c": "10.24 us",
+    "d": "6.40 us",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 4:3. If the physical height of the screen is 6 inches, calculate the physical width of the screen.",
+    "a": "4 inches",
+    "b": "8 inches",
+    "c": "6 inches",
+    "d": "10 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical width of the screen is 8 inches, calculate the physical height of the screen.",
+    "a": "2.25 inches",
+    "b": "4.50 inches",
+    "c": "6.00 inches",
+    "d": "3.75 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 10 kW. If the visual-to-aural power ratio is specified as 5 to 1, calculate the power of the aural (sound) transmitter.",
+    "a": "1 kW",
+    "b": "2 kW",
+    "c": "5 kW",
+    "d": "3 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a total power output of 10 kW. If the visual-to-aural power ratio is 5 to 1, calculate the power of the visual (picture) transmitter.",
+    "a": "2 kW",
+    "b": "8 kW",
+    "c": "6 kW",
+    "d": "5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station operates with an ERP of 10 kW. If the transmitting antenna has a power gain of 4.0, calculate the power output of the transmitter assuming zero transmission line loss.",
+    "a": "1.0 kW",
+    "b": "2.5 kW",
+    "c": "5.0 kW",
+    "d": "3.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A MATV head-end amplifier has a voltage gain of 30 dB. If the input RF voltage from the antenna is 200 uV, calculate the output RF voltage in millivolts.",
+    "a": "2.00 mV",
+    "b": "6.32 mV",
+    "c": "10.00 mV",
+    "d": "5.00 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A television transmitter operates with an output power of 1 kW. If the feedline loss is 2 dB and the antenna gain is 10 dBd, calculate the station's ERP in kW.",
+    "a": "5.0 kW",
+    "b": "6.3 kW",
+    "c": "8.0 kW",
+    "d": "4.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An FM transmitter has an output power of 2 kW. If the transmission line has a loss of 1.0 dB and the antenna has a power gain of 6.0, calculate the ERP of the station.",
+    "a": "6.0 kW",
+    "b": "9.5 kW",
+    "c": "12.0 kW",
+    "d": "8.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable used in a CATV network has an attenuation loss of 3.0 dB per 100 meters at 300 MHz. Calculate the total attenuation loss in a 150-meter length of this cable.",
+    "a": "3.0 dB",
+    "b": "4.5 dB",
+    "c": "6.0 dB",
+    "d": "9.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable in a CATV network has an attenuation of 2.5 dB per 100 meters at 100 MHz. Calculate the total attenuation loss in a 200-meter length of this cable.",
+    "a": "2.5 dB",
+    "b": "5.0 dB",
+    "c": "7.5 dB",
+    "d": "10.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an unmodulated carrier frequency of 105.5 MHz. If the peak frequency deviation is 45 kHz when modulated by an audio tone, calculate the percentage of modulation of the station relative to the 75 kHz standard.",
+    "a": "30%",
+    "b": "60%",
+    "c": "45%",
+    "d": "90%",
+    "ans": "b"
+  },
+  {
+    "q": "If an FM antenna has a HAAT of 450 feet, find the distance to the radio horizon in miles.",
+    "a": "15.00 miles",
+    "b": "30.00 miles",
+    "c": "21.21 miles",
+    "d": "10.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A TV station antenna has a HAAT of 1250 feet. Find the distance to the radio horizon in miles.",
+    "a": "35.36 miles",
+    "b": "50.00 miles",
+    "c": "41.21 miles",
+    "d": "25.00 miles",
+    "ans": "b"
+  },
+  {
+    "q": "A television broadcast transmitter has a carrier frequency of 83.25 MHz. Calculate the wavelength of this RF carrier in free space.",
+    "a": "1.80 meters",
+    "b": "3.60 meters",
+    "c": "0.90 meters",
+    "d": "7.20 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An FM broadcast station has an RF carrier frequency of 98 MHz. Calculate the wavelength of this carrier in free space.",
+    "a": "1.53 meters",
+    "b": "3.06 meters",
+    "c": "6.12 meters",
+    "d": "4.59 meters",
+    "ans": "b"
+  },
+  {
+    "q": "The horizontal line frequency of a TV system is 15750 Hz. If the horizontal retrace time is 10% of the total line period, calculate the retrace time in microseconds.",
+    "a": "3.17 us",
+    "b": "6.35 us",
+    "c": "5.08 us",
+    "d": "8.33 us",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical field-scanning frequency of a TV system is 60 Hz. If the vertical blanking interval is equal to 12% of the vertical field scan time, calculate the vertical blanking period in milliseconds.",
+    "a": "1.00 ms",
+    "b": "2.00 ms",
+    "c": "4.00 ms",
+    "d": "0.50 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A TV picture tube has an aspect ratio of 16:9. If the physical height of the screen is 9 inches, calculate the physical width of the screen.",
+    "a": "8 inches",
+    "b": "16 inches",
+    "c": "12 inches",
+    "d": "10 inches",
+    "ans": "b"
+  },
+  {
+    "q": "A TV receiver contrast control is placed in the video amplifier circuit. If the contrast control is adjusted to increase the video voltage output from 2.0 V to 3.0 V peak-to-peak, calculate the dB increase in the video signal level.",
+    "a": "1.76 dB",
+    "b": "3.52 dB",
+    "c": "6.02 dB",
+    "d": "4.50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 60 occupies the frequency band of 746 to 752 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "746.00 MHz",
+    "b": "747.25 MHz",
+    "c": "751.75 MHz",
+    "d": "750.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 60 (746 to 752 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "747.25 MHz",
+    "b": "751.75 MHz",
+    "c": "750.83 MHz",
+    "d": "752.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 60 (746 to 752 MHz), calculate the frequency of its color subcarrier.",
+    "a": "747.25 MHz",
+    "b": "750.83 MHz",
+    "c": "751.75 MHz",
+    "d": "746.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "If NTSC Channel 69 occupies the frequency band of 800 to 806 MHz, calculate the frequency of its visual (picture) carrier.",
+    "a": "800.00 MHz",
+    "b": "801.25 MHz",
+    "c": "805.75 MHz",
+    "d": "804.83 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 69 (800 to 806 MHz), calculate the frequency of its aural (sound) carrier.",
+    "a": "801.25 MHz",
+    "b": "805.75 MHz",
+    "c": "804.83 MHz",
+    "d": "806.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "For NTSC Channel 69 (800 to 806 MHz), calculate the frequency of its color subcarrier.",
+    "a": "801.25 MHz",
+    "b": "804.83 MHz",
+    "c": "805.75 MHz",
+    "d": "800.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 285?",
+    "a": "104.5 MHz",
+    "b": "104.9 MHz",
+    "c": "104.1 MHz",
+    "d": "99.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 99.5 MHz.",
+    "a": "254",
+    "b": "258",
+    "c": "256",
+    "d": "260",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of an FM station with a channel number of 210?",
+    "a": "88.1 MHz",
+    "b": "89.9 MHz",
+    "c": "90.1 MHz",
+    "d": "89.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the channel number for an FM station with a carrier frequency of 91.9 MHz.",
+    "a": "218",
+    "b": "220",
+    "c": "222",
+    "d": "224",
+    "ans": "b"
+  }
+]

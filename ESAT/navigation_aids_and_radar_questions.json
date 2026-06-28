@@ -1,0 +1,1650 @@
+[
+  {
+    "q": "What radar subsystem allows a single antenna to be used for both transmitting and receiving pulses?",
+    "a": "diplexer",
+    "b": "duplexer",
+    "c": "circulator",
+    "d": "hybrid tee",
+    "ans": "b"
+  },
+  {
+    "q": "Which radar indicator displays the target's range as a horizontal deflection and the target's echo amplitude as a vertical deflection?",
+    "a": "B-scope",
+    "b": "A-scope",
+    "c": "C-scope",
+    "d": "Plan Position Indicator",
+    "ans": "b"
+  },
+  {
+    "q": "What type of radar display shows a map-like circular sweep where target range is represented by radial distance from the center and bearing is represented by the angle?",
+    "a": "A-scope",
+    "b": "Plan Position Indicator (PPI)",
+    "c": "B-scope",
+    "d": "C-scope",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of radar display plots the target's azimuth bearing on the horizontal axis and its range on the vertical axis?",
+    "a": "A-scope",
+    "b": "B-scope",
+    "c": "C-scope",
+    "d": "E-scope",
+    "ans": "b"
+  },
+  {
+    "q": "What device is a gas-filled tube used in a radar duplexer to protect the sensitive receiver from high-power transmitter pulses?",
+    "a": "ATR cell",
+    "b": "TR cell",
+    "c": "thyratron",
+    "d": "magnetron",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of the ATR (Anti-Transmit-Receive) cell in a radar duplexer?",
+    "a": "To prevent the received echo signal from entering the transmitter",
+    "b": "To prevent the transmitted signal from entering the receiver",
+    "c": "To amplify weak echo pulses",
+    "d": "To synchronize the sweep generator",
+    "ans": "a"
+  },
+  {
+    "q": "Which radar transmitter tube is a high-power crossed-field oscillator widely used for producing short RF pulses?",
+    "a": "Klystron",
+    "b": "Magnetron",
+    "c": "Traveling Wave Tube",
+    "d": "Gunn diode",
+    "ans": "b"
+  },
+  {
+    "q": "What type of radar continuously transmits RF energy and detects moving targets by measuring the frequency shift of the reflected wave?",
+    "a": "Pulsed radar",
+    "b": "Continuous Wave (CW) Doppler radar",
+    "c": "Synthetic Aperture Radar",
+    "d": "Monopulse tracking radar",
+    "ans": "b"
+  },
+  {
+    "q": "What radar technique is specifically designed to filter out stationary ground clutter and display only moving targets?",
+    "a": "Frequency Modulated CW radar",
+    "b": "Moving Target Indicator (MTI) radar",
+    "c": "Synthetic Aperture Radar",
+    "d": "Plan Position Indicator",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the unwanted radar echoes returned from stationary physical objects like trees, hills, and buildings?",
+    "a": "ghosts",
+    "b": "clutter",
+    "c": "noise floor",
+    "d": "blips",
+    "ans": "b"
+  },
+  {
+    "q": "Which radar system uses the physical motion of the radar platform (such as an aircraft) to simulate a much larger antenna aperture, providing high-resolution ground mapping?",
+    "a": "Phased array radar",
+    "b": "Synthetic Aperture Radar (SAR)",
+    "c": "Over-The-Horizon radar",
+    "d": "Bistatic radar",
+    "ans": "b"
+  },
+  {
+    "q": "In a radar receiver, what circuit is used to vary the receiver gain as a function of time, preventing saturation from strong nearby echoes?",
+    "a": "Fast Time Constant (FTC)",
+    "b": "Sensitivity Time Control (STC)",
+    "c": "Automatic Frequency Control (AFC)",
+    "d": "Automatic Gain Control (AGC)",
+    "ans": "b"
+  },
+  {
+    "q": "What circuit in a radar receiver reduces the effect of long-duration clutter blocks, such as rain or clouds, by behaving as a high-pass filter?",
+    "a": "Sensitivity Time Control (STC)",
+    "b": "Fast Time Constant (FTC)",
+    "c": "Discriminator",
+    "d": "Envelope detector",
+    "ans": "b"
+  },
+  {
+    "q": "What radar tracking method compares the amplitude or phase of echo signals received from a single pulse using multiple feedhorns?",
+    "a": "Conical scanning",
+    "b": "Monopulse tracking",
+    "c": "Sequential lobing",
+    "d": "Track-while-scan",
+    "ans": "b"
+  },
+  {
+    "q": "What early radar tracking method physically rotates the radar beam in a continuous narrow cone around the tracking axis?",
+    "a": "Monopulse tracking",
+    "b": "Conical scanning",
+    "c": "Sector scanning",
+    "d": "Raster scanning",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the radar cross section (RCS) of a target?",
+    "a": "The actual physical cross-sectional area of the target",
+    "b": "The equivalent hypothetical area that would intercept and scatter electromagnetic energy back to the radar",
+    "c": "The coordinate area of the target on the PPI screen",
+    "d": "The ratio of the target's height to the radar horizon",
+    "ans": "b"
+  },
+  {
+    "q": "What navigation aid uses low-frequency pulsed transmissions from master and secondary stations to establish hyperbolic lines of position?",
+    "a": "VOR",
+    "b": "LORAN-C",
+    "c": "DME",
+    "d": "DECCA",
+    "ans": "b"
+  },
+  {
+    "q": "What radio navigation system operates in the VLF band (10 to 14 kHz) to provide global coverage using phase comparison techniques?",
+    "a": "LORAN-C",
+    "b": "OMEGA",
+    "c": "DECCA",
+    "d": "VOR",
+    "ans": "b"
+  },
+  {
+    "q": "What navigation aid operates in the LF band and determines position by comparing the phase of continuous wave signals from a chain of four stations?",
+    "a": "LORAN-A",
+    "b": "DECCA",
+    "c": "OMEGA",
+    "d": "TACAN",
+    "ans": "b"
+  },
+  {
+    "q": "What component of the Instrument Landing System (ILS) indicates to the pilot whether the aircraft is laterally centered on the runway?",
+    "a": "Glide slope",
+    "b": "Localizer",
+    "c": "Marker beacons",
+    "d": "Distance Measuring Equipment",
+    "ans": "b"
+  },
+  {
+    "q": "What component of the Instrument Landing System (ILS) provides vertical guidance, showing the pilot the correct angle of descent?",
+    "a": "Localizer",
+    "b": "Glide slope",
+    "c": "Compass locator",
+    "d": "Inner marker",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard glide slope descent angle for most ILS installations?",
+    "a": "1.5°",
+    "b": "3.0°",
+    "c": "5.0°",
+    "d": "4.5°",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two audio modulation frequencies used in both the ILS localizer and glide slope systems to determine deviation from the centerline?",
+    "a": "19 kHz and 38 kHz",
+    "b": "90 Hz and 150 Hz",
+    "c": "400 Hz and 1000 Hz",
+    "d": "60 Hz and 120 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What ILS marker beacon is located furthest from the runway threshold, typically 4 to 7 miles out, and modulates a 75-MHz carrier with a 400-Hz tone?",
+    "a": "Middle marker (MM)",
+    "b": "Outer marker (OM)",
+    "c": "Inner marker (IM)",
+    "d": "Boundary marker",
+    "ans": "b"
+  },
+  {
+    "q": "What ILS marker beacon is located approximately 3,500 feet from the runway threshold and modulates a 75-MHz carrier with a 1300-Hz tone?",
+    "a": "Outer marker (OM)",
+    "b": "Middle marker (MM)",
+    "c": "Inner marker (IM)",
+    "d": "Back marker",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency used by all marker beacons in the Instrument Landing System (ILS)?",
+    "a": "108.10 MHz",
+    "b": "75.00 MHz",
+    "c": "330.00 MHz",
+    "d": "962.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What microwave-frequency landing system was designed to replace ILS by providing wider coverage angles and curved approach paths?",
+    "a": "VOR",
+    "b": "Microwave Landing System (MLS)",
+    "c": "TACAN",
+    "d": "LORAN-C",
+    "ans": "b"
+  },
+  {
+    "q": "What navigation system operates in the VHF band (108 to 117.95 MHz) and provides 360 radial courses to or from the station by phase comparison?",
+    "a": "NDB",
+    "b": "VHF Omnidirectional Range (VOR)",
+    "c": "DME",
+    "d": "TACAN",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two 30-Hz signals compared in a VOR receiver to determine the aircraft's bearing from the station?",
+    "a": "The amplitude signal and the frequency signal",
+    "b": "The reference phase signal and the variable phase signal",
+    "c": "The localizer sweep and the glide slope sweep",
+    "d": "The mark frequency and the space frequency",
+    "ans": "b"
+  },
+  {
+    "q": "What navigation aid operates in the UHF band (962 to 1213 MHz) to measure the slant-range distance of an aircraft from a station using pulse-pair delay?",
+    "a": "VOR",
+    "b": "Distance Measuring Equipment (DME)",
+    "c": "ADF",
+    "d": "LORAN-C",
+    "ans": "b"
+  },
+  {
+    "q": "What tactical air navigation system, primarily used by the military, integrates both azimuth (bearing) and distance measuring (DME) functions into a single UHF facility?",
+    "a": "VOR",
+    "b": "TACAN",
+    "c": "VORTAC",
+    "d": "LORAN-A",
+    "ans": "b"
+  },
+  {
+    "q": "What aircraft instrument displays bearing relative to a Non-Directional Beacon (NDB) operating in the LF/MF band?",
+    "a": "Distance Measuring Equipment (DME)",
+    "b": "Automatic Direction Finder (ADF)",
+    "c": "Instrument Landing System (ILS)",
+    "d": "Radio Altimeter",
+    "ans": "b"
+  },
+  {
+    "q": "What are the two antennas required by an ADF receiver to resolve 180-degree directional ambiguity?",
+    "a": "Two identical half-wave dipoles",
+    "b": "A directional loop antenna and an omnidirectional sense antenna",
+    "c": "A parabolic dish and a feed horn",
+    "d": "An E-plane horn and an H-plane horn",
+    "ans": "b"
+  },
+  {
+    "q": "What type of underwater acoustic system propagates acoustic pulses to detect and locate underwater objects by analyzing their echoes?",
+    "a": "Radar",
+    "b": "Active Sonar",
+    "c": "Passive Sonar",
+    "d": "Lidar",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of sonar system listens to underwater sounds emitted by targets without transmitting any acoustic pulses?",
+    "a": "Active Sonar",
+    "b": "Passive Sonar",
+    "c": "Side-scan Sonar",
+    "d": "Echosounder",
+    "ans": "b"
+  },
+  {
+    "q": "What component in a sonar system converts electrical energy into acoustic energy in water, and vice versa?",
+    "a": "Magnetron",
+    "b": "Electroacoustic transducer",
+    "c": "Duplexer cell",
+    "d": "Reflector",
+    "ans": "b"
+  },
+  {
+    "q": "What physical phenomenon occurs when there is a sharp boundary layer in water temperature (a thermocline), causing sonar rays to bend?",
+    "a": "Acoustic diffraction",
+    "b": "Acoustic refraction",
+    "c": "Acoustic scattering",
+    "d": "Acoustic absorption",
+    "ans": "b"
+  },
+  {
+    "q": "The term GMDSS refers to which maritime communications safety framework?",
+    "a": "Global Marine Direction and Security System",
+    "b": "Global Maritime Distress and Safety System",
+    "c": "Government Maritime Disaster and Safety System",
+    "d": "General Maritime Distress and Security System",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS, what Sea Area is defined as being within the immediate coverage of at least one VHF coast station providing continuous DSC alerting?",
+    "a": "Sea Area A2",
+    "b": "Sea Area A1",
+    "c": "Sea Area A3",
+    "d": "Sea Area A4",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS, Sea Area A2 is defined as being within the coverage of at least one _____.",
+    "a": "VHF coast station",
+    "b": "MF coast station (typically up to 150 miles out)",
+    "c": "HF coast station",
+    "d": "Inmarsat geostationary satellite",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS, Sea Area A3 is defined as the region outside Areas A1 and A2 but within the continuous coverage of _____.",
+    "a": "VHF coast stations",
+    "b": "Inmarsat geostationary satellites (between 70° N and 70° S)",
+    "c": "HF coast stations only",
+    "d": "COSPAS-SARSAT polar satellites",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS, Sea Area A4 is defined as the polar regions located above _____.",
+    "a": "50° North and South",
+    "b": "70° North and South (the polar areas outside Inmarsat coverage)",
+    "c": "60° North and South",
+    "d": "80° North and South",
+    "ans": "b"
+  },
+  {
+    "q": "What GMDSS device is designed to float free from a sinking vessel and automatically transmit a distress alert containing coordinates to search-and-rescue satellites?",
+    "a": "SART",
+    "b": "EPIRB (Emergency Position Indicating Radio Beacon)",
+    "c": "NAVTEX receiver",
+    "d": "VHF DSC radio",
+    "ans": "b"
+  },
+  {
+    "q": "At what frequency does a standard GMDSS satellite EPIRB transmit its distress signal?",
+    "a": "121.5 MHz",
+    "b": "406.0 MHz",
+    "c": "2182.0 kHz",
+    "d": "156.8 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What GMDSS device is a portable radar transponder that assists search-and-rescue vessels in locating survival craft by generating a series of dots on a 9-GHz radar screen?",
+    "a": "EPIRB",
+    "b": "SART (Search and Rescue Transponder)",
+    "c": "NAVTEX",
+    "d": "DSC encoder",
+    "ans": "b"
+  },
+  {
+    "q": "At what frequency band does a standard GMDSS SART operate?",
+    "a": "UHF (406 MHz)",
+    "b": "X-band (9.2 to 9.5 GHz)",
+    "c": "VHF (156 MHz)",
+    "d": "C-band (4 GHz)",
+    "ans": "b"
+  },
+  {
+    "q": "What GMDSS receiver automatically prints maritime safety information, weather forecasts, and navigation warnings on a dedicated frequency of 518 kHz?",
+    "a": "EPIRB",
+    "b": "NAVTEX receiver",
+    "c": "Inmarsat-C terminal",
+    "d": "SART",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary frequency allocated worldwide for English-language NAVTEX transmissions?",
+    "a": "2182 kHz",
+    "b": "518 kHz",
+    "c": "490 kHz",
+    "d": "156.8 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What GMDSS system allows the automatic transmission of digital alerts over VHF, MF, or HF radio channels, establishing initial contact before voice communication begins?",
+    "a": "NAVTEX",
+    "b": "Digital Selective Calling (DSC)",
+    "c": "SART",
+    "d": "Inmarsat-B",
+    "ans": "b"
+  },
+  {
+    "q": "What is the designated VHF channel used exclusively for digital selective calling (DSC) alerts?",
+    "a": "VHF Channel 16",
+    "b": "VHF Channel 70",
+    "c": "VHF Channel 6",
+    "d": "VHF Channel 13",
+    "ans": "b"
+  },
+  {
+    "q": "What is the designated VHF channel used worldwide for maritime mobile voice distress and safety communications?",
+    "a": "VHF Channel 70",
+    "b": "VHF Channel 16",
+    "c": "VHF Channel 6",
+    "d": "VHF Channel 22",
+    "ans": "b"
+  },
+  {
+    "q": "What satellite constellation coordinates the detection and location of 406-MHz EPIRB signals?",
+    "a": "NAVSTAR GPS",
+    "b": "COSPAS-SARSAT",
+    "c": "Iridium",
+    "d": "Inmarsat-C",
+    "ans": "b"
+  },
+  {
+    "q": "What type of radar uses a series of closely spaced pulses where the phase of the return echo is compared to determine the velocity of target particles, popular in weather monitoring?",
+    "a": "FMCW radar",
+    "b": "Pulsed Doppler radar",
+    "c": "Bistatic radar",
+    "d": "Synthetic aperture radar",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a radar system where the transmitter and receiver are separated by a significant physical distance?",
+    "a": "Monostatic radar",
+    "b": "Bistatic radar",
+    "c": "Phased array",
+    "d": "Secondary radar",
+    "ans": "b"
+  },
+  {
+    "q": "What type of radar system requires an active transponder aboard the target aircraft to respond to interrogation pulses with an identity code?",
+    "a": "Primary surveillance radar",
+    "b": "Secondary Surveillance Radar (SSR)",
+    "c": "Synthetic aperture radar",
+    "d": "Doppler radar",
+    "ans": "b"
+  },
+  {
+    "q": "What aircraft instrument utilizes a downwards-pointing radar to measure the absolute physical height of the aircraft above the terrain?",
+    "a": "Barometric altimeter",
+    "b": "Radio altimeter",
+    "c": "Glide slope indicator",
+    "d": "VOR indicator",
+    "ans": "b"
+  },
+  {
+    "q": "What type of modulation is typically used in commercial radio altimeters to measure short distances with high precision?",
+    "a": "Standard pulse modulation",
+    "b": "Frequency Modulated Continuous Wave (FMCW)",
+    "c": "Pulse width modulation",
+    "d": "Phase shift keying",
+    "ans": "b"
+  },
+  {
+    "q": "The region of space surrounding a radar antenna where the beam pattern is highly collated and doesn't diverge is called _____.",
+    "a": "Fraunhofer region",
+    "b": "Fresnel zone",
+    "c": "Far field",
+    "d": "Critical aperture",
+    "ans": "b"
+  },
+  {
+    "q": "The maximum unambiguous range of a radar can be extended by _____.",
+    "a": "Increasing the peak power output",
+    "b": "Decreasing the Pulse Repetition Frequency (PRF)",
+    "c": "Increasing the pulse width",
+    "d": "Decreasing the receiver sensitivity",
+    "ans": "b"
+  },
+  {
+    "q": "The range resolution of a pulsed radar can be improved by _____.",
+    "a": "Increasing the pulse repetition frequency",
+    "b": "Decreasing the pulse width (PW)",
+    "c": "Increasing the peak power",
+    "d": "Decreasing the antenna rotational speed",
+    "ans": "b"
+  },
+  {
+    "q": "What type of sonar system listens to target signatures over a wide array of sensors mounted in a line along a vessel's hull?",
+    "a": "Active ping sonar",
+    "b": "Passive towed-array sonar",
+    "c": "Echo sounder",
+    "d": "Variable depth transducer",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the sound velocity profile in the ocean?",
+    "a": "The change in sound velocity with changes in water pressure, temperature, and salinity",
+    "b": "The peak power output of the sonar transducer",
+    "c": "The attenuation of acoustic waves per meter",
+    "d": "The depth of the ocean floor",
+    "ans": "a"
+  },
+  {
+    "q": "A radar signal is sent out. If the echo is received exactly 100 microseconds later, what is the distance to the target?",
+    "a": "30 km",
+    "b": "15 km",
+    "c": "7.5 km",
+    "d": "45 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar detects a target. If the round-trip propagation time of the radar pulse is measured as 40 us, calculate the range of the target.",
+    "a": "12 km",
+    "b": "6 km",
+    "c": "3 km",
+    "d": "18 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the range of a target in nautical miles if the radar echo return delay is 123.6 us.",
+    "a": "20.0 nautical miles",
+    "b": "10.0 nautical miles",
+    "c": "5.0 nautical miles",
+    "d": "15.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar detects an obstacle at a distance of 1.5 nautical miles. What is the expected echo time delay in microseconds?",
+    "a": "9.27 us",
+    "b": "18.54 us",
+    "c": "12.36 us",
+    "d": "24.72 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 1200 Hz. Calculate the Pulse Repetition Time (PRT) or period in microseconds.",
+    "a": "416.7 us",
+    "b": "833.3 us",
+    "c": "1200.0 us",
+    "d": "1000.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRT of 1000 us. Calculate the corresponding Pulse Repetition Frequency (PRF).",
+    "a": "500 Hz",
+    "b": "1000 Hz",
+    "c": "2000 Hz",
+    "d": "1500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a PRF of 800 Hz. Calculate the maximum unambiguous range of the radar in kilometers.",
+    "a": "375.0 km",
+    "b": "187.5 km",
+    "c": "93.75 km",
+    "d": "150.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a PRF of 2000 Hz. Find the maximum unambiguous range in kilometers.",
+    "a": "150.0 km",
+    "b": "75.0 km",
+    "c": "37.5 km",
+    "d": "112.5 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a PRT of 250 us. Calculate the maximum unambiguous range in kilometers.",
+    "a": "75.0 km",
+    "b": "37.5 km",
+    "c": "18.75 km",
+    "d": "50.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 2.5 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "750 meters",
+    "b": "375 meters",
+    "c": "187.5 meters",
+    "d": "500 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 1.0 microsecond. Calculate the minimum range of the radar in meters.",
+    "a": "300 meters",
+    "b": "150 meters",
+    "c": "75 meters",
+    "d": "450 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 0.4 microseconds.",
+    "a": "120 meters",
+    "b": "60 meters",
+    "c": "30 meters",
+    "d": "90 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 2.0 microseconds.",
+    "a": "600 meters",
+    "b": "300 meters",
+    "c": "150 meters",
+    "d": "450 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a pulse width of 1.2 microseconds and a PRF of 1000 Hz. Calculate the duty cycle of the radar.",
+    "a": "0.0006",
+    "b": "0.0012",
+    "c": "0.0024",
+    "d": "0.0010",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a pulse width of 1.5 microseconds and a PRT of 1250 us. Calculate the duty cycle of the radar.",
+    "a": "0.0006",
+    "b": "0.0012",
+    "c": "0.0024",
+    "d": "0.0015",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 200 kW. If the radar operates with a duty cycle of 0.0015, calculate the average power output of the transmitter.",
+    "a": "150 Watts",
+    "b": "300 Watts",
+    "c": "600 Watts",
+    "d": "100 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter has a peak power output of 500 kW. If the pulse width is 1.0 microsecond and the PRF is 1200 Hz, calculate the average power output.",
+    "a": "300 Watts",
+    "b": "600 Watts",
+    "c": "1200 Watts",
+    "d": "100 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter operates with an average power of 450 Watts. If the peak power is 300 kW, calculate the required duty cycle.",
+    "a": "0.00075",
+    "b": "0.0015",
+    "c": "0.0030",
+    "d": "0.0010",
+    "ans": "b"
+  },
+  {
+    "q": "A Doppler radar operates at a frequency of 10 GHz (wavelength = 3.0 cm). If a target vehicle moves directly toward the radar at a speed of 30 m/s, calculate the Doppler frequency shift (fd). Use fd = 2 * v / lambda.",
+    "a": "1000 Hz",
+    "b": "2000 Hz",
+    "c": "4000 Hz",
+    "d": "1500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A police radar operates at a frequency of 24.15 GHz (wavelength = 1.242 cm). If a car travels at a speed of 40 m/s directly toward the radar, calculate the Doppler shift.",
+    "a": "3220 Hz",
+    "b": "6441 Hz",
+    "c": "12882 Hz",
+    "d": "5000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 1000 Hz. If the radar wavelength is 10 cm (0.1 meters), calculate the lowest target blind speed (vb) in m/s. Use vb = lambda * PRF / 2.",
+    "a": "25 m/s",
+    "b": "50 m/s",
+    "c": "100 m/s",
+    "d": "75 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 2000 Hz. If the radar wavelength is 3 cm (0.03 meters), calculate the lowest target blind speed in m/s.",
+    "a": "15 m/s",
+    "b": "30 m/s",
+    "c": "60 m/s",
+    "d": "45 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar has a lowest blind speed of 50 m/s. Calculate the second blind speed (n = 2) for this radar.",
+    "a": "75 m/s",
+    "b": "100 m/s",
+    "c": "150 m/s",
+    "d": "200 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An active sonar system transmits an acoustic pulse. If the echo from the ocean floor is received exactly 4.0 seconds later, calculate the water depth. (Take speed of sound in seawater v = 1500 m/s). Use depth = v * t / 2.",
+    "a": "6000 meters",
+    "b": "3000 meters",
+    "c": "1500 meters",
+    "d": "4500 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An echo sounder registers a return delay of 1.2 seconds from a school of fish. Calculate the depth of the fish in meters if the speed of sound in water is 1500 m/s.",
+    "a": "1800 meters",
+    "b": "900 meters",
+    "c": "450 meters",
+    "d": "1200 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine sonar system operating in fresh water (speed of sound v = 1480 m/s) registers a return echo from a lake bottom exactly 2.5 seconds after transmission. Calculate the depth of the lake.",
+    "a": "3700 meters",
+    "b": "1850 meters",
+    "c": "1480 meters",
+    "d": "2220 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME system measures a round-trip pulse delay of 247.2 us. What is the slant-range distance to the ground beacon in nautical miles? (DME pulses travel 1 nautical mile round-trip in 12.36 us).",
+    "a": "40.0 nautical miles",
+    "b": "20.0 nautical miles",
+    "c": "10.0 nautical miles",
+    "d": "30.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A DME system measures a slant-range of 15.0 nautical miles. If the aircraft is flying at an altitude of 3.0 nautical miles, calculate the actual ground distance to the beacon using Pythagoras' theorem.",
+    "a": "12.0 nautical miles",
+    "b": "14.7 nautical miles",
+    "c": "11.5 nautical miles",
+    "d": "15.3 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME registers a slant range of 10.0 nautical miles. If the aircraft is at an altitude of 6.0 nautical miles, find the actual ground range to the station.",
+    "a": "4.0 nautical miles",
+    "b": "8.0 nautical miles",
+    "c": "6.0 nautical miles",
+    "d": "11.6 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of exactly 60 degrees between the reference phase signal and the variable phase signal. What is the aircraft's magnetic bearing (radial) from the VOR station?",
+    "a": "120 degrees",
+    "b": "060 degrees",
+    "c": "240 degrees",
+    "d": "300 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of 210 degrees. What is the aircraft's magnetic radial from the station?",
+    "a": "030 degrees",
+    "b": "210 degrees",
+    "c": "150 degrees",
+    "d": "330 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a monostatic radar in meters given: Transmitter peak power Pt = 100 kW, Antenna Gain G = 10,000 (absolute ratio), Wavelength lambda = 3 cm, Target cross section sigma = 2.0 m^2, and minimum detectable signal P_min = 10^-13 Watts. Use the radar range equation R_max = [ (Pt * G^2 * lambda^2 * sigma) / ( (4 * pi)^3 * P_min ) ]^(1/4).",
+    "a": "25.0 km",
+    "b": "53.1 km",
+    "c": "70.0 km",
+    "d": "45.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a radar if the peak power is increased by 16 times while keeping all other parameters constant.",
+    "a": "The range increases by 16 times",
+    "b": "The range doubles (increases by 2 times)",
+    "c": "The range quadruples (increases by 4 times)",
+    "d": "The range remains the same",
+    "ans": "b"
+  },
+  {
+    "q": "If the peak power of a radar is doubled, the maximum range will increase by what factor?",
+    "a": "1.414",
+    "b": "1.189",
+    "c": "2.000",
+    "d": "1.500",
+    "ans": "b"
+  },
+  {
+    "q": "A radar antenna has a physical width of 4.0 meters. If the operating frequency is 3 GHz (wavelength = 10 cm), calculate the horizontal beamwidth of the antenna. Use Beamwidth = 70 * lambda / D.",
+    "a": "3.50 degrees",
+    "b": "1.75 degrees",
+    "c": "2.10 degrees",
+    "d": "0.88 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a 2-meter physical dish width at 10 GHz (wavelength = 3 cm). Calculate the horizontal beamwidth.",
+    "a": "2.10 degrees",
+    "b": "1.05 degrees",
+    "c": "1.50 degrees",
+    "d": "0.53 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical diameter of a circular parabolic radar reflector required to achieve a horizontal beamwidth of exactly 2.0 degrees at an operating frequency of 6 GHz (lambda = 5 cm).",
+    "a": "0.88 meters",
+    "b": "1.75 meters",
+    "c": "2.50 meters",
+    "d": "1.25 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar antenna is mounted on a ship's mast at a height of 18 meters above the sea. Calculate the distance to the radio horizon in kilometers using the metric formula d_km = 4.12 * sqrt(h_meters).",
+    "a": "12.36 km",
+    "b": "17.48 km",
+    "c": "24.72 km",
+    "d": "15.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar antenna is mounted on a tower at a height of 50 meters. Calculate the distance to the radio horizon in kilometers.",
+    "a": "20.60 km",
+    "b": "29.13 km",
+    "c": "25.24 km",
+    "d": "35.70 km",
+    "ans": "b"
+  },
+  {
+    "q": "A search-and-rescue radar operates with a pulse width of 0.8 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "60 meters",
+    "b": "120 meters",
+    "c": "240 meters",
+    "d": "180 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 1500 Hz. Calculate the maximum unambiguous range in kilometers.",
+    "a": "50 km",
+    "b": "100 km",
+    "c": "200 km",
+    "d": "75 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRF of 3000 Hz. What is the maximum unambiguous detection range in kilometers?",
+    "a": "25 km",
+    "b": "50 km",
+    "c": "100 km",
+    "d": "75 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 150 kW. If the pulse width is 1.2 microseconds and the PRF is 1000 Hz, calculate the average power output of the transmitter.",
+    "a": "90 Watts",
+    "b": "180 Watts",
+    "c": "360 Watts",
+    "d": "120 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode oscillator has an active region length of 2.0 micrometers. If the electron drift velocity in gallium arsenide is 10^5 m/s, calculate the fundamental operating frequency of the Gunn oscillator.",
+    "a": "25 GHz",
+    "b": "50 GHz",
+    "c": "10 GHz",
+    "d": "100 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode has an active region length of 1.2 micrometers. If the drift velocity is 10^5 m/s, find its operating frequency.",
+    "a": "41.7 GHz",
+    "b": "83.3 GHz",
+    "c": "25.0 GHz",
+    "d": "100.0 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave link has an equivalent system noise temperature of 350 K. Calculate the thermal noise floor of the receiver in dBm over an operating bandwidth of 20 MHz. (Use Boltzmann's constant k = 1.38 x 10^-23 J/K).",
+    "a": "-114 dBm",
+    "b": "-100.1 dBm",
+    "c": "-90.1 dBm",
+    "d": "-110.1 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the receiver system in the previous question (noise power Pn = -100.1 dBm), the Received Signal Level (RSL) is measured at -75 dBm. Calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "15.1 dB",
+    "b": "25.1 dB",
+    "c": "20.0 dB",
+    "d": "35.1 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical velocity of propagation in a microwave transmission medium with a relative dielectric constant (er) of 2.25? (Speed of light c = 3 x 10^8 m/s).",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "1.33 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A radar signal is sent out. If the echo is received exactly 200 microseconds later, what is the distance to the target?",
+    "a": "60 km",
+    "b": "30 km",
+    "c": "15 km",
+    "d": "90 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar detects a target. If the round-trip propagation time of the radar pulse is measured as 80 us, calculate the range of the target.",
+    "a": "24 km",
+    "b": "12 km",
+    "c": "6 km",
+    "d": "36 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the range of a target in nautical miles if the radar echo return delay is 247.2 us.",
+    "a": "40.0 nautical miles",
+    "b": "20.0 nautical miles",
+    "c": "10.0 nautical miles",
+    "d": "30.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar detects an obstacle at a distance of 3.0 nautical miles. What is the expected echo time delay in microseconds?",
+    "a": "18.54 us",
+    "b": "37.08 us",
+    "c": "24.72 us",
+    "d": "49.44 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 1500 Hz. Calculate the Pulse Repetition Time (PRT) or period in microseconds.",
+    "a": "333.3 us",
+    "b": "666.7 us",
+    "c": "1000.0 us",
+    "d": "500.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRT of 500 us. Calculate the corresponding Pulse Repetition Frequency (PRF).",
+    "a": "1000 Hz",
+    "b": "2000 Hz",
+    "c": "4000 Hz",
+    "d": "3000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a PRF of 1000 Hz. Calculate the maximum unambiguous range of the radar in kilometers.",
+    "a": "300.0 km",
+    "b": "150.0 km",
+    "c": "75.0 km",
+    "d": "225.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a PRF of 4000 Hz. Find the maximum unambiguous range in kilometers.",
+    "a": "75.0 km",
+    "b": "37.5 km",
+    "c": "18.75 km",
+    "d": "112.50 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a PRT of 500 us. Calculate the maximum unambiguous range in kilometers.",
+    "a": "150.0 km",
+    "b": "75.0 km",
+    "c": "37.5 km",
+    "d": "225.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 5.0 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "1500 meters",
+    "b": "750 meters",
+    "c": "375 meters",
+    "d": "1000 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 2.0 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "600 meters",
+    "b": "300 meters",
+    "c": "150 meters",
+    "d": "900 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 0.8 microseconds.",
+    "a": "240 meters",
+    "b": "120 meters",
+    "c": "60 meters",
+    "d": "180 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 4.0 microseconds.",
+    "a": "1200 meters",
+    "b": "600 meters",
+    "c": "300 meters",
+    "d": "900 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a pulse width of 2.4 microseconds and a PRF of 1000 Hz. Calculate the duty cycle of the radar.",
+    "a": "0.0012",
+    "b": "0.0024",
+    "c": "0.0048",
+    "d": "0.0020",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a pulse width of 3.0 microseconds and a PRT of 1250 us. Calculate the duty cycle of the radar.",
+    "a": "0.0012",
+    "b": "0.0024",
+    "c": "0.0048",
+    "d": "0.0030",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 400 kW. If the radar operates with a duty cycle of 0.0015, calculate the average power output of the transmitter.",
+    "a": "300 Watts",
+    "b": "600 Watts",
+    "c": "1200 Watts",
+    "d": "200 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter has a peak power output of 1000 kW. If the pulse width is 1.0 microsecond and the PRF is 1200 Hz, calculate the average power output.",
+    "a": "600 Watts",
+    "b": "1200 Watts",
+    "c": "2400 Watts",
+    "d": "200 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter operates with an average power of 900 Watts. If the peak power is 300 kW, calculate the required duty cycle.",
+    "a": "0.0015",
+    "b": "0.0030",
+    "c": "0.0060",
+    "d": "0.0020",
+    "ans": "b"
+  },
+  {
+    "q": "A Doppler radar operates at a frequency of 15 GHz (wavelength = 2.0 cm). If a target vehicle moves directly toward the radar at a speed of 30 m/s, calculate the Doppler frequency shift (fd). Use fd = 2 * v / lambda.",
+    "a": "1500 Hz",
+    "b": "3000 Hz",
+    "c": "6000 Hz",
+    "d": "2000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A police radar operates at a frequency of 35 GHz (wavelength = 0.857 cm). If a car travels at a speed of 40 m/s directly toward the radar, calculate the Doppler shift.",
+    "a": "4667 Hz",
+    "b": "9335 Hz",
+    "c": "18670 Hz",
+    "d": "7500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 1500 Hz. If the radar wavelength is 10 cm (0.1 meters), calculate the lowest target blind speed (vb) in m/s. Use vb = lambda * PRF / 2.",
+    "a": "37.5 m/s",
+    "b": "75.0 m/s",
+    "c": "150.0 m/s",
+    "d": "112.5 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 4000 Hz. If the radar wavelength is 3 cm (0.03 meters), calculate the lowest target blind speed in m/s.",
+    "a": "30 m/s",
+    "b": "60 m/s",
+    "c": "120 m/s",
+    "d": "90 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar has a lowest blind speed of 75 m/s. Calculate the second blind speed (n = 2) for this radar.",
+    "a": "112.5 m/s",
+    "b": "150.0 m/s",
+    "c": "225.0 m/s",
+    "d": "300.0 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An active sonar system transmits an acoustic pulse. If the echo from the ocean floor is received exactly 8.0 seconds later, calculate the water depth. (Take speed of sound in seawater v = 1500 m/s). Use depth = v * t / 2.",
+    "a": "12000 meters",
+    "b": "6000 meters",
+    "c": "3000 meters",
+    "d": "9000 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An echo sounder registers a return delay of 2.4 seconds from a school of fish. Calculate the depth of the fish in meters if the speed of sound in water is 1500 m/s.",
+    "a": "3600 meters",
+    "b": "1800 meters",
+    "c": "900 meters",
+    "d": "2400 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine sonar system operating in fresh water (speed of sound v = 1480 m/s) registers a return echo from a lake bottom exactly 5.0 seconds after transmission. Calculate the depth of the lake.",
+    "a": "7400 meters",
+    "b": "3700 meters",
+    "c": "2960 meters",
+    "d": "4440 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME system measures a round-trip pulse delay of 494.4 us. What is the slant-range distance to the ground beacon in nautical miles? (DME pulses travel 1 nautical mile round-trip in 12.36 us).",
+    "a": "80.0 nautical miles",
+    "b": "40.0 nautical miles",
+    "c": "20.0 nautical miles",
+    "d": "60.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A DME system measures a slant-range of 25.0 nautical miles. If the aircraft is flying at an altitude of 7.0 nautical miles, calculate the actual ground distance to the beacon using Pythagoras' theorem.",
+    "a": "18.0 nautical miles",
+    "b": "24.0 nautical miles",
+    "c": "15.0 nautical miles",
+    "d": "26.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME registers a slant range of 13.0 nautical miles. If the aircraft is at an altitude of 5.0 nautical miles, find the actual ground range to the station.",
+    "a": "8.0 nautical miles",
+    "b": "12.0 nautical miles",
+    "c": "10.0 nautical miles",
+    "d": "13.9 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of exactly 120 degrees between the reference phase signal and the variable phase signal. What is the aircraft's magnetic bearing (radial) from the VOR station?",
+    "a": "240 degrees",
+    "b": "120 degrees",
+    "c": "060 degrees",
+    "d": "300 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of 300 degrees. What is the aircraft's magnetic radial from the station?",
+    "a": "060 degrees",
+    "b": "300 degrees",
+    "c": "150 degrees",
+    "d": "120 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a monostatic radar in meters given: Transmitter peak power Pt = 200 kW, Antenna Gain G = 10,000 (absolute ratio), Wavelength lambda = 3 cm, Target cross section sigma = 2.0 m^2, and minimum detectable signal P_min = 10^-13 Watts.",
+    "a": "35.0 km",
+    "b": "63.1 km",
+    "c": "80.0 km",
+    "d": "50.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a radar if the peak power is increased by 81 times while keeping all other parameters constant.",
+    "a": "The range increases by 81 times",
+    "b": "The range triples (increases by 3 times, since 81^(1/4) = 3)",
+    "c": "The range increases by 9 times",
+    "d": "The range remains the same",
+    "ans": "b"
+  },
+  {
+    "q": "If the peak power of a radar is quadrupled, the maximum range will increase by what factor?",
+    "a": "2.000",
+    "b": "1.414",
+    "c": "4.000",
+    "d": "1.500",
+    "ans": "b"
+  },
+  {
+    "q": "A radar antenna has a physical width of 6.0 meters. If the operating frequency is 3 GHz (wavelength = 10 cm), calculate the horizontal beamwidth of the antenna. Use Beamwidth = 70 * lambda / D.",
+    "a": "2.33 degrees",
+    "b": "1.17 degrees",
+    "c": "1.50 degrees",
+    "d": "0.58 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a 3-meter physical dish width at 10 GHz (wavelength = 3 cm). Calculate the horizontal beamwidth.",
+    "a": "1.40 degrees",
+    "b": "0.70 degrees",
+    "c": "1.00 degree",
+    "d": "0.35 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical diameter of a circular parabolic radar reflector required to achieve a horizontal beamwidth of exactly 1.0 degree at an operating frequency of 6 GHz (lambda = 5 cm).",
+    "a": "1.75 meters",
+    "b": "3.50 meters",
+    "c": "5.00 meters",
+    "d": "2.50 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar antenna is mounted on a ship's mast at a height of 25 meters above the sea. Calculate the distance to the radio horizon in kilometers using the metric formula d_km = 4.12 * sqrt(h_meters).",
+    "a": "15.00 km",
+    "b": "20.60 km",
+    "c": "30.90 km",
+    "d": "10.30 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar antenna is mounted on a tower at a height of 100 meters. Calculate the distance to the radio horizon in kilometers.",
+    "a": "25.24 km",
+    "b": "41.20 km",
+    "c": "35.70 km",
+    "d": "50.46 km",
+    "ans": "b"
+  },
+  {
+    "q": "A search-and-rescue radar operates with a pulse width of 1.2 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "90 meters",
+    "b": "180 meters",
+    "c": "360 meters",
+    "d": "270 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 2000 Hz. Calculate the maximum unambiguous range in kilometers.",
+    "a": "37.5 km",
+    "b": "75.0 km",
+    "c": "150.0 km",
+    "d": "50.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRF of 4000 Hz. What is the maximum unambiguous detection range in kilometers?",
+    "a": "18.75 km",
+    "b": "37.50 km",
+    "c": "75.00 km",
+    "d": "50.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 300 kW. If the pulse width is 1.0 microsecond and the PRF is 1200 Hz, calculate the average power output of the transmitter.",
+    "a": "180 Watts",
+    "b": "360 Watts",
+    "c": "720 Watts",
+    "d": "300 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode oscillator has an active region length of 4.0 micrometers. If the electron drift velocity in gallium arsenide is 10^5 m/s, calculate the fundamental operating frequency of the Gunn oscillator.",
+    "a": "12.5 GHz",
+    "b": "25.0 GHz",
+    "c": "50.0 GHz",
+    "d": "15.0 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode has an active region length of 1.5 micrometers. If the drift velocity is 10^5 m/s, find its operating frequency.",
+    "a": "33.3 GHz",
+    "b": "66.7 GHz",
+    "c": "20.0 GHz",
+    "d": "50.0 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave link has an equivalent system noise temperature of 250 K. Calculate the thermal noise floor of the receiver in dBm over an operating bandwidth of 50 MHz. (Use Boltzmann's constant k = 1.38 x 10^-23 J/K).",
+    "a": "-114 dBm",
+    "b": "-97.6 dBm",
+    "c": "-87.6 dBm",
+    "d": "-107.6 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the receiver system in the previous question (noise power Pn = -97.6 dBm), the Received Signal Level (RSL) is measured at -65 dBm. Calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "12.6 dB",
+    "b": "32.6 dB",
+    "c": "22.6 dB",
+    "d": "42.6 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical velocity of propagation in a microwave transmission medium with a relative dielectric constant (er) of 4.0? (Speed of light c = 3 x 10^8 m/s).",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.50 x 10^8 m/s",
+    "c": "0.75 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A radar signal is sent out. If the echo is received exactly 300 microseconds later, what is the distance to the target?",
+    "a": "90 km",
+    "b": "45 km",
+    "c": "22.5 km",
+    "d": "135 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar detects a target. If the round-trip propagation time of the radar pulse is measured as 100 us, calculate the range of the target.",
+    "a": "30 km",
+    "b": "15 km",
+    "c": "7.5 km",
+    "d": "45 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the range of a target in nautical miles if the radar echo return delay is 370.8 us.",
+    "a": "60.0 nautical miles",
+    "b": "30.0 nautical miles",
+    "c": "15.0 nautical miles",
+    "d": "45.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar detects an obstacle at a distance of 4.0 nautical miles. What is the expected echo time delay in microseconds?",
+    "a": "24.72 us",
+    "b": "49.44 us",
+    "c": "37.08 us",
+    "d": "74.16 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 2500 Hz. Calculate the Pulse Repetition Time (PRT) or period in microseconds.",
+    "a": "200.0 us",
+    "b": "400.0 us",
+    "c": "800.0 us",
+    "d": "500.0 us",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRT of 100 us. Calculate the corresponding Pulse Repetition Frequency (PRF).",
+    "a": "5000 Hz",
+    "b": "10000 Hz",
+    "c": "20000 Hz",
+    "d": "15000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a PRF of 500 Hz. Calculate the maximum unambiguous range of the radar in kilometers.",
+    "a": "600.0 km",
+    "b": "300.0 km",
+    "c": "150.0 km",
+    "d": "450.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a PRF of 5000 Hz. Find the maximum unambiguous range in kilometers.",
+    "a": "60.0 km",
+    "b": "30.0 km",
+    "c": "15.0 km",
+    "d": "90.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a PRT of 100 us. Calculate the maximum unambiguous range in kilometers.",
+    "a": "30.0 km",
+    "b": "15.0 km",
+    "c": "7.5 km",
+    "d": "45.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 10.0 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "3000 meters",
+    "b": "1500 meters",
+    "c": "750 meters",
+    "d": "2000 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system has a pulse width of 4.0 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "1200 meters",
+    "b": "600 meters",
+    "c": "300 meters",
+    "d": "1800 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 1.6 microseconds.",
+    "a": "480 meters",
+    "b": "240 meters",
+    "c": "120 meters",
+    "d": "360 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the range resolution of a radar system that transmits pulses with a duration of 8.0 microseconds.",
+    "a": "2400 meters",
+    "b": "1200 meters",
+    "c": "600 meters",
+    "d": "1800 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a pulse width of 4.8 microseconds and a PRF of 1000 Hz. Calculate the duty cycle of the radar.",
+    "a": "0.0024",
+    "b": "0.0048",
+    "c": "0.0096",
+    "d": "0.0040",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a pulse width of 6.0 microseconds and a PRT of 1250 us. Calculate the duty cycle of the radar.",
+    "a": "0.0024",
+    "b": "0.0048",
+    "c": "0.0096",
+    "d": "0.0060",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 800 kW. If the radar operates with a duty cycle of 0.0015, calculate the average power output of the transmitter.",
+    "a": "600 Watts",
+    "b": "1200 Watts",
+    "c": "2400 Watts",
+    "d": "400 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter has a peak power output of 2000 kW. If the pulse width is 1.0 microsecond and the PRF is 1200 Hz, calculate the average power output.",
+    "a": "1200 Watts",
+    "b": "2400 Watts",
+    "c": "4800 Watts",
+    "d": "400 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A radar transmitter operates with an average power of 1800 Watts. If the peak power is 300 kW, calculate the required duty cycle.",
+    "a": "0.0030",
+    "b": "0.0060",
+    "c": "0.0120",
+    "d": "0.0040",
+    "ans": "b"
+  },
+  {
+    "q": "A Doppler radar operates at a frequency of 30 GHz (wavelength = 2.0 cm). If a target vehicle moves directly toward the radar at a speed of 30 m/s, calculate the Doppler frequency shift (fd). Use fd = 2 * v / lambda.",
+    "a": "3000 Hz",
+    "b": "6000 Hz",
+    "c": "12000 Hz",
+    "d": "4000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A police radar operates at a frequency of 35 GHz (wavelength = 0.857 cm). If a car travels at a speed of 80 m/s directly toward the radar, calculate the Doppler shift.",
+    "a": "9335 Hz",
+    "b": "18670 Hz",
+    "c": "37340 Hz",
+    "d": "15000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 3000 Hz. If the radar wavelength is 10 cm (0.1 meters), calculate the lowest target blind speed (vb) in m/s. Use vb = lambda * PRF / 2.",
+    "a": "75 m/s",
+    "b": "150 m/s",
+    "c": "300 m/s",
+    "d": "225 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar operates with a PRF of 8000 Hz. If the radar wavelength is 3 cm (0.03 meters), calculate the lowest target blind speed in m/s.",
+    "a": "60 m/s",
+    "b": "120 m/s",
+    "c": "240 m/s",
+    "d": "180 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An MTI radar has a lowest blind speed of 100 m/s. Calculate the second blind speed (n = 2) for this radar.",
+    "a": "150 m/s",
+    "b": "200 m/s",
+    "c": "300 m/s",
+    "d": "400 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An active sonar system transmits an acoustic pulse. If the echo from the ocean floor is received exactly 12.0 seconds later, calculate the water depth. (Take speed of sound in seawater v = 1500 m/s). Use depth = v * t / 2.",
+    "a": "18000 meters",
+    "b": "9000 meters",
+    "c": "4500 meters",
+    "d": "13500 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An echo sounder registers a return delay of 3.6 seconds from a school of fish. Calculate the depth of the fish in meters if the speed of sound in water is 1500 m/s.",
+    "a": "5400 meters",
+    "b": "2700 meters",
+    "c": "1350 meters",
+    "d": "3600 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine sonar system operating in fresh water (speed of sound v = 1480 m/s) registers a return echo from a lake bottom exactly 10.0 seconds after transmission. Calculate the depth of the lake.",
+    "a": "14800 meters",
+    "b": "7400 meters",
+    "c": "5920 meters",
+    "d": "8880 meters",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME system measures a round-trip pulse delay of 988.8 us. What is the slant-range distance to the ground beacon in nautical miles? (DME pulses travel 1 nautical mile round-trip in 12.36 us).",
+    "a": "160.0 nautical miles",
+    "b": "80.0 nautical miles",
+    "c": "40.0 nautical miles",
+    "d": "120.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A DME system measures a slant-range of 50.0 nautical miles. If the aircraft is flying at an altitude of 14.0 nautical miles, calculate the actual ground distance to the beacon using Pythagoras' theorem.",
+    "a": "36.0 nautical miles",
+    "b": "48.0 nautical miles",
+    "c": "30.0 nautical miles",
+    "d": "52.0 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "An aircraft DME registers a slant range of 26.0 nautical miles. If the aircraft is at an altitude of 10.0 nautical miles, find the actual ground range to the station.",
+    "a": "16.0 nautical miles",
+    "b": "24.0 nautical miles",
+    "c": "20.0 nautical miles",
+    "d": "27.8 nautical miles",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of exactly 180 degrees between the reference phase signal and the variable phase signal. What is the aircraft's magnetic bearing (radial) from the VOR station?",
+    "a": "360 degrees",
+    "b": "180 degrees",
+    "c": "090 degrees",
+    "d": "270 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A VOR receiver measures a phase difference of 45 degrees. What is the aircraft's magnetic radial from the station?",
+    "a": "225 degrees",
+    "b": "045 degrees",
+    "c": "135 degrees",
+    "d": "315 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a monostatic radar in meters given: Transmitter peak power Pt = 400 kW, Antenna Gain G = 10,000 (absolute ratio), Wavelength lambda = 3 cm, Target cross section sigma = 2.0 m^2, and minimum detectable signal P_min = 10^-13 Watts.",
+    "a": "50.0 km",
+    "b": "75.0 km",
+    "c": "95.5 km",
+    "d": "60.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum range (R_max) of a radar if the peak power is increased by 256 times while keeping all other parameters constant.",
+    "a": "The range increases by 256 times",
+    "b": "The range quadruples (increases by 4 times, since 256^(1/4) = 4)",
+    "c": "The range increases by 16 times",
+    "d": "The range remains the same",
+    "ans": "b"
+  },
+  {
+    "q": "If the peak power of a radar is increased by 81 times, the maximum range will increase by what factor?",
+    "a": "9.000",
+    "b": "3.000",
+    "c": "81.000",
+    "d": "4.500",
+    "ans": "b"
+  },
+  {
+    "q": "A radar antenna has a physical width of 8.0 meters. If the operating frequency is 3 GHz (wavelength = 10 cm), calculate the horizontal beamwidth of the antenna. Use Beamwidth = 70 * lambda / D.",
+    "a": "1.75 degrees",
+    "b": "0.875 degrees",
+    "c": "1.25 degrees",
+    "d": "0.44 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A radar operates with a 4-meter physical dish width at 10 GHz (wavelength = 3 cm). Calculate the horizontal beamwidth.",
+    "a": "1.05 degrees",
+    "b": "0.525 degrees",
+    "c": "0.75 degrees",
+    "d": "0.26 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical diameter of a circular parabolic radar reflector required to achieve a horizontal beamwidth of exactly 0.5 degrees at an operating frequency of 6 GHz (lambda = 5 cm).",
+    "a": "3.50 meters",
+    "b": "7.00 meters",
+    "c": "10.00 meters",
+    "d": "5.00 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A marine radar antenna is mounted on a ship's mast at a height of 36 meters above the sea. Calculate the distance to the radio horizon in kilometers using the metric formula d_km = 4.12 * sqrt(h_meters).",
+    "a": "18.54 km",
+    "b": "24.72 km",
+    "c": "37.08 km",
+    "d": "12.36 km",
+    "ans": "b"
+  },
+  {
+    "q": "An air traffic control radar antenna is mounted on a tower at a height of 225 meters. Calculate the distance to the radio horizon in kilometers.",
+    "a": "41.20 km",
+    "b": "61.80 km",
+    "c": "50.46 km",
+    "d": "75.70 km",
+    "ans": "b"
+  },
+  {
+    "q": "A search-and-rescue radar operates with a pulse width of 1.6 microseconds. Calculate the minimum range of the radar in meters.",
+    "a": "120 meters",
+    "b": "240 meters",
+    "c": "480 meters",
+    "d": "360 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar system operates with a Pulse Repetition Frequency of 2500 Hz. Calculate the maximum unambiguous range in kilometers.",
+    "a": "30 km",
+    "b": "60 km",
+    "c": "120 km",
+    "d": "45 km",
+    "ans": "b"
+  },
+  {
+    "q": "A pulsed radar has a PRF of 5000 Hz. What is the maximum unambiguous detection range in kilometers?",
+    "a": "15 km",
+    "b": "30 km",
+    "c": "60 km",
+    "d": "45 km",
+    "ans": "b"
+  },
+  {
+    "q": "A radar has a peak power output of 300 kW. If the pulse width is 1.0 microsecond and the PRF is 1500 Hz, calculate the average power output of the transmitter.",
+    "a": "225 Watts",
+    "b": "450 Watts",
+    "c": "900 Watts",
+    "d": "300 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode oscillator has an active region length of 5.0 micrometers. If the electron drift velocity in gallium arsenide is 10^5 m/s, calculate the fundamental operating frequency of the Gunn oscillator.",
+    "a": "10 GHz",
+    "b": "20 GHz",
+    "c": "40 GHz",
+    "d": "15 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Gunn diode has an active region length of 2.5 micrometers. If the drift velocity is 10^5 m/s, find its operating frequency.",
+    "a": "20 GHz",
+    "b": "40 GHz",
+    "c": "10 GHz",
+    "d": "30 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A microwave link has an equivalent system noise temperature of 250 K. Calculate the thermal noise floor of the receiver in dBm over an operating bandwidth of 100 MHz. (Use Boltzmann's constant k = 1.38 x 10^-23 J/K).",
+    "a": "-111 dBm",
+    "b": "-94.6 dBm",
+    "c": "-84.6 dBm",
+    "d": "-104.6 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "For the receiver system in the previous question (noise power Pn = -94.6 dBm), the Received Signal Level (RSL) is measured at -60 dBm. Calculate the Carrier-to-Noise Ratio (C/N) in dB at the receiver input.",
+    "a": "14.6 dB",
+    "b": "34.6 dB",
+    "c": "24.6 dB",
+    "d": "44.6 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the physical velocity of propagation in a microwave transmission medium with a relative dielectric constant (er) of 2.25? (Speed of light c = 3 x 10^8 m/s).",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "1.33 x 10^8 m/s",
+    "ans": "b"
+  }
+]

@@ -1,0 +1,1706 @@
+[
+  {
+    "q": "What is the source of law in the Philippines that is based on the previous decisions of the Supreme Court?",
+    "a": "Legislation",
+    "b": "Judicial Acts",
+    "c": "Jurisprudence",
+    "d": "Traditions",
+    "ans": "c"
+  },
+  {
+    "q": "What term describes the mass of good and correct conduct that springs from the generally accepted right or wrong within a region?",
+    "a": "Natural law",
+    "b": "Divine law",
+    "c": "Moral law",
+    "d": "Physical law",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Civil Code of the Philippines, what is defined as payment or satisfaction for the physical or financial damages done?",
+    "a": "Restitution",
+    "b": "Reparation",
+    "c": "Obligation",
+    "d": "Indemnification",
+    "ans": "d"
+  },
+  {
+    "q": "Which of the following is defined as the highest law of the land in the Philippines?",
+    "a": "Statutes",
+    "b": "Executive Orders",
+    "c": "Presidential Decrees",
+    "d": "Constitution",
+    "ans": "d"
+  },
+  {
+    "q": "What is the legal means, sanctioned by the Revised Rules of Court, of ascertaining in a judicial proceeding the truth respecting a matter of fact?",
+    "a": "Evidence",
+    "b": "Damages",
+    "c": "Litigation",
+    "d": "Penalty",
+    "ans": "a"
+  },
+  {
+    "q": "What type of contract is characterized by the existence of reciprocal obligations between both parties?",
+    "a": "Executed Contract",
+    "b": "Bilateral Contract",
+    "c": "Consensual Contract",
+    "d": "Executory Contract",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as contracting for or receiving something in return for a promise or service?",
+    "a": "Indemnity",
+    "b": "Consideration",
+    "c": "Obligation",
+    "d": "Restitution",
+    "ans": "b"
+  },
+  {
+    "q": "What is the sum of money which the law awards or imposes as pecuniary compensation or satisfaction for an injury done or a wrong sustained?",
+    "a": "Restitution",
+    "b": "Reparation",
+    "c": "Indemnification",
+    "d": "Damages",
+    "ans": "d"
+  },
+  {
+    "q": "What legal act describes the adoption or approval of an act already done by another person on one's behalf?",
+    "a": "Ratification",
+    "b": "Retention",
+    "c": "Approval",
+    "d": "Grantee",
+    "ans": "a"
+  },
+  {
+    "q": "Under the law of contracts, what type of contract is perfected by mere consent without the need for any specific physical delivery or form?",
+    "a": "Bilateral Contract",
+    "b": "Consensual Contract",
+    "c": "Solemn Contract",
+    "d": "Real Contract",
+    "ans": "b"
+  },
+  {
+    "q": "What is the legal term for an agreement that is enforceable by law?",
+    "a": "Obligation",
+    "b": "Contract",
+    "c": "Treaty",
+    "d": "Covenant",
+    "ans": "b"
+  },
+  {
+    "q": "What type of obligation is not enforceable by judicial action but based on equity and natural law?",
+    "a": "Civil obligation",
+    "b": "Natural obligation",
+    "c": "Moral obligation",
+    "d": "Joint obligation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the branch of philosophy that deals with systematic moral principles and values governing professional conduct?",
+    "a": "Jurisprudence",
+    "b": "Ethics",
+    "c": "Theology",
+    "d": "Statutes",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the fundamental document containing the basic principles and policies that guide the ECE Code of Ethics?",
+    "a": "Constitution of the Philippines",
+    "b": "IECEP Constitution and By-Laws",
+    "c": "Philippine Electronics Code",
+    "d": "Civil Service Manual",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is defined as the accredited integrated professional organization (AIPO) for Electronics Engineers in the Philippines?",
+    "a": "IEEE Philippines",
+    "b": "IECEP (Institute of Electronics Engineers of the Philippines)",
+    "c": "PES (Philippine Electronics Society)",
+    "d": "SEIPI",
+    "ans": "b"
+  },
+  {
+    "q": "What is the professional title awarded to individuals registered under the highest category of practice in RA 9292?",
+    "a": "Registered Electronics Engineer (ECE)",
+    "b": "Professional Electronics Engineer (PECE)",
+    "c": "Electronics Technician (ECT)",
+    "d": "Senior Electronics Engineer",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is within the scope of practice of a Registered Electronics Engineer under RA 9292?",
+    "a": "Teaching of professional ECE subjects",
+    "b": "Signing and sealing of electronics plans and drawings",
+    "c": "Installation and maintenance of communications systems",
+    "d": "Testing and quality control of electronic products",
+    "ans": "b"
+  },
+  {
+    "q": "Which category of registration under RA 9292 is authorized to sign and seal electronics plans, drawings, and specifications?",
+    "a": "Registered Electronics Engineer (ECE)",
+    "b": "Professional Electronics Engineer (PECE)",
+    "c": "Electronics Technician (ECT)",
+    "d": "Both PECE and ECE",
+    "ans": "b"
+  },
+  {
+    "q": "What government agency is vested with the power to regulate, supervise, and coordinate the practice of the ECE profession in the Philippines?",
+    "a": "National Telecommunications Commission (NTC)",
+    "b": "Professional Regulation Commission (PRC)",
+    "c": "Department of Information and Communications Technology (DICT)",
+    "d": "Board of Electronics Engineering (BEE)",
+    "ans": "b"
+  },
+  {
+    "q": "Which executive order gave the National Telecommunications Commission (NTC) the power to promulgate rules and regulations to ensure effective competition in the telecom sector?",
+    "a": "EO 109",
+    "b": "EO 546",
+    "c": "EO 59",
+    "d": "EO 205",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary public telecommunications policy of the Philippines as declared in Republic Act No. 7925?",
+    "a": "To establish a government-owned telecom monopoly",
+    "b": "To promote a fair, modern, and competitive telecommunications environment",
+    "c": "To restrict the entry of private telecommunications carriers",
+    "d": "To nationalize all cellular mobile networks",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 7925, what classification is given to any entity that operates telecommunications facilities for a fee to the general public?",
+    "a": "Value-Added Service Provider",
+    "b": "Public Telecommunications Entity (PTE)",
+    "c": "Franchise Grantee",
+    "d": "Local Exchange Carrier",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a service provider that offers enhanced or advanced services over the transmission facilities of an authorized public carrier?",
+    "a": "Local Exchange Carrier",
+    "b": "Value-Added Service (VAS) Provider",
+    "c": "Interconnection Carrier",
+    "d": "Trunked Radio Operator",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 7925, does a Value-Added Service (VAS) provider need a Congressional franchise to operate?",
+    "a": "Yes, always",
+    "b": "No, it only needs registration with the NTC, provided it does not build its own network",
+    "c": "Yes, but only if it uses fiber-optic lines",
+    "d": "No, it is completely exempt from any government registration",
+    "ans": "b"
+  },
+  {
+    "q": "What act is known as the 'Radio Control Law' of the Philippines, governing the licensing and use of transmitters?",
+    "a": "RA 7925",
+    "b": "Act 3846",
+    "c": "RA 9292",
+    "d": "EO 546",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the legal authority granted by Congress to construct, install, establish, and operate a public radio station?",
+    "a": "NTC Permit",
+    "b": "Legislative Franchise",
+    "c": "Certificate of Public Convenience and Necessity",
+    "d": "Provisional Authority",
+    "ans": "b"
+  },
+  {
+    "q": "Which executive order prescribes the guidelines for the compulsory interconnection of authorized public telecommunications carriers?",
+    "a": "EO 109",
+    "b": "EO 59",
+    "c": "EO 205",
+    "d": "EO 196",
+    "ans": "b"
+  },
+  {
+    "q": "Which executive order established the policy to improve the provision of local exchange carrier services, requiring cellular and international gateway operators to install local exchange lines?",
+    "a": "EO 59",
+    "b": "EO 109",
+    "c": "EO 205",
+    "d": "EO 196",
+    "ans": "b"
+  },
+  {
+    "q": "Which executive order placed the Philippine Communications Satellite Corporation (PHILCOMSAT) under the regulatory jurisdiction of the NTC?",
+    "a": "EO 109",
+    "b": "EO 196",
+    "c": "EO 59",
+    "d": "EO 205",
+    "ans": "b"
+  },
+  {
+    "q": "Which executive order regulates the operation of cable television (CATV) systems in the Philippines?",
+    "a": "EO 109",
+    "b": "EO 205",
+    "c": "EO 196",
+    "d": "EO 59",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS frameworks, what is the role of an EPIRB?",
+    "a": "To locate survival craft during active search-and-rescue over radar bands",
+    "b": "To transmit an emergency distress alert containing coordinates to search-and-rescue satellites",
+    "c": "To print safety and navigation warnings",
+    "d": "To establish voice communication with coast stations",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the law in the Philippines that prohibits and penalizes unauthorized wiretapping and interception of private communications?",
+    "a": "RA 7925",
+    "b": "RA 4200 (Anti-Wire Tapping Law)",
+    "c": "RA 9292",
+    "d": "Act 3846",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary role of the Professional Regulatory Board of Electronics Engineering (PRB-ECE) under RA 9292?",
+    "a": "To manage frequency allocations",
+    "b": "To administer the licensure examinations and regulate ECE professional practice",
+    "c": "To resolve competitive disputes between telecom companies",
+    "d": "To accredit radio dealers and manufacturers",
+    "ans": "b"
+  },
+  {
+    "q": "Which document outlines the rules of conduct and ethical standards that all registered Electronics Engineers are sworn to uphold?",
+    "a": "Philippine Electronics Code",
+    "b": "ECE Code of Ethics",
+    "c": "National Building Code",
+    "d": "KBP Broadcast Code",
+    "ans": "b"
+  },
+  {
+    "q": "According to the ECE Code of Ethics, what is the engineer's primary duty to the public?",
+    "a": "To maximize corporate profits",
+    "b": "To safeguard life, health, and public welfare in the performance of professional duties",
+    "c": "To maintain low consulting fees",
+    "d": "To prioritize foreign engineering standards",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the 'Canons' in professional engineering codes?",
+    "a": "The physical penalties for malpractice",
+    "b": "The fundamental principles of professional and moral behavior",
+    "c": "The list of accredited educational institutions",
+    "d": "The technical specifications for radio stations",
+    "ans": "b"
+  },
+  {
+    "q": "Under the ECE Code of Ethics, if an engineer's professional judgment is overruled under circumstances that endanger life or property, they must _____.",
+    "a": "Resign immediately without notification",
+    "b": "Notify their employer or client and the appropriate government authority",
+    "c": "Modify their design to match the client's request",
+    "d": "Seek legal advice from transaction counsel",
+    "ans": "b"
+  },
+  {
+    "q": "What does 'conflict of interest' mean in the ECE professional practice?",
+    "a": "A dispute between two engineering firms over a contract",
+    "b": "A situation where an engineer's personal or financial interests could compromise their professional judgment and duties",
+    "c": "A technical disagreement on antenna placement",
+    "d": "The use of multiple frequency bands on a single link",
+    "ans": "b"
+  },
+  {
+    "q": "An Electronics Engineer may accept compensation or financial commission from more than one party on a single project, provided _____.",
+    "a": "The amount does not exceed standard rates",
+    "b": "All interested parties are fully informed and give their consent in writing",
+    "c": "The engineer is registered as a PECE",
+    "d": "The transaction is cleared by the NTC",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ethical responsibility of an ECE regarding their professional qualifications and experience?",
+    "a": "To amplify accomplishments to win competitive bids",
+    "b": "To state qualifications and experience completely truthfully and without exaggeration",
+    "c": "To share proprietary corporate secrets to prove experience",
+    "d": "To hide any foreign academic degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Under the ECE Code of Ethics, how should an engineer treat proprietary technical information of their employer or client?",
+    "a": "It can be shared with other clients to promote general industry growth",
+    "b": "It must be kept strictly confidential unless authorization is granted or disclosure is required by law",
+    "c": "It can be published in academic papers without consent",
+    "d": "It must be registered immediately as a personal patent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a professional's active continuous learning process to maintain up-to-date technical competencies?",
+    "a": "PRC Registration",
+    "b": "Continuing Professional Development (CPD)",
+    "c": "Career path profiling",
+    "d": "Board course review",
+    "ans": "b"
+  },
+  {
+    "q": "According to RA 9292, the certificate of registration of an ECE can be revoked or suspended for which of the following grounds?",
+    "a": "Charging higher consulting fees than competitors",
+    "b": "Unprofessional, dishonorable, or unethical conduct",
+    "c": "Failing to attend an IECEP general assembly",
+    "d": "Holding dual citizenship",
+    "ans": "b"
+  },
+  {
+    "q": "Which organization represents the private broadcast media industry in the Philippines and enforces the Broadcast Code?",
+    "a": "National Telecommunications Commission (NTC)",
+    "b": "Kapisanan ng mga Broadkaster ng Pilipinas (KBP)",
+    "c": "Board of Communication",
+    "d": "Department of Transportation and Communication",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the standard technical reference document containing guidelines for the design, construction, and installation of electronic systems in the Philippines?",
+    "a": "National Building Code",
+    "b": "Philippine Electronics Code",
+    "c": "Electrical Engineering Code",
+    "d": "KBP Technical Requirement Manual",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what are the two main broadcast service area classifications?",
+    "a": "Local and Regional Service Areas",
+    "b": "Established Service Areas and outside of Established Service Areas",
+    "c": "Primary and Secondary Service Areas",
+    "d": "Urban and Rural Service Areas",
+    "ans": "b"
+  },
+  {
+    "q": "What type of radio station does not require a franchise from Congress to operate?",
+    "a": "Public Trunked Radio station",
+    "b": "Radio Training Station or amateur radio station",
+    "c": "Public Paging System",
+    "d": "Commercial AM Radio station",
+    "ans": "b"
+  },
+  {
+    "q": "A radio station intended to be used for operation during unspecified halts or while in motion is classified as _____.",
+    "a": "Base station",
+    "b": "Mobile station",
+    "c": "Central station",
+    "d": "Repeater station",
+    "ans": "b"
+  },
+  {
+    "q": "A shipboard radio station is classified under what category?",
+    "a": "Land station",
+    "b": "Maritime mobile station",
+    "c": "Coastal station",
+    "d": "Radio navigational station",
+    "ans": "b"
+  },
+  {
+    "q": "Which regulatory body in the United States coordinates the use of the radio spectrum and regulates electronic communications?",
+    "a": "National Telecommunications and Information Administration (NTIA)",
+    "b": "Federal Communications Commission (FCC)",
+    "c": "IEEE",
+    "d": "ANSI",
+    "ans": "b"
+  },
+  {
+    "q": "What is the global organization devoted to worldwide cooperation, standards, and negotiations on radio spectrum usage?",
+    "a": "FCC",
+    "b": "International Telecommunication Union (ITU)",
+    "c": "IEEE",
+    "d": "ISO",
+    "ans": "b"
+  },
+  {
+    "q": "Which US government agency coordinates military and government communications?",
+    "a": "FCC",
+    "b": "National Telecommunications and Information Administration (NTIA)",
+    "c": "OSHA",
+    "d": "ANSI",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, the acronym ECT stands for _____.",
+    "a": "Electronics Communication Technician",
+    "b": "Electronics Technician",
+    "c": "Electrical and Communications Technician",
+    "d": "Electro-technical Consultant",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, what category is considered the basic engineering level of registration?",
+    "a": "ECT",
+    "b": "Registered Electronics Engineer (ECE)",
+    "c": "PECE",
+    "d": "Associate ECE",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the 'roster' of Electronics Engineers?",
+    "a": "The list of students enrolled in accredited colleges",
+    "b": "The official registry of all licensed ECEs, PECEs, and ECTs maintained by the PRC",
+    "c": "The attendance log of the IECEP National Convention",
+    "d": "The database of authorized radio transmitters",
+    "ans": "b"
+  },
+  {
+    "q": "Which administrative body is responsible for issuing a Certificate of Public Convenience and Necessity (CPCN) to a telecommunications carrier?",
+    "a": "PRC",
+    "b": "National Telecommunications Commission (NTC)",
+    "c": "DICT",
+    "d": "Board of Communications",
+    "ans": "b"
+  },
+  {
+    "q": "What does the term 'interconnection' refer to in public telecommunications networks?",
+    "a": "The physical wiring inside a telephone set",
+    "b": "The physical and logical linking of public telecommunications networks to allow subscribers of one network to communicate with subscribers of another",
+    "c": "The multiplexing of voice and data signals",
+    "d": "The connection of an antenna to a waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of signaling contains the dialing, ringing, and busy tones sent over the actual voice-frequency channel?",
+    "a": "Out-of-band signaling",
+    "b": "In-band signaling",
+    "c": "Common Channel Signaling No. 7",
+    "d": "E&M signaling",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the 'local loop' of a telephone network?",
+    "a": "The high-capacity trunk lines between exchanges",
+    "b": "The connection path from the subscriber's telephone set to the central office",
+    "c": "The feedback path in an oscillator circuit",
+    "d": "The digital data routing loop inside the exchange",
+    "ans": "b"
+  },
+  {
+    "q": "What type of private telephone switch is installed in a business to manage internal calls and trunk lines?",
+    "a": "Local exchange",
+    "b": "Private Branch Exchange (PBX)",
+    "c": "Tandem office switch",
+    "d": "Multiplexer",
+    "ans": "b"
+  },
+  {
+    "q": "Under NTC guidelines, what is the term for a low power FM station?",
+    "a": "10 W radio station",
+    "b": "500-Watt FM Broadcast station",
+    "c": "1 kW FM station",
+    "d": "Community AM station",
+    "ans": "b"
+  },
+  {
+    "q": "What class of FM broadcast station is allowed to operate within Established Service Areas?",
+    "a": "Class C and D",
+    "b": "Class A and Class B",
+    "c": "Class B-1",
+    "d": "Class D only",
+    "ans": "b"
+  },
+  {
+    "q": "What class of FM broadcast station is allowed to operate in areas outside of Established Service Areas?",
+    "a": "Class A",
+    "b": "Class B-1",
+    "c": "Class B",
+    "d": "Class C",
+    "ans": "b"
+  },
+  {
+    "q": "According to the National Building Code (PD 1096), what is the primary structural regulatory document governing building safety?",
+    "a": "Philippine Electronics Code",
+    "b": "National Building Code of the Philippines",
+    "c": "IECEP Guidelines",
+    "d": "Standard safety manual",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the term 'BORSCHT' in telephone line interface functions?",
+    "a": "A high-speed switching routing table",
+    "b": "Battery feed, Overvoltage protection, Ringing, Signaling, Coding, Hybrid, and Testing",
+    "c": "The billing and operation record system",
+    "d": "A digital multiplexing standard",
+    "ans": "b"
+  },
+  {
+    "q": "What is the legal name of the law that created the Professional Regulation Commission (PRC) in 1973?",
+    "a": "RA 9292",
+    "b": "Presidential Decree No. 223",
+    "c": "Executive Order No. 546",
+    "d": "Act 3846",
+    "ans": "b"
+  },
+  {
+    "q": "Under standard KBP Technical Requirements, what polarization is not recommended for FM broadcast antennas?",
+    "a": "Vertical",
+    "b": "Elliptical",
+    "c": "Circular",
+    "d": "Horizontal",
+    "ans": "b"
+  },
+  {
+    "q": "A document listing the date and time of events, programs, tests, and malfunctions in a broadcast station is called a _____.",
+    "a": "Report book",
+    "b": "Log",
+    "c": "Register",
+    "d": "Schedule sheet",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the term 'UMTS' in mobile communication networks?",
+    "a": "Universal Mobile Telephony Standard",
+    "b": "Universal Mobile Telecommunications System",
+    "c": "United Mobile Telecom Standard",
+    "d": "Unified Mobile Technology System",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the term 'GPRS' in cellular networks?",
+    "a": "Global Packet Radio Service",
+    "b": "General Packet Radio Service",
+    "c": "Global Position Routing System",
+    "d": "General Position Radio Service",
+    "ans": "b"
+  },
+  {
+    "q": "Under the law of contracts, what type of contract is perfected by the actual delivery of the physical object of the contract?",
+    "a": "Consensual Contract",
+    "b": "Real Contract",
+    "c": "Bilateral Contract",
+    "d": "Solemn Contract",
+    "ans": "b"
+  },
+  {
+    "q": "Under the law of contracts, what type of contract requires a specific legal form or solemnity to be valid?",
+    "a": "Consensual Contract",
+    "b": "Solemn Contract",
+    "c": "Real Contract",
+    "d": "Bilateral Contract",
+    "ans": "b"
+  },
+  {
+    "q": "The Professional Regulation Commission (PRC) was modernized and given updated powers under which Republic Act?",
+    "a": "RA 9292",
+    "b": "Republic Act No. 8981 (PRC Modernization Act of 2000)",
+    "c": "RA 7925",
+    "d": "RA 4200",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a situation where a licensed professional allows an unlicensed person to use their license, name, or seal to practice?",
+    "a": "Reciprocity",
+    "b": "Aiding and Abetting Unlicensed Practice",
+    "c": "Corporate facilitation",
+    "d": "Partnership practice",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for an ECE who is 68 years old? Use the MPD formula MPD = 5 * (Age - 18) rems.",
+    "a": "200 rems",
+    "b": "250 rems",
+    "c": "230 rems",
+    "d": "277 rems",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for a 38-year-old electronics laboratory technician?",
+    "a": "80 rems",
+    "b": "100 rems",
+    "c": "120 rems",
+    "d": "150 rems",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for a 48-year-old field engineer?",
+    "a": "120 rems",
+    "b": "150 rems",
+    "c": "180 rems",
+    "d": "200 rems",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for a 58-year-old technical manager?",
+    "a": "180 rems",
+    "b": "200 rems",
+    "c": "220 rems",
+    "d": "250 rems",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for a 28-year-old systems engineer?",
+    "a": "30 rems",
+    "b": "50 rems",
+    "c": "75 rems",
+    "d": "100 rems",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum number of local exchange lines that an International Gateway Facility (IGF) operator must install within three (3) years under Executive Order No. 109?",
+    "a": "100,000 lines",
+    "b": "300,000 lines",
+    "c": "400,000 lines",
+    "d": "500,000 lines",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum number of local exchange lines that a Cellular Mobile Telephone System (CMTS) operator must install within three (3) years under Executive Order No. 109?",
+    "a": "200,000 lines",
+    "b": "400,000 lines",
+    "c": "300,000 lines",
+    "d": "500,000 lines",
+    "ans": "b"
+  },
+  {
+    "q": "Under EO 109, for every one (1) urban line installed, what is the ratio of rural lines that must be installed by a carrier?",
+    "a": "1:5",
+    "b": "1:10",
+    "c": "1:15",
+    "d": "1:20",
+    "ans": "b"
+  },
+  {
+    "q": "According to RA 9292, what is the minimum fine imposed on any person who shall violate any provision of the Act?",
+    "a": "P50,000",
+    "b": "P100,000",
+    "c": "P200,000",
+    "d": "P500,000",
+    "ans": "b"
+  },
+  {
+    "q": "According to RA 9292, what is the maximum fine imposed on any person who shall violate any provision of the Act?",
+    "a": "P500,000",
+    "b": "P1,000,000",
+    "c": "P2,000,000",
+    "d": "P5,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, what is the range of imprisonment for any person who commits an offense under this Act?",
+    "a": "1 month to 1 year",
+    "b": "6 months to 6 years",
+    "c": "1 year to 5 years",
+    "d": "2 years to 10 years",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty for operating a Radio Frequency Identification (RFID) proximity reader without a valid registration under NTC guidelines?",
+    "a": "P1,000 per reader",
+    "b": "P5,000 per reader",
+    "c": "P10,000 per reader",
+    "d": "P20,000 per reader",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty for selling an unregistered RFID proximity reader under NTC guidelines?",
+    "a": "P1,000 per unit",
+    "b": "P5,000 per unit",
+    "c": "P10,000 per unit",
+    "d": "P15,000 per unit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty for selling RFID proximity readers by non-NTC accredited radio dealers?",
+    "a": "P1,000 per reader, P500 per 1000 tags",
+    "b": "P5,000 per reader, P1,000 per 1000 tags",
+    "c": "P10,000 per reader, P2,000 per 1000 tags",
+    "d": "P20,000 per reader, P5,000 per 1000 tags",
+    "ans": "b"
+  },
+  {
+    "q": "What is the registration fee for a low power RFID reader under NTC guidelines?",
+    "a": "P50",
+    "b": "P100",
+    "c": "P200",
+    "d": "P300",
+    "ans": "b"
+  },
+  {
+    "q": "What is the registration fee for a high power RFID reader under NTC guidelines?",
+    "a": "P100",
+    "b": "P300",
+    "c": "P500",
+    "d": "P1,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum Effective Radiated Power (ERP) allowed for a low power RFID reader?",
+    "a": "100 mW",
+    "b": "500 mW",
+    "c": "1 Watt",
+    "d": "2 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum Effective Radiated Power (ERP) allowed for a high power RFID reader?",
+    "a": "1 Watt",
+    "b": "2 Watts",
+    "c": "5 Watts",
+    "d": "10 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Under NTC guidelines, broadcast or push messaging services shall not be sent during what time window, except on paid subscription services?",
+    "a": "8:00 PM to 6:00 AM",
+    "b": "9:00 PM to 7:00 AM",
+    "c": "10:00 PM to 6:00 AM",
+    "d": "11:00 PM to 5:00 AM",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty for violating NTC rules and regulations on Broadcast Messaging Services?",
+    "a": "P100 fine per violation",
+    "b": "P200 fine per violation",
+    "c": "P500 fine per violation",
+    "d": "P1,000 fine per violation",
+    "ans": "b"
+  },
+  {
+    "q": "Under Act 3846, what is the maximum fine imposed on any individual who shall violate any provision of the Act?",
+    "a": "P500",
+    "b": "P2,000",
+    "c": "P5,000",
+    "d": "P10,000",
+    "ans": "b"
+  },
+  {
+    "q": "Under Act 3846, what is the maximum range of imprisonment for any individual who violates any provision of the Act?",
+    "a": "6 months",
+    "b": "2 years",
+    "c": "1 year",
+    "d": "5 years",
+    "ans": "b"
+  },
+  {
+    "q": "Under Act 3846, what is the maximum fine imposed on a firm, company, or corporation that violates any provision of the Act?",
+    "a": "P2,000",
+    "b": "P5,000",
+    "c": "P10,000",
+    "d": "P20,000",
+    "ans": "b"
+  },
+  {
+    "q": "For how many years must a base station in the land mobile radio services maintain entries in its log book if an emergency signal is received?",
+    "a": "1 year",
+    "b": "2 years",
+    "c": "3 years",
+    "d": "5 years",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum permissible radiation dose limit from electronic equipment per week?",
+    "a": "50 mr",
+    "b": "100 mr",
+    "c": "200 mr",
+    "d": "500 mr",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum number of years of experience in the practice of the ECE profession required to qualify as a Board of Examiners member under RA 9292?",
+    "a": "5 years",
+    "b": "10 years",
+    "c": "8 years",
+    "d": "12 years",
+    "ans": "b"
+  },
+  {
+    "q": "According to RA 9292, what is the term of office for members of the Professional Regulatory Board of Electronics Engineering?",
+    "a": "2 years",
+    "b": "3 years",
+    "c": "5 years",
+    "d": "6 years",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum age requirement to be eligible for appointment as a member of the Board under RA 9292?",
+    "a": "30 years old",
+    "b": "35 years old",
+    "c": "40 years old",
+    "d": "45 years old",
+    "ans": "b"
+  },
+  {
+    "q": "For the purpose of global frequency allocation, into how many geographic regions does the ITU divide the world?",
+    "a": "Two",
+    "b": "Three",
+    "c": "Four",
+    "d": "Five",
+    "ans": "b"
+  },
+  {
+    "q": "The first Philippine communications satellite, Agila II, carries how many Ku-band transponders?",
+    "a": "12",
+    "b": "24",
+    "c": "36",
+    "d": "30",
+    "ans": "b"
+  },
+  {
+    "q": "The first Philippine communications satellite, Agila II, carries how many C-band transponders?",
+    "a": "12",
+    "b": "30",
+    "c": "24",
+    "d": "36",
+    "ans": "b"
+  },
+  {
+    "q": "The first Philippine communications satellite, Agila II, carries a total of how many transponders (C-band and Ku-band combined)?",
+    "a": "36",
+    "b": "54",
+    "c": "48",
+    "d": "60",
+    "ans": "b"
+  },
+  {
+    "q": "At what orbital location is the first Philippine communications satellite positioned?",
+    "a": "138 degrees East longitude",
+    "b": "146 degrees East longitude",
+    "c": "100 degrees East longitude",
+    "d": "150 degrees East longitude",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, the frequency separation between FM broadcast stations in the same geographic area must be at least _____.",
+    "a": "400 kHz",
+    "b": "800 kHz",
+    "c": "200 kHz",
+    "d": "1000 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the maximum number of low power FM radio stations (500 W) that can be allowed for any single geographical region?",
+    "a": "10",
+    "b": "30",
+    "c": "50",
+    "d": "100",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the maximum number of low power FM radio stations (500 W) allowed to be established nationwide?",
+    "a": "100",
+    "b": "200",
+    "c": "300",
+    "d": "500",
+    "ans": "b"
+  },
+  {
+    "q": "All classes of FM stations shall be protected up to what field strength contour?",
+    "a": "0.5 mV/m or 54 dBu contour",
+    "b": "1.0 mV/m or 60 dBu contour",
+    "c": "2.0 mV/m or 66 dBu contour",
+    "d": "0.1 mV/m or 40 dBu contour",
+    "ans": "b"
+  },
+  {
+    "q": "NTC Memorandum Circular No. 02-06-2006 provides guidelines for the grant and authorization of FM broadcast stations with what maximum power?",
+    "a": "100 W",
+    "b": "500 W",
+    "c": "1 kW",
+    "d": "5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "What is the authorized transmitter power output limit for a Class B-1 FM broadcast station?",
+    "a": "100 W",
+    "b": "500 W",
+    "c": "1 kW",
+    "d": "5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ERP limit for a Class B-1 FM broadcast station under standard regulations?",
+    "a": "Not exceeding 1 kW",
+    "b": "Not lower than 1 kW and not exceeding 5 kW",
+    "c": "Not exceeding 10 kW",
+    "d": "Not lower than 5 kW and not exceeding 10 kW",
+    "ans": "b"
+  },
+  {
+    "q": "What is the antenna height limit (HAAT) for a Class B-1 FM broadcast station?",
+    "a": "100 feet",
+    "b": "200 feet",
+    "c": "300 feet",
+    "d": "500 feet",
+    "ans": "b"
+  },
+  {
+    "q": "Under standard cellular regulations, what is the maximum frequency deviation permitted for analog FM cellular transceivers?",
+    "a": "plus or minus 5 kHz",
+    "b": "plus or minus 12 kHz",
+    "c": "plus or minus 75 kHz",
+    "d": "plus or minus 25 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the maximum power permitted for a commercial AM station in Metro Manila?",
+    "a": "10 kW",
+    "b": "50 kW",
+    "c": "100 kW",
+    "d": "25 kW",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum color TV video bandwidth under standard NTSC specifications?",
+    "a": "1.3 MHz",
+    "b": "1.5 MHz",
+    "c": "4.2 MHz",
+    "d": "6.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A beam antenna has a height of 10 meters over its service area. Calculate the beam tilt angle in degrees.",
+    "a": "0.088°",
+    "b": "0.900°",
+    "c": "8.800°",
+    "d": "9.200°",
+    "ans": "a"
+  },
+  {
+    "q": "According to the G.723.1 specification recommended by the VoIP Forum, what is the required audio codec bit rate for the low-rate mode?",
+    "a": "5.3 kbps",
+    "b": "6.3 kbps",
+    "c": "8.0 kbps",
+    "d": "13.0 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "According to the G.723.1 specification, what is the required audio codec bit rate for the high-rate mode?",
+    "a": "6.3 kbps",
+    "b": "5.3 kbps",
+    "c": "8.0 kbps",
+    "d": "13.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Under RA 9292, what is the passing grade required to pass the licensure examination for Electronics Engineers?",
+    "a": "70% general average with no grade below 50% in any subject",
+    "b": "70% general average with no grade below 70% in any subject",
+    "c": "75% general average with no grade below 60% in any subject",
+    "d": "75% general average with no grade below 70% in any subject",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum age requirement for an applicant to be allowed to take the ECT licensure examination?",
+    "a": "18 years old",
+    "b": "20 years old",
+    "c": "21 years old",
+    "d": "16 years old",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum age requirement to be registered as an ECE or PECE under RA 9292?",
+    "a": "18 years old",
+    "b": "21 years old",
+    "c": "25 years old",
+    "d": "20 years old",
+    "ans": "b"
+  },
+  {
+    "q": "How many years of active ECE practice is required for a registered ECE to qualify for upgrading to a PECE?",
+    "a": "5 years",
+    "b": "7 years",
+    "c": "10 years",
+    "d": "12 years",
+    "ans": "b"
+  },
+  {
+    "q": "A candidate takes the Board Exam and scores the following: Mathematics: 72%, GEAS: 75%, Electronics: 70%, ESAT: 68%. What is the candidate's general average, and did they pass?",
+    "a": "71.25%, Passed",
+    "b": "71.25%, Failed (because ESAT is below 70%)",
+    "c": "70.50%, Passed",
+    "d": "70.50%, Failed",
+    "ans": "b"
+  },
+  {
+    "q": "Under standard KBP rules, the commercial load for television stations in Metro Manila shall not exceed _____ minutes per hour during primetime.",
+    "a": "10 minutes",
+    "b": "12 minutes",
+    "c": "15 minutes",
+    "d": "18 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, the commercial load for radio stations in Metro Manila shall not exceed _____ minutes per hour.",
+    "a": "12 minutes",
+    "b": "15 minutes",
+    "c": "18 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, the commercial load for provincial radio stations shall not exceed _____ minutes per hour.",
+    "a": "15 minutes",
+    "b": "20 minutes",
+    "c": "25 minutes",
+    "d": "18 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, the commercial load for provincial television stations shall not exceed _____ minutes per hour.",
+    "a": "12 minutes",
+    "b": "18 minutes",
+    "c": "15 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS guidelines, what is the maximum power output allowed for a SART transmitter?",
+    "a": "1 Watt",
+    "b": "400 mW",
+    "c": "5 Watts",
+    "d": "2 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS guidelines, the backup batteries in an EPIRB must be capable of providing continuous operation for at least _____.",
+    "a": "24 hours",
+    "b": "48 hours",
+    "c": "72 hours",
+    "d": "96 hours",
+    "ans": "b"
+  },
+  {
+    "q": "Under GMDSS guidelines, the backup batteries in a SART must be capable of providing standby monitoring for 96 hours followed by continuous transponding for at least _____.",
+    "a": "4 hours",
+    "b": "8 hours",
+    "c": "12 hours",
+    "d": "24 hours",
+    "ans": "b"
+  },
+  {
+    "q": "How many years of valid registry is given to a Professional Electronics Engineer license before renewal is required?",
+    "a": "1 year",
+    "b": "3 years",
+    "c": "5 years",
+    "d": "2 years",
+    "ans": "b"
+  },
+  {
+    "q": "A corporate entity applies for a cable TV license. According to NTC rules, what is the minimum paid-up capital required for a CATV operator serving a municipality?",
+    "a": "P250,000",
+    "b": "P1,000,000",
+    "c": "P2,000,000",
+    "d": "P5,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "According to NTC rules, what is the minimum paid-up capital required for a CATV operator serving a city?",
+    "a": "P1,000,000",
+    "b": "P2,000,000",
+    "c": "P5,000,000",
+    "d": "P10,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "According to NTC rules, what is the minimum paid-up capital required for a CATV operator serving Metro Manila?",
+    "a": "P5,000,000",
+    "b": "P10,000,000",
+    "c": "P20,000,000",
+    "d": "P50,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the administrative license fee for a CATV headend under standard NTC regulations?",
+    "a": "P100",
+    "b": "P300",
+    "c": "P500",
+    "d": "P1,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty or fine imposed under Act 3846 for any person operating a radio transmitter without a valid permit?",
+    "a": "P1,000",
+    "b": "P5,000",
+    "c": "P10,000",
+    "d": "P2,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the penalty or fine per unit imposed for the unauthorized use or selling of cellular service without NTC registration?",
+    "a": "P1,000",
+    "b": "P5,000",
+    "c": "P10,000",
+    "d": "P20,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the permit fee for a Mobile Portable Device (MPD) under NTC guidelines?",
+    "a": "P500",
+    "b": "P1,200",
+    "c": "P2,000",
+    "d": "P1,000",
+    "ans": "b"
+  },
+  {
+    "q": "For J3E emissions (SSB suppressed carrier), what is the relationship between the assigned carrier frequency and the suppressed carrier frequency?",
+    "a": "The assigned frequency is 1.0 kHz above the suppressed carrier",
+    "b": "The assigned frequency is 1.4 kHz above the suppressed carrier",
+    "c": "The assigned frequency is exactly equal to the suppressed carrier",
+    "d": "The assigned frequency is 1.5 kHz below the suppressed carrier",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the maximum permissible accumulated dose (MPD) of radiation for a 19-year-old apprentice? Use MPD = 5 * (Age - 18) rems.",
+    "a": "0 rems",
+    "b": "5 rems",
+    "c": "10 rems",
+    "d": "15 rems",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total bandwidth allocated for the cellular AMPS spectrum in the United States and the Philippines?",
+    "a": "12.5 MHz",
+    "b": "25.0 MHz",
+    "c": "50.0 MHz",
+    "d": "40.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder has a bandwidth of 36 MHz. If each voice channel in an SCPC system requires 45 kHz of bandwidth, calculate the maximum number of voice channels the transponder can support.",
+    "a": "400 channels",
+    "b": "800 channels",
+    "c": "600 channels",
+    "d": "1000 channels",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder has a bandwidth of 72 MHz. If each channel in an SCPC system requires 45 kHz, calculate the maximum number of channels.",
+    "a": "800 channels",
+    "b": "1600 channels",
+    "c": "1200 channels",
+    "d": "2000 channels",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, the PRB-ECE consists of a Chairman and how many Board members?",
+    "a": "One",
+    "b": "Two",
+    "c": "Three",
+    "d": "Four",
+    "ans": "b"
+  },
+  {
+    "q": "According to KBP regulations, what is the maximum permitted frequency deviation for an AM transmitter?",
+    "a": "plus or minus 5 kHz",
+    "b": "plus or minus 10 kHz",
+    "c": "plus or minus 15 kHz",
+    "d": "plus or minus 20 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical field frequency of a standard NTSC color television system is exactly _____.",
+    "a": "60.00 Hz",
+    "b": "59.94 Hz",
+    "c": "30.00 Hz",
+    "d": "29.97 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A person has a radiation exposure limit of 100 mrem per day. Calculate the maximum exposure limit per year.",
+    "a": "10 rem",
+    "b": "36.5 rem",
+    "c": "5 rem",
+    "d": "50 rem",
+    "ans": "b"
+  },
+  {
+    "q": "A telecom carrier wants to install 120,000 local exchange lines within three years. According to the ratio in EO 109, how many of these lines must be installed in rural areas?",
+    "a": "10,000 lines",
+    "b": "10,909 lines (using the 1:10 ratio, 120,000 / 11)",
+    "c": "12,000 lines",
+    "d": "20,000 lines",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular mobile operator has a target of installing 400,000 local lines under EO 109. If they fail to comply, what is the maximum fine NTC can impose per day of delay under standard telecom penalties?",
+    "a": "P5,000",
+    "b": "P10,000",
+    "c": "P20,000",
+    "d": "P50,000",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the minimum required field strength for the primary protected contour of an AM broadcast station during the day?",
+    "a": "0.1 mV/m",
+    "b": "0.5 mV/m",
+    "c": "1.0 mV/m",
+    "d": "2.0 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the minimum required field strength for the primary protected contour of an AM broadcast station during the night?",
+    "a": "1.0 mV/m",
+    "b": "2.5 mV/m",
+    "c": "5.0 mV/m",
+    "d": "10.0 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the minimum protected field strength contour for Class A and B FM broadcast stations?",
+    "a": "0.5 mV/m",
+    "b": "1.0 mV/m",
+    "c": "2.0 mV/m",
+    "d": "0.25 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP regulations, what is the minimum protected field strength contour for Class B-1 FM broadcast stations?",
+    "a": "0.25 mV/m",
+    "b": "0.50 mV/m",
+    "c": "1.00 mV/m",
+    "d": "2.00 mV/m",
+    "ans": "b"
+  },
+  {
+    "q": "An FM radio broadcast station operates with an ERP of 10 kW. If the antenna has a gain of 5.0 and the transmission line has a 1.0 dB loss, calculate the transmitter power output.",
+    "a": "1.58 kW",
+    "b": "2.51 kW",
+    "c": "3.16 kW",
+    "d": "4.00 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter has an output power of 2 kW. If the transmission line has a loss of 2.0 dB and the antenna gain is 8 dBd (absolute power ratio 6.31), calculate the ERP in kW.",
+    "a": "5.0 kW",
+    "b": "7.9 kW",
+    "c": "10.0 kW",
+    "d": "12.6 kW",
+    "ans": "b"
+  },
+  {
+    "q": "An amateur radio operator operates a transmitter with a peak envelope power (PEP) of 100 Watts. If they use a coax cable with a loss of 3.0 dB and an antenna with a gain of 6.0 dBd, calculate the ERP.",
+    "a": "100 Watts",
+    "b": "200 Watts",
+    "c": "400 Watts",
+    "d": "300 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular operator is assigned 25 MHz of spectrum. If they use a 7-cell frequency reuse pattern with 30 kHz channels, how many channels are available per cell site?",
+    "a": "59 channels",
+    "b": "119 channels",
+    "c": "45 channels",
+    "d": "30 channels",
+    "ans": "a"
+  },
+  {
+    "q": "A local loop cable has a loop resistance of 100 ohms per kilometer. If the loop length is 12 km, calculate the total loop resistance.",
+    "a": "600 ohms",
+    "b": "1200 ohms",
+    "c": "2400 ohms",
+    "d": "1000 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the loop current flowing through a 200 ohm handset connected to a 10 km loop (100 ohms/km loop resistance) driven by a 48 V battery?",
+    "a": "20 mA",
+    "b": "40 mA",
+    "c": "80 mA",
+    "d": "50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the loop current flowing through a 200 ohm handset connected to a 6 km loop (100 ohms/km loop resistance) driven by a 48 V battery?",
+    "a": "30 mA",
+    "b": "60 mA",
+    "c": "90 mA",
+    "d": "50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for N = 9 cell cluster system.",
+    "a": "4.58",
+    "b": "5.20",
+    "c": "6.00",
+    "d": "3.46",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for N = 4 cell cluster system.",
+    "a": "3.00",
+    "b": "3.46",
+    "c": "4.58",
+    "d": "2.45",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 4-cell cluster system if the path loss exponent is gamma = 4.0 and there are 6 interfering cells.",
+    "a": "11.8 dB",
+    "b": "13.8 dB",
+    "c": "15.0 dB",
+    "d": "18.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 9-cell cluster system if the path loss exponent is gamma = 4.0 and there are 6 interfering cells.",
+    "a": "18.7 dB",
+    "b": "21.3 dB",
+    "c": "25.0 dB",
+    "d": "30.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A corporate PBX has 20 outgoing trunks. During the busy hour, the total traffic offered is 12 Erlangs. If the average blocking probability is to be evaluated, what is the trunk group capacity at GoS P = 0.02 (assume Erlang-B capacity for 20 trunks at P = 0.02 is 13.18 Erlangs, indicating GoS is slightly below 0.02).",
+    "a": "0.050",
+    "b": "0.015",
+    "c": "0.020",
+    "d": "0.010",
+    "ans": "b"
+  },
+  {
+    "q": "An office has 100 extensions. During the busy hour, the average number of active calls is 10. Calculate the traffic concentration factor in Erlangs.",
+    "a": "0.05 Erlangs per user",
+    "b": "0.10 Erlangs per user",
+    "c": "0.20 Erlangs per user",
+    "d": "0.15 Erlangs per user",
+    "ans": "b"
+  },
+  {
+    "q": "A regional trunk line consists of three cascaded switches. If the individual Grade of Service (GoS) of each switch is P1 = 0.01, P2 = 0.01, and P3 = 0.01, calculate the overall GoS of the tandem link.",
+    "a": "0.01",
+    "b": "0.03",
+    "c": "0.02",
+    "d": "0.04",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the propagation time delay in microseconds for a wireless signal to travel a distance of 15 km from a mobile handset to a base station antenna in free space.",
+    "a": "25.0 microseconds",
+    "b": "50.0 microseconds",
+    "c": "100.0 microseconds",
+    "d": "75.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in microseconds for the mobile system in the previous question (distance = 15 km).",
+    "a": "50.0 microseconds",
+    "b": "100.0 microseconds",
+    "c": "200.0 microseconds",
+    "d": "150.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 100 in the uplink direction? Use the GSM uplink formula f_uplink = 890.0 + 0.2 * Channel MHz.",
+    "a": "890.0 MHz",
+    "b": "910.0 MHz",
+    "c": "945.0 MHz",
+    "d": "955.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 100 in the downlink direction? Use the GSM downlink formula f_downlink = 935.0 + 0.2 * Channel MHz.",
+    "a": "935.0 MHz",
+    "b": "955.0 MHz",
+    "c": "910.0 MHz",
+    "d": "900.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An office PABX logs 360 calls during the busy hour. If the average duration of each call is 120 seconds, calculate the traffic intensity in Erlangs. Use A = (lambda * H_seconds) / 3600.",
+    "a": "6.0 Erlangs",
+    "b": "12.0 Erlangs",
+    "c": "24.0 Erlangs",
+    "d": "18.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the traffic of 12.0 Erlangs from the previous question into CCS.",
+    "a": "240 CCS",
+    "b": "432 CCS",
+    "c": "360 CCS",
+    "d": "720 CCS",
+    "ans": "b"
+  },
+  {
+    "q": "A call center registers 900 CCS of traffic during the busy hour. Calculate the equivalent traffic intensity in Erlangs.",
+    "a": "12.5 Erlangs",
+    "b": "25.0 Erlangs",
+    "c": "50.0 Erlangs",
+    "d": "36.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "If a group of trunk circuits has an average occupancy of 24 active circuits during a 15-minute measurement interval, calculate the traffic intensity in Erlangs.",
+    "a": "12.0 Erlangs",
+    "b": "24.0 Erlangs",
+    "c": "6.0 Erlangs",
+    "d": "48.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "During the busy hour, a group of 20 trunk lines is monitored. If the total engagement time of all trunks combined is 36,000 seconds, calculate the traffic intensity in Erlangs.",
+    "a": "5.0 Erlangs",
+    "b": "10.0 Erlangs",
+    "c": "3.6 Erlangs",
+    "d": "20.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder has a bandwidth of 36 MHz. If each voice channel in an SCPC system requires 30 kHz of bandwidth, calculate the maximum number of voice channels the transponder can support.",
+    "a": "600 channels",
+    "b": "1200 channels",
+    "c": "1000 channels",
+    "d": "1500 channels",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite transponder has a bandwidth of 72 MHz. If each channel in an SCPC system requires 30 kHz, calculate the maximum number of channels.",
+    "a": "1200 channels",
+    "b": "2400 channels",
+    "c": "1800 channels",
+    "d": "3000 channels",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 2100 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "3.5 milliseconds",
+    "b": "7.0 milliseconds",
+    "c": "14.0 milliseconds",
+    "d": "10.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 2100 km).",
+    "a": "7.0 milliseconds",
+    "b": "14.0 milliseconds",
+    "c": "28.0 milliseconds",
+    "d": "21.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.05. If 2000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "50 calls",
+    "b": "100 calls",
+    "c": "200 calls",
+    "d": "150 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 16.1 dB.",
+    "a": "5.0 km",
+    "b": "10.0 km",
+    "c": "20.0 km",
+    "d": "15.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 10 calls offered?",
+    "a": "1.0 minute",
+    "b": "6.0 minutes",
+    "c": "12.0 minutes",
+    "d": "3.0 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 30 voice channels. If the average busy-hour traffic per subscriber is 0.03 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 30 channels is 21.9 Erlangs).",
+    "a": "333 subscribers",
+    "b": "730 subscribers",
+    "c": "1000 subscribers",
+    "d": "500 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 1500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "2.5 milliseconds",
+    "b": "5.0 milliseconds",
+    "c": "10.0 milliseconds",
+    "d": "7.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 1500 km).",
+    "a": "5.0 milliseconds",
+    "b": "10.0 milliseconds",
+    "c": "20.0 milliseconds",
+    "d": "15.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 2000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "10 calls",
+    "b": "20 calls",
+    "c": "40 calls",
+    "d": "30 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 10.0 dB.",
+    "a": "3.1 km",
+    "b": "6.2 km",
+    "c": "12.4 km",
+    "d": "9.3 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 30 calls offered?",
+    "a": "1.0 minute",
+    "b": "2.0 minutes",
+    "c": "4.0 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 50 voice channels. If the average busy-hour traffic per subscriber is 0.05 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 50 channels is 40.2 Erlangs).",
+    "a": "450 subscribers",
+    "b": "804 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 3000 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "5.0 milliseconds",
+    "b": "10.0 milliseconds",
+    "c": "20.0 milliseconds",
+    "d": "15.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 3000 km).",
+    "a": "10.0 milliseconds",
+    "b": "20.0 milliseconds",
+    "c": "40.0 milliseconds",
+    "d": "30.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 3000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "15 calls",
+    "b": "30 calls",
+    "c": "60 calls",
+    "d": "45 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 12.0 dB.",
+    "a": "3.7 km",
+    "b": "7.5 km",
+    "c": "15.0 km",
+    "d": "11.2 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 40 calls offered?",
+    "a": "1.0 minute",
+    "b": "1.5 minutes",
+    "c": "3.0 minutes",
+    "d": "2.0 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 60 voice channels. If the average busy-hour traffic per subscriber is 0.06 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 60 channels is 49.6 Erlangs).",
+    "a": "450 subscribers",
+    "b": "827 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 4500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "7.5 milliseconds",
+    "b": "15.0 milliseconds",
+    "c": "30.0 milliseconds",
+    "d": "22.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 4500 km).",
+    "a": "15.0 milliseconds",
+    "b": "30.0 milliseconds",
+    "c": "60.0 milliseconds",
+    "d": "45.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 4000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "20 calls",
+    "b": "40 calls",
+    "c": "80 calls",
+    "d": "60 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 15.0 dB.",
+    "a": "4.7 km",
+    "b": "9.3 km",
+    "c": "18.6 km",
+    "d": "13.9 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 50 calls offered?",
+    "a": "0.6 minutes",
+    "b": "1.2 minutes",
+    "c": "2.4 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 70 voice channels. If the average busy-hour traffic per subscriber is 0.07 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 70 channels is 59.1 Erlangs).",
+    "a": "450 subscribers",
+    "b": "844 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 6000 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "10.0 milliseconds",
+    "b": "20.0 milliseconds",
+    "c": "40.0 milliseconds",
+    "d": "30.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 6000 km).",
+    "a": "20.0 milliseconds",
+    "b": "40.0 milliseconds",
+    "c": "80.0 milliseconds",
+    "d": "60.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 5000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "25 calls",
+    "b": "50 calls",
+    "c": "100 calls",
+    "d": "75 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 18.0 dB.",
+    "a": "5.6 km",
+    "b": "11.2 km",
+    "c": "22.4 km",
+    "d": "16.8 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 60 calls offered?",
+    "a": "0.5 minutes",
+    "b": "1.0 minute",
+    "c": "2.0 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 80 voice channels. If the average busy-hour traffic per subscriber is 0.08 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 80 channels is 68.6 Erlangs).",
+    "a": "450 subscribers",
+    "b": "857 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 7500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "12.5 milliseconds",
+    "b": "25.0 milliseconds",
+    "c": "50.0 milliseconds",
+    "d": "37.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 7500 km).",
+    "a": "25.0 milliseconds",
+    "b": "50.0 milliseconds",
+    "c": "100.0 milliseconds",
+    "d": "75.0 milliseconds",
+    "ans": "b"
+  }
+]

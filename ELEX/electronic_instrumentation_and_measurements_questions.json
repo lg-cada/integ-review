@@ -1,0 +1,1778 @@
+[
+  {
+    "q": "Which class of measurement error is caused by human mistakes such as misreading instrument dials or recording incorrect data?",
+    "a": "Systematic error",
+    "b": "Gross error",
+    "c": "Random error",
+    "d": "Environmental error",
+    "ans": "b"
+  },
+  {
+    "q": "What type of instrumental error is caused by inherent shortcomings in the instrument itself, such as friction in bearings or weakened springs?",
+    "a": "Environmental error",
+    "b": "Systematic error",
+    "c": "Random error",
+    "d": "Observational error",
+    "ans": "b"
+  },
+  {
+    "q": "Errors that remain after all systematic and gross errors have been accounted for, characterized by small, unpredictable variations, are called:",
+    "a": "Guarantee errors",
+    "b": "Random errors",
+    "c": "Calibration errors",
+    "d": "Absolute errors",
+    "ans": "b"
+  },
+  {
+    "q": "How close a measured value is to the true or accepted value of the quantity being measured is defined as:",
+    "a": "Precision",
+    "b": "Accuracy",
+    "c": "Resolution",
+    "d": "Sensitivity",
+    "ans": "b"
+  },
+  {
+    "q": "The degree of consistency or reproducibility of a set of independent measurements under unchanged conditions is defined as:",
+    "a": "Accuracy",
+    "b": "Precision",
+    "c": "Resolution",
+    "d": "Linearity",
+    "ans": "b"
+  },
+  {
+    "q": "The smallest change in the measured quantity to which an instrument can respond is called the:",
+    "a": "Sensitivity",
+    "b": "Resolution",
+    "c": "Tolerance",
+    "d": "Dead zone",
+    "ans": "b"
+  },
+  {
+    "q": "What type of meter movement utilizes a permanent magnet and a rotating coil to measure direct current, offering highly linear scaling?",
+    "a": "Moving-iron movement",
+    "b": "Permanent Magnet Moving Coil (PMMC) movement",
+    "c": "Electrodynamometer movement",
+    "d": "Electrostatic movement",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following meters can measure both AC and DC quantities without any internal rectifying circuits?",
+    "a": "PMMC voltmeter",
+    "b": "Moving-iron voltmeter",
+    "c": "Induction voltmeter",
+    "d": "D'Arsonval galvanometer",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of the controlling (or restoring) torque in an analog indicating instrument?",
+    "a": "To accelerate the pointer toward full-scale deflection",
+    "b": "To oppose the deflecting torque and bring the pointer to a steady-state rest position",
+    "c": "To dampen out the mechanical vibrations of the pointer",
+    "d": "To calibrate the scale for zero-adjustments",
+    "ans": "b"
+  },
+  {
+    "q": "The three essential forces or torques required for the correct operation of any analog indicating instrument are:",
+    "a": "Gravitational, magnetic, and electric",
+    "b": "Deflecting, controlling, and damping",
+    "c": "Spring, frictional, and electromagnetic",
+    "d": "Rotational, translational, and static",
+    "ans": "b"
+  },
+  {
+    "q": "What is the most efficient and widely used method of damping in PMMC-type indicating instruments?",
+    "a": "Air friction damping",
+    "b": "Eddy current damping",
+    "c": "Fluid friction damping",
+    "d": "Pneumatic piston damping",
+    "ans": "b"
+  },
+  {
+    "q": "Why is eddy current damping highly preferred in moving-coil instruments but cannot be used in moving-iron instruments?",
+    "a": "Because moving-iron instruments lack a moving metallic former to generate eddy currents",
+    "b": "Because the permanent magnet required for damping would distort the weak operating field of moving-iron instruments",
+    "c": "Because moving-iron instruments operate purely on electrostatic fields",
+    "d": "Because moving-iron scales are highly non-linear",
+    "ans": "b"
+  },
+  {
+    "q": "Which damping method is typically employed in electrostatic voltmeters where operating magnetic fields are completely absent?",
+    "a": "Eddy current damping",
+    "b": "Fluid friction or Air friction damping",
+    "c": "Electromagnet damping",
+    "d": "Mercury viscous damping",
+    "ans": "b"
+  },
+  {
+    "q": "An ammeter is converted from a basic d'Arsonval movement by connecting a shunt resistor in what configuration?",
+    "a": "In series with the meter movement",
+    "b": "In parallel with the meter movement",
+    "c": "In series-parallel with the load",
+    "d": "In the feedback loop of the operational amplifier",
+    "ans": "b"
+  },
+  {
+    "q": "A voltmeter is converted from a basic d'Arsonval movement by connecting a multiplier resistor in what configuration?",
+    "a": "In parallel with the meter movement",
+    "b": "In series with the meter movement",
+    "c": "Across the voltage source terminals",
+    "d": "In parallel with the load",
+    "ans": "b"
+  },
+  {
+    "q": "The loading effect of a voltmeter is minimized when the meter's internal resistance is:",
+    "a": "Extremely low",
+    "b": "Extremely high",
+    "c": "Exactly equal to the source resistance",
+    "d": "Completely zero",
+    "ans": "b"
+  },
+  {
+    "q": "The insertion loss of an ammeter is minimized when the meter's internal resistance is:",
+    "a": "Extremely high",
+    "b": "Extremely low",
+    "c": "Exactly equal to the load resistance",
+    "d": "Infinite",
+    "ans": "b"
+  },
+  {
+    "q": "What is the sensitivity rating of a voltmeter, usually expressed in units of Ohms-per-Volt?",
+    "a": "The ratio of input voltage to full-scale current",
+    "b": "The reciprocal of the full-scale deflection current of the meter movement",
+    "c": "The ratio of full-scale voltage to scale divisions",
+    "d": "The product of scale divisions and internal resistance",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following measurements is a common laboratory multimeter generally UNABLE to perform directly?",
+    "a": "DC current",
+    "b": "AC frequency",
+    "c": "DC voltage",
+    "d": "Resistance",
+    "ans": "b"
+  },
+  {
+    "q": "What specialized insulation-testing instrument is used to measure extremely high resistances, such as the insulation of cables?",
+    "a": "Wheatstone bridge",
+    "b": "Megger",
+    "c": "Kelvin double bridge",
+    "d": "Multimeter",
+    "ans": "b"
+  },
+  {
+    "q": "Which DC bridge is specifically designed to measure extremely low values of resistance, typically below 1 Ohm, by eliminating contact and lead resistance?",
+    "a": "Wheatstone bridge",
+    "b": "Kelvin double bridge",
+    "c": "Maxwell bridge",
+    "d": "Hay bridge",
+    "ans": "b"
+  },
+  {
+    "q": "A classic Wheatstone bridge is most commonly used to measure:",
+    "a": "Extremely low resistances",
+    "b": "Medium values of DC resistance",
+    "c": "High-frequency AC inductances",
+    "d": "Dielectric losses in capacitors",
+    "ans": "b"
+  },
+  {
+    "q": "What is the balance condition for a standard four-arm resistive Wheatstone bridge containing arms R1, R2, R3, and R4?",
+    "a": "R1 * R2 = R3 * R4",
+    "b": "R1 * R4 = R2 * R3",
+    "c": "R1 + R4 = R2 + R3",
+    "d": "R1 / R2 = R4 / R3",
+    "ans": "b"
+  },
+  {
+    "q": "Which AC bridge is used to measure medium-Q inductors (Q-factor between 1 and 10) by comparing them with a standard capacitor?",
+    "a": "Hay bridge",
+    "b": "Maxwell bridge",
+    "c": "Anderson bridge",
+    "d": "Schering bridge",
+    "ans": "b"
+  },
+  {
+    "q": "Which AC bridge is specifically modified and optimized for measuring high-Q inductors (Q-factor greater than 10)?",
+    "a": "Maxwell bridge",
+    "b": "Hay bridge",
+    "c": "Wien bridge",
+    "d": "De Sauty bridge",
+    "ans": "b"
+  },
+  {
+    "q": "Which AC bridge is used for the precise measurement of capacitance, dielectric loss, and dissipation factor of capacitors under high-voltage conditions?",
+    "a": "Anderson bridge",
+    "b": "Schering bridge",
+    "c": "Maxwell bridge",
+    "d": "Wien bridge",
+    "ans": "b"
+  },
+  {
+    "q": "Which AC bridge is widely used as a frequency-determining element in audio oscillators and can also be used to measure frequency?",
+    "a": "Hay bridge",
+    "b": "Wien bridge",
+    "c": "Maxwell-Wien bridge",
+    "d": "Campbell bridge",
+    "ans": "b"
+  },
+  {
+    "q": "The Anderson bridge is a six-branch modification of the Maxwell bridge designed specifically to measure:",
+    "a": "Mutual inductance in terms of known coupling",
+    "b": "Self-inductance in terms of standard capacitance and resistance",
+    "c": "High-frequency dielectric loss",
+    "d": "Extremely low values of contact resistance",
+    "ans": "b"
+  },
+  {
+    "q": "Which AC bridge is most useful for comparing the capacitances of air-dielectric capacitors?",
+    "a": "Schering bridge",
+    "b": "De Sauty bridge",
+    "c": "Wien bridge",
+    "d": "Anderson bridge",
+    "ans": "b"
+  },
+  {
+    "q": "Which bridge is used to determine self-inductance when mutual inductance is known?",
+    "a": "Maxwell bridge",
+    "b": "Heaviside-Campbell equal ratio bridge",
+    "c": "Hay bridge",
+    "d": "Anderson bridge",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of the sweep generator in an analog oscilloscope?",
+    "a": "To amplify the vertical input signal",
+    "b": "To produce a linear sawtooth waveform for horizontal deflection of the electron beam",
+    "c": "To focus the electron beam onto the CRT phosphor screen",
+    "d": "To control the intensity of the trace",
+    "ans": "b"
+  },
+  {
+    "q": "In an oscilloscope, the vertical amplifier determines which of the following performance parameters?",
+    "a": "The sweep rate of the horizontal trace",
+    "b": "The bandwidth and input sensitivity of the oscilloscope",
+    "c": "The intensity of the electron beam grid",
+    "d": "The digital sampling resolution",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the delay line in the vertical deflection channel of an analog oscilloscope?",
+    "a": "To delay the horizontal trigger until the sweep generator starts",
+    "b": "To delay the vertical signal slightly so that the leading edge of the input wave can be observed on the sweep",
+    "c": "To filter out high-frequency noise from the input signal",
+    "d": "To synchronize the dual-trace multiplexer",
+    "ans": "b"
+  },
+  {
+    "q": "In a digital storage oscilloscope (DSO), real-time sampling is defined as a method where:",
+    "a": "Data points are reconstructed from multiple successive cycles of a periodic wave",
+    "b": "The entire waveform is captured from a single-shot event during one continuous trigger run",
+    "c": "The sample rate is dynamically adjusted to match the vertical amplifier gain",
+    "d": "Analog-to-digital conversion occurs before the input attenuator",
+    "ans": "b"
+  },
+  {
+    "q": "What DSO sampling technique reconstructs a high-frequency periodic waveform by taking samples at different points over multiple successive cycles?",
+    "a": "Real-time sampling",
+    "b": "Equivalent-time sampling",
+    "c": "Asynchronous undersampling",
+    "d": "Interpolation sampling",
+    "ans": "b"
+  },
+  {
+    "q": "Which instrument is used to measure the amplitude of signal components as a function of frequency in the frequency domain?",
+    "a": "Oscilloscope",
+    "b": "Spectrum analyzer",
+    "c": "Digital multimeter",
+    "d": "Frequency counter",
+    "ans": "b"
+  },
+  {
+    "q": "A bolometer is a specialized measuring instrument that operates based on which principle?",
+    "a": "The change in magnetic reluctance of a core under stress",
+    "b": "The change in electrical resistance of a device when heated by RF or microwave power",
+    "c": "The generation of a thermoelectric voltage at a bimetallic junction",
+    "d": "The piezoelectric voltage generated by ultrasonic waves",
+    "ans": "b"
+  },
+  {
+    "q": "What instrument is used to measure the rotational speed of machinery by illuminating it with light flashing at a regular, adjustable frequency?",
+    "a": "Tachometer",
+    "b": "Stroboscope",
+    "c": "Bolometer",
+    "d": "Galvanometer",
+    "ans": "b"
+  },
+  {
+    "q": "Which standard digital interface bus is historically known as the most important standard interface for programmable electronic instrumentation systems?",
+    "a": "RS-232",
+    "b": "IEEE-488 (GPIB)",
+    "c": "USB 2.0",
+    "d": "CAN Bus",
+    "ans": "b"
+  },
+  {
+    "q": "How many active signal and control lines are defined in the standard 24-pin IEEE-488 (GPIB) connector?",
+    "a": "8 lines",
+    "b": "16 lines",
+    "c": "24 lines",
+    "d": "12 lines",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical deflection defocusing effect in CRTs represents:",
+    "a": "A change in vertical sweep frequency with voltage",
+    "b": "An enlargement of the electron beam spot size as it is deflected away from the screen center axis",
+    "c": "A phase shift in the vertical amplifier",
+    "d": "A non-linear scale distribution",
+    "ans": "b"
+  },
+  {
+    "q": "Which sensor converts high-frequency AC electrical signals or microwave power into heat, measuring its temperature rise with a thermocouple?",
+    "a": "RTD",
+    "b": "Thermoelectric transducer or Bolometer",
+    "c": "LVDT",
+    "d": "Piezoelectric sensor",
+    "ans": "b"
+  },
+  {
+    "q": "The sensitivity of a d'Arsonval galvanometer movement is directly proportional to which of the following physical factors?",
+    "a": "The mechanical spring stiffness",
+    "b": "The magnetic flux density and the area of the coil",
+    "c": "The weight of the pointer assembly",
+    "d": "The resistance of the coil wire",
+    "ans": "b"
+  },
+  {
+    "q": "The critical damping resistance (CDRX) of a galvanometer is defined as the external resistance connected across its terminals to:",
+    "a": "Provide maximum deflecting torque",
+    "b": "Achieve critical damping, bringing the pointer to rest in the shortest time without oscillation",
+    "c": "Match the input impedance of the bridge circuit",
+    "d": "Eliminate the observational parallax error",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of instrument uses a heating element and a thermocouple to measure the RMS value of both AC and DC current, independent of the waveform shape?",
+    "a": "Electrostatic ammeter",
+    "b": "Thermocouple-type RF instrument",
+    "c": "Moving-iron ammeter",
+    "d": "Rectifier-type instrument",
+    "ans": "b"
+  },
+  {
+    "q": "The parallax error in an analog meter is classified under which error category?",
+    "a": "Instrumental error",
+    "b": "Observational error (a class of systematic errors)",
+    "c": "Gross error",
+    "d": "Random environmental error",
+    "ans": "b"
+  },
+  {
+    "q": "To minimize parallax error when reading an analog meter, high-precision instruments are equipped with:",
+    "a": "A digital LED display",
+    "b": "A mirrored scale and a knife-edge pointer",
+    "c": "A magnifying glass lens",
+    "d": "A logarithmic scaling layout",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of instrument has its deflection torque proportional to the square of the voltage, making it highly valuable as a true RMS AC voltmeter?",
+    "a": "Moving-coil voltmeter",
+    "b": "Electrostatic voltmeter",
+    "c": "Induction voltmeter",
+    "d": "Rectifier-type voltmeter",
+    "ans": "b"
+  },
+  {
+    "q": "The scale of a moving-iron or electrostatic instrument is generally:",
+    "a": "Uniformly linear",
+    "b": "Non-linear, following a square-law distribution",
+    "c": "Logarithmic over the entire range",
+    "d": "Exponential",
+    "ans": "b"
+  },
+  {
+    "q": "Why is the scale of a PMMC instrument uniformly linear?",
+    "a": "Because the deflecting torque is proportional to the square of the current",
+    "b": "Because the deflecting torque is directly proportional to the current",
+    "c": "Because it uses hairsprings for controlling torque",
+    "d": "Because eddy currents neutralize the non-linear magnetic fields",
+    "ans": "b"
+  },
+  {
+    "q": "In a dual-trace oscilloscope, 'Alternate' mode is used to display two channels by:",
+    "a": "Switching rapidly between the two channels during a single sweep",
+    "b": "Displaying Channel 1 for a complete sweep, and then Channel 2 for the next complete sweep",
+    "c": "Combining both channel signals into a single adder circuit",
+    "d": "Using two independent electron guns inside the CRT",
+    "ans": "b"
+  },
+  {
+    "q": "In a dual-trace oscilloscope, 'Chop' mode is used to display two channels by:",
+    "a": "Displaying each channel on alternate sweeps",
+    "b": "Switching at a high frequency between the two channels during a single sweep",
+    "c": "Using a beam splitter mirror",
+    "d": "Adding a phase-coherent reference carrier",
+    "ans": "b"
+  },
+  {
+    "q": "At what signal frequencies is 'Chop' mode preferred over 'Alternate' mode in a dual-trace oscilloscope?",
+    "a": "At high frequencies (above 100 kHz)",
+    "b": "At low frequencies (below 1 kHz)",
+    "c": "Only for single-shot transient signals",
+    "d": "For RF microwave signals",
+    "ans": "b"
+  },
+  {
+    "q": "At what signal frequencies is 'Alternate' mode preferred over 'Chop' mode in a dual-trace oscilloscope?",
+    "a": "At low frequencies (below 10 Hz)",
+    "b": "At high frequencies (above 10 kHz)",
+    "c": "For DC measurements only",
+    "d": "For measuring low-frequency ripple components",
+    "ans": "b"
+  },
+  {
+    "q": "The frequency response of a standard oscilloscope probe (such as a 10x passive probe) is compensated by adjusting which component?",
+    "a": "A series resistor inside the probe tip",
+    "b": "A variable capacitor connected in parallel with the probe's attenuation resistor",
+    "c": "The vertical amplifier gain potentiometer",
+    "d": "The sweep generator timing resistor",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when an oscilloscope probe is under-compensated?",
+    "a": "The displayed square wave has a sharp overshoot on the leading edges",
+    "b": "The displayed square wave has rounded, sloped leading edges",
+    "c": "The trace disappears from the screen",
+    "d": "The input impedance of the oscilloscope drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when an oscilloscope probe is over-compensated?",
+    "a": "The displayed square wave has rounded leading edges",
+    "b": "The displayed square wave has a sharp spike or overshoot on the leading edges",
+    "c": "The vertical gain is doubled",
+    "d": "The horizontal sweep rate is decelerated",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is the primary purpose of using a 10x passive probe with an oscilloscope?",
+    "a": "To increase the vertical sensitivity of the oscilloscope",
+    "b": "To increase the input impedance and reduce the capacitive loading effect on the circuit under test",
+    "c": "To filter out the horizontal sweep frequency",
+    "d": "To protect the user from low-voltage static charges",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical input impedance of a standard analog oscilloscope vertical input channel without any probe connected?",
+    "a": "50 Ohms in parallel with 1 uF",
+    "b": "1 Mega-Ohm in parallel with 20 pF",
+    "c": "10 Mega-Ohms in parallel with 100 pF",
+    "d": "100 Ohms in series with 10 nF",
+    "ans": "b"
+  },
+  {
+    "q": "The Wagner ground connection is used in AC bridges to accomplish which of the following?",
+    "a": "To increase the sensitivity of the detector",
+    "b": "To eliminate the effects of stray capacitances to ground",
+    "c": "To protect the operator from high AC voltages",
+    "d": "To balance the bridge under DC conditions",
+    "ans": "b"
+  },
+  {
+    "q": "What type of detector is typically used for balancing AC bridges at audio frequencies (20 Hz to 20 kHz)?",
+    "a": "A PMMC galvanometer",
+    "b": "Headphones or an AC electronic voltmeter",
+    "c": "A bolometer",
+    "d": "A hot-wire ammeter",
+    "ans": "b"
+  },
+  {
+    "q": "Which instrument uses a magnetic deflection system and is primarily designed to plot the dynamic V-I characteristics of semiconductor devices?",
+    "a": "Spectrum analyzer",
+    "b": "Curve tracer",
+    "c": "Digital storage oscilloscope",
+    "d": "Vector voltmeter",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the ratio of change in the output of an instrument to the change in input value after steady-state has been reached?",
+    "a": "Resolution",
+    "b": "Scale factor or Sensitivity",
+    "c": "Deflection ratio",
+    "d": "Accuracy index",
+    "ans": "b"
+  },
+  {
+    "q": "The electrostatic shielding of an AC bridge is achieved by enclosing the components inside:",
+    "a": "A thick sheet of ferromagnetic steel",
+    "b": "A grounded Faraday cage made of a highly conducting material like copper",
+    "c": "A heavy rubberized insulating envelope",
+    "d": "A vacuum chamber",
+    "ans": "b"
+  },
+  {
+    "q": "Which error type can be mathematically evaluated using statistical methods such as the arithmetic mean and standard deviation?",
+    "a": "Gross errors",
+    "b": "Random errors",
+    "c": "Systematic errors",
+    "d": "Parallax errors",
+    "ans": "b"
+  },
+  {
+    "q": "The term 'Fidelity' of an active measuring system refers to its ability to:",
+    "a": "Provide highly repeatable measurements over a long duration",
+    "b": "Reproduce the input signal wave shape at its output with minimal distortion",
+    "c": "Withstand high overloads without recalibration",
+    "d": "Reject common-mode noise",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the sensitivity of a voltmeter when the multiplier resistance is increased?",
+    "a": "The sensitivity increases",
+    "b": "The sensitivity remains constant",
+    "c": "The sensitivity decreases",
+    "d": "The sensitivity drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of instrument can measure electrical parameters by utilizing a hall-effect sensor to detect magnetic fields without breaking the circuit?",
+    "a": "Shunt ammeter",
+    "b": "Clamp-on ammeter",
+    "c": "Electrostatic voltmeter",
+    "d": "Megger",
+    "ans": "b"
+  },
+  {
+    "q": "The dynamic response of an indicating instrument is categorized as 'critically damped' when its damping ratio is exactly:",
+    "a": "Zero",
+    "b": "1.0",
+    "c": "Less than 1.0",
+    "d": "Greater than 1.0",
+    "ans": "b"
+  },
+  {
+    "q": "If the damping ratio of an indicating instrument is less than 1.0, the pointer response is:",
+    "a": "Overdamped (extremely slow with no overshoot)",
+    "b": "Underdamped (oscillates before settling)",
+    "c": "Critically damped",
+    "d": "Unstable (oscillates infinitely)",
+    "ans": "b"
+  },
+  {
+    "q": "If the damping ratio of an indicating instrument is greater than 1.0, the pointer response is:",
+    "a": "Underdamped",
+    "b": "Overdamped",
+    "c": "Critically damped",
+    "d": "Symmetrical",
+    "ans": "b"
+  },
+  {
+    "q": "The 'dead zone' of an instrument represents:",
+    "a": "The voltage range where the safety fuse opens",
+    "b": "The maximum range of input values for which there is no output response",
+    "c": "The physical area behind the meter scale",
+    "d": "The time constant of the damping system",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter of an analog oscilloscope CRT determines the maximum speed at which the electron spot can write on the screen without the trace fading?",
+    "a": "Slew rate",
+    "b": "Writing speed",
+    "c": "Deflection sensitivity",
+    "d": "Focusing ratio",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the A/D converter in a digital storage oscilloscope?",
+    "a": "To generate the horizontal ramp voltage",
+    "b": "To convert the analog input signal into a digital format for storage in memory",
+    "c": "To calibrate the vertical gain automatically",
+    "d": "To protect the input channel from overvoltages",
+    "ans": "b"
+  },
+  {
+    "q": "The temperature coefficient of resistance of a standard platinum RTD sensor is:",
+    "a": "Negative",
+    "b": "Positive",
+    "c": "Zero",
+    "d": "Non-linear only",
+    "ans": "b"
+  },
+  {
+    "q": "The temperature coefficient of resistance of a standard NTC thermistor sensor is:",
+    "a": "Positive",
+    "b": "Negative",
+    "c": "Zero",
+    "d": "Linear",
+    "ans": "b"
+  },
+  {
+    "q": "A certain voltmeter is used to measure a known standard voltage of 100.0 Volts. If the meter reads 98.5 Volts, calculate the absolute error of this measurement.",
+    "a": "1.5 Volts",
+    "b": "-1.5 Volts",
+    "c": "1.5 percent",
+    "d": "-1.5 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Using the data from the previous question (measured = 98.5 Volts, true = 100.0 Volts), calculate the percentage relative error of the measurement.",
+    "a": "1.5 percent",
+    "b": "-1.5 percent",
+    "c": "1.52 percent",
+    "d": "-1.52 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A digital voltmeter has a 3 and 1/2 digit display. What is the maximum decimal value that can be displayed on this DVM?",
+    "a": "9999",
+    "b": "1999",
+    "c": "2999",
+    "d": "999",
+    "ans": "b"
+  },
+  {
+    "q": "If the 3 and 1/2 digit DVM from the previous question is set to the 20-Volt range (maximum display 19.99V), calculate its resolution in millivolts.",
+    "a": "100 mV",
+    "b": "10 mV",
+    "c": "1 mV",
+    "d": "20 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A basic d'Arsonval movement has a full-scale deflection current of 50 uA and an internal coil resistance of 1000 Ohms. Calculate the shunt resistance required to convert this movement into an ammeter with a 50 mA range.",
+    "a": "10.01 Ohms",
+    "b": "10.01 Ohms",
+    "c": "1.00 Ohm",
+    "d": "100.10 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Using the same 50 uA d'Arsonval movement (coil resistance = 1000 Ohms), calculate the multiplier resistance required to convert it into a voltmeter with a 10-Volt range.",
+    "a": "200k Ohms",
+    "b": "199k Ohms",
+    "c": "100k Ohms",
+    "d": "99k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the voltmeter sensitivity (S) of the 10-Volt voltmeter constructed in the previous question.",
+    "a": "10k Ohms/Volt",
+    "b": "20k Ohms/Volt",
+    "c": "50k Ohms/Volt",
+    "d": "100k Ohms/Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A voltmeter with a sensitivity of 20,000 Ohms/Volt is set to its 50-Volt range. Calculate the total internal resistance of the voltmeter.",
+    "a": "100k Ohms",
+    "b": "1.0 Mega-Ohm",
+    "c": "500k Ohms",
+    "d": "2.0 Mega-Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A voltmeter is connected across a 50k Ohm resistor to measure its voltage drop. The other resistor in the series circuit is also 50k Ohms, and the supply is 100V DC. If the voltmeter has a sensitivity of 20,000 Ohms/Volt and is on the 50-Volt range (R_in = 1 Mega-Ohm), calculate the voltage measured by the meter.",
+    "a": "50.00 Volts",
+    "b": "48.78 Volts",
+    "c": "47.50 Volts",
+    "d": "45.25 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical true voltage across the 50k Ohm resistor in the previous question if no voltmeter is loading the circuit?",
+    "a": "100.00 Volts",
+    "b": "50.00 Volts",
+    "c": "48.78 Volts",
+    "d": "25.00 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the percent loading error for the voltmeter measurement described in the previous loaded circuit questions.",
+    "a": "1.22 percent",
+    "b": "2.44 percent",
+    "c": "5.00 percent",
+    "d": "1.50 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An ammeter with an internal resistance of 2 Ohms is inserted into a circuit containing a 12-Volt battery and a 10 Ohm load resistor. Calculate the current measured by the ammeter.",
+    "a": "1.20 Amperes",
+    "b": "1.00 Ampere",
+    "c": "1.10 Amperes",
+    "d": "0.83 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the true current in the circuit described in the previous ammeter question before the ammeter was inserted.",
+    "a": "1.00 Ampere",
+    "b": "1.20 Amperes",
+    "c": "1.10 Amperes",
+    "d": "1.50 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the percent error introduced by the insertion of the ammeter in the previous questions.",
+    "a": "20.0 percent",
+    "b": "16.7 percent",
+    "c": "10.0 percent",
+    "d": "25.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A Wheatstone bridge has resistive arms: AB = 120 Ohms, BC = 1200 Ohms, CD = 4000 Ohms, and DA is Rx. If the bridge is perfectly balanced, calculate the value of Rx.",
+    "a": "40.0 Ohms",
+    "b": "400.0 Ohms",
+    "c": "4.0k Ohms",
+    "d": "120.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Maxwell bridge is used to measure an unknown inductor Lx. If the bridge arms at balance are R2 = 1000 Ohms, R3 = 2000 Ohms, and C1 = 0.1 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.",
+    "a": "0.10 Henries",
+    "b": "0.20 Henries",
+    "c": "0.40 Henries",
+    "d": "0.05 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "a": "10.0 Ohms",
+    "b": "20.0 Ohms",
+    "c": "40.0 Ohms",
+    "d": "5.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz.",
+    "a": "31.4",
+    "b": "62.8",
+    "c": "15.7",
+    "d": "125.6",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Hay bridge is operating at an angular frequency (omega) of 5000 rad/s. If R2 = 1000 Ohms, R3 = 1000 Ohms, C1 = 0.1 uF, and series resistor R1 = 200 Ohms, calculate the value of Lx.",
+    "a": "50.0 mH",
+    "b": "96.2 mH",
+    "c": "48.1 mH",
+    "d": "24.0 mH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the parameters of the Hay bridge from the previous question (omega = 5000 rad/s, R2 = R3 = 1000, C1 = 0.1 uF, R1 = 200), calculate the series resistance Rx of the inductor.",
+    "a": "1.92 Ohms",
+    "b": "3.85 Ohms",
+    "c": "7.70 Ohms",
+    "d": "0.96 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 100 pF, R1 = 10k Ohms, R2 = 5k Ohms, and parallel capacitor C1 = 1000 pF, calculate the capacitance Cx.",
+    "a": "50.0 pF",
+    "b": "200.0 pF",
+    "c": "100.0 pF",
+    "d": "25.0 pF",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the series resistance Rx of the capacitor Cx measured in the previous Schering bridge question.",
+    "a": "25.0 Ohms",
+    "b": "50.0 Ohms",
+    "c": "100.0 Ohms",
+    "d": "12.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "a": "0.0031",
+    "b": "0.0063",
+    "c": "0.0126",
+    "d": "0.0016",
+    "ans": "b"
+  },
+  {
+    "q": "A Wien bridge has arms: R1 = 10k Ohms in series with C1 = 15.9 nF, and R2 = 10k Ohms in parallel with C2 = 15.9 nF. Calculate the frequency at which the bridge balances.",
+    "a": "500 Hz",
+    "b": "1000 Hz",
+    "c": "2000 Hz",
+    "d": "100 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope is used to measure an AC signal. If the vertical scale is set to 2 Volts/Division and the peak-to-peak height of the trace is 4.5 divisions, calculate the peak-to-peak voltage.",
+    "a": "4.5 Volts",
+    "b": "9.0 Volts",
+    "c": "18.0 Volts",
+    "d": "2.25 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the measurement in the previous question (V_p-p = 9.0 Volts), calculate the RMS voltage of the sinusoidal waveform.",
+    "a": "4.50 Volts",
+    "b": "3.18 Volts",
+    "c": "6.36 Volts",
+    "d": "1.59 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope horizontal sweep is set to 50 microseconds/Division. If one full cycle of a periodic wave occupies exactly 4.0 divisions, calculate the period of the signal.",
+    "a": "100 us",
+    "b": "200 us",
+    "c": "400 us",
+    "d": "50 us",
+    "ans": "b"
+  },
+  {
+    "q": "Using the period of 200 microseconds from the previous question, calculate the frequency of the signal.",
+    "a": "2.0 kHz",
+    "b": "5.0 kHz",
+    "c": "10.0 kHz",
+    "d": "1.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Lissajous pattern is displayed on an oscilloscope screen. If the pattern has 3 horizontal tangents and 2 vertical tangents, and the horizontal input frequency is 1000 Hz, calculate the vertical input frequency.",
+    "a": "667 Hz",
+    "b": "1500 Hz",
+    "c": "3000 Hz",
+    "d": "500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with full-scale deflection of 100 uA and coil resistance of 500 Ohms is used to construct a multi-range ammeter. Calculate the Ayrton shunt resistor R1 required for the 1 mA range.",
+    "a": "25.0 Ohms",
+    "b": "50.5 Ohms",
+    "c": "10.1 Ohms",
+    "d": "100.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "An instrument is specified to have a guarantee accuracy of plus or minus 2 percent of full-scale deflection. If the full-scale reading is 150 Volts, calculate the maximum limiting error in Volts.",
+    "a": "1.5 Volts",
+    "b": "3.0 Volts",
+    "c": "6.0 Volts",
+    "d": "0.75 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same voltmeter with full-scale 150 Volts and a guarantee accuracy error of plus or minus 3 Volts, what is the percentage limiting error when measuring a voltage of 50 Volts?",
+    "a": "2.0 percent",
+    "b": "6.0 percent",
+    "c": "4.0 percent",
+    "d": "1.5 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the same 150-Volt meter (guarantee error = 3V) when measuring a voltage of 25 Volts?",
+    "a": "6.0 percent",
+    "b": "12.0 percent",
+    "c": "24.0 percent",
+    "d": "3.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the standard deviation (sigma) of a set of five resistance measurements: 100.1, 100.2, 100.0, 99.9, and 100.3 Ohms. (First compute the arithmetic mean).",
+    "a": "0.05 Ohms",
+    "b": "0.15 Ohms",
+    "c": "0.30 Ohms",
+    "d": "0.08 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A platinum RTD sensor has a resistance of 100.0 Ohms at 0 degrees Celsius. If its temperature coefficient of resistance (alpha) is 0.00385 per degree C, calculate its resistance at 100 degrees Celsius.",
+    "a": "119.25 Ohms",
+    "b": "138.50 Ohms",
+    "c": "177.00 Ohms",
+    "d": "103.85 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the resistance of the platinum RTD is measured to be 119.25 Ohms, calculate the corresponding temperature.",
+    "a": "25 degrees C",
+    "b": "50 degrees C",
+    "c": "75 degrees C",
+    "d": "100 degrees C",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit success-approximation ADC in a digital voltmeter has a reference voltage of 5.12 Volts. Calculate the quantization step size in millivolts.",
+    "a": "10 mV",
+    "b": "20 mV",
+    "c": "5 mV",
+    "d": "40 mV",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "a": "5.0 mV",
+    "b": "10.0 mV",
+    "c": "2.5 mV",
+    "d": "20.0 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A certain AC bridge is balanced with arms: AB = 100 Ohms, BC = 200 Ohms, CD = 300 + j400 Ohms. Calculate the real (resistive) part of the unknown impedance in arm DA.",
+    "a": "50 Ohms",
+    "b": "150 Ohms",
+    "c": "300 Ohms",
+    "d": "75 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "a": "100 Ohms",
+    "b": "200 Ohms",
+    "c": "400 Ohms",
+    "d": "50 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A 10x passive oscilloscope probe has an internal resistor of 9 Mega-Ohms. If the vertical input of the oscilloscope has a resistance of 1 Mega-Ohm, calculate the total input resistance at the probe tip.",
+    "a": "1 Mega-Ohm",
+    "b": "10 Mega-Ohms",
+    "c": "9 Mega-Ohms",
+    "d": "90 Mega-Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "The vertical input of an oscilloscope has a capacitance of 20 pF. If a 10x passive probe is connected, what value must the probe capacitance be adjusted to for perfect frequency compensation? (Probe resistor = 9 Mega-Ohms, scope resistor = 1 Mega-Ohm).",
+    "a": "20.0 pF",
+    "b": "2.22 pF",
+    "c": "180.0 pF",
+    "d": "4.44 pF",
+    "ans": "b"
+  },
+  {
+    "q": "A stroboscope is directed at a rotating gear. A single stationary image of the gear is first seen when the flash rate is 3000 flashes per minute (fpm). If the flash rate is slowed down, the next single stationary image is seen at 1500 fpm. Calculate the actual rotational speed of the gear in RPM.",
+    "a": "3000 RPM",
+    "b": "3000 RPM",
+    "c": "1500 RPM",
+    "d": "4500 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent frequency of 3000 flashes per minute in Hertz (flashes per second)?",
+    "a": "25 Hz",
+    "b": "50 Hz",
+    "c": "100 Hz",
+    "d": "300 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A digital frequency counter registers 12,000 counts over a gating time interval of 0.1 seconds. Calculate the frequency of the input signal.",
+    "a": "1.2 kHz",
+    "b": "120.0 kHz",
+    "c": "12.0 kHz",
+    "d": "1200.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An analog voltmeter has a range of 0 to 10 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.",
+    "a": "0.05 Volts",
+    "b": "0.10 Volts",
+    "c": "0.20 Volts",
+    "d": "0.01 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the 10-Volt meter from the previous question when measuring a voltage of 2.0 Volts?",
+    "a": "2.5 percent",
+    "b": "5.0 percent",
+    "c": "10.0 percent",
+    "d": "1.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An AC bridge has standard arm Cs = 0.01 uF. If R1 = 1k Ohm, R2 = 2k Ohm, and C1 = 0.05 uF, find Cx using the Schering bridge capacitance balance equation.",
+    "a": "0.002 uF",
+    "b": "0.005 uF",
+    "c": "0.010 uF",
+    "d": "0.020 uF",
+    "ans": "b"
+  },
+  {
+    "q": "Find Rx for the same Schering bridge balance using the resistor balance equation (Cs = 0.01 uF, R1 = 1k Ohm, R2 = 2k Ohm, C1 = 0.05 uF).",
+    "a": "5.0k Ohms",
+    "b": "10.0k Ohms",
+    "c": "2.5k Ohms",
+    "d": "20.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of an unknown inductor measured using a Maxwell bridge if the series resistance Rx is 20 Ohms and the self-inductance Lx is 0.15 Henries at a frequency of 1000 Hz.",
+    "a": "23.6",
+    "b": "47.1",
+    "c": "94.2",
+    "d": "15.0",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with a coil resistance of 100 Ohms and a full-scale deflection of 1 mA is to be converted to a voltmeter. If the multiplier resistance is 9900 Ohms, calculate the maximum voltage range.",
+    "a": "1.0 Volt",
+    "b": "10.0 Volts",
+    "c": "5.0 Volts",
+    "d": "100.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A 100-uV RMS noise signal is measured on an oscilloscope. If the noise is purely sinusoidal, calculate its peak-to-peak voltage value.",
+    "a": "141.4 uV",
+    "b": "282.8 uV",
+    "c": "200.0 uV",
+    "d": "70.7 uV",
+    "ans": "b"
+  },
+  {
+    "q": "A PMMC movement requires 10 mA of current to produce full-scale deflection. If the coil resistance is 50 Ohms, find the shunt resistance needed to convert it to a 1-Ampere ammeter.",
+    "a": "0.25 Ohms",
+    "b": "0.505 Ohms",
+    "c": "1.010 Ohms",
+    "d": "0.125 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A digital multimeter registers a DC voltage of 5.000 Volts. If the accuracy specification is plus or minus (0.5% of reading + 2 digits), calculate the maximum error in Volts.",
+    "a": "0.025 Volts",
+    "b": "0.027 Volts",
+    "c": "0.050 Volts",
+    "d": "0.010 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Kelvin double bridge is used to measure a low resistance Rx. If the ratio arms are P/Q = p/q = 1000, and the standard resistance S is 0.001 Ohms, calculate Rx.",
+    "a": "1.0 micro-Ohm",
+    "b": "1.0 milli-Ohm",
+    "c": "1.0 Ohm",
+    "d": "0.1 milli-Ohm",
+    "ans": "b"
+  },
+  {
+    "q": "A basic d'Arsonval movement has full-scale deflection current of 100 uA. What is the sensitivity of a voltmeter constructed using this movement?",
+    "a": "1k Ohms/Volt",
+    "b": "10k Ohms/Volt",
+    "c": "100k Ohms/Volt",
+    "d": "5k Ohms/Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A certain voltmeter has an internal resistance of 200k Ohms. If it is on its 10-Volt range, calculate its sensitivity in Ohms/Volt.",
+    "a": "10k Ohms/Volt",
+    "b": "20k Ohms/Volt",
+    "c": "50k Ohms/Volt",
+    "d": "100k Ohms/Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A certain PMMC ammeter has an internal resistance of 0.1 Ohms. If a shunt of 0.01 Ohms is connected across it, calculate the current multiplication factor (m).",
+    "a": "10",
+    "b": "11",
+    "c": "5",
+    "d": "2",
+    "ans": "b"
+  },
+  {
+    "q": "An AC bridge has standard arm Cs = 0.05 uF. If R1 = 5k Ohm, R2 = 10k Ohm, and C1 = 0.01 uF, find Cx using the Schering bridge capacitance balance equation.",
+    "a": "0.01 uF",
+    "b": "0.025 uF",
+    "c": "0.05 uF",
+    "d": "0.005 uF",
+    "ans": "b"
+  },
+  {
+    "q": "Find Rx for the same Schering bridge balance (Cs = 0.05 uF, R1 = 5k Ohm, R2 = 10k Ohm, C1 = 0.01 uF).",
+    "a": "1.0k Ohms",
+    "b": "2.0k Ohms",
+    "c": "4.0k Ohms",
+    "d": "500 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of an unknown inductor measured using a Maxwell bridge if the series resistance Rx is 10 Ohms and the self-inductance Lx is 0.25 Henries at a frequency of 500 Hz.",
+    "a": "39.3",
+    "b": "78.5",
+    "c": "157.0",
+    "d": "25.0",
+    "ans": "b"
+  },
+  {
+    "q": "An analog voltmeter has a range of 0 to 50 Volts. If the guaranteed accuracy of the meter is plus or minus 2 percent of full-scale, calculate the limiting error in Volts.",
+    "a": "0.5 Volts",
+    "b": "1.0 Volt",
+    "c": "2.0 Volts",
+    "d": "0.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the 50-Volt meter from the previous question when measuring a voltage of 10.0 Volts?",
+    "a": "5.0 percent",
+    "b": "10.0 percent",
+    "c": "2.0 percent",
+    "d": "1.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the standard deviation (sigma) of a set of five voltage measurements: 12.0, 12.1, 11.9, 11.8, and 12.2 Volts. (First compute the arithmetic mean).",
+    "a": "0.05 Volts",
+    "b": "0.141 Volts",
+    "c": "0.282 Volts",
+    "d": "0.082 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit DAC in a digital controller has a reference voltage of 10.24 Volts. Calculate the resolution (step size) in millivolts.",
+    "a": "20 mV",
+    "b": "40 mV",
+    "c": "10 mV",
+    "d": "80 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A certain AC bridge is balanced with arms: AB = 200 Ohms, BC = 400 Ohms, CD = 150 + j200 Ohms. Calculate the real (resistive) part of the unknown impedance in arm DA.",
+    "a": "50 Ohms",
+    "b": "75 Ohms",
+    "c": "150 Ohms",
+    "d": "37.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "a": "50 Ohms",
+    "b": "100 Ohms",
+    "c": "200 Ohms",
+    "d": "25 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A digital frequency counter registers 24,000 counts over a gating time interval of 0.2 seconds. Calculate the frequency of the input signal.",
+    "a": "12.0 kHz",
+    "b": "120.0 kHz",
+    "c": "240.0 kHz",
+    "d": "48.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope is used to measure an AC signal. If the vertical scale is set to 5 Volts/Division and the peak-to-peak height of the trace is 6.0 divisions, calculate the peak-to-peak voltage.",
+    "a": "15.0 Volts",
+    "b": "30.0 Volts",
+    "c": "60.0 Volts",
+    "d": "7.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the measurement in the previous question (V_p-p = 30.0 Volts), calculate the RMS voltage of the sinusoidal waveform.",
+    "a": "15.00 Volts",
+    "b": "10.61 Volts",
+    "c": "21.21 Volts",
+    "d": "5.30 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope horizontal sweep is set to 20 microseconds/Division. If one full cycle of a periodic wave occupies exactly 5.0 divisions, calculate the period of the signal.",
+    "a": "50 us",
+    "b": "100 us",
+    "c": "200 us",
+    "d": "25 us",
+    "ans": "b"
+  },
+  {
+    "q": "Using the period of 100 microseconds from the previous question, calculate the frequency of the signal.",
+    "a": "5.0 kHz",
+    "b": "10.0 kHz",
+    "c": "20.0 kHz",
+    "d": "2.5 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Lissajous pattern is displayed on an oscilloscope screen. If the pattern has 4 horizontal tangents and 3 vertical tangents, and the horizontal input frequency is 1200 Hz, calculate the vertical input frequency.",
+    "a": "900 Hz",
+    "b": "1600 Hz",
+    "c": "3200 Hz",
+    "d": "600 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with a coil resistance of 1000 Ohms and a full-scale deflection of 50 uA is to be converted to a voltmeter. If the multiplier resistance is 199,000 Ohms, calculate the maximum voltage range.",
+    "a": "5.0 Volts",
+    "b": "10.0 Volts",
+    "c": "20.0 Volts",
+    "d": "1.0 Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A PMMC movement requires 1 mA of current to produce full-scale deflection. If the coil resistance is 100 Ohms, find the shunt resistance needed to convert it to a 100 mA ammeter.",
+    "a": "0.50 Ohms",
+    "b": "1.01 Ohms",
+    "c": "2.02 Ohms",
+    "d": "0.25 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A digital multimeter registers a DC voltage of 10.000 Volts. If the accuracy specification is plus or minus (0.2% of reading + 3 digits), calculate the maximum error in Volts.",
+    "a": "0.020 Volts",
+    "b": "0.023 Volts",
+    "c": "0.050 Volts",
+    "d": "0.010 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Kelvin double bridge is used to measure a low resistance Rx. If the ratio arms are P/Q = p/q = 100, and the standard resistance S is 0.01 Ohms, calculate Rx.",
+    "a": "0.1 milli-Ohm",
+    "b": "1.0 milli-Ohm",
+    "c": "10.0 milli-Ohms",
+    "d": "0.01 milli-Ohm",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-bit success-approximation ADC in a digital voltmeter has a reference voltage of 2.56 Volts. Calculate the quantization step size in millivolts.",
+    "a": "5 mV",
+    "b": "10 mV",
+    "c": "2.5 mV",
+    "d": "20 mV",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "a": "2.5 mV",
+    "b": "5.0 mV",
+    "c": "1.25 mV",
+    "d": "10.0 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A 10x passive oscilloscope probe has an internal resistor of 9 Mega-Ohms. If the vertical input of the oscilloscope has a resistance of 1 Mega-Ohm and a capacitance of 30 pF, what value must the probe capacitance be adjusted to for perfect frequency compensation?",
+    "a": "30.0 pF",
+    "b": "3.33 pF",
+    "c": "270.0 pF",
+    "d": "6.66 pF",
+    "ans": "b"
+  },
+  {
+    "q": "A digital frequency counter registers 15,000 counts over a gating time interval of 0.5 seconds. Calculate the frequency of the input signal.",
+    "a": "30.0 kHz",
+    "b": "30.0 kHz (approximated)",
+    "c": "7.5 kHz",
+    "d": "15.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An analog voltmeter has a range of 0 to 100 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.",
+    "a": "0.5 Volts",
+    "b": "1.0 Volt",
+    "c": "2.0 Volts",
+    "d": "0.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the 100-Volt meter from the previous question when measuring a voltage of 20.0 Volts?",
+    "a": "2.5 percent",
+    "b": "5.0 percent",
+    "c": "10.0 percent",
+    "d": "1.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An AC bridge has standard arm Cs = 0.02 uF. If R1 = 1k Ohm, R2 = 4k Ohm, and C1 = 0.1 uF, find Cx using the Schering bridge capacitance balance equation.",
+    "a": "0.002 uF",
+    "b": "0.005 uF",
+    "c": "0.010 uF",
+    "d": "0.020 uF",
+    "ans": "b"
+  },
+  {
+    "q": "Find Rx for the same Schering bridge balance (Cs = 0.02 uF, R1 = 1k Ohm, R2 = 4k Ohm, C1 = 0.1 uF).",
+    "a": "10.0k Ohms",
+    "b": "20.0k Ohms",
+    "c": "5.0k Ohms",
+    "d": "40.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of an unknown inductor measured using a Maxwell bridge if the series resistance Rx is 15 Ohms and the self-inductance Lx is 0.30 Henries at a frequency of 1000 Hz.",
+    "a": "62.8",
+    "b": "125.6",
+    "c": "251.2",
+    "d": "30.0",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with a coil resistance of 200 Ohms and a full-scale deflection of 500 uA is to be converted to a voltmeter. If the multiplier resistance is 19,800 Ohms, calculate the maximum voltage range.",
+    "a": "5.0 Volts",
+    "b": "10.0 Volts",
+    "c": "20.0 Volts",
+    "d": "1.0 Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Maxwell bridge is used to measure an unknown inductor Lx. If the bridge arms at balance are R2 = 2000 Ohms, R3 = 3000 Ohms, and C1 = 0.05 uF in parallel with R1 = 50k Ohms, calculate the self-inductance Lx.",
+    "a": "0.15 Henries",
+    "b": "0.30 Henries",
+    "c": "0.60 Henries",
+    "d": "0.075 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "a": "60 Ohms",
+    "b": "120 Ohms",
+    "c": "240 Ohms",
+    "d": "30 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 500 Hz.",
+    "a": "3.93",
+    "b": "7.85",
+    "c": "15.70",
+    "d": "1.96",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Hay bridge is operating at an angular frequency (omega) of 10,000 rad/s. If R2 = 1000 Ohms, R3 = 2000 Ohms, C1 = 0.05 uF, and series resistor R1 = 100 Ohms, calculate the value of Lx.",
+    "a": "50.0 mH",
+    "b": "98.8 mH",
+    "c": "49.4 mH",
+    "d": "24.7 mH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the parameters of the Hay bridge from the previous question (omega = 10,000 rad/s, R2 = 1000, R3 = 2000, C1 = 0.05 uF, R1 = 100), calculate the series resistance Rx of the inductor.",
+    "a": "1.23 Ohms",
+    "b": "2.47 Ohms",
+    "c": "4.94 Ohms",
+    "d": "0.62 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 200 pF, R1 = 20k Ohms, R2 = 10k Ohms, and parallel capacitor C1 = 500 pF, calculate the capacitance Cx.",
+    "a": "50.0 pF",
+    "b": "400.0 pF",
+    "c": "100.0 pF",
+    "d": "25.0 pF",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the series resistance Rx of the capacitor Cx measured in the previous Schering bridge question.",
+    "a": "12.5 Ohms",
+    "b": "25.0 Ohms",
+    "c": "50.0 Ohms",
+    "d": "6.25 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "a": "0.0031",
+    "b": "0.0063",
+    "c": "0.0126",
+    "d": "0.0016",
+    "ans": "b"
+  },
+  {
+    "q": "A Wien bridge has arms: R1 = 20k Ohms in series with C1 = 7.96 nF, and R2 = 20k Ohms in parallel with C2 = 7.96 nF. Calculate the frequency at which the bridge balances.",
+    "a": "500 Hz",
+    "b": "1000 Hz",
+    "c": "2000 Hz",
+    "d": "100 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope is used to measure an AC signal. If the vertical scale is set to 1 Volt/Division and the peak-to-peak height of the trace is 5.6 divisions, calculate the peak-to-peak voltage.",
+    "a": "2.8 Volts",
+    "b": "5.6 Volts",
+    "c": "11.2 Volts",
+    "d": "1.4 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the measurement in the previous question (V_p-p = 5.6 Volts), calculate the RMS voltage of the sinusoidal waveform.",
+    "a": "2.80 Volts",
+    "b": "1.98 Volts",
+    "c": "3.96 Volts",
+    "d": "0.99 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope horizontal sweep is set to 10 microseconds/Division. If one full cycle of a periodic wave occupies exactly 8.0 divisions, calculate the period of the signal.",
+    "a": "40 us",
+    "b": "80 us",
+    "c": "160 us",
+    "d": "20 us",
+    "ans": "b"
+  },
+  {
+    "q": "Using the period of 80 microseconds from the previous question, calculate the frequency of the signal.",
+    "a": "6.25 kHz",
+    "b": "12.50 kHz",
+    "c": "25.00 kHz",
+    "d": "3.125 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Lissajous pattern is displayed on an oscilloscope screen. If the pattern has 2 horizontal tangents and 1 vertical tangent, and the horizontal input frequency is 1500 Hz, calculate the vertical input frequency.",
+    "a": "750 Hz",
+    "b": "3000 Hz",
+    "c": "6000 Hz",
+    "d": "500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with full-scale deflection of 50 uA and coil resistance of 1000 Ohms is used to construct a multi-range ammeter. Calculate the Ayrton shunt resistor R1 required for the 100 uA range.",
+    "a": "500 Ohms",
+    "b": "1000 Ohms",
+    "c": "250 Ohms",
+    "d": "2000 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "An instrument is specified to have a guarantee accuracy of plus or minus 1.5 percent of full-scale deflection. If the full-scale reading is 200 Volts, calculate the maximum limiting error in Volts.",
+    "a": "1.5 Volts",
+    "b": "3.0 Volts",
+    "c": "6.0 Volts",
+    "d": "0.75 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same voltmeter with full-scale 200 Volts and a guarantee accuracy error of plus or minus 3 Volts, what is the percentage limiting error when measuring a voltage of 100 Volts?",
+    "a": "0.75 percent",
+    "b": "1.50 percent",
+    "c": "3.00 percent",
+    "d": "0.375 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the same 200-Volt meter (guarantee error = 3V) when measuring a voltage of 50 Volts?",
+    "a": "1.5 percent",
+    "b": "6.0 percent",
+    "c": "3.0 percent",
+    "d": "12.0 percent",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the standard deviation (sigma) of a set of five resistance measurements: 50.1, 50.2, 50.0, 49.9, and 50.3 Ohms. (First compute the arithmetic mean).",
+    "a": "0.05 Ohms",
+    "b": "0.15 Ohms",
+    "c": "0.30 Ohms",
+    "d": "0.08 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A platinum RTD sensor has a resistance of 100.0 Ohms at 0 degrees Celsius. If its temperature coefficient of resistance (alpha) is 0.00385 per degree C, calculate its resistance at 50 degrees Celsius.",
+    "a": "109.62 Ohms",
+    "b": "119.25 Ohms",
+    "c": "138.50 Ohms",
+    "d": "101.92 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the resistance of the platinum RTD is measured to be 109.625 Ohms, calculate the corresponding temperature.",
+    "a": "12.5 degrees C",
+    "b": "25.0 degrees C",
+    "c": "37.5 degrees C",
+    "d": "50.0 degrees C",
+    "ans": "d"
+  },
+  {
+    "q": "An 8-bit successive-approximation ADC in a digital voltmeter has a reference voltage of 1.28 Volts. Calculate the quantization step size in millivolts.",
+    "a": "2.5 mV",
+    "b": "5.0 mV",
+    "c": "1.25 mV",
+    "d": "10.0 mV",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "a": "1.25 mV",
+    "b": "2.50 mV",
+    "c": "0.625 mV",
+    "d": "5.00 mV",
+    "ans": "b"
+  },
+  {
+    "q": "A certain AC bridge is balanced with arms: AB = 50 Ohms, BC = 100 Ohms, CD = 300 + j400 Ohms. Calculate the real (resistive) part of the unknown impedance in arm DA.",
+    "a": "75 Ohms",
+    "b": "150 Ohms",
+    "c": "300 Ohms",
+    "d": "37.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "a": "100 Ohms",
+    "b": "200 Ohms",
+    "c": "400 Ohms",
+    "d": "50 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A 10x passive oscilloscope probe has an internal resistor of 9 Mega-Ohms. If the vertical input of the oscilloscope has a resistance of 1 Mega-Ohm and a capacitance of 15 pF, what value must the probe capacitance be adjusted to for perfect frequency compensation?",
+    "a": "15.0 pF",
+    "b": "1.67 pF",
+    "c": "135.0 pF",
+    "d": "3.33 pF",
+    "ans": "b"
+  },
+  {
+    "q": "A digital frequency counter registers 36,000 counts over a gating time interval of 0.2 seconds. Calculate the frequency of the input signal.",
+    "a": "90.0 kHz",
+    "b": "180.0 kHz",
+    "c": "360.0 kHz",
+    "d": "72.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An analog voltmeter has a range of 0 to 200 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.",
+    "a": "1.0 Volt",
+    "b": "2.0 Volts",
+    "c": "4.0 Volts",
+    "d": "0.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the percentage limiting error of the 200-Volt meter from the previous question when measuring a voltage of 40.0 Volts?",
+    "a": "2.5 percent",
+    "b": "5.0 percent",
+    "c": "10.0 percent",
+    "d": "1.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An AC bridge has standard arm Cs = 0.05 uF. If R1 = 2k Ohm, R2 = 8k Ohm, and C1 = 0.02 uF, find Cx using the Schering bridge capacitance balance equation.",
+    "a": "0.005 uF",
+    "b": "0.0125 uF",
+    "c": "0.025 uF",
+    "d": "0.050 uF",
+    "ans": "b"
+  },
+  {
+    "q": "Find Rx for the same Schering bridge balance (Cs = 0.05 uF, R1 = 2k Ohm, R2 = 8k Ohm, C1 = 0.02 uF).",
+    "a": "1.6k Ohms",
+    "b": "3.2k Ohms",
+    "c": "6.4k Ohms",
+    "d": "800 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of an unknown inductor measured using a Maxwell bridge if the series resistance Rx is 30 Ohms and the self-inductance Lx is 0.45 Henries at a frequency of 1000 Hz.",
+    "a": "47.1",
+    "b": "94.2",
+    "c": "188.4",
+    "d": "15.0",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with a coil resistance of 500 Ohms and a full-scale deflection of 100 uA is to be converted to a voltmeter. If the multiplier resistance is 49,500 Ohms, calculate the maximum voltage range.",
+    "a": "2.5 Volts",
+    "b": "5.0 Volts",
+    "c": "10.0 Volts",
+    "d": "1.0 Volt",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Maxwell bridge is used to measure an unknown inductor Lx. If the bridge arms at balance are R2 = 1000 Ohms, R3 = 4000 Ohms, and C1 = 0.02 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.",
+    "a": "0.04 Henries",
+    "b": "0.08 Henries",
+    "c": "0.16 Henries",
+    "d": "0.02 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "a": "20 Ohms",
+    "b": "40 Ohms",
+    "c": "80 Ohms",
+    "d": "10 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz.",
+    "a": "6.28",
+    "b": "12.56",
+    "c": "25.12",
+    "d": "3.14",
+    "ans": "b"
+  },
+  {
+    "q": "A balanced Hay bridge is operating at an angular frequency (omega) of 5000 rad/s. If R2 = 2000 Ohms, R3 = 2000 Ohms, C1 = 0.05 uF, and series resistor R1 = 400 Ohms, calculate the value of Lx.",
+    "a": "100.0 mH",
+    "b": "192.3 mH",
+    "c": "96.2 mH",
+    "d": "48.1 mH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the parameters of the Hay bridge from the previous question (omega = 5000 rad/s, R2 = R3 = 2000, C1 = 0.05 uF, R1 = 400), calculate the series resistance Rx of the inductor.",
+    "a": "3.85 Ohms",
+    "b": "7.70 Ohms",
+    "c": "15.40 Ohms",
+    "d": "1.92 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 100 pF, R1 = 40k Ohms, R2 = 20k Ohms, and parallel capacitor C1 = 250 pF, calculate the capacitance Cx.",
+    "a": "25.0 pF",
+    "b": "200.0 pF",
+    "c": "100.0 pF",
+    "d": "12.5 pF",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the series resistance Rx of the capacitor Cx measured in the previous Schering bridge question.",
+    "a": "25.0 Ohms",
+    "b": "50.0 Ohms",
+    "c": "100.0 Ohms",
+    "d": "12.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "a": "0.0031",
+    "b": "0.0063",
+    "c": "0.0126",
+    "d": "0.0016",
+    "ans": "b"
+  },
+  {
+    "q": "A Wien bridge has arms: R1 = 10k Ohms in series with C1 = 7.96 nF, and R2 = 10k Ohms in parallel with C2 = 7.96 nF. Calculate the frequency at which the bridge balances.",
+    "a": "1000 Hz",
+    "b": "2000 Hz",
+    "c": "4000 Hz",
+    "d": "500 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope is used to measure an AC signal. If the vertical scale is set to 500 mV/Division and the peak-to-peak height of the trace is 4.8 divisions, calculate the peak-to-peak voltage.",
+    "a": "1.2 Volts",
+    "b": "2.4 Volts",
+    "c": "4.8 Volts",
+    "d": "0.6 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the measurement in the previous question (V_p-p = 2.4 Volts), calculate the RMS voltage of the sinusoidal waveform.",
+    "a": "1.200 Volts",
+    "b": "0.848 Volts",
+    "c": "1.697 Volts",
+    "d": "0.424 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An oscilloscope horizontal sweep is set to 5 microseconds/Division. If one full cycle of a periodic wave occupies exactly 6.0 divisions, calculate the period of the signal.",
+    "a": "15 us",
+    "b": "30 us",
+    "c": "60 us",
+    "d": "7.5 us",
+    "ans": "b"
+  },
+  {
+    "q": "Using the period of 30 microseconds from the previous question, calculate the frequency of the signal.",
+    "a": "16.7 kHz",
+    "b": "33.3 kHz",
+    "c": "66.7 kHz",
+    "d": "8.3 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Lissajous pattern is displayed on an oscilloscope screen. If the pattern has 5 horizontal tangents and 4 vertical tangents, and the horizontal input frequency is 2000 Hz, calculate the vertical input frequency.",
+    "a": "1600 Hz",
+    "b": "2500 Hz",
+    "c": "5000 Hz",
+    "d": "1000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A d'Arsonval movement with full-scale deflection of 100 uA and coil resistance of 2000 Ohms is used to construct a multi-range ammeter. Calculate the Ayrton shunt resistor R1 required for the 100 uA range.",
+    "a": "1000 Ohms",
+    "b": "2000 Ohms",
+    "c": "500 Ohms",
+    "d": "4000 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "An instrument is specified to have a guarantee accuracy of plus or minus 2 percent of full-scale deflection. If the full-scale reading is 300 Volts, calculate the maximum limiting error in Volts.",
+    "a": "3.0 Volts",
+    "b": "6.0 Volts",
+    "c": "12.0 Volts",
+    "d": "1.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same voltmeter with full-scale 300 Volts and a guarantee accuracy error of plus or minus 6 Volts, what is the percentage limiting error when measuring a voltage of 150 Volts?",
+    "a": "1.0 percent",
+    "b": "4.0 percent",
+    "c": "2.0 percent",
+    "d": "0.5 percent",
+    "ans": "c"
+  },
+  {
+    "q": "What is the percentage limiting error of the same 300-Volt meter (guarantee error = 6V) when measuring a voltage of 75 Volts?",
+    "a": "2.0 percent",
+    "b": "8.0 percent",
+    "c": "4.0 percent",
+    "d": "16.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the standard deviation (sigma) of a set of five voltage measurements: 230.1, 230.2, 230.0, 229.9, and 230.3 Volts. (First compute the arithmetic mean).",
+    "a": "0.05 Volts",
+    "b": "0.151 Volts",
+    "c": "0.302 Volts",
+    "d": "0.082 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A platinum RTD sensor has a resistance of 100.0 Ohms at 0 degrees Celsius. If its temperature coefficient of resistance (alpha) is 0.00385 per degree C, calculate its resistance at 200 degrees Celsius.",
+    "a": "138.5 Ohms",
+    "b": "177.0 Ohms",
+    "c": "254.0 Ohms",
+    "d": "107.7 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the resistance of the platinum RTD is measured to be 177.0 Ohms, calculate the corresponding temperature.",
+    "a": "50 degrees C",
+    "b": "100 degrees C",
+    "c": "150 degrees C",
+    "d": "200 degrees C",
+    "ans": "d"
+  },
+  {
+    "q": "An 8-bit successive-approximation ADC in a digital voltmeter has a reference voltage of 5.12 Volts. What is the digital value registered when the input is 2.56 Volts?",
+    "a": "64",
+    "b": "128",
+    "c": "255",
+    "d": "32",
+    "ans": "b"
+  },
+  {
+    "q": "A certain AC bridge is balanced with arms: AB = 100 Ohms, BC = 300 Ohms, CD = 150 + j200 Ohms. Calculate the real (resistive) part of the unknown impedance in arm DA.",
+    "a": "25 Ohms",
+    "b": "50 Ohms",
+    "c": "100 Ohms",
+    "d": "12.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "a": "33.3 Ohms",
+    "b": "66.7 Ohms",
+    "c": "133.3 Ohms",
+    "d": "16.7 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A 10x passive oscilloscope probe has an internal resistor of 9 Mega-Ohms. If the vertical input of the oscilloscope has a resistance of 1 Mega-Ohm and a capacitance of 25 pF, what value must the probe capacitance be adjusted to for perfect frequency compensation?",
+    "a": "25.00 pF",
+    "b": "2.78 pF",
+    "c": "225.00 pF",
+    "d": "5.56 pF",
+    "ans": "b"
+  },
+  {
+    "q": "A digital frequency counter registers 48,000 counts over a gating time interval of 0.2 seconds. Calculate the frequency of the input signal.",
+    "a": "60.0 kHz",
+    "b": "240.0 kHz",
+    "c": "480.0 kHz",
+    "d": "120.0 kHz",
+    "ans": "b"
+  }
+]

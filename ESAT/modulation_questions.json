@@ -1,0 +1,2170 @@
+[
+  {
+    "q": "What is the process of impressing a low-frequency information signal onto a high-frequency carrier signal called?",
+    "a": "Demodulation",
+    "b": "Oscillation",
+    "c": "Modulation",
+    "d": "Amplification",
+    "ans": "c"
+  },
+  {
+    "q": "What is the process of changing the amplitude of a relatively high frequency carrier signal in proportion with the instantaneous value of the modulating signal?",
+    "a": "Frequency modulation",
+    "b": "Digital modulation",
+    "c": "Phase modulation",
+    "d": "Amplitude modulation",
+    "ans": "d"
+  },
+  {
+    "q": "In a standard AM wave, where is the most power concentrated at 100% modulation?",
+    "a": "In the carrier signal",
+    "b": "In the upper sideband",
+    "c": "In the lower sideband",
+    "d": "In the intelligence signal",
+    "ans": "a"
+  },
+  {
+    "q": "What is another name for amplitude modulation in terms of frequency translation?",
+    "a": "Linear mixing",
+    "b": "Analog multiplexing",
+    "c": "Signal summation",
+    "d": "Multiplexing",
+    "ans": "a"
+  },
+  {
+    "q": "The shape of the amplitude-modulated wave is called the _____.",
+    "a": "Sideband",
+    "b": "Modulating signal",
+    "c": "Envelope",
+    "d": "Carrier signal",
+    "ans": "c"
+  },
+  {
+    "q": "What is the ratio of the modulating signal peak voltage to the carrier peak voltage called?",
+    "a": "Modulation factor",
+    "b": "Fidelity index",
+    "c": "Phase coefficient",
+    "d": "Squelch depth",
+    "ans": "a"
+  },
+  {
+    "q": "When does overmodulation occur in an AM signal?",
+    "a": "When Vm is less than Vc",
+    "b": "When Vm is equal to Vc",
+    "c": "When Vm is greater than Vc",
+    "d": "When Vc is equal to 0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the result of overmodulation in AM transmitters?",
+    "a": "Harmonic distortion and splatter",
+    "b": "Increased coverage area",
+    "c": "Improved signal-to-noise ratio",
+    "d": "Lower power consumption",
+    "ans": "a"
+  },
+  {
+    "q": "What is the official ITU emission designation for standard amplitude modulation with full carrier and double sidebands?",
+    "a": "A3E",
+    "b": "J3E",
+    "c": "R3E",
+    "d": "F3E",
+    "ans": "a"
+  },
+  {
+    "q": "What is the official ITU emission designation for a single-sideband, suppressed-carrier signal?",
+    "a": "H3E",
+    "b": "R3E",
+    "c": "J3E",
+    "d": "B8E",
+    "ans": "c"
+  },
+  {
+    "q": "What is the official ITU emission designation for independent sideband (ISB) transmission?",
+    "a": "H3E",
+    "b": "B8E",
+    "c": "J3E",
+    "d": "R3E",
+    "ans": "b"
+  },
+  {
+    "q": "What is the official ITU emission designation for vestigial sideband (VSB) transmission used in television?",
+    "a": "C3F",
+    "b": "J3E",
+    "c": "R3E",
+    "d": "B8E",
+    "ans": "a"
+  },
+  {
+    "q": "What is the official ITU emission designation for single-sideband, reduced-carrier transmission?",
+    "a": "H3E",
+    "b": "R3E",
+    "c": "J3E",
+    "d": "B8E",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is not a primary advantage of SSB over standard AM?",
+    "a": "Power saving",
+    "b": "Bandwidth conservation",
+    "c": "Simpler receiver circuit design",
+    "d": "Reduction in selective fading",
+    "ans": "c"
+  },
+  {
+    "q": "What component is used to suppress the carrier in an SSB generator?",
+    "a": "Balanced modulator",
+    "b": "Class C amplifier",
+    "c": "Envelope detector",
+    "d": "Frequency discriminator",
+    "ans": "a"
+  },
+  {
+    "q": "What type of filter is most commonly used in SSB transmitters to eliminate the unwanted sideband?",
+    "a": "Low-pass filter",
+    "b": "Mechanical or crystal bandpass filter",
+    "c": "High-pass filter",
+    "d": "RC notch filter",
+    "ans": "b"
+  },
+  {
+    "q": "In an AM transmitter, what is the purpose of the buffer amplifier stage?",
+    "a": "To amplify the audio signal to high power levels",
+    "b": "To isolate the master oscillator from load variations",
+    "c": "To demodulate the feedback signal",
+    "d": "To match the antenna impedance to the transmission line",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main advantage of the phase-shift method of SSB generation over the filter method?",
+    "a": "It requires no sharp bandpass filter",
+    "b": "It is much simpler to align and maintain",
+    "c": "It uses fewer active devices",
+    "d": "It provides much higher carrier suppression",
+    "ans": "a"
+  },
+  {
+    "q": "Which diode is specifically designed to exhibit variable capacitance when reverse biased?",
+    "a": "PIN diode",
+    "b": "Varactor diode",
+    "c": "Zener diode",
+    "d": "Schottky diode",
+    "ans": "b"
+  },
+  {
+    "q": "What process refers to transforming a received modulated RF signal back into its original baseband format?",
+    "a": "Demodulation",
+    "b": "Oscillation",
+    "c": "Multiplexing",
+    "d": "Modulation",
+    "ans": "a"
+  },
+  {
+    "q": "What circuit is typically used as the second detector in a standard AM receiver?",
+    "a": "Balanced modulator",
+    "b": "Diode envelope detector",
+    "c": "Phase-locked loop",
+    "d": "Ratio detector",
+    "ans": "b"
+  },
+  {
+    "q": "What determines the bandwidth of a transmitted standard AM signal?",
+    "a": "The maximum amplitude of the modulating signal",
+    "b": "The unmodulated carrier frequency",
+    "c": "Twice the highest frequency of the modulating signal",
+    "d": "The intermediate frequency of the receiver",
+    "ans": "c"
+  },
+  {
+    "q": "What circuit performs mathematical multiplication on two input signals in the frequency domain?",
+    "a": "Summing amplifier",
+    "b": "Mixer or modulator",
+    "c": "Integrator",
+    "d": "Differentiator",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of an Automatic Gain Control (AGC) circuit in an AM receiver?",
+    "a": "To keep the local oscillator frequency constant",
+    "b": "To maintain a relatively constant audio volume output over a wide range of input RF signal strengths",
+    "c": "To increase the selectivity of the IF bandpass filter",
+    "d": "To suppress adjacent channel interference",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when the modulation index 'm' of an AM signal is exactly equal to zero?",
+    "a": "The signal is unmodulated carrier only",
+    "b": "The sidebands are at their maximum power levels",
+    "c": "The carrier power is reduced to zero",
+    "d": "The envelope has severe clipping distortion",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a receiver's ability to accept a desired band of frequencies and reject all others?",
+    "a": "Selectivity",
+    "b": "Sensitivity",
+    "c": "Fidelity",
+    "d": "Stability",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a receiver's ability to amplify weak RF signals to a usable level?",
+    "a": "Sensitivity",
+    "b": "Selectivity",
+    "c": "Fidelity",
+    "d": "Tracking",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a receiver's ability to faithfully reproduce the original baseband intelligence?",
+    "a": "Fidelity",
+    "b": "Selectivity",
+    "c": "Sensitivity",
+    "d": "Dynamic range",
+    "ans": "a"
+  },
+  {
+    "q": "What type of receiver is designed to overcome the tracking and selectivity challenges of tuned radio-frequency (TRF) receivers?",
+    "a": "Superheterodyne receiver",
+    "b": "Direct conversion receiver",
+    "c": "Regenerative receiver",
+    "d": "Crystal set receiver",
+    "ans": "a"
+  },
+  {
+    "q": "In superheterodyne receivers, what circuit stage performs the frequency translation to the intermediate frequency (IF)?",
+    "a": "Mixer and Local Oscillator",
+    "b": "RF Amplifier",
+    "c": "Detector",
+    "d": "AGC Amplifier",
+    "ans": "a"
+  },
+  {
+    "q": "What is the standard intermediate frequency (IF) used in commercial AM broadcast band receivers?",
+    "a": "455 kHz",
+    "b": "10.7 MHz",
+    "c": "100 kHz",
+    "d": "4.5 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for an unwanted signal frequency that is equal to the tuned station frequency plus twice the intermediate frequency?",
+    "a": "Image frequency",
+    "b": "Harmonic frequency",
+    "c": "Flicker frequency",
+    "d": "Subcarrier frequency",
+    "ans": "a"
+  },
+  {
+    "q": "How can the image frequency rejection of a superheterodyne receiver be significantly improved?",
+    "a": "By adding an RF preamplifier stage before the mixer",
+    "b": "By increasing the gain of the audio amplifier",
+    "c": "By narrowing the bandwidth of the detector circuit",
+    "d": "By lowering the local oscillator frequency",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary function of a limiter circuit in an FM receiver?",
+    "a": "To remove amplitude variations and noise before demodulation",
+    "b": "To limit the maximum volume of the audio amplifier",
+    "c": "To restrict the bandwidth of the IF stage",
+    "d": "To keep the local oscillator from drifting off frequency",
+    "ans": "a"
+  },
+  {
+    "q": "What circuit is commonly used to demodulate FM signals by converting frequency variations directly into voltage variations?",
+    "a": "Ratio detector or discriminator",
+    "b": "Envelope detector",
+    "c": "Bridge rectifier",
+    "d": "Balanced modulator",
+    "ans": "a"
+  },
+  {
+    "q": "In FM, what occurs to the carrier deviation when the amplitude of the modulating signal is decreased?",
+    "a": "It decreases",
+    "b": "It increases",
+    "c": "It remains constant",
+    "d": "It shifts phase by 180°",
+    "ans": "a"
+  },
+  {
+    "q": "What type of modulation is produced when the phase angle of a sinusoidal carrier is varied in proportion to the modulating signal?",
+    "a": "Phase modulation",
+    "b": "Frequency modulation",
+    "c": "Amplitude modulation",
+    "d": "Pulse modulation",
+    "ans": "a"
+  },
+  {
+    "q": "What parameters of an FM signal remain constant at all times?",
+    "a": "Total power and amplitude of the modulated wave",
+    "b": "Instantaneous frequency of the carrier",
+    "c": "Number of active sidebands",
+    "d": "Phase angle of the sidebands",
+    "ans": "a"
+  },
+  {
+    "q": "According to Carson's Rule, what is the approximate bandwidth required for an FM wave?",
+    "a": "Twice the sum of the peak frequency deviation and the highest modulating frequency",
+    "b": "Twice the unmodulated carrier frequency",
+    "c": "Equal to the peak frequency deviation",
+    "d": "Twice the highest modulating frequency",
+    "ans": "a"
+  },
+  {
+    "q": "What phenomenon occurs in FM receivers where a stronger signal completely suppresses a weaker co-channel signal?",
+    "a": "Capture effect",
+    "b": "Hall effect",
+    "c": "Proximity effect",
+    "d": "Squelch action",
+    "ans": "a"
+  },
+  {
+    "q": "What circuit stage is aligned first in an FM receiver after the IF stages are completed?",
+    "a": "Limiter stage",
+    "b": "Local oscillator",
+    "c": "RF amplifier",
+    "d": "Mixer stage",
+    "ans": "a"
+  },
+  {
+    "q": "What modulation technique is used to transmit digital data by shifting the frequency of the carrier between two discrete values?",
+    "a": "Frequency Shift Keying (FSK)",
+    "b": "Amplitude Shift Keying (ASK)",
+    "c": "Phase Shift Keying (PSK)",
+    "d": "Pulse Code Modulation (PCM)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary advantage of FSK over ASK transmission?",
+    "a": "Much greater resistance to noise and amplitude variations",
+    "b": "Lower bandwidth requirement",
+    "c": "Simpler circuitry",
+    "d": "Higher maximum baud rate",
+    "ans": "a"
+  },
+  {
+    "q": "What is the standard intermediate frequency (IF) for commercial FM receivers?",
+    "a": "10.7 MHz",
+    "b": "455 kHz",
+    "c": "4.5 MHz",
+    "d": "100 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "What type of modulation varies the phase angle of the carrier between discrete values to represent binary data?",
+    "a": "Phase Shift Keying (PSK)",
+    "b": "Frequency Shift Keying (FSK)",
+    "c": "Amplitude Modulation (AM)",
+    "d": "Pulse Width Modulation (PWM)",
+    "ans": "a"
+  },
+  {
+    "q": "Which digital modulation technique represents binary data using 16 combinations of amplitude and phase?",
+    "a": "16-QAM",
+    "b": "BPSK",
+    "c": "QPSK",
+    "d": "8-PSK",
+    "ans": "a"
+  },
+  {
+    "q": "What process converts continuous analog signals into a sequence of digital pulses in PCM?",
+    "a": "Pulse Code Modulation (PCM)",
+    "b": "Pulse Amplitude Modulation (PAM)",
+    "c": "Frequency Division Multiplexing (FDM)",
+    "d": "Phase Shift Keying (PSK)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the difference between the original analog sample and its corresponding quantized representation?",
+    "a": "Quantization noise",
+    "b": "Flicker noise",
+    "c": "Transit time distortion",
+    "d": "Crosstalk",
+    "ans": "a"
+  },
+  {
+    "q": "What are the three essential steps required to produce a PCM signal?",
+    "a": "Sampling, quantizing, and coding",
+    "b": "Filtering, mixing, and multiplying",
+    "c": "Modulating, sweeping, and filtering",
+    "d": "Companding, expanding, and equalizing",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary purpose of companding in PCM systems?",
+    "a": "To protect weaker signals from quantization distortion",
+    "b": "To compress the RF bandwidth of the transmission line",
+    "c": "To convert serial streams into parallel data buses",
+    "d": "To eliminate the need for anti-aliasing filters",
+    "ans": "a"
+  },
+  {
+    "q": "Which pulse modulation system is fundamentally analog in nature?",
+    "a": "Pulse Width Modulation (PWM)",
+    "b": "Pulse Code Modulation (PCM)",
+    "c": "Differential PCM (DPCM)",
+    "d": "Delta Modulation (DM)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the principal disadvantage of PCM systems?",
+    "a": "The large transmission bandwidth required",
+    "b": "Incompatibility with time-division multiplexing",
+    "c": "Inability to handle analog signals",
+    "d": "High error rates introduced by quantizing noise",
+    "ans": "a"
+  },
+  {
+    "q": "What is the line speed of a standard Bell System T1 carrier line?",
+    "a": "1.544 Mbps",
+    "b": "64 kbps",
+    "c": "3.152 Mbps",
+    "d": "6.312 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "How many voice channels are multiplexed together in a standard FDM supergroup?",
+    "a": "60",
+    "b": "12",
+    "c": "24",
+    "d": "600",
+    "ans": "a"
+  },
+  {
+    "q": "What device is used to interface digital computer signals to an analog voice-grade telephone line?",
+    "a": "Modem",
+    "b": "Multiplexer",
+    "c": "Codec",
+    "d": "Quantizer",
+    "ans": "a"
+  },
+  {
+    "q": "What occurs when the modulation index 'm' of an AM signal is greater than 1?",
+    "a": "The carrier is overmodulated and the envelope is distorted",
+    "b": "The unmodulated carrier power drops to zero",
+    "c": "The signal-to-noise ratio becomes infinite",
+    "d": "The frequency of the carrier changes linearly",
+    "ans": "a"
+  },
+  {
+    "q": "What circuit is most commonly used to track and lock onto incoming carrier frequencies in an FM receiver?",
+    "a": "Phase-Locked Loop (PLL)",
+    "b": "Foster-Seeley discriminator",
+    "c": "Ratio detector",
+    "d": "Envelope detector",
+    "ans": "a"
+  },
+  {
+    "q": "What term describes the range of frequencies over which a PLL can maintain synchronization with an incoming signal?",
+    "a": "Lock range",
+    "b": "Capture range",
+    "c": "Free-running range",
+    "d": "Slew range",
+    "ans": "a"
+  },
+  {
+    "q": "When a PLL is fully locked, what is the frequency difference between the input signal and the VCO?",
+    "a": "Zero",
+    "b": "90 Hz",
+    "c": "Equal to the reference frequency",
+    "d": "Equal to the loop filter bandwidth",
+    "ans": "a"
+  },
+  {
+    "q": "What digital modulation technique is characterized by a binary pulse stream that shifts between two discrete voltage levels to represent digital states?",
+    "a": "Frequency Shift Keying (FSK)",
+    "b": "Phase Shift Keying (PSK)",
+    "c": "Quadrature Amplitude Modulation (QAM)",
+    "d": "Amplitude Shift Keying (ASK)",
+    "ans": "a"
+  },
+  {
+    "q": "What method of generating an SSB signal uses only one balanced modulator circuit?",
+    "a": "Filter method",
+    "b": "Phasing method",
+    "c": "Third method",
+    "d": "Weaver method",
+    "ans": "a"
+  },
+  {
+    "q": "What type of modulation is used by the stereophonic subcarrier in commercial FM broadcasting?",
+    "a": "Double Sideband (DSB)",
+    "b": "Frequency Modulation (FM)",
+    "c": "Phase Modulation (PM)",
+    "d": "Single Sideband (SSB)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the frequency of the pilot signal used for stereo FM broadcasting?",
+    "a": "19 kHz",
+    "b": "38 kHz",
+    "c": "67 kHz",
+    "d": "10 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "In a digital communications system, what is 'baud' a measure of?",
+    "a": "The signaling rate or number of symbols transmitted per second",
+    "b": "The total number of binary bits transmitted per second",
+    "c": "The bandwidth efficiency of the digital modulator",
+    "d": "The frequency deviation of the carrier",
+    "ans": "a"
+  },
+  {
+    "q": "What theorem sets the absolute limit on the maximum capacity of a communication channel in the presence of noise?",
+    "a": "Shannon-Hartley Theorem",
+    "b": "Nyquist Theorem",
+    "c": "Carson's Rule",
+    "d": "Hartley's Law",
+    "ans": "a"
+  },
+  {
+    "q": "Which digital modulation technique has the highest bandwidth efficiency among standard formats?",
+    "a": "16-QAM",
+    "b": "BPSK",
+    "c": "QPSK",
+    "d": "BFSK",
+    "ans": "a"
+  },
+  {
+    "q": "What is the primary cause of slope overload distortion in delta modulation systems?",
+    "a": "The input analog signal changes faster than the step size can track",
+    "b": "The sampling rate is too high",
+    "c": "The step size is too large",
+    "d": "The input signal amplitude is too small",
+    "ans": "a"
+  },
+  {
+    "q": "What is the minimum number of bits required to encode 64 unique quantization levels?",
+    "a": "6 bits",
+    "b": "5 bits",
+    "c": "7 bits",
+    "d": "8 bits",
+    "ans": "a"
+  },
+  {
+    "q": "Under what condition does an analog FM signal produce only a single pair of significant sidebands?",
+    "a": "When the modulation index is much less than 1 (narrowband FM)",
+    "b": "When the modulation index is equal to 1",
+    "c": "When the modulating frequency is zero",
+    "d": "When the frequency deviation is equal to the carrier frequency",
+    "ans": "a"
+  },
+  {
+    "q": "What type of amplifier is typically used to amplify modulated RF signals without introducing distortion?",
+    "a": "Linear class B or class AB amplifier",
+    "b": "Nonlinear class C amplifier",
+    "c": "Class D pulse amplifier",
+    "d": "Logarithmic operational amplifier",
+    "ans": "a"
+  },
+  {
+    "q": "In an FM system, when the modulating frequency is doubled while the modulating voltage remains constant, what occurs to the modulation index?",
+    "a": "It is halved",
+    "b": "It is doubled",
+    "c": "It remains unchanged",
+    "d": "It is quadrupled",
+    "ans": "a"
+  },
+  {
+    "q": "What type of modulation is always present even when no intelligence signal is applied?",
+    "a": "Continuous-wave (CW) modulation",
+    "b": "Pulse amplitude modulation",
+    "c": "Amplitude modulation",
+    "d": "Pulse width modulation",
+    "ans": "a"
+  },
+  {
+    "q": "What process combines several analog signals by shifting each to a unique frequency range before transmission?",
+    "a": "Frequency Division Multiplexing (FDM)",
+    "b": "Time Division Multiplexing (TDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Wavelength Division Multiplexing (WDM)",
+    "ans": "a"
+  },
+  {
+    "q": "What process combines several channels by interleaving discrete time samples of each signal?",
+    "a": "Time Division Multiplexing (TDM)",
+    "b": "Frequency Division Multiplexing (FDM)",
+    "c": "Space Division Multiplexing (SDM)",
+    "d": "Phase Division Multiplexing (PDM)",
+    "ans": "a"
+  },
+  {
+    "q": "Which digital modulation technique is most commonly used in high-speed optical fiber systems?",
+    "a": "QPSK",
+    "b": "FSK",
+    "c": "ASK",
+    "d": "PWM",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of the filter used at the input of a PCM sampler to prevent high-frequency components from causing aliasing?",
+    "a": "Anti-aliasing low-pass filter",
+    "b": "High-pass tracking filter",
+    "c": "Band-reject notch filter",
+    "d": "Coaxial bandpass filter",
+    "ans": "a"
+  },
+  {
+    "q": "In a superheterodyne receiver, if the local oscillator is set higher than the incoming RF signal, what is this configuration called?",
+    "a": "High-side injection",
+    "b": "Low-side injection",
+    "c": "Coherent injection",
+    "d": "Dual-conversion tracking",
+    "ans": "a"
+  },
+  {
+    "q": "What type of receiver circuit uses a local oscillator frequency exactly equal to the incoming RF carrier frequency?",
+    "a": "Direct conversion receiver",
+    "b": "Superheterodyne receiver",
+    "c": "Tuned radio-frequency receiver",
+    "d": "Dual-conversion receiver",
+    "ans": "a"
+  },
+  {
+    "q": "Which noise type occurs specifically during the quantization process in a digital-to-analog converter?",
+    "a": "Quantization noise",
+    "b": "Thermal noise",
+    "c": "Shot noise",
+    "d": "Flicker noise",
+    "ans": "a"
+  },
+  {
+    "q": "What mathematical operation is performed by a balanced modulator circuit?",
+    "a": "Multiplication",
+    "b": "Addition",
+    "c": "Subtraction",
+    "d": "Integration",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope exhibits a maximum peak-to-peak voltage of 15 V and a minimum peak-to-peak voltage of 3 V. Determine the modulation index.",
+    "a": "0.67",
+    "b": "0.50",
+    "c": "0.80",
+    "d": "1.20",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 500 W. What is the total transmitted power when the modulation index is 0.75?",
+    "a": "641 W",
+    "b": "580 W",
+    "c": "720 W",
+    "d": "1000 W",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter radiates a total power of 12 kW with 60% modulation. What is the power in the carrier signal?",
+    "a": "10.17 kW",
+    "b": "11.11 kW",
+    "c": "9.50 kW",
+    "d": "8.40 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has a carrier power of 10 kW. Calculate the total power radiated when it is modulated simultaneously by two signals with modulation indices of 0.4 and 0.5.",
+    "a": "12.05 kW",
+    "b": "11.05 kW",
+    "c": "14.10 kW",
+    "d": "10.45 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM signal with a carrier frequency of 1.2 MHz is modulated by an audio tone of 5 kHz. What are the upper and lower sideband frequencies?",
+    "a": "1205 kHz and 1195 kHz",
+    "b": "1205 kHz and 1200 kHz",
+    "c": "1210 kHz and 1190 kHz",
+    "d": "1250 kHz and 1150 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A standard AM receiver is tuned to a station at 980 kHz. If the receiver uses high-side injection and has an IF of 455 kHz, what is the local oscillator frequency?",
+    "a": "1435 kHz",
+    "b": "525 kHz",
+    "c": "1890 kHz",
+    "d": "980 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A superheterodyne receiver is tuned to 1000 kHz. If the IF is 455 kHz and the local oscillator frequency is 1455 kHz, what is the image frequency?",
+    "a": "1910 kHz",
+    "b": "545 kHz",
+    "c": "1455 kHz",
+    "d": "2000 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a 300 V peak-to-peak signal across a 50-ohm resistive antenna load. What is the Peak Envelope Power (PEP) output?",
+    "a": "225 W",
+    "b": "450 W",
+    "c": "900 W",
+    "d": "112.5 W",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 800 W. If it is tested with a two-tone sinusoidal signal, what is the average output power of the transmitter?",
+    "a": "400 W",
+    "b": "200 W",
+    "c": "800 W",
+    "d": "100 W",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB generator using the phase-shift method has a phase tracking error of 4° from the ideal 90°. What is the level of suppression of the unwanted sideband in dB?",
+    "a": "29.1 dB",
+    "b": "19.1 dB",
+    "c": "39.1 dB",
+    "d": "9.1 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an antenna current of 8 A when unmodulated. When modulated by a sinusoidal signal, the current increases to 8.8 A. What is the modulation index?",
+    "a": "0.65",
+    "b": "0.50",
+    "c": "0.82",
+    "d": "0.45",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total sideband power of an AM transmitter if the carrier power is 5 kW and the modulation index is 0.8.",
+    "a": "1.6 kW",
+    "b": "3.2 kW",
+    "c": "0.8 kW",
+    "d": "2.5 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM receiver has an RF input filter with a Q of 50. If it is tuned to 1000 kHz and the IF is 455 kHz, calculate the image rejection in decibels.",
+    "a": "39.3 dB",
+    "b": "19.3 dB",
+    "c": "29.3 dB",
+    "d": "49.3 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An FM modulator has a deviation constant of 25 kHz/V. What is the peak frequency deviation produced by a modulating signal with a peak amplitude of 2.4 V?",
+    "a": "60 kHz",
+    "b": "30 kHz",
+    "c": "120 kHz",
+    "d": "15 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak frequency deviation of 45 kHz and is modulated by an audio tone of 3 kHz. Find the modulation index.",
+    "a": "15",
+    "b": "7.5",
+    "c": "30",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the approximate bandwidth required for an FM system with a peak frequency deviation of 75 kHz and a maximum modulating frequency of 15 kHz using Carson's Rule.",
+    "a": "180 kHz",
+    "b": "90 kHz",
+    "c": "150 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has a phase sensitivity of 2.5 rad/V. What peak phase deviation in radians is produced by an audio sine wave with a peak voltage of 1.2 V?",
+    "a": "3.0 radians",
+    "b": "1.5 radians",
+    "c": "2.5 radians",
+    "d": "0.5 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter has a peak frequency deviation of 12 kHz when modulated at 100% by a 4 kHz sine wave. What is the carrier swing of the transmitter?",
+    "a": "24 kHz",
+    "b": "12 kHz",
+    "c": "48 kHz",
+    "d": "8 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver is tuned to 101.5 MHz. If the receiver has an IF of 10.7 MHz and uses high-side injection, what is the image frequency?",
+    "a": "122.9 MHz",
+    "b": "80.1 MHz",
+    "c": "112.2 MHz",
+    "d": "131.5 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM broadcast signal has a frequency deviation of 50 kHz. What is the percentage of modulation of this transmitter relative to the commercial standard of 75 kHz deviation?",
+    "a": "66.7%",
+    "b": "50.0%",
+    "c": "75.0%",
+    "d": "100.0%",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator operates at a carrier frequency of 150 MHz. If kp = 1.8 rad/V and the modulating signal is V(t) = 3 cos(2 * pi * 2000 t) V, what is the peak frequency deviation of the PM wave?",
+    "a": "10.8 kHz",
+    "b": "5.4 kHz",
+    "c": "21.6 kHz",
+    "d": "3.6 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the peak frequency deviation of an FM transmitter if it has a sensitivity of 4 kHz/V and the modulating signal has an RMS value of 1.414 V?",
+    "a": "5.66 kHz",
+    "b": "4.00 kHz",
+    "c": "8.00 kHz",
+    "d": "2.83 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal is developed across a 50-ohm resistive load. If the peak unmodulated carrier voltage is 10 V, what is the total average power of the modulated FM signal?",
+    "a": "1.0 W",
+    "b": "2.0 W",
+    "c": "0.5 W",
+    "d": "1.5 W",
+    "ans": "a"
+  },
+  {
+    "q": "A delta modulation system uses a step size of 0.25 V and a sampling rate of 64 kHz. Find the maximum slope of an analog signal that the modulator can track without slope overload.",
+    "a": "16,000 V/s",
+    "b": "8,000 V/s",
+    "c": "32,000 V/s",
+    "d": "64,000 V/s",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a maximum input signal amplitude of 5 V. What is the step size (resolution) of the quantizer?",
+    "a": "39.1 mV",
+    "b": "19.5 mV",
+    "c": "78.1 mV",
+    "d": "9.8 mV",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization Signal-to-Quantization Noise Ratio (SQR) in decibels for an 11-bit linear PCM system.",
+    "a": "68.0 dB",
+    "b": "50.0 dB",
+    "c": "74.0 dB",
+    "d": "62.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "What is the minimum sampling rate required to avoid aliasing for a voice signal band-limited to 3.4 kHz?",
+    "a": "6.8 kHz",
+    "b": "3.4 kHz",
+    "c": "8.0 kHz",
+    "d": "10.0 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system samples an analog signal at 8 kHz. If each sample is coded using 12 bits, what is the resulting transmission bit rate?",
+    "a": "96 kbps",
+    "b": "64 kbps",
+    "c": "128 kbps",
+    "d": "192 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A T1 digital carrier system multiplexes 24 voice channels. If each channel is encoded using 8-bit PCM and sampled at 8 kHz, along with 1 framing bit per frame, find the total bit rate.",
+    "a": "1.544 Mbps",
+    "b": "2.048 Mbps",
+    "c": "1.536 Mbps",
+    "d": "128 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK signal has a mark frequency of 105 kHz and a space frequency of 95 kHz. If the transmission rate is 10 kbps, what is the peak frequency deviation?",
+    "a": "5 kHz",
+    "b": "10 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Find the minimum bandwidth required for a BPSK system transmitting data at a rate of 4800 bps with a roll-off factor of 0.5.",
+    "a": "7.2 kHz",
+    "b": "4.8 kHz",
+    "c": "9.6 kHz",
+    "d": "3.6 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-PSK digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "3 bps/Hz",
+    "d": "5 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK modulator is driven by an input binary data stream of 56 kbps. What is the symbol rate (baud rate) at the output of the modulator?",
+    "a": "28 kbaud",
+    "b": "56 kbaud",
+    "c": "14 kbaud",
+    "d": "112 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-PSK system operates at a baud rate of 9600 symbols per second. What is the corresponding input bit rate?",
+    "a": "28.8 kbps",
+    "b": "19.2 kbps",
+    "c": "9.6 kbps",
+    "d": "38.4 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "Find the capacity of a communication channel with a bandwidth of 4 kHz and an S/N ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "24 kbps",
+    "d": "8 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 256-QAM system transmits symbols at a rate of 2000 baud. What is the data transmission rate in bps?",
+    "a": "16,000 bps",
+    "b": "8,000 bps",
+    "c": "32,000 bps",
+    "d": "64,000 bps",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated antenna current of 6 A. When modulated by a sinusoidal signal, the current increases to 6.7 A. Find the total power output if the antenna resistance is 50 ohms.",
+    "a": "2244.5 W",
+    "b": "1800.0 W",
+    "c": "2000.0 W",
+    "d": "2500.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "What is the modulation index of an AM transmitter if the carrier power is 800 W and the total radiated power is 1000 W?",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "0.60",
+    "d": "0.80",
+    "ans": "a"
+  },
+  {
+    "q": "An AM signal is represented by e(t) = 15(1 + 0.6 cos(2 * pi * 3000 t)) cos(2 * pi * 10^6 t) V. What is the peak voltage of the lower sideband component?",
+    "a": "4.5 V",
+    "b": "9.0 V",
+    "c": "15.0 V",
+    "d": "2.25 V",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter with a carrier frequency of 800 kHz is modulated by a 3 kHz sine wave. What is the total bandwidth required for transmission?",
+    "a": "6 kHz",
+    "b": "3 kHz",
+    "c": "12 kHz",
+    "d": "1.5 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A DSB-SC signal has a total power of 150 W at 100% modulation. What would be the power of the suppressed carrier prior to its removal if it was a standard AM signal?",
+    "a": "300 W",
+    "b": "150 W",
+    "c": "75 W",
+    "d": "600 W",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a Peak Envelope Power (PEP) of 500 W. What is the peak-to-peak voltage developed across a 75-ohm resistive load?",
+    "a": "547.7 V",
+    "b": "273.8 V",
+    "c": "387.3 V",
+    "d": "774.6 V",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to a station at 1500 kHz. If high-side injection is used and the local oscillator is set to 1955 kHz, calculate the intermediate frequency.",
+    "a": "455 kHz",
+    "b": "10.7 MHz",
+    "c": "910 kHz",
+    "d": "1500 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM wave has a frequency deviation of 20 kHz and is modulated by an audio tone of 5 kHz. What is the modulation index 'mf' of the signal?",
+    "a": "4",
+    "b": "2",
+    "c": "8",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a frequency deviation of 5 kHz and a modulating frequency of 2 kHz.",
+    "a": "14 kHz",
+    "b": "10 kHz",
+    "c": "7 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 1.5 rad/V. What is the peak phase deviation when a modulating voltage with a peak value of 4 V is applied?",
+    "a": "6.0 radians",
+    "b": "3.0 radians",
+    "c": "1.5 radians",
+    "d": "2.67 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 60 kHz when modulated by a 10 kHz signal. Calculate the frequency deviation if the modulating signal amplitude is halved while keeping its frequency constant.",
+    "a": "30 kHz",
+    "b": "60 kHz",
+    "c": "15 kHz",
+    "d": "120 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter has an unmodulated carrier frequency of 100 MHz. When modulated by an audio tone, its instantaneous frequency swings between 99.96 MHz and 100.04 MHz. Find the peak frequency deviation.",
+    "a": "40 kHz",
+    "b": "80 kHz",
+    "c": "20 kHz",
+    "d": "100 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF filter has a bandwidth of 200 kHz. If Carson's Rule bandwidth of the received FM signal is 180 kHz, will the signal pass through the IF stage without truncation?",
+    "a": "Yes, because the IF filter bandwidth is larger than the signal bandwidth",
+    "b": "No, because the IF filter must be exactly equal to the signal bandwidth",
+    "c": "Yes, but only if the S/N ratio is greater than 30 dB",
+    "d": "No, because the carrier frequency is too high",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization Signal-to-Quantization Noise Ratio (SQR) in dB for a 16-bit linear PCM system.",
+    "a": "98.1 dB",
+    "b": "50.0 dB",
+    "c": "96.0 dB",
+    "d": "84.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has a resolution of 50 mV. If the analog voltage of a sample is 1.23 V, what is the nearest quantized voltage level?",
+    "a": "1.25 V",
+    "b": "1.20 V",
+    "c": "1.23 V",
+    "d": "1.30 V",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK signal has a frequency deviation of 8 kHz. What is the frequency separation (shift) between the mark and space frequencies?",
+    "a": "16 kHz",
+    "b": "8 kHz",
+    "c": "4 kHz",
+    "d": "32 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A 64-QAM digital transmission system operates at a symbol rate of 1200 baud. What is the information data rate of this system?",
+    "a": "7200 bps",
+    "b": "4800 bps",
+    "c": "2400 bps",
+    "d": "9600 bps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 256-QAM digital modulation system?",
+    "a": "8 bps/Hz",
+    "b": "4 bps/Hz",
+    "c": "6 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Shannon limit of a channel with a bandwidth of 1 MHz and an S/N ratio of 31 (which is 15 dB).",
+    "a": "5 Mbps",
+    "b": "1 Mbps",
+    "c": "15 Mbps",
+    "d": "2.5 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 1200 W. When modulated, the power increases to 1500 W. Calculate the modulation index.",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "0.80",
+    "d": "0.60",
+    "ans": "a"
+  },
+  {
+    "q": "What is the unmodulated carrier peak voltage of an AM signal if the maximum and minimum peak voltages of the envelope are 12 V and 4 V respectively?",
+    "a": "8 V",
+    "b": "4 V",
+    "c": "16 V",
+    "d": "10 V",
+    "ans": "a"
+  },
+  {
+    "q": "What is the unmodulated carrier power of an AM wave if the sidebands contain a total power of 150 W at a modulation index of 0.6?",
+    "a": "833.3 W",
+    "b": "416.7 W",
+    "c": "300.0 W",
+    "d": "150.0 W",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single sideband frequency component at 10.005 MHz. If the carrier frequency was 10.000 MHz, what is the frequency of the original modulating audio tone?",
+    "a": "5 kHz",
+    "b": "10 kHz",
+    "c": "2.5 kHz",
+    "d": "1.5 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM receiver uses a standard IF of 455 kHz. If it is tuned to 1400 kHz and exhibits an image frequency of 2310 kHz, what injection method is being used?",
+    "a": "High-side injection",
+    "b": "Low-side injection",
+    "c": "Dual-injection tracking",
+    "d": "Zero-IF direct conversion",
+    "ans": "a"
+  },
+  {
+    "q": "An FM wave is represented by v(t) = 12 sin(2 * pi * 10^8 t + 8 sin(2 * pi * 1500 t)) V. What is the frequency of the modulating signal?",
+    "a": "1500 Hz",
+    "b": "3000 Hz",
+    "c": "10^8 Hz",
+    "d": "8 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM wave is represented by v(t) = 12 sin(2 * pi * 10^8 t + 8 sin(2 * pi * 1500 t)) V. What is the peak frequency deviation of the signal?",
+    "a": "12 kHz",
+    "b": "8 kHz",
+    "c": "1.5 kHz",
+    "d": "6 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth required for an FM signal represented by v(t) = 10 sin(2 * pi * 10^8 t + 6 sin(2 * pi * 2000 t)) V.",
+    "a": "28 kHz",
+    "b": "14 kHz",
+    "c": "12 kHz",
+    "d": "16 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter has a peak frequency deviation of 75 kHz. If the peak unmodulated carrier power is 50 kW, what is the total average power of the modulated FM signal?",
+    "a": "50 kW",
+    "b": "75 kW",
+    "c": "100 kW",
+    "d": "25 kW",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 2.0 rad/V. What peak phase deviation in degrees is produced by a modulating signal with a peak amplitude of 0.5 V?",
+    "a": "57.3°",
+    "b": "1.0°",
+    "c": "114.6°",
+    "d": "90.0°",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has a maximum analog frequency of 3.3 kHz. What is the minimum Nyquist sampling interval in microseconds?",
+    "a": "151.5 microseconds",
+    "b": "303.0 microseconds",
+    "c": "75.7 microseconds",
+    "d": "200.0 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "What is the quantization SQR in dB of a 10-bit linear PCM system?",
+    "a": "61.96 dB",
+    "b": "50.00 dB",
+    "c": "71.96 dB",
+    "d": "58.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a total voltage range of 10.24 V. What is the step size of the quantizer?",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM transmitter has a sample rate of 8 kHz and encodes each sample into an 8-bit binary word. What is the transmission bandwidth required if the transmission mode is binary polar with no roll-off?",
+    "a": "32 kHz",
+    "b": "64 kHz",
+    "c": "16 kHz",
+    "d": "8 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-PSK system operates with an input bit rate of 48 kbps. Calculate the baud rate of the system.",
+    "a": "16 kbaud",
+    "b": "24 kbaud",
+    "c": "48 kbaud",
+    "d": "12 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum information capacity of a telephone line with a bandwidth of 3.1 kHz and an S/N ratio of 30 dB (which is 1000)?",
+    "a": "30.9 kbps",
+    "b": "9.3 kbps",
+    "c": "15.5 kbps",
+    "d": "62.0 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A 16-QAM digital modulator operates at a symbol rate of 4800 baud. What is the output data bit rate in bps?",
+    "a": "19,200 bps",
+    "b": "9,600 bps",
+    "c": "4,800 bps",
+    "d": "38,400 bps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a standard BPSK digital modulation system?",
+    "a": "1 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "4 bps/Hz",
+    "d": "0.5 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM signal has an unmodulated carrier voltage of 10 V. When modulated, the maximum envelope peak voltage is 14 V. What is the minimum envelope peak voltage?",
+    "a": "6 V",
+    "b": "8 V",
+    "c": "4 V",
+    "d": "2 V",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an efficiency of 65% and produces a carrier power of 1000 W. What is the total power drawn from the DC supply when the signal is unmodulated?",
+    "a": "1538.5 W",
+    "b": "1000.0 W",
+    "c": "650.0 W",
+    "d": "2307.7 W",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter radiates 15 kW with the carrier unmodulated. When modulated by a sinusoidal tone, the output power increases to 17 kW. What is the modulation index?",
+    "a": "0.52",
+    "b": "0.33",
+    "c": "0.65",
+    "d": "0.45",
+    "ans": "a"
+  },
+  {
+    "q": "A double-sideband suppressed-carrier (DSB-SC) signal is generated by modulating a 1.5 MHz carrier with a 10 kHz tone. What are the output sideband frequencies?",
+    "a": "1510 kHz and 1490 kHz",
+    "b": "1510 kHz and 1500 kHz",
+    "c": "1520 kHz and 1480 kHz",
+    "d": "1500 kHz and 1490 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP output of 1 kW across a 52-ohm antenna load. What is the peak voltage of the SSB envelope?",
+    "a": "322.5 V",
+    "b": "228.0 V",
+    "c": "456.0 V",
+    "d": "645.0 V",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver IF system uses high-side injection and is tuned to 600 kHz. If the IF is 455 kHz, what is the image frequency of the receiver?",
+    "a": "1510 kHz",
+    "b": "1055 kHz",
+    "c": "1455 kHz",
+    "d": "1000 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM wave is modulated by an audio signal with a frequency of 1.5 kHz, producing a frequency deviation of 6 kHz. Calculate the modulation index.",
+    "a": "4",
+    "b": "2",
+    "c": "8",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, find the bandwidth of an FM signal with a frequency deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 3 radians/V. Find the peak frequency deviation produced when modulated by a sine wave of 2 V peak at a frequency of 1.5 kHz.",
+    "a": "9 kHz",
+    "b": "6 kHz",
+    "c": "4.5 kHz",
+    "d": "18 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 5 kHz. Find the signal-to-noise ratio improvement in dB at the output of the discriminator if the input S/N ratio is 20 dB and the modulating frequency is 1 kHz.",
+    "a": "18.75 dB",
+    "b": "15.00 dB",
+    "c": "22.50 dB",
+    "d": "12.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An FM carrier is modulated to its maximum allowable deviation of 75 kHz. What is the carrier swing of the transmitter?",
+    "a": "150 kHz",
+    "b": "75 kHz",
+    "c": "37.5 kHz",
+    "d": "300 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver is designed with an IF of 10.7 MHz. If the receiver is tuned to 98.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "109.2 MHz",
+    "b": "87.8 MHz",
+    "c": "98.5 MHz",
+    "d": "119.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of an 8-bit linear PCM system using the standard approximation formula SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system operates with a step size of 20 mV. What is the dynamic range of this quantizer?",
+    "a": "5.12 V",
+    "b": "2.56 V",
+    "c": "10.24 V",
+    "d": "1.28 V",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a mark frequency of 1200 Hz and a space frequency of 2200 Hz. What is the center (carrier) frequency of this system?",
+    "a": "1700 Hz",
+    "b": "1000 Hz",
+    "c": "1500 Hz",
+    "d": "2000 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "What is the baud rate of an 8-PSK system operating with a binary data transmission rate of 19.2 kbps?",
+    "a": "6.4 kbaud",
+    "b": "9.6 kbaud",
+    "c": "19.2 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 64-QAM digital modulation system?",
+    "a": "6 bps/Hz",
+    "b": "4 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "12 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 3 kHz and a signal-to-noise ratio of 30 dB using the Shannon-Hartley Theorem.",
+    "a": "29.9 kbps",
+    "b": "9.0 kbps",
+    "c": "19.9 kbps",
+    "d": "39.9 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope has Vmax = 8 V and Vmin = 2 V. What is the percentage of modulation?",
+    "a": "60%",
+    "b": "50%",
+    "c": "75%",
+    "d": "40%",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 10 kW. What is the total power radiated at 100% modulation?",
+    "a": "15 kW",
+    "b": "12 kW",
+    "c": "20 kW",
+    "d": "10 kW",
+    "ans": "a"
+  },
+  {
+    "q": "The total radiated power of an AM transmitter modulated at 70.7% is 15 kW. What is the carrier power?",
+    "a": "12 kW",
+    "b": "10 kW",
+    "c": "13.5 kW",
+    "d": "8 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter is modulated by three signals with individual modulation indices of 0.3, 0.4, and 0.5. Calculate the total modulation index.",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "1.20",
+    "d": "0.90",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single component at 5.002 MHz. If the carrier was placed at 5.000 MHz, what is the modulating frequency?",
+    "a": "2 kHz",
+    "b": "4 kHz",
+    "c": "1 kHz",
+    "d": "5 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 600 W. What is the peak unmodulated carrier power prior to carrier suppression?",
+    "a": "2400 W",
+    "b": "1200 W",
+    "c": "600 W",
+    "d": "300 W",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 1200 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1655 kHz",
+    "b": "745 kHz",
+    "c": "1200 kHz",
+    "d": "2110 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 15 kHz and is modulated by a 3 kHz tone. What is the modulation index 'mf'?",
+    "a": "5",
+    "b": "2.5",
+    "c": "10",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a peak deviation of 10 kHz and a modulating frequency of 2.5 kHz.",
+    "a": "25 kHz",
+    "b": "12.5 kHz",
+    "c": "20 kHz",
+    "d": "30 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 1.2 rad/V. What is the peak phase deviation when a modulating signal with a peak amplitude of 2.5 V is applied?",
+    "a": "3.0 radians",
+    "b": "1.5 radians",
+    "c": "2.5 radians",
+    "d": "1.2 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 50 kHz. What is the carrier swing of the transmitter?",
+    "a": "100 kHz",
+    "b": "50 kHz",
+    "c": "25 kHz",
+    "d": "200 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF stage operates at 10.7 MHz. If it is tuned to 100.5 MHz and the local oscillator is set lower (low-side injection), find the local oscillator frequency.",
+    "a": "89.8 MHz",
+    "b": "111.2 MHz",
+    "c": "100.5 MHz",
+    "d": "10.7 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of a 12-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "74.00 dB",
+    "b": "50.00 dB",
+    "c": "71.96 dB",
+    "d": "70.24 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 5.12 V. What is the step size of the quantizer?",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope has a maximum amplitude of 10 V and a minimum amplitude of 2 V. What is the modulation index?",
+    "a": "0.67",
+    "b": "0.50",
+    "c": "0.80",
+    "d": "1.20",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 2 kW. What is the total power radiated when the modulation index is 0.5?",
+    "a": "2.25 kW",
+    "b": "2.50 kW",
+    "c": "2.12 kW",
+    "d": "3.00 kW",
+    "ans": "a"
+  },
+  {
+    "q": "The total radiated power of an AM transmitter modulated at 50% is 6 kW. What is the carrier power?",
+    "a": "5.33 kW",
+    "b": "4.80 kW",
+    "c": "5.00 kW",
+    "d": "5.50 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter is modulated simultaneously by two signals with modulation indices of 0.6 and 0.8. Calculate the total modulation index.",
+    "a": "1.00",
+    "b": "0.71",
+    "c": "1.40",
+    "d": "0.90",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single component at 10.003 MHz. If the carrier was placed at 10.000 MHz, what is the modulating frequency?",
+    "a": "3 kHz",
+    "b": "6 kHz",
+    "c": "1.5 kHz",
+    "d": "10 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 400 W across a 50-ohm resistive antenna load. What is the RMS voltage of the SSB signal at peak envelope power?",
+    "a": "141.4 V",
+    "b": "100.0 V",
+    "c": "200.0 V",
+    "d": "282.8 V",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 1500 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1955 kHz",
+    "b": "1045 kHz",
+    "c": "1500 kHz",
+    "d": "2410 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 25 kHz and is modulated by a 5 kHz tone. What is the modulation index?",
+    "a": "5",
+    "b": "2.5",
+    "c": "10",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a peak deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 2 radians/V. What is the peak phase deviation when a modulating signal with a peak amplitude of 1.5 V is applied?",
+    "a": "3.0 radians",
+    "b": "1.5 radians",
+    "c": "2.5 radians",
+    "d": "1.2 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 45 kHz. What is the carrier swing of the transmitter?",
+    "a": "90 kHz",
+    "b": "45 kHz",
+    "c": "22.5 kHz",
+    "d": "180 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF stage operates at 10.7 MHz. If it is tuned to 98.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "109.2 MHz",
+    "b": "87.8 MHz",
+    "c": "98.5 MHz",
+    "d": "119.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 5.12 V. What is the step size of the quantizer?",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope has a maximum peak-to-peak voltage of 18 V and a minimum peak-to-peak voltage of 6 V. What is the modulation index?",
+    "a": "0.50",
+    "b": "0.33",
+    "c": "0.67",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 1.5 kW. What is the total power radiated when the modulation index is 0.8?",
+    "a": "1.98 kW",
+    "b": "1.80 kW",
+    "c": "2.10 kW",
+    "d": "2.50 kW",
+    "ans": "a"
+  },
+  {
+    "q": "The total radiated power of an AM transmitter modulated at 60% is 10 kW. What is the carrier power?",
+    "a": "8.47 kW",
+    "b": "7.50 kW",
+    "c": "8.00 kW",
+    "d": "9.00 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter is modulated simultaneously by two signals with modulation indices of 0.5 and 0.5. Calculate the total modulation index.",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "1.00",
+    "d": "0.90",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single component at 3.8515 MHz. If the carrier was placed at 3.850 MHz, what is the modulating frequency?",
+    "a": "1.5 kHz",
+    "b": "3.0 kHz",
+    "c": "15.0 kHz",
+    "d": "3.85 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 1000 W. What is the peak unmodulated carrier power prior to carrier suppression?",
+    "a": "4000 W",
+    "b": "2000 W",
+    "c": "1000 W",
+    "d": "500 W",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 800 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1255 kHz",
+    "b": "345 kHz",
+    "c": "800 kHz",
+    "d": "1710 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 30 kHz and is modulated by a 6 kHz tone. What is the modulation index?",
+    "a": "5",
+    "b": "2.5",
+    "c": "10",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a peak deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 2.5 radians/V. What is the peak phase deviation when a modulating signal with a peak amplitude of 2.0 V is applied?",
+    "a": "5.0 radians",
+    "b": "2.5 radians",
+    "c": "4.0 radians",
+    "d": "1.25 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 40 kHz. What is the carrier swing of the transmitter?",
+    "a": "80 kHz",
+    "b": "40 kHz",
+    "c": "20 kHz",
+    "d": "160 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF stage operates at 10.7 MHz. If it is tuned to 95.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "106.2 MHz",
+    "b": "84.8 MHz",
+    "c": "95.5 MHz",
+    "d": "116.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of a 10-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "61.96 dB",
+    "b": "50.00 dB",
+    "c": "58.00 dB",
+    "d": "60.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 10.24 V. What is the step size of the quantizer?",
+    "a": "40 mV",
+    "b": "20 mV",
+    "c": "80 mV",
+    "d": "10 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope has a maximum voltage of 12 V and a minimum voltage of 4 V. Determine the modulation index.",
+    "a": "0.50",
+    "b": "0.33",
+    "c": "0.67",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 4 kW. What is the total power radiated when the modulation index is 0.6?",
+    "a": "4.72 kW",
+    "b": "4.36 kW",
+    "c": "5.20 kW",
+    "d": "6.00 kW",
+    "ans": "a"
+  },
+  {
+    "q": "The total radiated power of an AM transmitter modulated at 80% is 15 kW. What is the carrier power?",
+    "a": "11.36 kW",
+    "b": "10.50 kW",
+    "c": "12.00 kW",
+    "d": "13.00 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter is modulated simultaneously by two signals with modulation indices of 0.3 and 0.4. Calculate the total modulation index.",
+    "a": "0.50",
+    "b": "0.35",
+    "c": "0.70",
+    "d": "0.45",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single component at 7.0015 MHz. If the carrier was placed at 7.000 MHz, what is the modulating frequency?",
+    "a": "1.5 kHz",
+    "b": "3.0 kHz",
+    "c": "15.0 kHz",
+    "d": "7.00 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 500 W. What is the peak unmodulated carrier power prior to carrier suppression?",
+    "a": "2000 W",
+    "b": "1000 W",
+    "c": "500 W",
+    "d": "250 W",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 1000 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1455 kHz",
+    "b": "545 kHz",
+    "c": "1000 kHz",
+    "d": "1910 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 20 kHz and is modulated by a 4 kHz tone. What is the modulation index?",
+    "a": "5",
+    "b": "2.5",
+    "c": "10",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a peak deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 1.5 radians/V. What is the peak phase deviation when a modulating signal with a peak amplitude of 3.0 V is applied?",
+    "a": "4.5 radians",
+    "b": "2.0 radians",
+    "c": "3.0 radians",
+    "d": "1.5 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 30 kHz. What is the carrier swing of the transmitter?",
+    "a": "60 kHz",
+    "b": "30 kHz",
+    "c": "15 kHz",
+    "d": "120 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF stage operates at 10.7 MHz. If it is tuned to 92.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "103.2 MHz",
+    "b": "81.8 MHz",
+    "c": "92.5 MHz",
+    "d": "113.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 5.12 V. What is the step size of the quantizer?",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An AM envelope has a maximum voltage of 15 V and a minimum voltage of 5 V. Determine the modulation index.",
+    "a": "0.50",
+    "b": "0.33",
+    "c": "0.67",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter has an unmodulated carrier power of 5 kW. What is the total power radiated when the modulation index is 0.5?",
+    "a": "5.625 kW",
+    "b": "5.300 kW",
+    "c": "6.250 kW",
+    "d": "7.500 kW",
+    "ans": "a"
+  },
+  {
+    "q": "The total radiated power of an AM transmitter modulated at 75% is 12 kW. What is the carrier power?",
+    "a": "9.36 kW",
+    "b": "8.50 kW",
+    "c": "10.00 kW",
+    "d": "11.00 kW",
+    "ans": "a"
+  },
+  {
+    "q": "An AM transmitter is modulated simultaneously by two signals with modulation indices of 0.6 and 0.8. Calculate the total modulation index.",
+    "a": "1.00",
+    "b": "0.71",
+    "c": "1.40",
+    "d": "0.90",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB signal contains a single component at 15.003 MHz. If the carrier was placed at 15.000 MHz, what is the modulating frequency?",
+    "a": "3 kHz",
+    "b": "6 kHz",
+    "c": "1.5 kHz",
+    "d": "15 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An SSB transmitter produces a PEP of 400 W across a 50-ohm resistive antenna load. What is the RMS voltage of the SSB signal at peak envelope power?",
+    "a": "141.4 V",
+    "b": "100.0 V",
+    "c": "200.0 V",
+    "d": "282.8 V",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tuned to 1500 kHz. If the IF of the receiver is 455 kHz and high-side injection is used, what is the frequency of the local oscillator?",
+    "a": "1955 kHz",
+    "b": "1045 kHz",
+    "c": "1500 kHz",
+    "d": "2410 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM signal has a peak deviation of 25 kHz and is modulated by a 5 kHz tone. What is the modulation index?",
+    "a": "5",
+    "b": "2.5",
+    "c": "10",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Using Carson's Rule, calculate the bandwidth of an FM signal with a peak deviation of 75 kHz and a modulating frequency of 15 kHz.",
+    "a": "180 kHz",
+    "b": "150 kHz",
+    "c": "90 kHz",
+    "d": "210 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A phase modulator has kp = 2 radians/V. What is the peak phase deviation when a modulating signal with a peak amplitude of 1.5 V is applied?",
+    "a": "3.0 radians",
+    "b": "1.5 radians",
+    "c": "2.5 radians",
+    "d": "1.2 radians",
+    "ans": "a"
+  },
+  {
+    "q": "An FM transmitter produces a peak deviation of 45 kHz. What is the carrier swing of the transmitter?",
+    "a": "90 kHz",
+    "b": "45 kHz",
+    "c": "22.5 kHz",
+    "d": "180 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An FM receiver IF stage operates at 10.7 MHz. If it is tuned to 98.5 MHz and the local oscillator is set higher, find the local oscillator frequency.",
+    "a": "109.2 MHz",
+    "b": "87.8 MHz",
+    "c": "98.5 MHz",
+    "d": "119.2 MHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the quantization SQR in dB of an 8-bit linear PCM system using the approximation SQR = 6.02 n + 1.76 dB.",
+    "a": "49.92 dB",
+    "b": "50.00 dB",
+    "c": "48.00 dB",
+    "d": "52.00 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A PCM system has an analog sampling rate of 8 kHz. What is the maximum analog signal frequency that can be digitized without aliasing?",
+    "a": "4 kHz",
+    "b": "8 kHz",
+    "c": "16 kHz",
+    "d": "2 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An 8-bit linear PCM system has a dynamic range of 5.12 V. What is the step size of the quantizer?",
+    "a": "20 mV",
+    "b": "10 mV",
+    "c": "40 mV",
+    "d": "5 mV",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transmission bit rate of an 8-bit PCM system operating at a sample rate of 8 kHz?",
+    "a": "64 kbps",
+    "b": "32 kbps",
+    "c": "128 kbps",
+    "d": "16 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "A QPSK system has a digital input bit rate of 19.2 kbps. What is the symbol rate (baud rate) of the system?",
+    "a": "9.6 kbaud",
+    "b": "19.2 kbaud",
+    "c": "38.4 kbaud",
+    "d": "4.8 kbaud",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum data rate of a channel with a bandwidth of 4 kHz and a signal-to-noise ratio of 15 (which is 12 dB) using the Shannon-Hartley Theorem.",
+    "a": "16 kbps",
+    "b": "12 kbps",
+    "c": "8 kbps",
+    "d": "24 kbps",
+    "ans": "a"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 16-QAM digital modulation system?",
+    "a": "4 bps/Hz",
+    "b": "2 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "16 bps/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A binary FSK system has a peak deviation of 5 kHz. What is the frequency separation between the two FSK carrier states?",
+    "a": "10 kHz",
+    "b": "5 kHz",
+    "c": "2.5 kHz",
+    "d": "20 kHz",
+    "ans": "a"
+  }
+]

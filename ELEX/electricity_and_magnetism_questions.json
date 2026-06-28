@@ -1,0 +1,2394 @@
+[
+  {
+    "q": "Which of the following laws states that the force of attraction or repulsion between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them?",
+    "a": "Gauss's Law",
+    "b": "Lenz's Law",
+    "c": "Coulomb's Law",
+    "d": "Ampere's Law",
+    "ans": "c"
+  },
+  {
+    "q": "What is the magnetic equivalent of electrical current in a magnetic circuit?",
+    "a": "Reluctance",
+    "b": "Magnetic flux",
+    "c": "Magnetomotive force",
+    "d": "Permeability",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the induced electromotive force in a closed loop is equal to the negative time rate of change of magnetic flux through the loop?",
+    "a": "Faraday's Law of Induction",
+    "b": "Ampere's Law",
+    "c": "Gauss's Law",
+    "d": "Ohm's Law",
+    "ans": "a"
+  },
+  {
+    "q": "The direction of an induced current is always such that it opposes the change in magnetic flux that produced it. This principle is known as:",
+    "a": "Faraday's Law",
+    "b": "Lenz's Law",
+    "c": "Coulomb's Law",
+    "d": "Maxwell's Law",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term used to describe the ability of a magnetic material to retain a certain amount of residual magnetism after the magnetizing force has been removed?",
+    "a": "Permeability",
+    "b": "Coercivity",
+    "c": "Retentivity",
+    "d": "Reluctance",
+    "ans": "c"
+  },
+  {
+    "q": "Which material property is the magnetic equivalent of electrical conductivity, representing the ease with which magnetic flux can be established in a material?",
+    "a": "Reluctance",
+    "b": "Permeability",
+    "c": "Permittivity",
+    "d": "Susceptibility",
+    "ans": "b"
+  },
+  {
+    "q": "What phenomenon is characterized by a voltage difference generated across an electrical conductor, transverse to an electric current in the conductor and to an applied magnetic field perpendicular to the current?",
+    "a": "Seebeck Effect",
+    "b": "Peltier Effect",
+    "c": "Hall Effect",
+    "d": "Thomson Effect",
+    "ans": "c"
+  },
+  {
+    "q": "The temperature above which a ferromagnetic material loses its permanent magnetic properties and becomes paramagnetic is known as the:",
+    "a": "Faraday Temperature",
+    "b": "Curie Temperature",
+    "c": "Transition Temperature",
+    "d": "Neeel Temperature",
+    "ans": "b"
+  },
+  {
+    "q": "Which Maxwell's equation states that there are no isolated magnetic poles (no magnetic monopoles)?",
+    "a": "Gauss's Law for Electricity",
+    "b": "Gauss's Law for Magnetism",
+    "c": "Faraday's Law",
+    "d": "Ampere-Maxwell Law",
+    "ans": "b"
+  },
+  {
+    "q": "What is the magnetic equivalent of electrical resistance in a magnetic circuit?",
+    "a": "Permeability",
+    "b": "Reluctance",
+    "c": "Permittivity",
+    "d": "Conductance",
+    "ans": "b"
+  },
+  {
+    "q": "In electrostatics, the total electric flux passing outward through any closed surface is equal to the total charge enclosed by that surface. This is a statement of:",
+    "a": "Coulomb's Law",
+    "b": "Gauss's Law",
+    "c": "Ampere's Law",
+    "d": "Lenz's Law",
+    "ans": "b"
+  },
+  {
+    "q": "Which rule is commonly used to find the direction of the magnetic field around a straight, current-carrying conductor?",
+    "a": "Left-hand generator rule",
+    "b": "Right-hand grip rule",
+    "c": "Lenz's rule",
+    "d": "Corkscrew rule only",
+    "ans": "b"
+  },
+  {
+    "q": "The generation of an electric current by moving a loop of wire through a magnetic field is an application of which principle?",
+    "a": "Electrostatic induction",
+    "b": "Electromagnetic induction",
+    "c": "Thermoelectric generation",
+    "d": "Photoelectric effect",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes a material that is weakly repelled by an external magnetic field?",
+    "a": "Ferromagnetic",
+    "b": "Paramagnetic",
+    "c": "Diamagnetic",
+    "d": "Antiferromagnetic",
+    "ans": "c"
+  },
+  {
+    "q": "What term is used to describe the delay or lagging of the magnetic flux density (B) behind the magnetizing force (H) in a magnetic material?",
+    "a": "Coercivity",
+    "b": "Retentivity",
+    "c": "Hysteresis",
+    "d": "Saturation",
+    "ans": "c"
+  },
+  {
+    "q": "The absolute permittivity of free space (vacuum) has an approximate value of:",
+    "a": "8.854 x 10^-12 F/m",
+    "b": "1.257 x 10^-6 H/m",
+    "c": "9.000 x 10^9 F/m",
+    "d": "3.142 x 10^-7 H/m",
+    "ans": "a"
+  },
+  {
+    "q": "The absolute permeability of free space (vacuum) has an approximate value of:",
+    "a": "8.854 x 10^-12 H/m",
+    "b": "1.257 x 10^-6 H/m",
+    "c": "4.000 x 10^-7 H/m",
+    "d": "8.854 x 10^-9 H/m",
+    "ans": "b"
+  },
+  {
+    "q": "A thermoelectric effect where heat is evolved or absorbed at the junction of two different metals when an electric current flows through it is called the:",
+    "a": "Seebeck Effect",
+    "b": "Peltier Effect",
+    "c": "Thomson Effect",
+    "d": "Joule Effect",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following laws or theorems is used to calculate the magnetic field produced by an arbitrary current-carrying conductor configuration?",
+    "a": "Gauss's Law",
+    "b": "Biot-Savart Law",
+    "c": "Faraday's Law",
+    "d": "Coulomb's Law",
+    "ans": "b"
+  },
+  {
+    "q": "What kind of magnetic material has a relative permeability slightly greater than 1?",
+    "a": "Diamagnetic",
+    "b": "Paramagnetic",
+    "c": "Ferromagnetic",
+    "d": "Supermagnetic",
+    "ans": "b"
+  },
+  {
+    "q": "What is the force exerted by an electromagnetic field on a moving, electrically charged particle?",
+    "a": "Newtonian force",
+    "b": "Lorentz force",
+    "c": "Coulomb force",
+    "d": "Kepler force",
+    "ans": "b"
+  },
+  {
+    "q": "The unit of magnetic flux in the SI system is the:",
+    "a": "Tesla",
+    "b": "Weber",
+    "c": "Gauss",
+    "d": "Maxwell",
+    "ans": "b"
+  },
+  {
+    "q": "The unit of magnetic flux density in the SI system is the:",
+    "a": "Weber",
+    "b": "Tesla",
+    "c": "Gauss",
+    "d": "Oersted",
+    "ans": "b"
+  },
+  {
+    "q": "One Maxwell is equivalent to how many Webers?",
+    "a": "10^-8 Webers",
+    "b": "10^-4 Webers",
+    "c": "10^4 Webers",
+    "d": "10^8 Webers",
+    "ans": "a"
+  },
+  {
+    "q": "One Tesla is equivalent to how many Gauss?",
+    "a": "10^-4 Gauss",
+    "b": "10^2 Gauss",
+    "c": "10^4 Gauss",
+    "d": "10^6 Gauss",
+    "ans": "c"
+  },
+  {
+    "q": "The lines of force of an electrostatic field always start on and end on what respectively?",
+    "a": "Negative charges, positive charges",
+    "b": "Positive charges, negative charges",
+    "c": "North poles, south poles",
+    "d": "South poles, north poles",
+    "ans": "b"
+  },
+  {
+    "q": "The lines of magnetic force outside a bar magnet are assumed to travel from:",
+    "a": "South pole to North pole",
+    "b": "North pole to South pole",
+    "c": "East pole to West pole",
+    "d": "West pole to East pole",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes the relationship between the geographic north pole and the magnetic north pole of the Earth?",
+    "a": "They are at the exact same physical position",
+    "b": "They are separated by an angle called magnetic declination",
+    "c": "They are 180 degrees opposite to each other",
+    "d": "They rotate independently every 24 hours",
+    "ans": "b"
+  },
+  {
+    "q": "The angle that the Earth's magnetic field lines make with the horizontal surface of the Earth is known as the magnetic:",
+    "a": "Declination",
+    "b": "Inclination or Dip",
+    "c": "Deviation",
+    "d": "Variation",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is a unit of magnetomotive force (MMF)?",
+    "a": "Ampere-turns",
+    "b": "Webers",
+    "c": "Gilbert",
+    "d": "Both A and C",
+    "ans": "d"
+  },
+  {
+    "q": "What is the unit of reluctance in the SI system?",
+    "a": "Ampere-turns per Weber",
+    "b": "Webers per Ampere-turn",
+    "c": "Henries per meter",
+    "d": "Farads per meter",
+    "ans": "a"
+  },
+  {
+    "q": "Which type of material exhibits spontaneous magnetization below a certain temperature, with magnetic domains aligning parallel to each other?",
+    "a": "Paramagnetic",
+    "b": "Diamagnetic",
+    "c": "Ferromagnetic",
+    "d": "Ferrimagnetic",
+    "ans": "c"
+  },
+  {
+    "q": "The magnetic field intensity (H) at the center of a long solenoid is independent of which of the following parameters?",
+    "a": "The current flowing through the solenoid",
+    "b": "The number of turns per unit length",
+    "c": "The core material permeability",
+    "d": "The total length of the solenoid",
+    "ans": "c"
+  },
+  {
+    "q": "What happens to the capacitance of a parallel plate capacitor if a dielectric material with a dielectric constant greater than 1 is inserted between the plates?",
+    "a": "It decreases",
+    "b": "It remains the same",
+    "c": "It increases",
+    "d": "It drops to zero",
+    "ans": "c"
+  },
+  {
+    "q": "What is the physical significance of a closed loop in a magnetic field line?",
+    "a": "It implies the presence of an isolated magnetic charge",
+    "b": "It represents a source of constant electric potential",
+    "c": "It indicates that the magnetic field is non-conservative",
+    "d": "It shows that magnetic field lines are always continuous and form closed paths",
+    "ans": "d"
+  },
+  {
+    "q": "The electric potential at an infinite distance from a point charge is conventionally assumed to be:",
+    "a": "Infinite",
+    "b": "Zero",
+    "c": "Equal to the charge value",
+    "d": "Undefined",
+    "ans": "b"
+  },
+  {
+    "q": "The concept of 'displacement current' was introduced by which scientist to make Ampere's Law mathematically consistent for time-varying fields?",
+    "a": "Michael Faraday",
+    "b": "James Clerk Maxwell",
+    "c": "Heinrich Hertz",
+    "d": "Andre-Marie Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following parameters determines the self-inductance of a coil?",
+    "a": "The material of the wire",
+    "b": "The current flowing through the coil",
+    "c": "The physical dimensions and the number of turns of the coil",
+    "d": "The external voltage applied",
+    "ans": "c"
+  },
+  {
+    "q": "A device that converts thermal energy directly into electrical energy using the Seebeck effect is called a:",
+    "a": "Thermistor",
+    "b": "Thermocouple",
+    "c": "Photoelectric cell",
+    "d": "Fuel cell",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is the best definition of magnetic flux density?",
+    "a": "The total magnetic lines of force in a magnetic circuit",
+    "b": "The magnetic force per unit charge on a moving particle",
+    "c": "The magnetic flux passing perpendicularly through a unit area",
+    "d": "The magnetizing force produced per turn of a coil",
+    "ans": "c"
+  },
+  {
+    "q": "The electrostatic force between two charges is unaffected by the presence of other charges in the vicinity. This is an application of which principle?",
+    "a": "Superposition Principle",
+    "b": "Conservation of Charge",
+    "c": "Equivalence Principle",
+    "d": "Reciprocity Theorem",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of the theory that explains ferromagnetism based on the alignment of tiny magnetized regions within a material?",
+    "a": "Domain Theory",
+    "b": "Molecular Theory",
+    "c": "Quantum Field Theory",
+    "d": "Electron Drift Theory",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the behavior of magnetic flux at the boundary between two materials of different magnetic permeabilities?",
+    "a": "The flux lines are completely reflected",
+    "b": "The flux lines refract (bend) at the boundary",
+    "c": "The flux lines terminate at the boundary surface",
+    "d": "The flux lines become completely parallel to the boundary",
+    "ans": "b"
+  },
+  {
+    "q": "The work done in moving a charge along a closed path in a purely electrostatic field is always equal to:",
+    "a": "The potential difference multiplied by the charge",
+    "b": "The total energy stored in the field",
+    "c": "Zero",
+    "d": "The electric field intensity times the distance",
+    "ans": "c"
+  },
+  {
+    "q": "The mutual inductance between two magnetically coupled coils is at a maximum when the coefficient of coupling (k) is:",
+    "a": "0.0",
+    "b": "0.5",
+    "c": "1.0",
+    "d": "Infinite",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following represents a practical application of the Peltier Effect?",
+    "a": "Electric heating elements",
+    "b": "Thermoelectric cooling modules",
+    "c": "Temperature measurement probes",
+    "d": "Magnetic levitation trains",
+    "ans": "b"
+  },
+  {
+    "q": "The force of attraction or repulsion between two parallel current-carrying conductors is due to the interaction of their:",
+    "a": "Electrostatic fields",
+    "b": "Magnetic fields",
+    "c": "Gravitational fields",
+    "d": "Electric potential differences",
+    "ans": "b"
+  },
+  {
+    "q": "Two parallel conductors carrying currents in the same direction will:",
+    "a": "Repel each other",
+    "b": "Attract each other",
+    "c": "Exert no force on each other",
+    "d": "Rotate about their midpoints",
+    "ans": "b"
+  },
+  {
+    "q": "Two parallel conductors carrying currents in opposite directions will:",
+    "a": "Attract each other",
+    "b": "Repel each other",
+    "c": "Exert torque but no translational force",
+    "d": "Neutralize each other's current",
+    "ans": "b"
+  },
+  {
+    "q": "What is the permittivity of a material if its relative permittivity (dielectric constant) is 5?",
+    "a": "5.000 times the permittivity of free space",
+    "b": "0.200 times the permittivity of free space",
+    "c": "5.000 F/m",
+    "d": "4.427 x 10^-11 F/m",
+    "ans": "a"
+  },
+  {
+    "q": "A closed surface that contains no net electric charge must have a net electric flux through it of:",
+    "a": "Infinite value",
+    "b": "Zero",
+    "c": "A positive value depending on the surface shape",
+    "d": "A negative value depending on the surface shape",
+    "ans": "b"
+  },
+  {
+    "q": "The unit of electric field strength (E) can be expressed as either Newtons per Coulomb (N/C) or:",
+    "a": "Volts per meter (V/m)",
+    "b": "Joules per Coulomb (J/C)",
+    "c": "Farads per meter (F/m)",
+    "d": "Webers per square meter (Wb/m^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What happens to the force between two charges if the medium between them is changed from vacuum to water (which has a very high relative permittivity)?",
+    "a": "The force increases significantly",
+    "b": "The force decreases significantly",
+    "c": "The force remains exactly the same",
+    "d": "The force reverses direction",
+    "ans": "b"
+  },
+  {
+    "q": "The energy stored per unit volume in an electric field is proportional to the:",
+    "a": "Square of the electric field intensity",
+    "b": "Square root of the electric field intensity",
+    "c": "Electric field intensity",
+    "d": "Inverse of the electric field intensity",
+    "ans": "a"
+  },
+  {
+    "q": "The energy stored per unit volume in a magnetic field is proportional to the:",
+    "a": "Magnetic flux density",
+    "b": "Square of the magnetic flux density",
+    "c": "Square root of the magnetic flux density",
+    "d": "Inverse of the magnetic flux density",
+    "ans": "b"
+  },
+  {
+    "q": "An electrostatic shield is usually made from a:",
+    "a": "Excellent insulator",
+    "b": "Highly permeable magnetic material",
+    "c": "Good hollow conductor",
+    "d": "Semiconductor material",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is a unit of electric potential?",
+    "a": "Joule per Coulomb",
+    "b": "Newton per Coulomb",
+    "c": "Watt per Ampere",
+    "d": "Both A and C",
+    "ans": "d"
+  },
+  {
+    "q": "The mechanical work done to bring two like charges closer together is stored in the system as:",
+    "a": "Kinetic energy",
+    "b": "Thermal energy",
+    "c": "Electrostatic potential energy",
+    "d": "Magnetic energy",
+    "ans": "c"
+  },
+  {
+    "q": "A material whose molecules have permanent electric dipole moments is classified as:",
+    "a": "Non-polar dielectric",
+    "b": "Polar dielectric",
+    "c": "Conductor",
+    "d": "Ferroelectric only",
+    "ans": "b"
+  },
+  {
+    "q": "What is the relative permeability of a perfect diamagnetic material (a superconductor)?",
+    "a": "1",
+    "b": "0",
+    "c": "Infinite",
+    "d": "-1",
+    "ans": "b"
+  },
+  {
+    "q": "The magnetic flux density B is mathematically related to the magnetic field intensity H by which equation?",
+    "a": "B = u * H",
+    "b": "B = H / u",
+    "c": "B = u / H",
+    "d": "B = u * H^2",
+    "ans": "a"
+  },
+  {
+    "q": "In a B-H curve (hysteresis loop), the point where the curve intersects the vertical axis (H = 0) represents the:",
+    "a": "Coercive force",
+    "b": "Residual magnetism or retentivity",
+    "c": "Saturation point",
+    "d": "Permeability index",
+    "ans": "b"
+  },
+  {
+    "q": "In a B-H curve (hysteresis loop), the value of H required to reduce the residual magnetic flux density to zero is called the:",
+    "a": "Retentivity",
+    "b": "Coercive force",
+    "c": "Saturation force",
+    "d": "Remanence",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is the main reason for using laminated silicon steel cores in electrical transformers?",
+    "a": "To increase the mechanical strength of the core",
+    "b": "To reduce both hysteresis and eddy current losses",
+    "c": "To decrease the weight of the transformer",
+    "d": "To increase the copper winding efficiency",
+    "ans": "b"
+  },
+  {
+    "q": "An inductor resists sudden changes in which of the following parameters?",
+    "a": "Voltage",
+    "b": "Current",
+    "c": "Resistance",
+    "d": "Electrostatic charge",
+    "ans": "b"
+  },
+  {
+    "q": "A capacitor resists sudden changes in which of the following parameters?",
+    "a": "Current",
+    "b": "Voltage",
+    "c": "Inductance",
+    "d": "Magnetic flux",
+    "ans": "b"
+  },
+  {
+    "q": "The self-induced voltage in an inductor is often called 'back EMF' because it:",
+    "a": "Has a magnitude larger than the applied voltage",
+    "b": "Opposes the change in current that created it",
+    "c": "Pushes current back into the power supply forever",
+    "d": "Always flows in the opposite physical direction of the wire",
+    "ans": "b"
+  },
+  {
+    "q": "The coefficient of coupling (k) between two coils depends primarily on their:",
+    "a": "Winding resistances",
+    "b": "Relative physical positions and spacing",
+    "c": "Core magnetomotive force",
+    "d": "Operating frequency",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following represents the differential form of Gauss's Law for electricity?",
+    "a": "div(D) = rho",
+    "b": "curl(E) = 0",
+    "c": "div(B) = 0",
+    "d": "curl(H) = J",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following represents the differential form of Faraday's Law?",
+    "a": "curl(E) = -dB/dt",
+    "b": "div(E) = rho",
+    "c": "curl(H) = J",
+    "d": "div(B) = 0",
+    "ans": "a"
+  },
+  {
+    "q": "The concept of 'magnetic vector potential' is extremely useful in solving electromagnetics problems and is based on which mathematical identity?",
+    "a": "div(curl(A)) = 0",
+    "b": "curl(grad(V)) = 0",
+    "c": "div(grad(V)) = laplacian(V)",
+    "d": "curl(curl(A)) = grad(div(A)) - laplacian(A)",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is true regarding a conductor in electrostatic equilibrium?",
+    "a": "The electric field inside the conductor is zero",
+    "b": "The net charge resides entirely on the surface",
+    "c": "The potential is constant throughout the conductor",
+    "d": "All of the above are true",
+    "ans": "d"
+  },
+  {
+    "q": "The work done in rotating an electric dipole in a uniform electric field from stable equilibrium to an angle of 90 degrees is positive. This work is stored as:",
+    "a": "Kinetic energy of rotation",
+    "b": "Potential energy of the dipole",
+    "c": "Thermal energy in the field",
+    "d": "Electromagnetic radiation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dielectric strength of a material?",
+    "a": "The maximum ratio of charge to voltage it can handle",
+    "b": "The maximum electric field it can withstand without electrical breakdown",
+    "c": "The resistance of the material to physical stress",
+    "d": "Its permittivity relative to free space",
+    "ans": "b"
+  },
+  {
+    "q": "The capacitance of a spherical conductor of radius R is directly proportional to:",
+    "a": "R^2",
+    "b": "R",
+    "c": "1/R",
+    "d": "1/R^2",
+    "ans": "b"
+  },
+  {
+    "q": "The process of magnetization of a ferromagnetic material by an external field is generally:",
+    "a": "Completely reversible",
+    "b": "Irreversible due to hysteresis",
+    "c": "Linear in nature",
+    "d": "Independent of temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The magnetic dipole moment of a current loop is proportional to:",
+    "a": "The current only",
+    "b": "The area of the loop only",
+    "c": "The product of the current and the area of the loop",
+    "d": "The square of the current",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following laws can be derived directly from Coulomb's Law using the mathematical theorem of divergence?",
+    "a": "Ampere's Law",
+    "b": "Gauss's Law",
+    "c": "Faraday's Law",
+    "d": "Lenz's Law",
+    "ans": "b"
+  },
+  {
+    "q": "The magnetic flux linking a circuit is 1 Weber. If the current producing this flux is 1 Ampere, the inductance of the circuit is:",
+    "a": "1 Farad",
+    "b": "1 Henry",
+    "c": "1 Ohm",
+    "d": "1 Tesla",
+    "ans": "b"
+  },
+  {
+    "q": "What kind of electric field is produced by a static electric charge configuration?",
+    "a": "Solenoidal field",
+    "b": "Conservative field",
+    "c": "Rotational field",
+    "d": "Time-varying field",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electrostatic force of attraction between a positive charge of 4 uC and a negative charge of -6 uC separated by a distance of 0.3 meters in vacuum.",
+    "a": "2.40 Newtons",
+    "b": "0.72 Newtons",
+    "c": "2.40 x 10^-3 Newtons",
+    "d": "7.20 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "Two equal positive charges are placed 2 meters apart in a vacuum. If they exert a repulsive force of 0.9 Newtons on each other, calculate the magnitude of each charge.",
+    "a": "20.0 uC",
+    "b": "10.0 uC",
+    "c": "40.0 uC",
+    "d": "5.0 uC",
+    "ans": "a"
+  },
+  {
+    "q": "Find the electric field intensity at a distance of 2 meters from a point charge of 8 uC in vacuum.",
+    "a": "36,000 N/C",
+    "b": "18,000 N/C",
+    "c": "72,000 N/C",
+    "d": "9,000 N/C",
+    "ans": "b"
+  },
+  {
+    "q": "What is the electric potential at a point 0.5 meters away from a positive point charge of 3 uC in vacuum?",
+    "a": "54,000 Volts",
+    "b": "27,000 Volts",
+    "c": "13,500 Volts",
+    "d": "108,000 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to move a charge of 5 uC from a point where the potential is 20 Volts to a point where the potential is 100 Volts?",
+    "a": "4.0 x 10^-4 Joules",
+    "b": "4.0 x 10^-3 Joules",
+    "c": "5.0 x 10^-4 Joules",
+    "d": "6.0 x 10^-4 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "A parallel plate capacitor has plates of area 0.1 square meters separated by a distance of 0.01 meters. Calculate its capacitance in vacuum.",
+    "a": "8.854 pF",
+    "b": "88.54 pF",
+    "c": "885.4 pF",
+    "d": "0.885 pF",
+    "ans": "b"
+  },
+  {
+    "q": "If a dielectric sheet with relative permittivity of 4 is inserted between the plates of the capacitor described in the previous question, what is the new capacitance?",
+    "a": "354.2 pF",
+    "b": "22.13 pF",
+    "c": "177.1 pF",
+    "d": "88.54 pF",
+    "ans": "a"
+  },
+  {
+    "q": "A 10 uF capacitor is connected to a 100-Volt DC source. Find the charge stored on the plates of the capacitor.",
+    "a": "1.0 milli-Coulomb",
+    "b": "10.0 milli-Coulombs",
+    "c": "0.1 milli-Coulomb",
+    "d": "100.0 micro-Coulombs",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the energy stored in a 47 uF capacitor when it is charged to a potential difference of 50 Volts.",
+    "a": "0.0587 Joules",
+    "b": "0.1175 Joules",
+    "c": "1.1750 Joules",
+    "d": "0.5875 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Two capacitors, with values of 3 uF and 6 uF, are connected in series across a 12-Volt source. Calculate the equivalent capacitance.",
+    "a": "9.0 uF",
+    "b": "2.0 uF",
+    "c": "4.5 uF",
+    "d": "1.5 uF",
+    "ans": "b"
+  },
+  {
+    "q": "For the series capacitor combination in the previous question (3 uF and 6 uF across 12 Volts), what is the voltage across the 3 uF capacitor?",
+    "a": "4 Volts",
+    "b": "8 Volts",
+    "c": "6 Volts",
+    "d": "12 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the same two capacitors (3 uF and 6 uF) are connected in parallel across a 12-Volt battery, what is the total charge supplied by the battery?",
+    "a": "108 uC",
+    "b": "36 uC",
+    "c": "72 uC",
+    "d": "144 uC",
+    "ans": "a"
+  },
+  {
+    "q": "A flat circular coil of 50 turns has a radius of 0.1 meters. Calculate the magnetic field intensity (H) at the center of the coil when carrying a current of 2 Amperes.",
+    "a": "500 AT/m",
+    "b": "1000 AT/m",
+    "c": "250 AT/m",
+    "d": "125 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.5 meters is wound uniformly with 1000 turns of wire. If a current of 1.5 Amperes flows through it, calculate the magnetic flux density (B) inside the solenoid (assume air core).",
+    "a": "3.77 milli-Tesla",
+    "b": "1.88 milli-Tesla",
+    "c": "7.54 milli-Tesla",
+    "d": "0.94 milli-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "An electromagnetic coil has a reluctance of 2.5 x 10^5 AT/Wb. If a magnetomotive force of 500 Ampere-turns is applied, what is the resulting magnetic flux in the core?",
+    "a": "2.0 milli-Weber",
+    "b": "0.2 milli-Weber",
+    "c": "1.25 milli-Weber",
+    "d": "20.0 micro-Weber",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic core has a cross-sectional area of 0.02 square meters. If the total magnetic flux in the core is 4 milli-Webers, calculate the magnetic flux density B.",
+    "a": "0.2 Tesla",
+    "b": "2.0 Tesla",
+    "c": "0.08 Tesla",
+    "d": "0.8 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "A wire of length 2 meters carrying a current of 10 Amperes is placed in a uniform magnetic field of flux density 0.5 Tesla. If the wire is oriented at 90 degrees to the magnetic field, calculate the force acting on the wire.",
+    "a": "5.0 Newtons",
+    "b": "10.0 Newtons",
+    "c": "20.0 Newtons",
+    "d": "2.5 Newtons",
+    "ans": "b"
+  },
+  {
+    "q": "If the wire in the previous question (2 meters, 10 Amperes, 0.5 Tesla) is oriented at an angle of 30 degrees to the magnetic field direction, what is the force acting on it?",
+    "a": "10.0 Newtons",
+    "b": "5.0 Newtons",
+    "c": "8.66 Newtons",
+    "d": "2.5 Newtons",
+    "ans": "b"
+  },
+  {
+    "q": "A point charge of +2.0 milli-Coulombs moves with a velocity of 5000 m/s perpendicular to a uniform magnetic field of flux density 0.8 Tesla. Calculate the Lorentz force acting on the charge.",
+    "a": "8.0 Newtons",
+    "b": "4.0 Newtons",
+    "c": "16.0 Newtons",
+    "d": "2.0 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "A flat square coil of wire with 10 turns has side dimensions of 0.2 meters. The coil is placed perpendicular to a magnetic field. If the magnetic flux density changes uniformly from 0.1 Tesla to 0.6 Tesla in a time interval of 0.2 seconds, calculate the magnitude of the induced EMF.",
+    "a": "1.0 Volt",
+    "b": "5.0 Volts",
+    "c": "0.1 Volts",
+    "d": "2.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An inductor has a self-inductance of 0.15 Henries. If the current through the inductor changes at a uniform rate of 200 Amperes per second, what is the magnitude of the induced voltage across the inductor?",
+    "a": "30.0 Volts",
+    "b": "15.0 Volts",
+    "c": "3.0 Volts",
+    "d": "300.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the energy stored in the magnetic field of a 2.5 Henry inductor when carrying a steady-state current of 4.0 Amperes.",
+    "a": "10.0 Joules",
+    "b": "20.0 Joules",
+    "c": "5.0 Joules",
+    "d": "40.0 Joules",
+    "ans": "b"
+  },
+  {
+    "q": "Two coils have self-inductances of L1 = 0.4 Henries and L2 = 0.9 Henries. If they are perfectly coupled (coefficient of coupling k = 1.0), calculate their mutual inductance.",
+    "a": "0.36 Henries",
+    "b": "0.60 Henries",
+    "c": "1.30 Henries",
+    "d": "0.65 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "If the two coils in the previous question (0.4 H and 0.9 H) have a coefficient of coupling k = 0.5, calculate their mutual inductance.",
+    "a": "0.30 Henries",
+    "b": "0.18 Henries",
+    "c": "0.60 Henries",
+    "d": "0.45 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Two inductors of 3 Henries and 6 Henries are connected in series. Assuming no mutual coupling, calculate the total equivalent inductance.",
+    "a": "9.0 Henries",
+    "b": "2.0 Henries",
+    "c": "4.5 Henries",
+    "d": "1.5 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Two inductors of 3 Henries and 6 Henries are connected in parallel. Assuming no mutual coupling, calculate the total equivalent inductance.",
+    "a": "9.0 Henries",
+    "b": "2.0 Henries",
+    "c": "4.5 Henries",
+    "d": "1.5 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Three charges (+3 C, -5 C, and +8 C) are enclosed inside a cardboard box. Calculate the total electric flux passing outward through the surface of the box.",
+    "a": "6.0 Coulombs",
+    "b": "16.0 Coulombs",
+    "c": "3.0 Coulombs",
+    "d": "11.0 Coulombs",
+    "ans": "a"
+  },
+  {
+    "q": "A flat surface of area 0.5 square meters is placed in a uniform electric field of intensity E = 2000 N/C. If the surface normal makes an angle of 60 degrees with the electric field lines, calculate the electric flux through the surface.",
+    "a": "1000 N*m^2/C",
+    "b": "500 N*m^2/C",
+    "c": "866 N*m^2/C",
+    "d": "250 N*m^2/C",
+    "ans": "b"
+  },
+  {
+    "q": "The potential difference between two large parallel metal plates is 500 Volts. If the plates are separated by 0.05 meters of air, calculate the electric field intensity between them.",
+    "a": "10,000 V/m",
+    "b": "25 V/m",
+    "c": "1,000 V/m",
+    "d": "2,500 V/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the work done in moving a charge of 2 milli-Coulombs through a distance of 0.1 meters parallel to a uniform electric field of strength 3000 N/C.",
+    "a": "0.6 Joules",
+    "b": "6.0 Joules",
+    "c": "0.06 Joules",
+    "d": "1.5 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "A coaxial cable has an inner conductor radius of 1 mm and an outer conductor inner radius of 4 mm. If the space between them is filled with a dielectric of relative permittivity 2.3, calculate the capacitance per meter of this cable.",
+    "a": "92.2 pF/m",
+    "b": "46.1 pF/m",
+    "c": "184.4 pF/m",
+    "d": "12.8 pF/m",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnetic field intensity (H) at a radial distance of 0.2 meters from a very long, straight wire carrying a current of 5 Amperes in air.",
+    "a": "3.98 AT/m",
+    "b": "7.96 AT/m",
+    "c": "1.99 AT/m",
+    "d": "15.92 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "For the straight wire in the previous question (5 Amperes current, 0.2 meters distance), calculate the magnetic flux density B.",
+    "a": "5.0 micro-Tesla",
+    "b": "10.0 micro-Tesla",
+    "c": "2.5 micro-Tesla",
+    "d": "1.25 micro-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "A circular loop of radius 0.05 meters carries a current of 4 Amperes. Calculate the magnetic dipole moment of this loop.",
+    "a": "0.0314 A*m^2",
+    "b": "0.6280 A*m^2",
+    "c": "0.0157 A*m^2",
+    "d": "0.1256 A*m^2",
+    "ans": "a"
+  },
+  {
+    "q": "An electron (charge = 1.6 x 10^-19 Coulombs) is accelerated from rest through a potential difference of 100 Volts. Calculate its kinetic energy.",
+    "a": "1.6 x 10^-17 Joules",
+    "b": "1.6 x 10^-19 Joules",
+    "c": "1.6 x 10^-21 Joules",
+    "d": "1.6 x 10^-16 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "A certain air-core coil has an inductance of 10 mH. If a ferromagnetic core with a relative permeability of 800 is inserted, what is the new inductance of the coil?",
+    "a": "8.0 Henries",
+    "b": "12.5 micro-Henries",
+    "c": "80.0 Henries",
+    "d": "0.8 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "The coupling coefficient between two coils is 0.8. If the self-inductance of Coil 1 is 50 mH and the mutual inductance is 40 mH, calculate the self-inductance of Coil 2.",
+    "a": "50 mH",
+    "b": "32 mH",
+    "c": "80 mH",
+    "d": "25 mH",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic circuit has a mean length of 0.4 meters and a cross-sectional area of 0.005 square meters. If the relative permeability of the core material is 2000, calculate the reluctance of this magnetic path.",
+    "a": "31,831 AT/Wb",
+    "b": "63,662 AT/Wb",
+    "c": "15,915 AT/Wb",
+    "d": "127,324 AT/Wb",
+    "ans": "b"
+  },
+  {
+    "q": "An electric generator coil has 200 turns and a cross-sectional area of 0.05 square meters. The coil rotates at 60 revolutions per second (3600 rpm) in a uniform magnetic field of 0.1 Tesla. Calculate the peak EMF generated in the coil.",
+    "a": "377 Volts",
+    "b": "188 Volts",
+    "c": "754 Volts",
+    "d": "60 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A current of 2 Amperes flows through a circular loop of wire with a radius of 0.1 meters. Calculate the torque experienced by the loop if it is placed in a uniform magnetic field of 0.5 Tesla such that the plane of the loop is parallel to the field lines.",
+    "a": "0.0314 N*m",
+    "b": "0.0157 N*m",
+    "c": "0.0628 N*m",
+    "d": "0.0000 N*m",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the capacitance of a single isolated conducting sphere of radius 0.09 meters in a vacuum.",
+    "a": "10.0 pF",
+    "b": "1.0 pF",
+    "c": "100.0 pF",
+    "d": "9.0 pF",
+    "ans": "a"
+  },
+  {
+    "q": "A 1000-turn coil is wound on a magnetic core. When a current of 2 Amperes flows through the coil, it produces a magnetic flux of 0.5 milli-Webers. Calculate the inductance of the coil.",
+    "a": "0.25 Henries",
+    "b": "0.50 Henries",
+    "c": "1.00 Henry",
+    "d": "2.50 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the energy density (Joules per cubic meter) in a region of free space where the electric field strength is 10^5 V/m.",
+    "a": "0.044 Joules/m^3",
+    "b": "0.088 Joules/m^3",
+    "c": "0.022 Joules/m^3",
+    "d": "0.440 Joules/m^3",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the energy density (Joules per cubic meter) in a magnetic core of relative permeability 1000 when the magnetic flux density B is 1.2 Tesla.",
+    "a": "573 Joules/m^3",
+    "b": "1146 Joules/m^3",
+    "c": "286 Joules/m^3",
+    "d": "5730 Joules/m^3",
+    "ans": "a"
+  },
+  {
+    "q": "Two point charges of +1 uC and +9 uC are placed 1.0 meter apart. At what distance from the +1 uC charge along the line joining them is the net electric field intensity zero?",
+    "a": "0.25 meters",
+    "b": "0.33 meters",
+    "c": "0.50 meters",
+    "d": "0.20 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A capacitor consists of two parallel plates of area 0.05 m^2 separated by a distance of 1 mm with a paper dielectric (relative permittivity = 3.0) between them. If the capacitor is connected across a 200-Volt source, find the electric field intensity inside the dielectric.",
+    "a": "200,000 V/m",
+    "b": "600,000 V/m",
+    "c": "66,667 V/m",
+    "d": "20,000 V/m",
+    "ans": "a"
+  },
+  {
+    "q": "For the capacitor in the previous question (0.05 m^2 area, 1 mm separation, relative permittivity = 3.0, 200 Volts voltage), calculate the electric flux density D in the dielectric.",
+    "a": "5.31 uC/m^2",
+    "b": "1.77 uC/m^2",
+    "c": "15.93 uC/m^2",
+    "d": "0.59 uC/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "A circular wire loop of radius 0.1 meters is placed in a magnetic field directed perpendicular to the plane of the loop. If the magnetic flux density decreases at a constant rate of 0.5 Tesla per second, what is the magnitude of the electric field induced in the wire loop?",
+    "a": "0.025 V/m",
+    "b": "0.050 V/m",
+    "c": "0.157 V/m",
+    "d": "0.079 V/m",
+    "ans": "a"
+  },
+  {
+    "q": "An air-core solenoid has 500 turns, a length of 0.25 meters, and a cross-sectional area of 0.002 square meters. Calculate its self-inductance.",
+    "a": "2.51 milli-Henries",
+    "b": "1.26 milli-Henries",
+    "c": "5.02 milli-Henries",
+    "d": "0.63 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic circuit contains a core of relative permeability 1500 and mean length 0.5 meters. The core has a small air gap of 1 mm cut into it. If the cross-sectional area of the core is 0.01 square meters, calculate the total reluctance of the magnetic circuit.",
+    "a": "106,103 AT/Wb",
+    "b": "79,577 AT/Wb",
+    "c": "185,680 AT/Wb",
+    "d": "26,525 AT/Wb",
+    "ans": "c"
+  },
+  {
+    "q": "A parallel-plate capacitor is charged and then disconnected from the battery. If the distance between the plates is now doubled, what happens to the energy stored in the capacitor?",
+    "a": "It decreases by half",
+    "b": "It remains the same",
+    "c": "It doubles",
+    "d": "It increases by four times",
+    "ans": "c"
+  },
+  {
+    "q": "A parallel-plate capacitor remains connected to a constant voltage battery while the plate separation is doubled. What happens to the energy stored in the capacitor?",
+    "a": "It decreases by half",
+    "b": "It remains the same",
+    "c": "It doubles",
+    "d": "It increases by four times",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric potential energy of a system consisting of three point charges of +1 uC, +2 uC, and +3 uC placed at the corners of an equilateral triangle of side length 1.0 meter in a vacuum.",
+    "a": "0.099 Joules",
+    "b": "0.198 Joules",
+    "c": "0.054 Joules",
+    "d": "0.108 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Find the force of repulsion per meter between two extremely long, parallel wires separated by 0.1 meters in air, each carrying a current of 100 Amperes in opposite directions.",
+    "a": "0.02 Newtons/meter",
+    "b": "0.20 Newtons/meter",
+    "c": "2.00 Newtons/meter",
+    "d": "0.04 Newtons/meter",
+    "ans": "b"
+  },
+  {
+    "q": "A capacitor of 2 uF is charged to 50 Volts and another capacitor of 3 uF is charged to 100 Volts. If they are connected in parallel with like terminals joined, calculate the final common voltage across them.",
+    "a": "80 Volts",
+    "b": "75 Volts",
+    "c": "70 Volts",
+    "d": "85 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "How much energy is dissipated as heat during the charge-sharing process of the two capacitors described in the previous question?",
+    "a": "3.75 milli-Joules",
+    "b": "1.50 milli-Joules",
+    "c": "15.00 milli-Joules",
+    "d": "7.50 milli-Joules",
+    "ans": "c"
+  },
+  {
+    "q": "An inductor with an inductance of 2 Henries and a resistance of 10 Ohms is connected to a 120-Volt DC supply. Calculate the rate of rise of current at the instant of closing the switch.",
+    "a": "60 Amperes/second",
+    "b": "12 Amperes/second",
+    "c": "120 Amperes/second",
+    "d": "0 Amperes/second",
+    "ans": "a"
+  },
+  {
+    "q": "For the RL circuit in the previous question (2 H inductance, 10 Ohms resistance, 120 Volts voltage), calculate the steady-state current.",
+    "a": "60 Amperes",
+    "b": "12 Amperes",
+    "c": "120 Amperes",
+    "d": "6 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the same RL circuit (2 H, 10 Ohms, 120 Volts), what is the current in the circuit exactly one time constant after the switch is closed?",
+    "a": "7.58 Amperes",
+    "b": "4.41 Amperes",
+    "c": "11.39 Amperes",
+    "d": "6.00 Amperes",
+    "ans": "a"
+  },
+  {
+    "q": "An RC circuit has a resistance of 100k Ohms and a capacitance of 10 uF. What is the time constant of this circuit?",
+    "a": "1.0 second",
+    "b": "0.1 seconds",
+    "c": "10.0 seconds",
+    "d": "100.0 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "If the RC circuit in the previous question (100k Ohms, 10 uF) is connected to a 10-Volt DC source, calculate the voltage across the capacitor 2.0 seconds after the connection is made.",
+    "a": "8.65 Volts",
+    "b": "6.32 Volts",
+    "c": "9.50 Volts",
+    "d": "3.68 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the torque on a flat circular coil of 100 turns, radius 0.05 meters, carrying 2 Amperes of current, when suspended in a uniform magnetic field of 1.5 Tesla at an angle of 45 degrees to the field lines.",
+    "a": "1.67 N*m",
+    "b": "2.36 N*m",
+    "c": "1.18 N*m",
+    "d": "3.33 N*m",
+    "ans": "a"
+  },
+  {
+    "q": "A small circular loop of area 1 cm^2 is placed inside a long solenoid of 1000 turns/meter carrying a current of 2 Amperes. If the loop is aligned perpendicular to the solenoid axis, calculate the magnetic flux through the loop.",
+    "a": "2.51 x 10^-10 Webers",
+    "b": "2.51 x 10^-7 Webers",
+    "c": "5.02 x 10^-10 Webers",
+    "d": "5.02 x 10^-7 Webers",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the mutual inductance between the solenoid and the small loop described in the previous question.",
+    "a": "1.26 x 10^-10 Henries",
+    "b": "1.26 x 10^-7 Henries",
+    "c": "2.51 x 10^-10 Henries",
+    "d": "2.51 x 10^-7 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "A metallic sphere of radius 10 cm in free space is charged to a potential of 900 Volts. Calculate the electrostatic energy stored in the electric field around the sphere.",
+    "a": "4.50 micro-Joules",
+    "b": "45.00 micro-Joules",
+    "c": "0.45 micro-Joules",
+    "d": "9.00 micro-Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Find the force acting on an alpha particle (charge = 3.2 x 10^-19 C) moving at a speed of 10^6 m/s at an angle of 30 degrees to a magnetic field of flux density 1.5 Tesla.",
+    "a": "2.40 x 10^-13 Newtons",
+    "b": "4.80 x 10^-13 Newtons",
+    "c": "1.20 x 10^-13 Newtons",
+    "d": "2.40 x 10^-12 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "A 100-turn coil is linked by a magnetic flux of 20 milli-Webers. If this flux is reversed in 0.1 seconds, what is the average value of the EMF induced in the coil?",
+    "a": "40.0 Volts",
+    "b": "20.0 Volts",
+    "c": "10.0 Volts",
+    "d": "4.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent reluctance of two parallel magnetic paths having reluctances of 4 x 10^5 AT/Wb and 6 x 10^5 AT/Wb respectively?",
+    "a": "2.4 x 10^5 AT/Wb",
+    "b": "1.0 x 10^6 AT/Wb",
+    "c": "5.0 x 10^5 AT/Wb",
+    "d": "1.2 x 10^5 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "A certain ferromagnetic material has a relative permeability of 5000 when the magnetic field intensity is 80 AT/m. Calculate the magnetic flux density B under these conditions.",
+    "a": "0.503 Tesla",
+    "b": "0.251 Tesla",
+    "c": "1.006 Tesla",
+    "d": "0.125 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric field intensity at a distance of 1.0 mm from a large flat metal sheet carrying a uniform surface charge density of 5 uC per square meter in air.",
+    "a": "282,358 N/C",
+    "b": "564,716 N/C",
+    "c": "141,179 N/C",
+    "d": "28,236 N/C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the capacitance per unit length of a cylindrical capacitor with inner conductor radius 2 mm and outer conductor radius 6 mm in free space.",
+    "a": "50.6 pF/m",
+    "b": "25.3 pF/m",
+    "c": "12.7 pF/m",
+    "d": "101.2 pF/m",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total charge residing on a spherical conductor of radius 0.3 meters if the potential at its surface is 3000 Volts?",
+    "a": "0.1 uC",
+    "b": "1.0 uC",
+    "c": "10.0 uC",
+    "d": "0.01 uC",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic circuit has an MMF of 120 Ampere-turns and a reluctance of 3 x 10^5 AT/Wb. Calculate the magnetic flux.",
+    "a": "0.4 milli-Webers",
+    "b": "4.0 milli-Webers",
+    "c": "0.04 milli-Webers",
+    "d": "2.5 milli-Webers",
+    "ans": "a"
+  },
+  {
+    "q": "Two charges +Q and -Q are separated by a distance d, forming an electric dipole. If Q = 2 uC and d = 5 mm, calculate the electric dipole moment.",
+    "a": "1.0 x 10^-8 C*m",
+    "b": "1.0 x 10^-5 C*m",
+    "c": "1.0 x 10^-7 C*m",
+    "d": "1.0 x 10^-9 C*m",
+    "ans": "a"
+  },
+  {
+    "q": "A toroid has a mean radius of 0.1 meters and a cross-sectional area of 0.001 m^2. It is wound with 500 turns of wire. If the relative permeability of the core is 400, calculate its self-inductance.",
+    "a": "0.2 Henries",
+    "b": "0.1 Henries",
+    "c": "0.4 Henries",
+    "d": "0.05 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric potential at a distance of 10 cm from the center of a dipole of moment 10^-10 C*m along its axis in free space.",
+    "a": "90 Volts",
+    "b": "9 Volts",
+    "c": "0.9 Volts",
+    "d": "900 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equivalent capacitance of three capacitors of 2 uF, 4 uF, and 8 uF connected in series.",
+    "a": "14 uF",
+    "b": "1.14 uF",
+    "c": "2.28 uF",
+    "d": "0.57 uF",
+    "ans": "b"
+  },
+  {
+    "q": "If the three capacitors in the previous question (2 uF, 4 uF, 8 uF) are connected in parallel, calculate their equivalent capacitance.",
+    "a": "14 uF",
+    "b": "1.14 uF",
+    "c": "4.50 uF",
+    "d": "1.33 uF",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic core of relative permeability 1200 has a magnetic field intensity (H) of 200 AT/m. What is the magnetic flux density (B)?",
+    "a": "0.302 Tesla",
+    "b": "0.151 Tesla",
+    "c": "0.604 Tesla",
+    "d": "1.208 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total MMF required to produce a magnetic flux of 2 milli-Webers in a magnetic circuit having a reluctance of 1.5 x 10^5 AT/Wb.",
+    "a": "300 AT",
+    "b": "150 AT",
+    "c": "75 AT",
+    "d": "600 AT",
+    "ans": "a"
+  },
+  {
+    "q": "Two long parallel wires carrying currents of 10 Amperes and 20 Amperes are placed 0.5 meters apart. Calculate the magnetic field intensity (H) at a point midway between the wires if the currents flow in the same direction.",
+    "a": "6.37 AT/m",
+    "b": "12.74 AT/m",
+    "c": "19.11 AT/m",
+    "d": "3.18 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "A circular disk of radius 0.2 meters carries a total charge of 5 uC distributed uniformly on its surface. Calculate the surface charge density.",
+    "a": "39.8 uC/m^2",
+    "b": "7.96 uC/m^2",
+    "c": "19.9 uC/m^2",
+    "d": "15.9 uC/m^2",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.2 meters has 100 turns. If it carries a current of 4 Amperes, calculate the magnetic field intensity (H) at its center.",
+    "a": "2000 AT/m",
+    "b": "1000 AT/m",
+    "c": "4000 AT/m",
+    "d": "500 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the coefficient of coupling (k) between two inductors of L1 = 10 mH and L2 = 40 mH if their mutual inductance is 16 mH.",
+    "a": "0.8",
+    "b": "0.4",
+    "c": "0.6",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "How much energy is stored in a capacitor bank consisting of ten 10 uF capacitors connected in parallel when charged to a potential of 200 Volts?",
+    "a": "2.0 Joules",
+    "b": "20.0 Joules",
+    "c": "1.0 Joule",
+    "d": "10.0 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "An electrostatic charge of 0.05 uC is placed on a tiny metal sphere. What is the electric field strength at a distance of 3 meters from the sphere in free space?",
+    "a": "50 N/C",
+    "b": "150 N/C",
+    "c": "450 N/C",
+    "d": "15 N/C",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the work done in bringing a point charge of +2 uC from infinity to a point where the electric potential is 5000 Volts.",
+    "a": "0.01 Joules",
+    "b": "0.10 Joules",
+    "c": "1.00 Joule",
+    "d": "0.05 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Find the absolute permittivity of a material whose relative permittivity is 2.5.",
+    "a": "2.21 x 10^-11 F/m",
+    "b": "1.11 x 10^-11 F/m",
+    "c": "3.54 x 10^-11 F/m",
+    "d": "8.85 x 10^-12 F/m",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent capacitance of a 10 uF capacitor and a 20 uF capacitor connected in series?",
+    "a": "6.67 uF",
+    "b": "30.00 uF",
+    "c": "15.00 uF",
+    "d": "5.00 uF",
+    "ans": "a"
+  },
+  {
+    "q": "Find the potential energy of a system of two charges +5 uC and +8 uC placed 0.2 meters apart in air.",
+    "a": "1.8 Joules",
+    "b": "3.6 Joules",
+    "c": "0.9 Joules",
+    "d": "7.2 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "An electromagnetic wave is propagating through a non-magnetic dielectric medium (relative permeability = 1.0) with relative permittivity of 4.0. Calculate the velocity of propagation of this wave.",
+    "a": "1.5 x 10^8 m/s",
+    "b": "3.0 x 10^8 m/s",
+    "c": "0.75 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "A core of ferromagnetic material with relative permeability of 1000 is used in a transformer. What is the absolute permeability of the core?",
+    "a": "1.257 x 10^-3 H/m",
+    "b": "1.257 x 10^-6 H/m",
+    "c": "1.257 H/m",
+    "d": "8.854 x 10^-9 H/m",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the self-inductance of a coil if a current of 5 Amperes produces a total magnetic flux linkage of 0.05 Weber-turns.",
+    "a": "10 mH",
+    "b": "50 mH",
+    "c": "100 mH",
+    "d": "5 mH",
+    "ans": "a"
+  },
+  {
+    "q": "Find the force exerted on an electron moving at a velocity of 2 x 10^6 m/s parallel to a magnetic field of 0.5 Tesla.",
+    "a": "0.0 Newtons",
+    "b": "1.6 x 10^-13 Newtons",
+    "c": "8.0 x 10^-14 Newtons",
+    "d": "3.2 x 10^-13 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent reluctance of two series magnetic paths having reluctances of 2 x 10^5 AT/Wb and 3 x 10^5 AT/Wb respectively?",
+    "a": "5 x 10^5 AT/Wb",
+    "b": "1.2 x 10^5 AT/Wb",
+    "c": "1 x 10^5 AT/Wb",
+    "d": "6 x 10^5 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "A uniform electric field is represented by E = 3000 i N/C. Calculate the electric potential difference between the origin and a point at coordinate (0.2, 0) meters.",
+    "a": "600 Volts",
+    "b": "15000 Volts",
+    "c": "300 Volts",
+    "d": "1500 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid with 800 turns is wound over a length of 0.4 meters. If the current through the solenoid is 3 Amperes, calculate the magnetic field intensity (H) at the center.",
+    "a": "6000 AT/m",
+    "b": "3000 AT/m",
+    "c": "12000 AT/m",
+    "d": "1500 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 800, calculate the magnetic flux density B.",
+    "a": "6.03 Tesla",
+    "b": "3.01 Tesla",
+    "c": "12.06 Tesla",
+    "d": "1.51 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy stored in a 5 uF capacitor when charged to a potential of 400 Volts.",
+    "a": "0.4 Joules",
+    "b": "0.8 Joules",
+    "c": "1.0 Joule",
+    "d": "2.0 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "What is the charge stored in the 5 uF capacitor when charged to 400 Volts?",
+    "a": "2.0 milli-Coulombs",
+    "b": "1.2 milli-Coulombs",
+    "c": "0.5 milli-Coulombs",
+    "d": "4.0 milli-Coulombs",
+    "ans": "a"
+  },
+  {
+    "q": "A capacitor of area 0.02 m^2 and plate separation of 0.5 mm is filled with air. Find its capacitance.",
+    "a": "354 pF",
+    "b": "177 pF",
+    "c": "708 pF",
+    "d": "88.5 pF",
+    "ans": "a"
+  },
+  {
+    "q": "Two point charges of +2 uC and -2 uC are placed 0.1 meters apart in free space. Calculate the electric field intensity at a point midway between them.",
+    "a": "1.44 x 10^7 N/C",
+    "b": "7.20 x 10^6 N/C",
+    "c": "2.88 x 10^7 N/C",
+    "d": "0.00 N/C",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric potential at the midpoint between the two charges described in the previous question (+2 uC and -2 uC separated by 0.1 meters).",
+    "a": "0.0 Volts",
+    "b": "7.2 x 10^5 Volts",
+    "c": "1.44 x 10^6 Volts",
+    "d": "3.6 x 10^5 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An inductor of 50 mH is connected in series with a 10 Ohm resistor. Find the time constant of this RL circuit.",
+    "a": "5.0 milli-seconds",
+    "b": "500.0 milli-seconds",
+    "c": "0.5 milli-seconds",
+    "d": "20.0 milli-seconds",
+    "ans": "a"
+  },
+  {
+    "q": "Find the value of the coupling coefficient between two inductors of 2 H and 8 H if their mutual inductance is 3.2 H.",
+    "a": "0.8",
+    "b": "0.4",
+    "c": "0.6",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the peak EMF induced in a flat loop of 100 turns, area 0.01 m^2, rotating at 50 Hz in a uniform magnetic field of 0.2 Tesla.",
+    "a": "62.8 Volts",
+    "b": "31.4 Volts",
+    "c": "125.6 Volts",
+    "d": "20.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A long straight wire carries a current of 20 Amperes. Find the magnetic field intensity (H) at a distance of 0.5 meters from the wire.",
+    "a": "6.37 AT/m",
+    "b": "12.74 AT/m",
+    "c": "3.18 AT/m",
+    "d": "1.59 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the magnetic flux density B for the wire in the previous question.",
+    "a": "8.0 micro-Tesla",
+    "b": "16.0 micro-Tesla",
+    "c": "4.0 micro-Tesla",
+    "d": "2.0 micro-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Two point charges of +10 uC and -5 uC are placed in vacuum. What is the ratio of the force on the +10 uC charge to the force on the -5 uC charge?",
+    "a": "1:1",
+    "b": "2:1",
+    "c": "1:2",
+    "d": "4:1",
+    "ans": "a"
+  },
+  {
+    "q": "A coaxial cable has a capacitance of 100 pF/m. What is the total capacitance of a 5-meter length of this cable?",
+    "a": "500 pF",
+    "b": "20 pF",
+    "c": "50 pF",
+    "d": "1000 pF",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy stored in a 0.2 Henry inductor when carrying a current of 10 Amperes.",
+    "a": "10.0 Joules",
+    "b": "20.0 Joules",
+    "c": "5.0 Joules",
+    "d": "40.0 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric potential of a point charge of +5 nC at a distance of 0.1 meters in free space.",
+    "a": "450 Volts",
+    "b": "900 Volts",
+    "c": "225 Volts",
+    "d": "100 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the self-inductance of a solenoid of 100 turns, length 0.1 meters, and cross-sectional area 0.001 m^2 (assume air-core).",
+    "a": "0.126 milli-Henries",
+    "b": "1.257 milli-Henries",
+    "c": "0.013 milli-Henries",
+    "d": "12.566 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Two parallel conductors carry currents of 5 Amperes and 8 Amperes in the same direction. If they are separated by 0.1 meters in air, what is the force of attraction per meter length?",
+    "a": "8.0 x 10^-5 N/m",
+    "b": "4.0 x 10^-5 N/m",
+    "c": "1.6 x 10^-4 N/m",
+    "d": "2.0 x 10^-5 N/m",
+    "ans": "a"
+  },
+  {
+    "q": "A flat circular coil of radius 5 cm has 200 turns of wire. If it carries a current of 1.5 Amperes, find the magnetic dipole moment.",
+    "a": "2.36 A*m^2",
+    "b": "1.18 A*m^2",
+    "c": "4.71 A*m^2",
+    "d": "0.59 A*m^2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total capacitance of three 30 uF capacitors connected in series.",
+    "a": "10 uF",
+    "b": "90 uF",
+    "c": "15 uF",
+    "d": "5 uF",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total capacitance of three 30 uF capacitors connected in parallel.",
+    "a": "90 uF",
+    "b": "10 uF",
+    "c": "45 uF",
+    "d": "15 uF",
+    "ans": "a"
+  },
+  {
+    "q": "A uniform magnetic field is directed along the positive z-axis. An electron enters the field moving in the positive x-direction. What is the direction of the magnetic force acting on the electron?",
+    "a": "Positive y-direction",
+    "b": "Negative y-direction",
+    "c": "Positive z-direction",
+    "d": "Negative z-direction",
+    "ans": "b"
+  },
+  {
+    "q": "A straight wire carrying 10 Amperes current is placed perpendicular to a magnetic field of 0.2 Tesla. Calculate the force per unit length on the wire.",
+    "a": "2.0 N/m",
+    "b": "0.2 N/m",
+    "c": "20.0 N/m",
+    "d": "1.0 N/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the reluctance of an air gap of length 1 mm and cross-sectional area of 0.01 square meters.",
+    "a": "79,577 AT/Wb",
+    "b": "159,155 AT/Wb",
+    "c": "39,788 AT/Wb",
+    "d": "318,310 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "If the MMF in a magnetic circuit is doubled and the reluctance is halved, what happens to the magnetic flux?",
+    "a": "It increases by four times",
+    "b": "It remains the same",
+    "c": "It doubles",
+    "d": "It is reduced to one-fourth",
+    "ans": "a"
+  },
+  {
+    "q": "An inductor of 2 Henries has a current changing at a constant rate. If the induced EMF is 10 Volts, calculate the rate of change of current.",
+    "a": "5 Amperes/second",
+    "b": "20 Amperes/second",
+    "c": "0.2 Amperes/second",
+    "d": "2 Amperes/second",
+    "ans": "a"
+  },
+  {
+    "q": "A conducting wire of length 0.5 meters is moved perpendicular to a magnetic field of 0.8 Tesla at a speed of 10 m/s. Find the induced EMF across its ends.",
+    "a": "4.0 Volts",
+    "b": "2.0 Volts",
+    "c": "8.0 Volts",
+    "d": "1.0 Volt",
+    "ans": "a"
+  },
+  {
+    "q": "A capacitor bank has an equivalent capacitance of 50 uF and is charged to 100 Volts. Find the total stored charge.",
+    "a": "5.0 milli-Coulombs",
+    "b": "2.5 milli-Coulombs",
+    "c": "50.0 micro-Coulombs",
+    "d": "10.0 milli-Coulombs",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric field intensity at a distance of 3 cm from a line charge of linear density 2 uC/m in free space.",
+    "a": "1.2 x 10^6 V/m",
+    "b": "6.0 x 10^5 V/m",
+    "c": "2.4 x 10^6 V/m",
+    "d": "3.0 x 10^5 V/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equivalent inductance of three series inductors of 5 H, 10 H, and 15 H (assume no mutual coupling).",
+    "a": "30 Henries",
+    "b": "2.73 Henries",
+    "c": "10 Henries",
+    "d": "5 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equivalent inductance of three parallel inductors of 5 H, 10 H, and 15 H (assume no mutual coupling).",
+    "a": "2.73 Henries",
+    "b": "30 Henries",
+    "c": "10 Henries",
+    "d": "5 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "A 12-Volt battery is connected to a series combination of a 5 Ohm resistor and an uncharged 10 uF capacitor. Calculate the initial current at the instant the circuit is closed.",
+    "a": "2.4 Amperes",
+    "b": "0.0 Amperes",
+    "c": "1.2 Amperes",
+    "d": "4.8 Amperes",
+    "ans": "a"
+  },
+  {
+    "q": "For the same RC circuit, calculate the current after a very long time (steady-state).",
+    "a": "0.0 Amperes",
+    "b": "2.4 Amperes",
+    "c": "1.2 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "a"
+  },
+  {
+    "q": "An electric dipole of moment p = 2 x 10^-9 C*m is placed in a uniform electric field of intensity E = 5 x 10^5 N/C. Calculate the maximum torque acting on the dipole.",
+    "a": "1.0 milli-Newton-meter",
+    "b": "2.5 milli-Newton-meter",
+    "c": "0.5 milli-Newton-meter",
+    "d": "0.1 milli-Newton-meter",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the self-inductance of a coil if a current of 2 Amperes produces a magnetic flux of 0.01 Webers in a 100-turn coil.",
+    "a": "0.5 Henries",
+    "b": "1.0 Henry",
+    "c": "0.25 Henries",
+    "d": "2.0 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Find the force between two charges +4 uC and +9 uC placed 0.5 meters apart in water (relative permittivity = 80).",
+    "a": "0.0162 Newtons",
+    "b": "1.296 Newtons",
+    "c": "0.1620 Newtons",
+    "d": "0.0016 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "Find the magnetic field intensity (H) at the center of a circular loop of radius 5 cm carrying a current of 10 Amperes.",
+    "a": "100 AT/m",
+    "b": "200 AT/m",
+    "c": "50 AT/m",
+    "d": "400 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each.",
+    "a": "50 Volts",
+    "b": "100 Volts",
+    "c": "25 Volts",
+    "d": "75 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total energy stored in the two capacitors after connection in the previous question?",
+    "a": "0.025 Joules",
+    "b": "0.050 Joules",
+    "c": "0.0125 Joules",
+    "d": "0.100 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "How much energy was lost as heat during the charge-sharing process of the two capacitors in the previous question?",
+    "a": "0.025 Joules",
+    "b": "0.050 Joules",
+    "c": "0.0125 Joules",
+    "d": "0.000 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnetic flux density B at a point 10 cm from a long straight wire carrying a current of 5 Amperes in air.",
+    "a": "10 micro-Tesla",
+    "b": "5 micro-Tesla",
+    "c": "20 micro-Tesla",
+    "d": "2.5 micro-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "What is the magnetic field intensity H at the same point in the previous question?",
+    "a": "7.96 AT/m",
+    "b": "3.98 AT/m",
+    "c": "15.92 AT/m",
+    "d": "1.99 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.1 meters has 500 turns and carries a current of 2 Amperes. Find the MMF of the solenoid.",
+    "a": "1000 Ampere-turns",
+    "b": "500 Ampere-turns",
+    "c": "250 Ampere-turns",
+    "d": "2000 Ampere-turns",
+    "ans": "a"
+  },
+  {
+    "q": "An air-core coil has an inductance of 5 mH. If the current changes from 1 Ampere to 3 Amperes in 0.01 seconds, find the induced EMF.",
+    "a": "1.0 Volt",
+    "b": "0.5 Volts",
+    "c": "2.0 Volts",
+    "d": "10.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the force between two parallel wires of length 2 meters, carrying 5 Amperes each in opposite directions, separated by 5 cm in air.",
+    "a": "2.0 x 10^-4 Newtons",
+    "b": "1.0 x 10^-4 Newtons",
+    "c": "4.0 x 10^-4 Newtons",
+    "d": "0.5 x 10^-4 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "A conducting rod of length 0.2 meters is rotated at 10 revolutions per second perpendicular to a magnetic field of 0.5 Tesla. If the rotation axis is at one end of the rod, calculate the induced EMF across its ends.",
+    "a": "0.628 Volts",
+    "b": "1.257 Volts",
+    "c": "0.314 Volts",
+    "d": "0.157 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the mutual inductance of two coils if the coupling coefficient is 0.6 and their self-inductances are 8 mH and 18 mH.",
+    "a": "7.2 milli-Henries",
+    "b": "12.0 milli-Henries",
+    "c": "3.6 milli-Henries",
+    "d": "14.4 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent inductance of two coupled coils of self-inductances 5 H and 10 H connected in series aiding with a mutual inductance of 2 H?",
+    "a": "19 Henries",
+    "b": "15 Henries",
+    "c": "11 Henries",
+    "d": "23 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent inductance of the same two coils (5 H and 10 H, mutual 2 H) connected in series opposing?",
+    "a": "11 Henries",
+    "b": "15 Henries",
+    "c": "19 Henries",
+    "d": "7 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Find the capacitance of a parallel plate capacitor of plate area 0.1 m^2 separated by a dielectric of thickness 0.1 mm and relative permittivity 5.0.",
+    "a": "44.27 nano-Farads",
+    "b": "8.85 nano-Farads",
+    "c": "22.13 nano-Farads",
+    "d": "88.54 nano-Farads",
+    "ans": "a"
+  },
+  {
+    "q": "If the capacitor in the previous question is connected across a 100-Volt source, find the energy stored.",
+    "a": "0.221 milli-Joules",
+    "b": "0.443 milli-Joules",
+    "c": "0.111 milli-Joules",
+    "d": "0.885 milli-Joules",
+    "ans": "a"
+  },
+  {
+    "q": "What is the charge stored on the plates of the capacitor described in the previous questions?",
+    "a": "4.43 micro-Coulombs",
+    "b": "8.85 micro-Coulombs",
+    "c": "2.21 micro-Coulombs",
+    "d": "17.70 micro-Coulombs",
+    "ans": "a"
+  },
+  {
+    "q": "An electrostatic charge of 4 nC is placed on a sphere. Find the electric potential at a distance of 0.2 meters from the center of the sphere in free space.",
+    "a": "180 Volts",
+    "b": "360 Volts",
+    "c": "90 Volts",
+    "d": "45 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the electric field strength at the same point in the previous question (4 nC charge, 0.2 meters distance).",
+    "a": "900 N/C",
+    "b": "1800 N/C",
+    "c": "450 N/C",
+    "d": "225 N/C",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.5 meters and 1000 turns is filled with an iron core of relative permeability 500. If a current of 2 Amperes flows through it, calculate the magnetic flux density inside.",
+    "a": "2.51 Tesla",
+    "b": "1.26 Tesla",
+    "c": "5.03 Tesla",
+    "d": "0.63 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "A flat circular loop of wire with a radius of 0.1 meters carries a current of 5 Amperes. Calculate the magnetic flux density at its center in air.",
+    "a": "31.4 micro-Tesla",
+    "b": "15.7 micro-Tesla",
+    "c": "62.8 micro-Tesla",
+    "d": "7.9 micro-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Find the reluctance of a magnetic core of length 0.5 meters, cross-sectional area 0.01 m^2, and relative permeability 2000.",
+    "a": "19,894 AT/Wb",
+    "b": "39,788 AT/Wb",
+    "c": "9,947 AT/Wb",
+    "d": "79,577 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the MMF required to establish a magnetic flux of 1 milli-Weber in the core described in the previous question.",
+    "a": "19.9 Ampere-turns",
+    "b": "39.8 Ampere-turns",
+    "c": "9.9 Ampere-turns",
+    "d": "79.6 Ampere-turns",
+    "ans": "a"
+  },
+  {
+    "q": "Two charges of +5 uC and +15 uC are placed 0.5 meters apart. Find the force of repulsion between them in free space.",
+    "a": "2.7 Newtons",
+    "b": "1.35 Newtons",
+    "c": "5.4 Newtons",
+    "d": "0.68 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "A coil of 200 turns is linked by a magnetic flux of 5 milli-Webers. If the current is 4 Amperes, calculate the self-inductance of the coil.",
+    "a": "0.25 Henries",
+    "b": "0.50 Henries",
+    "c": "1.00 Henry",
+    "d": "0.125 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question.",
+    "a": "2.0 Joules",
+    "b": "1.0 Joule",
+    "c": "4.0 Joules",
+    "d": "0.5 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "An electron is moving with a velocity of 3 x 10^6 m/s perpendicular to a uniform magnetic field of 0.4 Tesla. Calculate the radius of its circular path.",
+    "a": "42.7 micro-meters",
+    "b": "21.3 micro-meters",
+    "c": "85.4 micro-meters",
+    "d": "10.7 micro-meters",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electric field intensity at a distance of 2 meters from a point charge of 4 uC in air.",
+    "a": "9000 V/m",
+    "b": "18000 V/m",
+    "c": "4500 V/m",
+    "d": "36000 V/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the electric potential at the same point in the previous question (4 uC charge, 2 meters distance).",
+    "a": "18000 Volts",
+    "b": "9000 Volts",
+    "c": "36000 Volts",
+    "d": "4500 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent capacitance of three capacitors of values 1 uF, 2 uF, and 3 uF connected in parallel?",
+    "a": "6.0 uF",
+    "b": "0.54 uF",
+    "c": "1.20 uF",
+    "d": "3.00 uF",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equivalent capacitance of the same three capacitors connected in series.",
+    "a": "0.545 uF",
+    "b": "6.000 uF",
+    "c": "1.200 uF",
+    "d": "3.000 uF",
+    "ans": "a"
+  },
+  {
+    "q": "A coaxial cable has inner conductor radius of 1.5 mm and outer conductor inner radius of 4.5 mm. If the relative permittivity of the dielectric is 2.5, find the capacitance per meter of the cable.",
+    "a": "126.5 pF/m",
+    "b": "63.2 pF/m",
+    "c": "253.0 pF/m",
+    "d": "31.6 pF/m",
+    "ans": "a"
+  },
+  {
+    "q": "A long straight conductor carries a current of 15 Amperes. Calculate the magnetic field intensity (H) at a distance of 0.1 meters in air.",
+    "a": "23.87 AT/m",
+    "b": "47.74 AT/m",
+    "c": "11.94 AT/m",
+    "d": "95.48 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the magnetic flux density B at the same point in the previous question.",
+    "a": "30 micro-Tesla",
+    "b": "15 micro-Tesla",
+    "c": "60 micro-Tesla",
+    "d": "7.5 micro-Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "An electric dipole consists of two opposite charges of 5 uC separated by a distance of 2 mm. Calculate the maximum torque on this dipole in a uniform electric field of 10^5 V/m.",
+    "a": "1.0 milli-Newton-meter",
+    "b": "2.0 milli-Newton-meter",
+    "c": "0.5 milli-Newton-meter",
+    "d": "4.0 milli-Newton-meter",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy density in a magnetic field at a point where the flux density is 1.5 Tesla in a vacuum core.",
+    "a": "895,247 Joules/m^3",
+    "b": "447,623 Joules/m^3",
+    "c": "1,790,494 Joules/m^3",
+    "d": "223,812 Joules/m^3",
+    "ans": "a"
+  },
+  {
+    "q": "A magnetic circuit has an MMF of 200 AT and a magnetic flux of 0.5 milli-Weber. Calculate the reluctance of the circuit.",
+    "a": "4 x 10^5 AT/Wb",
+    "b": "2 x 10^5 AT/Wb",
+    "c": "8 x 10^5 AT/Wb",
+    "d": "1 x 10^5 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Find the self-inductance of a coil if a current of 4 Amperes produces a flux linkage of 0.2 Weber-turns.",
+    "a": "50 mH",
+    "b": "100 mH",
+    "c": "250 mH",
+    "d": "10 mH",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent inductance of two inductors of values 4 H and 12 H connected in parallel with no mutual coupling?",
+    "a": "3.0 Henries",
+    "b": "16.0 Henries",
+    "c": "8.0 Henries",
+    "d": "2.4 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.3 meters has 600 turns and carries a current of 1.5 Amperes. Find the magnetic field intensity (H) at its center.",
+    "a": "3000 AT/m",
+    "b": "1500 AT/m",
+    "c": "6000 AT/m",
+    "d": "750 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "An air-gap of length 0.5 mm in a core has a cross-sectional area of 0.002 square meters. Calculate the reluctance of this air-gap.",
+    "a": "198,944 AT/Wb",
+    "b": "397,887 AT/Wb",
+    "c": "99,472 AT/Wb",
+    "d": "795,775 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Find the mutual inductance between two coupled coils with self-inductances 9 mH and 16 mH and coupling coefficient k = 0.5.",
+    "a": "6.0 milli-Henries",
+    "b": "12.0 milli-Henries",
+    "c": "3.0 milli-Henries",
+    "d": "1.5 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Two parallel conductors carrying currents in opposite directions of 20 Amperes each are placed 0.2 meters apart in air. Calculate the force of repulsion per meter length.",
+    "a": "4.0 x 10^-4 N/m",
+    "b": "2.0 x 10^-4 N/m",
+    "c": "8.0 x 10^-4 N/m",
+    "d": "1.0 x 10^-4 N/m",
+    "ans": "a"
+  },
+  {
+    "q": "A circular wire loop of radius 5 cm is placed in a magnetic field directed perpendicular to the plane of the loop. If the flux density decreases at 0.1 Tesla per second, find the induced EMF.",
+    "a": "0.785 milli-Volts",
+    "b": "1.571 milli-Volts",
+    "c": "0.393 milli-Volts",
+    "d": "3.142 milli-Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy stored in a 10 mH coil when carrying a current of 5 Amperes.",
+    "a": "0.125 Joules",
+    "b": "0.250 Joules",
+    "c": "0.050 Joules",
+    "d": "0.500 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "An RC series circuit consists of a 50k Ohm resistor and a 10 uF capacitor connected across a 100-Volt source. Calculate the current after 0.5 seconds.",
+    "a": "0.736 milli-Amperes",
+    "b": "1.472 milli-Amperes",
+    "c": "0.368 milli-Amperes",
+    "d": "2.000 milli-Amperes",
+    "ans": "a"
+  },
+  {
+    "q": "For the same RC circuit, calculate the voltage across the capacitor at the same instant (0.5 seconds).",
+    "a": "63.2 Volts",
+    "b": "36.8 Volts",
+    "c": "50.0 Volts",
+    "d": "86.5 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A toroid of mean length 0.2 meters is wound with 400 turns of wire. If it carries a current of 1 Ampere, find the magnetic field intensity H.",
+    "a": "2000 AT/m",
+    "b": "1000 AT/m",
+    "c": "4000 AT/m",
+    "d": "500 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "An electric field intensity in a region of free space is E = 1000 N/C. Calculate the electric potential at a distance of 0.5 meters from the origin along the line of force.",
+    "a": "500 Volts",
+    "b": "250 Volts",
+    "c": "1000 Volts",
+    "d": "125 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the capacitance of a spherical conductor of radius 0.05 meters in a dielectric medium of relative permittivity 4.0.",
+    "a": "22.25 pF",
+    "b": "5.56 pF",
+    "c": "11.13 pF",
+    "d": "44.50 pF",
+    "ans": "a"
+  },
+  {
+    "q": "A 200-turn coil has a resistance of 5 Ohms. If a current of 2 Amperes produces a flux of 0.01 Webers, find the inductance of the coil.",
+    "a": "1.0 Henry",
+    "b": "0.5 Henries",
+    "c": "2.0 Henries",
+    "d": "0.25 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the maximum torque acting on a loop of area 0.02 m^2 carrying 3 Amperes in a uniform magnetic field of 0.8 Tesla.",
+    "a": "0.048 N*m",
+    "b": "0.024 N*m",
+    "c": "0.096 N*m",
+    "d": "0.012 N*m",
+    "ans": "a"
+  },
+  {
+    "q": "A line of charge has a linear charge density of 5 uC/m. Calculate the electric flux passing through a cylinder of length 2 meters concentric with the line charge.",
+    "a": "10.0 uC",
+    "b": "5.0 uC",
+    "c": "20.0 uC",
+    "d": "2.5 uC",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent inductance of two series inductors L1 = 12 H and L2 = 8 H connected in series aiding with coupling coefficient k = 0.5?",
+    "a": "24.90 Henries",
+    "b": "29.80 Henries",
+    "c": "15.10 Henries",
+    "d": "20.00 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "A core of mean length 0.4 meters has reluctance of 2.5 x 10^5 AT/Wb. If cross-sectional area is 0.01 m^2, calculate the absolute permeability of the core.",
+    "a": "1.6 x 10^-4 H/m",
+    "b": "3.2 x 10^-4 H/m",
+    "c": "8.0 x 10^-5 H/m",
+    "d": "4.0 x 10^-4 H/m",
+    "ans": "a"
+  },
+  {
+    "q": "Two charges +3 uC and -3 uC are separated by a distance of 0.2 meters. Calculate the electric dipole moment.",
+    "a": "6.0 x 10^-7 C*m",
+    "b": "3.0 x 10^-7 C*m",
+    "c": "1.2 x 10^-6 C*m",
+    "d": "1.5 x 10^-7 C*m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy density in a region of free space where the electric field is E = 2 x 10^5 V/m.",
+    "a": "0.177 Joules/m^3",
+    "b": "0.354 Joules/m^3",
+    "c": "0.088 Joules/m^3",
+    "d": "0.708 Joules/m^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the capacitance per unit length of a cylindrical capacitor with inner conductor radius 3 mm and outer conductor radius 9 mm in free space.",
+    "a": "50.6 pF/m",
+    "b": "25.3 pF/m",
+    "c": "12.7 pF/m",
+    "d": "101.2 pF/m",
+    "ans": "a"
+  },
+  {
+    "q": "A straight conductor of length 0.4 meters carrying 12 Amperes current is placed perpendicular to a magnetic field of 0.5 Tesla. Calculate the force acting on it.",
+    "a": "2.4 Newtons",
+    "b": "1.2 Newtons",
+    "c": "4.8 Newtons",
+    "d": "0.6 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent reluctance of two series magnetic paths of reluctances 1.5 x 10^5 AT/Wb and 2.5 x 10^5 AT/Wb respectively?",
+    "a": "4.0 x 10^5 AT/Wb",
+    "b": "0.93 x 10^5 AT/Wb",
+    "c": "1.0 x 10^5 AT/Wb",
+    "d": "3.0 x 10^5 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the peak value of EMF induced in a coil of 50 turns, area 0.05 m^2 rotating at 60 Hz in a uniform magnetic field of 0.1 Tesla.",
+    "a": "94.25 Volts",
+    "b": "47.12 Volts",
+    "c": "188.50 Volts",
+    "d": "15.00 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An air-gap of length 0.2 mm is cut in a core. If the cross-sectional area of the core is 0.005 m^2, calculate the reluctance of the air gap.",
+    "a": "31,831 AT/Wb",
+    "b": "63,662 AT/Wb",
+    "c": "15,915 AT/Wb",
+    "d": "127,324 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equivalent inductance of two parallel inductors of values 6 H and 12 H connected in parallel with no mutual coupling.",
+    "a": "4.0 Henries",
+    "b": "18.0 Henries",
+    "c": "9.0 Henries",
+    "d": "2.0 Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the electrostatic force of attraction between a positive charge of 2 uC and a negative charge of -3 uC separated by a distance of 0.1 meters in vacuum.",
+    "a": "5.4 Newtons",
+    "b": "1.8 Newtons",
+    "c": "10.8 Newtons",
+    "d": "2.7 Newtons",
+    "ans": "a"
+  },
+  {
+    "q": "An inductor with an inductance of 1 Henry and a resistance of 5 Ohms is connected to a 100-Volt DC supply. Calculate the initial rate of rise of current.",
+    "a": "100 Amperes/second",
+    "b": "20 Amperes/second",
+    "c": "50 Amperes/second",
+    "d": "10 Amperes/second",
+    "ans": "a"
+  },
+  {
+    "q": "For the RL circuit in the previous question, calculate the steady-state current.",
+    "a": "20 Amperes",
+    "b": "100 Amperes",
+    "c": "50 Amperes",
+    "d": "10 Amperes",
+    "ans": "a"
+  },
+  {
+    "q": "Two charges +1 uC and -1 uC are placed 0.2 meters apart in free space. Calculate the potential at a point midway between them.",
+    "a": "0.0 Volts",
+    "b": "9.0 x 10^4 Volts",
+    "c": "1.8 x 10^5 Volts",
+    "d": "4.5 x 10^4 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An RC circuit has a resistance of 200k Ohms and a capacitance of 5 uF. What is the time constant of this circuit?",
+    "a": "1.0 second",
+    "b": "0.1 seconds",
+    "c": "10.0 seconds",
+    "d": "100.0 seconds",
+    "ans": "a"
+  },
+  {
+    "q": "If the RC circuit in the previous question is connected to a 20-Volt DC source, calculate the voltage across the capacitor 1.0 second after the connection is made.",
+    "a": "12.64 Volts",
+    "b": "6.32 Volts",
+    "c": "18.65 Volts",
+    "d": "7.36 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the self-inductance of a solenoid of 200 turns, length 0.2 meters, and cross-sectional area 0.001 m^2 (assume air-core).",
+    "a": "0.251 milli-Henries",
+    "b": "0.126 milli-Henries",
+    "c": "0.503 milli-Henries",
+    "d": "0.063 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.4 meters has 800 turns. If it carries a current of 2 Amperes, calculate the magnetic field intensity (H) at its center.",
+    "a": "4000 AT/m",
+    "b": "2000 AT/m",
+    "c": "8000 AT/m",
+    "d": "1000 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B.",
+    "a": "5.03 Tesla",
+    "b": "2.51 Tesla",
+    "c": "10.06 Tesla",
+    "d": "1.26 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the peak value of EMF induced in a loop of 100 turns, area 0.02 m^2, rotating at 60 Hz in a uniform magnetic field of 0.1 Tesla.",
+    "a": "75.4 Volts",
+    "b": "37.7 Volts",
+    "c": "150.8 Volts",
+    "d": "20.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "Find the reluctance of an air gap of length 0.5 mm and cross-sectional area of 0.01 square meters.",
+    "a": "39,788 AT/Wb",
+    "b": "79,577 AT/Wb",
+    "c": "19,894 AT/Wb",
+    "d": "159,155 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "An air-core solenoid has 1000 turns, a length of 0.5 meters, and a cross-sectional area of 0.001 square meters. Calculate its self-inductance.",
+    "a": "2.51 milli-Henries",
+    "b": "1.26 milli-Henries",
+    "c": "5.02 milli-Henries",
+    "d": "0.63 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent reluctance of two series magnetic paths of reluctances 1.0 x 10^5 AT/Wb and 2.0 x 10^5 AT/Wb respectively?",
+    "a": "3.0 x 10^5 AT/Wb",
+    "b": "0.67 x 10^5 AT/Wb",
+    "c": "1.0 x 10^5 AT/Wb",
+    "d": "2.0 x 10^5 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "Find the capacitance of a parallel plate capacitor of plate area 0.05 m^2 separated by a dielectric of thickness 0.1 mm and relative permittivity 4.0.",
+    "a": "17.71 nano-Farads",
+    "b": "8.85 nano-Farads",
+    "c": "35.42 nano-Farads",
+    "d": "4.43 nano-Farads",
+    "ans": "a"
+  },
+  {
+    "q": "If the capacitor in the previous question is connected across a 100-Volt source, find the energy stored.",
+    "a": "0.088 milli-Joules",
+    "b": "0.177 milli-Joules",
+    "c": "0.044 milli-Joules",
+    "d": "0.354 milli-Joules",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.2 meters has 1000 turns. If it carries a current of 3 Amperes, calculate the magnetic field intensity (H) at its center.",
+    "a": "15000 AT/m",
+    "b": "7500 AT/m",
+    "c": "30000 AT/m",
+    "d": "3750 AT/m",
+    "ans": "a"
+  },
+  {
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B.",
+    "a": "18.85 Tesla",
+    "b": "9.42 Tesla",
+    "c": "37.70 Tesla",
+    "d": "4.71 Tesla",
+    "ans": "a"
+  },
+  {
+    "q": "Find the energy stored in a 0.5 Henry inductor when carrying a current of 4 Amperes.",
+    "a": "4.0 Joules",
+    "b": "8.0 Joules",
+    "c": "2.0 Joules",
+    "d": "16.0 Joules",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the self-inductance of a coil if a current of 10 Amperes produces a flux linkage of 0.1 Weber-turns.",
+    "a": "10 mH",
+    "b": "50 mH",
+    "c": "100 mH",
+    "d": "5 mH",
+    "ans": "a"
+  },
+  {
+    "q": "A solenoid of length 0.5 meters has 500 turns and carries a current of 4 Amperes. Find the MMF of the solenoid.",
+    "a": "2000 Ampere-turns",
+    "b": "1000 Ampere-turns",
+    "c": "500 Ampere-turns",
+    "d": "4000 Ampere-turns",
+    "ans": "a"
+  },
+  {
+    "q": "Two coupled coils have self-inductances of 10 mH and 40 mH with a coupling coefficient of 0.5. Calculate the mutual inductance.",
+    "a": "10.0 milli-Henries",
+    "b": "20.0 milli-Henries",
+    "c": "5.0 milli-Henries",
+    "d": "2.5 milli-Henries",
+    "ans": "a"
+  },
+  {
+    "q": "Find the reluctance of an air gap of length 0.2 mm and cross-sectional area of 0.01 square meters.",
+    "a": "15,915 AT/Wb",
+    "b": "31,831 AT/Wb",
+    "c": "7,957 AT/Wb",
+    "d": "63,662 AT/Wb",
+    "ans": "a"
+  },
+  {
+    "q": "If the reluctance of a magnetic path is 2 x 10^5 AT/Wb and the MMF is 400 AT, calculate the magnetic flux.",
+    "a": "2.0 milli-Webers",
+    "b": "1.0 milli-Weber",
+    "c": "4.0 milli-Webers",
+    "d": "0.5 milli-Weber",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent capacitance of a 10 uF and a 30 uF capacitor connected in series?",
+    "a": "7.5 uF",
+    "b": "40.0 uF",
+    "c": "20.0 uF",
+    "d": "5.0 uF",
+    "ans": "a"
+  },
+  {
+    "q": "A parallel plate capacitor of plate area 0.02 m^2 separated by a dielectric of thickness 0.1 mm and relative permittivity 3.0 is connected across a 10-Volt source. Calculate the stored charge.",
+    "a": "53.1 nano-Coulombs",
+    "b": "26.5 nano-Coulombs",
+    "c": "106.2 nano-Coulombs",
+    "d": "13.3 nano-Coulombs",
+    "ans": "a"
+  }
+]

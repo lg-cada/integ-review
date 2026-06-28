@@ -1,0 +1,1834 @@
+[
+  {
+    "q": "What is the simplest and most straightforward form of standard analog telephone service?",
+    "a": "Public Switched Telephone Network",
+    "b": "Plain Old Telephone Service",
+    "c": "Central Office Exchange Service",
+    "d": "Local Loop Subscriber Service",
+    "ans": "b"
+  },
+  {
+    "q": "What term refers to the pair of wires that connects a subscriber's telephone set to the local central office?",
+    "a": "Trunk line",
+    "b": "Local loop",
+    "c": "Tie line",
+    "d": "Feeder cable",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard DC battery voltage supplied by the central office to power analog local loops when the phone is idle?",
+    "a": "-24 VDC",
+    "b": "-48 VDC",
+    "c": "12 VDC",
+    "d": "120 VDC",
+    "ans": "b"
+  },
+  {
+    "q": "In DTMF (Dual-Tone Multi-Frequency) dialing, what are the four standard low-group vertical frequencies?",
+    "a": "597 Hz, 600 Hz, 603 Hz, 640 Hz",
+    "b": "697 Hz, 770 Hz, 852 Hz, 941 Hz",
+    "c": "1209 Hz, 1336 Hz, 1477 Hz, 1633 Hz",
+    "d": "300 Hz, 1200 Hz, 2400 Hz, 4800 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "In DTMF dialing, what are the four standard high-group horizontal frequencies?",
+    "a": "697 Hz, 770 Hz, 852 Hz, 941 Hz",
+    "b": "1209 Hz, 1336 Hz, 1477 Hz, 1633 Hz",
+    "c": "597 Hz, 600 Hz, 603 Hz, 640 Hz",
+    "d": "3400 Hz, 4000 Hz, 8000 Hz, 9600 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What component in a standard telephone set is used to couple the transmitter and receiver to the single-pair local loop while isolating them to minimize sidetone?",
+    "a": "Varistor",
+    "b": "Hybrid network",
+    "c": "Induction coil",
+    "d": "Balun transformer",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the small, controlled portion of a talker's own voice that is fed back into their telephone receiver?",
+    "a": "Talker echo",
+    "b": "Sidetone",
+    "c": "Singing",
+    "d": "Crosstalk",
+    "ans": "b"
+  },
+  {
+    "q": "What central office switching hierarchy class represents the local central office or end office?",
+    "a": "Class 1",
+    "b": "Class 5",
+    "c": "Class 3",
+    "d": "Class 4",
+    "ans": "b"
+  },
+  {
+    "q": "What type of telephone switch connects different central offices together when a direct trunk line is not available?",
+    "a": "Local exchange",
+    "b": "Tandem office switch",
+    "c": "PABX switch",
+    "d": "Subscriber multiplexer",
+    "ans": "b"
+  },
+  {
+    "q": "What signaling method carries control and signaling information on a separate, dedicated network link rather than on the voice path itself?",
+    "a": "In-band signaling",
+    "b": "Common Channel Signaling",
+    "c": "Loop-disconnect signaling",
+    "d": "Single-frequency signaling",
+    "ans": "b"
+  },
+  {
+    "q": "What is the global standard protocol suite defined by the ITU-T for Common Channel Signaling?",
+    "a": "X.25",
+    "b": "Signaling System No. 7",
+    "c": "Frame Relay",
+    "d": "TCP/IP",
+    "ans": "b"
+  },
+  {
+    "q": "What unit of telephone traffic represents a continuous circuit usage of one hour?",
+    "a": "Call-second",
+    "b": "Erlang",
+    "c": "Centum Call Second",
+    "d": "Erlang-B",
+    "ans": "b"
+  },
+  {
+    "q": "What traffic model assumes that all blocked calls are immediately cleared and lost to the system?",
+    "a": "Erlang-C",
+    "b": "Erlang-B",
+    "c": "Poisson model",
+    "d": "Binomial distribution",
+    "ans": "b"
+  },
+  {
+    "q": "What traffic model assumes that all blocked calls are held in a queue until they can be satisfied?",
+    "a": "Erlang-B",
+    "b": "Erlang-C",
+    "c": "Poisson distribution",
+    "d": "Engset model",
+    "ans": "b"
+  },
+  {
+    "q": "The process of dividing a large geographic coverage area into small, hexagonal areas, each served by its own low-power base station, is called _____.",
+    "a": "Cell splitting",
+    "b": "Cellular concept",
+    "c": "Sectoring",
+    "d": "Clustering",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary method of increasing the physical capacity of a cellular network by dividing a congested cell into several smaller cells?",
+    "a": "Sectoring",
+    "b": "Cell splitting",
+    "c": "Clustering",
+    "d": "Roaming",
+    "ans": "b"
+  },
+  {
+    "q": "What cellular capacity enhancement technique uses directional antennas at a base station to partition a cell into separate angular segments?",
+    "a": "Cell splitting",
+    "b": "Sectoring",
+    "c": "Clustering",
+    "d": "Micro-zoning",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when a mobile unit transitions from one cell's coverage area to another, necessitating a transfer of the active call channel?",
+    "a": "Roaming",
+    "b": "Handoff",
+    "c": "Cell splitting",
+    "d": "Paging",
+    "ans": "b"
+  },
+  {
+    "q": "What type of handoff is characterized by a brief break-before-make transition where the current channel is dropped before the new one is established?",
+    "a": "Soft handoff",
+    "b": "Hard handoff",
+    "c": "Inter-system handoff",
+    "d": "Seamless handoff",
+    "ans": "b"
+  },
+  {
+    "q": "What type of handoff, common in CDMA systems, is a make-before-break transition where multiple base stations serve the mobile unit simultaneously?",
+    "a": "Hard handoff",
+    "b": "Soft handoff",
+    "c": "Intra-cell handoff",
+    "d": "Delayed handoff",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary database in a cellular network that contains permanent subscriber profiles, billing details, and registration information?",
+    "a": "Visitor Location Register",
+    "b": "Home Location Register",
+    "c": "Equipment Identity Register",
+    "d": "Authentication Center",
+    "ans": "b"
+  },
+  {
+    "q": "What temporary database in a cellular network tracks mobile subscribers currently active within a specific Mobile Switching Center's service area?",
+    "a": "Home Location Register",
+    "b": "Visitor Location Register",
+    "c": "Equipment Identity Register",
+    "d": "Subscriber Identity Module",
+    "ans": "b"
+  },
+  {
+    "q": "What cellular network node acts as the central switch that interfaces the cellular radio system with the Public Switched Telephone Network?",
+    "a": "Base Station Controller",
+    "b": "Mobile Switching Center",
+    "c": "Base Transceiver Station",
+    "d": "Home Location Register",
+    "ans": "b"
+  },
+  {
+    "q": "What cellular database stores security keys and performs cryptographic algorithms to verify the authenticity of a mobile subscriber?",
+    "a": "Equipment Identity Register",
+    "b": "Authentication Center",
+    "c": "Home Location Register",
+    "d": "Visitor Location Register",
+    "ans": "b"
+  },
+  {
+    "q": "What database in a GSM network tracks the physical serial numbers of mobile handsets using green, grey, and black lists to block stolen units?",
+    "a": "Home Location Register",
+    "b": "Equipment Identity Register",
+    "c": "Visitor Location Register",
+    "d": "Authentication Center",
+    "ans": "b"
+  },
+  {
+    "q": "What digital modulation technique is used by standard GSM cellular networks?",
+    "a": "QPSK",
+    "b": "Gaussian Minimum Shift Keying",
+    "c": "16-QAM",
+    "d": "Binary Phase Shift Keying",
+    "ans": "b"
+  },
+  {
+    "q": "What multiple access arrangement is used by standard GSM networks?",
+    "a": "FDMA only",
+    "b": "TDMA / FDMA",
+    "c": "CDMA only",
+    "d": "SDMA",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard radio channel spacing (bandwidth) used in standard GSM networks?",
+    "a": "30 kHz",
+    "b": "200 kHz",
+    "c": "1.25 MHz",
+    "d": "5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard radio channel bandwidth used in standard analog AMPS systems?",
+    "a": "200 kHz",
+    "b": "30 kHz",
+    "c": "1.25 MHz",
+    "d": "10 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What are the three Supervisory Audio Tone (SAT) frequencies used in analog AMPS to verify connection path continuity?",
+    "a": "1000 Hz, 2000 Hz, 3000 Hz",
+    "b": "5970 Hz, 6000 Hz, 6030 Hz",
+    "c": "697 Hz, 770 Hz, 852 Hz",
+    "d": "1209 Hz, 1336 Hz, 1477 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency of the signaling tone (ST) transmitted by an AMPS mobile unit to signal call termination or hook flash?",
+    "a": "5970 Hz",
+    "b": "10 kHz",
+    "c": "6000 Hz",
+    "d": "20 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "Which cellular digital standard is represented by IS-95 and utilizes direct-sequence spread-spectrum technology?",
+    "a": "GSM",
+    "b": "CDMA",
+    "c": "D-AMPS",
+    "d": "TACS",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard chip rate of a standard IS-95 CDMA channel?",
+    "a": "3.84 Mcps",
+    "b": "1.2288 Mcps",
+    "c": "1.25 Mcps",
+    "d": "270.83 Mcps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard chip rate of a wideband CDMA (WCDMA) channel used in 3G UMTS?",
+    "a": "1.2288 Mcps",
+    "b": "3.84 Mcps",
+    "c": "5.00 Mcps",
+    "d": "1.25 Mcps",
+    "ans": "b"
+  },
+  {
+    "q": "Which digital cordless standard, popular in Europe, operates in the 1.9 GHz band using TDMA/MC/TDD and GFSK modulation?",
+    "a": "DECT",
+    "b": "PWT",
+    "c": "PACS",
+    "d": "PHS",
+    "ans": "a"
+  },
+  {
+    "q": "What type of private telephone switching system is owned and operated by a company to handle internal calls and route incoming/outgoing trunk lines?",
+    "a": "Tandem office switch",
+    "b": "Private Branch Exchange",
+    "c": "Local Central Office",
+    "d": "Foreign Exchange",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a subscriber line interface card (SLIC) function that supplies battery voltage and ringing current to the subscriber loop?",
+    "a": "Multiplexing",
+    "b": "BORSCHT functions",
+    "c": "Modulation",
+    "d": "Echo suppression",
+    "ans": "b"
+  },
+  {
+    "q": "What components are added to long local loops to improve their voice-frequency response by loading the line with series inductance?",
+    "a": "Loop extenders",
+    "b": "Loading coils",
+    "c": "VF repeaters",
+    "d": "Balun networks",
+    "ans": "b"
+  },
+  {
+    "q": "What component in a standard telephone set is designed to compensate for variations in local loop length and resistance?",
+    "a": "Induction coil",
+    "b": "Varistor",
+    "c": "Carbon element",
+    "d": "Capacitive hat",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard frequency range of a voice frequency (VF) channel used in PSTN networks?",
+    "a": "0 to 4000 Hz",
+    "b": "300 to 3400 Hz",
+    "c": "20 to 20000 Hz",
+    "d": "300 to 3000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What signal is sent from the central office to a subscriber set to indicate that an incoming call is waiting?",
+    "a": "Ringback signal",
+    "b": "Ringing signal (AC voltage)",
+    "c": "Busy tone",
+    "d": "Receiver off-hook tone",
+    "ans": "b"
+  },
+  {
+    "q": "What tone is sent back to the calling party to indicate that the called party's phone is physically ringing?",
+    "a": "Busy tone",
+    "b": "Ringback signal",
+    "c": "Dial tone",
+    "d": "Ringing signal",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is the most critical factor affecting high-speed modem data transmission over voice-grade telephone lines?",
+    "a": "Thermal noise",
+    "b": "Phase distortion (group delay)",
+    "c": "Amplitude attenuation",
+    "d": "Crosstalk coupling",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the standard digital telephone network interface that provides 2 Bearer channels (64 kbps) and 1 Data channel (16 kbps)?",
+    "a": "ISDN Primary Rate Interface (PRI)",
+    "b": "ISDN Basic Rate Interface (BRI)",
+    "c": "T1 carrier line",
+    "d": "DSL local loop",
+    "ans": "b"
+  },
+  {
+    "q": "The ISDN Primary Rate Interface (PRI) in North America consists of which channel configuration?",
+    "a": "30B + D",
+    "b": "23B + D",
+    "c": "2B + D",
+    "d": "30B + 2D",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard bandwidth efficiency of a GSM voice channel operating in the 200 kHz FDMA band with 8 TDMA slots?",
+    "a": "1.35 bps/Hz",
+    "b": "1.354 bps/Hz",
+    "c": "2.708 bps/Hz",
+    "d": "0.677 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What device is used to interface a 2-wire analog subscriber loop to a 4-wire long-distance transmission system?",
+    "a": "Balun transformer",
+    "b": "Hybrid circuit",
+    "c": "Loop extender",
+    "d": "Codec",
+    "ans": "b"
+  },
+  {
+    "q": "In cellular network engineering, what is the term for a very small cell designed to cover public indoor areas like shopping malls or airports?",
+    "a": "Macrocell",
+    "b": "Microcell",
+    "c": "Picocell",
+    "d": "Femtocell",
+    "ans": "c"
+  },
+  {
+    "q": "What type of cell is used to provide overlay coverage for fast-moving mobile units over several microcells to prevent excessive handoffs?",
+    "a": "Macrocell",
+    "b": "Umbrella cell",
+    "c": "Picocell",
+    "d": "Femtocell",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a cellular unit that is installed inside a home or office, connecting to the network via a broadband internet line?",
+    "a": "Microcell",
+    "b": "Femtocell",
+    "c": "Picocell",
+    "d": "Macrocell",
+    "ans": "b"
+  },
+  {
+    "q": "What signaling method uses tones sent within the voice-frequency passband to transmit routing and status details?",
+    "a": "Common Channel Signaling",
+    "b": "In-Band Signaling",
+    "c": "Out-of-Band Signaling",
+    "d": "Loop current signaling",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard unit of traffic intensity representing a circuit occupied for 100 seconds?",
+    "a": "Erlang",
+    "b": "Centum Call Second",
+    "c": "Call-second",
+    "d": "EBHC",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes the Grade of Service (GoS) in a trunked telephone system?",
+    "a": "The percentage of calls successfully completed during the busy hour",
+    "b": "The probability that a call offered to a group of trunks will be blocked or delayed",
+    "c": "The audio fidelity of the voice-band channel",
+    "d": "The signaling speed of SS7 units",
+    "ans": "b"
+  },
+  {
+    "q": "In a cellular system, what does the co-channel reuse ratio (D/R) depend on?",
+    "a": "The transmitter power output",
+    "b": "The number of cells in a cluster (N)",
+    "c": "The terrain roughness factor",
+    "d": "The frequency band allocation",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when the transmitter and receiver in a telephone system are slightly mismatched, causing the talker to hear their own voice delayed?",
+    "a": "Sidetone",
+    "b": "Talker echo",
+    "c": "Crosstalk",
+    "d": "Singing",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for a continuous, out-of-control oscillation in a telephone circuit caused by excessive positive feedback in analog amplifiers?",
+    "a": "Sidetone",
+    "b": "Singing",
+    "c": "Crosstalk",
+    "d": "Jitter",
+    "ans": "b"
+  },
+  {
+    "q": "What device is used in long-distance telephone lines to disable the return path when a subscriber is speaking, preventing echo?",
+    "a": "Hybrid circuit",
+    "b": "Echo suppressor or echo canceller",
+    "c": "Compandor",
+    "d": "Loop extender",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a loop extender in long-loop telephone subscriber designs?",
+    "a": "To amplify the voice-frequency signals",
+    "b": "To boost the DC signaling voltage on the loop to extend signaling range",
+    "c": "To filter out high-frequency power line hum",
+    "d": "To cancel out talker echoes",
+    "ans": "b"
+  },
+  {
+    "q": "In telephone systems, what is the term for the maximum average traffic load a network can handle with a specified Grade of Service?",
+    "a": "Trunk capacity",
+    "b": "Traffic capacity",
+    "c": "Baud limit",
+    "d": "Throughput limit",
+    "ans": "b"
+  },
+  {
+    "q": "Which standard multiple access scheme assigns unique, pseudo-random noise (PN) codes to different mobile units?",
+    "a": "FDMA",
+    "b": "CDMA",
+    "c": "TDMA",
+    "d": "SDMA",
+    "ans": "b"
+  },
+  {
+    "q": "In GSM networks, what smart-card-based device stores the IMSI, security algorithms, and subscriber keys?",
+    "a": "SIM card",
+    "b": "HLR database",
+    "c": "EIR unit",
+    "d": "smart key",
+    "ans": "a"
+  },
+  {
+    "q": "What is the term for a cellular technology that uses a spread-spectrum technique where the carrier hops from frequency to frequency?",
+    "a": "Direct sequence spread spectrum",
+    "b": "Frequency hopping spread spectrum",
+    "c": "Time division multiplexing",
+    "d": "Quadrature amplitude modulation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary purpose of the central controller in a trunked radio system?",
+    "a": "To modulate the RF carriers directly",
+    "b": "To dynamically allocate a pool of available radio channels to users on demand",
+    "c": "To amplify the output power of the base station",
+    "d": "To monitor the temperature of the antenna tower",
+    "ans": "b"
+  },
+  {
+    "q": "What type of cellular handoff occurs when a mobile unit transitions between different sectors of the same base station?",
+    "a": "Inter-system handoff",
+    "b": "Intra-cell handoff",
+    "c": "Hard handoff",
+    "d": "Gateway handoff",
+    "ans": "b"
+  },
+  {
+    "q": "In PSTN trunk signaling, what is the frequency of the standard single-frequency (SF) tone used to indicate line idle status?",
+    "a": "1000 Hz",
+    "b": "2600 Hz",
+    "c": "3400 Hz",
+    "d": "800 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes the condition when a calling party cannot be connected to the called party because all available trunks are occupied?",
+    "a": "Disconnection",
+    "b": "Blocked call",
+    "c": "Sidetone mismatch",
+    "d": "Out-of-service error",
+    "ans": "b"
+  },
+  {
+    "q": "What device is used to convert 2-wire analog phone lines inside an ISDN subscriber terminal into a 4-wire system?",
+    "a": "Network Termination 1 (NT1)",
+    "b": "Network Termination 2 (NT2)",
+    "c": "Terminal Adapter (TA)",
+    "d": "Terminal Equipment 1 (TE1)",
+    "ans": "a"
+  },
+  {
+    "q": "What ISDN device allows non-ISDN terminal equipment (TE2) to connect to an ISDN line?",
+    "a": "Network Termination 1",
+    "b": "Terminal Adapter",
+    "c": "Line card interface",
+    "d": "Hybrid circuit",
+    "ans": "b"
+  },
+  {
+    "q": "Which organization is primarily responsible for establishing international standards and recommendations for telecommunications?",
+    "a": "Federal Communications Commission (FCC)",
+    "b": "International Telecommunication Union - Telecommunication Standardization Sector",
+    "c": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "d": "American National Standards Institute (ANSI)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term for the geographical area within which local telephone services, directory numbers, and billing rates are identical?",
+    "a": "LATA",
+    "b": "Exchange area",
+    "c": "Zone office area",
+    "d": "Cell cluster",
+    "ans": "b"
+  },
+  {
+    "q": "What type of cordless telephone technology operates using a direct digital link to a base station connected to a broadband VoIP gateway?",
+    "a": "Analog cordless (900 MHz)",
+    "b": "Digital Cordless (DECT/Wi-Fi)",
+    "c": "Satellite phone",
+    "d": "Cellular AMPS",
+    "ans": "b"
+  },
+  {
+    "q": "What type of cellular interference occurs when base stations in different cells reuse the same set of radio frequencies?",
+    "a": "Adjacent-channel interference",
+    "b": "Co-channel interference",
+    "c": "Intermodulation distortion",
+    "d": "NEXT crosstalk",
+    "ans": "b"
+  },
+  {
+    "q": "What type of cellular interference occurs when signals from channels close in frequency to the wanted channel bleed into the receiver passband?",
+    "a": "Co-channel interference",
+    "b": "Adjacent-channel interference",
+    "c": "Fading",
+    "d": "Multipath distortion",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a base station controller (BSC) in a GSM cellular network?",
+    "a": "To route calls directly to the PSTN",
+    "b": "To manage radio resources, channel allocations, and handoffs for several base stations",
+    "c": "To store permanent subscriber records",
+    "d": "To encrypt voice data using private keys",
+    "ans": "b"
+  },
+  {
+    "q": "The cellular network database that stores temporary identity markers (MSRN, TMSI) to protect subscriber privacy is the _____.",
+    "a": "Home Location Register",
+    "b": "Visitor Location Register",
+    "c": "Equipment Identity Register",
+    "d": "Authentication Center",
+    "ans": "b"
+  },
+  {
+    "q": "The frequency band of 824 to 849 MHz in analog AMPS is allocated for which transmission direction?",
+    "a": "Downlink (Base-to-Mobile)",
+    "b": "Uplink (Mobile-to-Base)",
+    "c": "Control paging only",
+    "d": "Inter-satellite tracking",
+    "ans": "b"
+  },
+  {
+    "q": "The frequency band of 869 to 894 MHz in analog AMPS is allocated for which transmission direction?",
+    "a": "Uplink (Mobile-to-Base)",
+    "b": "Downlink (Base-to-Mobile)",
+    "c": "Base-to-MTSO trunking",
+    "d": "Simplex paging",
+    "ans": "b"
+  },
+  {
+    "q": "In high-capacity cellular networks, what cell configuration is used to cover extremely small, localized areas with high traffic density, such as micro-cells?",
+    "a": "Macrocells",
+    "b": "Microcells or picocells",
+    "c": "Umbrella cells",
+    "d": "Collinear arrays",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone exchange registers an average of 120 calls during the busy hour, with each call having an average holding time of 3 minutes. Calculate the total traffic intensity in Erlangs. Use A = (lambda * H) / 60, where lambda is calls/hour, H is holding time in minutes.",
+    "a": "3.6 Erlangs",
+    "b": "6.0 Erlangs",
+    "c": "12.0 Erlangs",
+    "d": "1.8 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "For the telephone exchange in the previous question (traffic = 6.0 Erlangs), convert the traffic intensity into Centum Call Seconds (CCS). Use 1 Erlang = 36 CCS.",
+    "a": "120 CCS",
+    "b": "216 CCS",
+    "c": "180 CCS",
+    "d": "360 CCS",
+    "ans": "b"
+  },
+  {
+    "q": "A corporate office PBX system logs 180 calls during the busy hour. If the average duration of each call is 150 seconds, calculate the traffic intensity in Erlangs. Use A = (lambda * H_seconds) / 3600.",
+    "a": "3.5 Erlangs",
+    "b": "7.5 Erlangs",
+    "c": "15.0 Erlangs",
+    "d": "5.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the corporate office traffic of 7.5 Erlangs from the previous question into CCS.",
+    "a": "150 CCS",
+    "b": "270 CCS",
+    "c": "180 CCS",
+    "d": "360 CCS",
+    "ans": "b"
+  },
+  {
+    "q": "A call center registers 450 CCS of traffic during the busy hour. Calculate the equivalent traffic intensity in Erlangs.",
+    "a": "6.25 Erlangs",
+    "b": "12.50 Erlangs",
+    "c": "25.00 Erlangs",
+    "d": "18.00 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "If a group of trunk circuits has an average occupancy of 12 active circuits during a 15-minute measurement interval, calculate the traffic intensity in Erlangs.",
+    "a": "6.0 Erlangs",
+    "b": "12.0 Erlangs",
+    "c": "3.0 Erlangs",
+    "d": "24.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "During the busy hour, a group of 10 trunk lines is monitored. If the total engagement time of all trunks combined is 18,000 seconds, calculate the traffic intensity in Erlangs.",
+    "a": "2.5 Erlangs",
+    "b": "5.0 Erlangs",
+    "c": "1.8 Erlangs",
+    "d": "10.0 Erlangs",
+    "ans": "b"
+  },
+  {
+    "q": "An office PABX has 200 extensions. During the busy hour, the average number of active internal and external calls is 15. Calculate the traffic concentration factor (traffic per user) in Erlangs.",
+    "a": "0.15 Erlangs per user",
+    "b": "0.075 Erlangs per user",
+    "c": "0.030 Erlangs per user",
+    "d": "0.050 Erlangs per user",
+    "ans": "b"
+  },
+  {
+    "q": "A subscriber loop is constructed from standard AWG 26 copper wire which has a loop (go-and-return) DC resistance of 133.9 ohms per kilometer. Calculate the total loop resistance for a loop length of 4.5 kilometers.",
+    "a": "301.3 ohms",
+    "b": "602.6 ohms",
+    "c": "1205.1 ohms",
+    "d": "133.9 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the Central Office switching equipment has a maximum loop signaling resistance limit of 1300 ohms, calculate the maximum allowable length of AWG 26 loop (133.9 ohms/km loop resistance) neglecting the telephone set resistance.",
+    "a": "4.85 km",
+    "b": "9.71 km",
+    "c": "19.42 km",
+    "d": "15.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "If the telephone handset has an internal resistance of 200 ohms, calculate the maximum allowable length of an AWG 26 loop (133.9 ohms/km) to meet a total 1300 ohm signaling limit.",
+    "a": "4.11 km",
+    "b": "8.22 km",
+    "c": "16.43 km",
+    "d": "10.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "An analog local loop of 5.0 km is constructed using copper wire with an attenuation of 1.61 dB per kilometer. Calculate the total insertion loss of the loop in dB.",
+    "a": "4.03 dB",
+    "b": "8.05 dB",
+    "c": "16.10 dB",
+    "d": "6.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If the maximum permitted loop attenuation is set at 6.0 dB, calculate the maximum allowable loop length using a cable with an attenuation of 1.61 dB/km.",
+    "a": "1.86 km",
+    "b": "3.73 km",
+    "c": "7.45 km",
+    "d": "5.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "A subscriber loop is designed by adding series loading coils, reducing the cable attenuation from 1.61 dB/km to 0.80 dB/km. If the attenuation limit is 6.0 dB, calculate the new maximum allowable loop length.",
+    "a": "3.75 km",
+    "b": "7.50 km",
+    "c": "15.00 km",
+    "d": "10.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the DC loop current flowing through a 400 ohm telephone handset connected to a 4 km loop (133.9 ohms/km loop resistance) driven by a standard -48 V central office battery.",
+    "a": "102.6 mA",
+    "b": "51.3 mA",
+    "c": "25.6 mA",
+    "d": "75.4 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the DC voltage developed across the terminals of the 250 ohm telephone set if the loop current is 40 mA.",
+    "a": "5.0 V",
+    "b": "10.0 V",
+    "c": "12.0 V",
+    "d": "15.0 V",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone system uses pulse dialing. If the digit '8' is dialed, and the pulse rate is 10 pulses per second with a 60% break ratio, calculate the total duration of the dialed pulses including inter-digit pauses (assume 0.5 seconds pause).",
+    "a": "0.8 seconds",
+    "b": "1.3 seconds",
+    "c": "1.8 seconds",
+    "d": "1.0 second",
+    "ans": "b"
+  },
+  {
+    "q": "How much time in seconds is saved if we use Touch-Tone dialing (DTMF tones sent for 100 ms per digit with 100 ms pauses) instead of rotary pulse dialing (10 pulses/sec) to call the 7-digit number 781-10-05? (Assume inter-digit pauses of 0.5s for pulse dialing).",
+    "a": "3.55 seconds",
+    "b": "7.55 seconds",
+    "c": "5.25 seconds",
+    "d": "9.12 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system cluster is designed using a frequency reuse pattern with shift parameters i = 2 and j = 1. Calculate the number of cells in the cluster (N). Use N = i^2 + i * j + j^2.",
+    "a": "4 cells",
+    "b": "7 cells",
+    "c": "3 cells",
+    "d": "9 cells",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system cluster is designed with parameters i = 1 and j = 1. Calculate the number of cells in the cluster.",
+    "a": "4 cells",
+    "b": "3 cells",
+    "c": "7 cells",
+    "d": "1 cell",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for a 7-cell cluster design (N = 7). Use D/R = sqrt(3 * N).",
+    "a": "3.46",
+    "b": "4.58",
+    "c": "5.20",
+    "d": "3.00",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for a 3-cell cluster design.",
+    "a": "2.45",
+    "b": "3.00",
+    "c": "3.46",
+    "d": "4.58",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system has an allocated total bandwidth of 25 MHz. If each simplex channel occupies 30 kHz (total duplex channel bandwidth = 60 kHz), calculate the total number of duplex channels available.",
+    "a": "833 channels",
+    "b": "416 channels",
+    "c": "666 channels",
+    "d": "333 channels",
+    "ans": "b"
+  },
+  {
+    "q": "For the cellular system in the previous question (total 416 duplex channels), if a 7-cell frequency reuse pattern is used, calculate the number of channels allocated per individual cell.",
+    "a": "30 channels",
+    "b": "59 channels",
+    "c": "45 channels",
+    "d": "75 channels",
+    "ans": "b"
+  },
+  {
+    "q": "A hexagonal cell in a cellular layout has a radius (R) of 3 km. Calculate the geographic area of the cell. Use the hexagon area formula A = 1.5 * sqrt(3) * R^2.",
+    "a": "11.69 sq km",
+    "b": "23.38 sq km",
+    "c": "15.00 sq km",
+    "d": "30.00 sq km",
+    "ans": "b"
+  },
+  {
+    "q": "A metropolitan city has a total geographic area of 2000 square kilometers. If the city is to be covered by hexagonal cells with a radius of 3.0 km (area = 23.38 sq km), calculate the minimum number of cell sites needed.",
+    "a": "50 cell sites",
+    "b": "86 cell sites",
+    "c": "100 cell sites",
+    "d": "166 cell sites",
+    "ans": "b"
+  },
+  {
+    "q": "A vehicle travels at a constant speed of 100 km/h through a cellular system. If the distance between cell sites is exactly 10 km, calculate how often handoffs will occur on average.",
+    "a": "3 minutes",
+    "b": "6 minutes",
+    "c": "10 minutes",
+    "d": "12 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A vehicle travels at 60 km/h. Find the time between multipath fades for a GSM signal operating at 900 MHz (wavelength = 0.333 m) if fades occur every half-wavelength of distance.",
+    "a": "20.0 milliseconds",
+    "b": "10.0 milliseconds",
+    "c": "5.0 milliseconds",
+    "d": "15.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the receive carrier frequency for AMPS Channel 3 (Base station to Mobile station). Use the AMPS downlink formula f_Rx = 869.00 + 0.03 * Channel MHz.",
+    "a": "869.03 MHz",
+    "b": "869.09 MHz",
+    "c": "870.09 MHz",
+    "d": "869.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the transmit carrier frequency for AMPS Channel 3 (Mobile station to Base station). Use the AMPS uplink formula f_Tx = 824.00 + 0.03 * Channel MHz.",
+    "a": "824.03 MHz",
+    "b": "824.09 MHz",
+    "c": "825.09 MHz",
+    "d": "824.00 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total duplex frequency separation between the transmit and receive channels for any standard AMPS channel.",
+    "a": "30 kHz",
+    "b": "45 MHz",
+    "c": "25 MHz",
+    "d": "200 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone trunk line has a signal-to-noise ratio of 35 dB. Convert this SNR into an absolute power ratio.",
+    "a": "1000 to 1",
+    "b": "3162 to 1",
+    "c": "5000 to 1",
+    "d": "316 to 1",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.02. If 500 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "2 calls",
+    "b": "10 calls",
+    "c": "5 calls",
+    "d": "20 calls",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 7-cell cluster system if the path loss exponent is gamma = 4.0. Assume the mobile receives interference from 6 co-channel cells in the first tier. Use C/I = (D/R)^gamma / 6.",
+    "a": "11.5 dB",
+    "b": "18.7 dB",
+    "c": "15.0 dB",
+    "d": "22.5 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 3-cell cluster system if the path loss exponent is gamma = 4.0 and there are 6 interfering cells.",
+    "a": "9.5 dB",
+    "b": "11.8 dB",
+    "c": "15.0 dB",
+    "d": "18.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone signal travels through a copper trunk line between two offices separated by a distance of 15 km. If the cable attenuation is 1.2 dB per kilometer, calculate the total attenuation loss of the line in dB.",
+    "a": "9.0 dB",
+    "b": "18.0 dB",
+    "c": "36.0 dB",
+    "d": "12.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A regional trunk line consists of three cascaded switching facilities in tandem. If the individual Grade of Service (GoS) of each switch is P1 = 0.01, P2 = 0.02, and P3 = 0.01, calculate the overall GoS of the tandem link. Use P_total = P1 + P2 + P3.",
+    "a": "0.02",
+    "b": "0.04",
+    "c": "0.01",
+    "d": "0.05",
+    "ans": "b"
+  },
+  {
+    "q": "A T1 digital carrier system multiplexes 24 voice channels. If each voice channel is converted to 8-bit PCM and sampled at 8 kHz, along with 1 framing bit per frame, find the total digital transmission rate.",
+    "a": "64 kbps",
+    "b": "1.544 Mbps",
+    "c": "2.048 Mbps",
+    "d": "128 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A European E1 digital carrier system multiplexes 30 voice channels and 2 signaling/synchronization channels. If each channel is 64 kbps, calculate the total line bit rate of the E1 system.",
+    "a": "1.544 Mbps",
+    "b": "2.048 Mbps",
+    "c": "3.152 Mbps",
+    "d": "64 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone modem operates at a data rate of 28.8 kbps. Calculate how long it will take to transmit a 1-megabyte (8 megabit) file in seconds.",
+    "a": "150 seconds",
+    "b": "278 seconds",
+    "c": "300 seconds",
+    "d": "500 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A high-speed DSL link operates with a downlink data rate of 10 Mbps. Calculate how long it will take to transmit a 50-megabyte (400 megabit) file in seconds.",
+    "a": "20 seconds",
+    "b": "40 seconds",
+    "c": "80 seconds",
+    "d": "50 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A 2-wire subscriber loop is connected to a central office. If the loop current is 50 mA when off-hook, and the battery voltage is 48 V, calculate the total DC loop resistance.",
+    "a": "480 ohms",
+    "b": "960 ohms",
+    "c": "240 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone local loop is connected to a 48 V battery. If the loop resistance is 800 ohms and the telephone handset has an off-hook resistance of 200 ohms, calculate the loop current.",
+    "a": "24 mA",
+    "b": "48 mA",
+    "c": "96 mA",
+    "d": "50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An analog cellular receiver has a sensitivity threshold of -100 dBm. If the received power is -75 dBm, calculate the received signal strength margin above threshold.",
+    "a": "15 dB",
+    "b": "25 dB",
+    "c": "10 dB",
+    "d": "50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A class II AMPS mobile phone has an effective radiated power (ERP) of -6 dBW. Convert this ERP value into Watts.",
+    "a": "0.10 Watts",
+    "b": "0.25 Watts",
+    "c": "0.50 Watts",
+    "d": "0.05 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An AMPS class I mobile phone has an ERP of 6 dBW. Convert this ERP value into Watts.",
+    "a": "2.0 Watts",
+    "b": "4.0 Watts",
+    "c": "1.0 Watt",
+    "d": "8.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular base station antenna has a transmitter power output of 20 Watts (43 dBm). If the antenna gain is 12 dBi and the cable feed loss is 3 dB, calculate the EIRP in dBm.",
+    "a": "43 dBm",
+    "b": "52 dBm",
+    "c": "49 dBm",
+    "d": "55 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the base station EIRP of 52 dBm from the previous question into Watts.",
+    "a": "100 Watts",
+    "b": "158 Watts",
+    "c": "250 Watts",
+    "d": "50 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A microcell base station operates with a low transmit power of 0.5 Watts. Convert this power level into dBm.",
+    "a": "20 dBm",
+    "b": "27 dBm",
+    "c": "30 dBm",
+    "d": "17 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the propagation time delay in microseconds for a wireless signal to travel a distance of 3 km from a mobile handset to a base station antenna in free space.",
+    "a": "5.0 microseconds",
+    "b": "10.0 microseconds",
+    "c": "20.0 microseconds",
+    "d": "15.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in microseconds for the mobile system in the previous question (distance = 3 km).",
+    "a": "10.0 microseconds",
+    "b": "20.0 microseconds",
+    "c": "40.0 microseconds",
+    "d": "30.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A long-distance telephone call is routed via satellite, introducing a one-way distance of 37,500 km. Find the propagation time delay in milliseconds for the talker's voice to reach the listener.",
+    "a": "125 milliseconds",
+    "b": "250 milliseconds",
+    "c": "500 milliseconds",
+    "d": "375 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question.",
+    "a": "250 milliseconds",
+    "b": "500 milliseconds",
+    "c": "1000 milliseconds",
+    "d": "750 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a velocity factor of 0.7. Calculate the propagation velocity of a signal inside this cable.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.10 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A signal travels via copper cables (propagation velocity = 0.7 c) between New York and Los Angeles, a distance of 3000 miles (4828 km). Calculate the talker echo (round-trip) time delay in milliseconds.",
+    "a": "23 milliseconds",
+    "b": "46 milliseconds",
+    "c": "92 milliseconds",
+    "d": "38 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A central dispatcher uses an antenna at the top of a 15-meter tower to communicate with mobile units. If the mobile antennas are mounted on car roofs approximately 1.5 meters above the ground, calculate the maximum communication distance. Use d_km = 4.12 * (sqrt(h_t) + sqrt(h_r)).",
+    "a": "11.0 km",
+    "b": "21.0 km",
+    "c": "15.0 km",
+    "d": "30.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum communication distance (in kilometers) between two mobile units (both antennas at 1.5 meters above the ground) using the formula d_km = 4.12 * (sqrt(h1) + sqrt(h2)).",
+    "a": "5.0 km",
+    "b": "10.1 km",
+    "c": "15.0 km",
+    "d": "7.5 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 1 in the uplink direction (Mobile to Base)? Use the GSM uplink formula f_uplink = 890.0 + 0.2 * Channel MHz.",
+    "a": "890.0 MHz",
+    "b": "890.2 MHz",
+    "c": "935.2 MHz",
+    "d": "890.4 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 1 in the downlink direction (Base to Mobile)? Use the GSM downlink formula f_downlink = 935.0 + 0.2 * Channel MHz.",
+    "a": "935.0 MHz",
+    "b": "935.2 MHz",
+    "c": "890.2 MHz",
+    "d": "935.4 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total duplex frequency separation between the uplink and downlink bands in the standard GSM 900 system?",
+    "a": "30 kHz",
+    "b": "45 MHz",
+    "c": "25 MHz",
+    "d": "95 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "In a digital cellular system, a voice coder digitizes speech at a bit rate of 13 kbps. If the total channel bit rate is 270.8 kbps using TDMA with 8 slots, calculate the percentage of channel capacity allocated to a single active user.",
+    "a": "6.0%",
+    "b": "12.5%",
+    "c": "4.8%",
+    "d": "25.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 30 voice channels. If the average busy-hour traffic per subscriber is 0.03 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 30 channels is 21.9 Erlangs).",
+    "a": "333 subscribers",
+    "b": "730 subscribers",
+    "c": "1000 subscribers",
+    "d": "500 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A corporate PBX has 50 outgoing trunks. During the busy hour, the total traffic offered is 36 Erlangs. Calculate the average blocking probability (Grade of Service) of the trunk group if the Erlang-B formula is evaluated (assume Erlang-B capacity for 50 trunks at GoS P = 0.01 is 37.9 Erlangs, indicating GoS is slightly below 0.01).",
+    "a": "0.050",
+    "b": "0.008",
+    "c": "0.020",
+    "d": "0.010",
+    "ans": "b"
+  },
+  {
+    "q": "An office has a telephone system with a numbering capacity from 000 to 999. Calculate the maximum number of subscriber lines this system can support.",
+    "a": "100 lines",
+    "b": "1000 lines",
+    "c": "10000 lines",
+    "d": "500 lines",
+    "ans": "b"
+  },
+  {
+    "q": "In a 3-cell frequency reuse system, if each cell contains 50 channels, calculate the total number of duplex channels allocated to the entire cellular cluster.",
+    "a": "50 channels",
+    "b": "150 channels",
+    "c": "300 channels",
+    "d": "100 channels",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total loop resistance of a 10 km loop constructed using AWG 26 copper wire which has a loop resistance of 133.9 ohms/km?",
+    "a": "133.9 ohms",
+    "b": "1339.0 ohms",
+    "c": "669.5 ohms",
+    "d": "2678.0 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the Central Office switching equipment has a maximum loop signaling resistance limit of 1500 ohms, calculate the maximum allowable length of an AWG 26 loop (133.9 ohms/km loop resistance) neglecting the telephone set resistance.",
+    "a": "5.6 km",
+    "b": "11.2 km",
+    "c": "22.4 km",
+    "d": "15.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "An analog local loop of 6.0 km is constructed using copper wire with an attenuation of 1.61 dB per kilometer. Calculate the total insertion loss of the loop in dB.",
+    "a": "4.83 dB",
+    "b": "9.66 dB",
+    "c": "19.32 dB",
+    "d": "6.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If the maximum permitted loop attenuation is set at 6.0 dB, calculate the maximum allowable loop length using a cable with an attenuation of 1.61 dB/km.",
+    "a": "1.86 km",
+    "b": "3.73 km",
+    "c": "7.45 km",
+    "d": "5.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "A subscriber loop is designed by adding series loading coils, reducing the cable attenuation from 1.61 dB/km to 0.80 dB/km. If the attenuation limit is 6.0 dB, calculate the new maximum allowable loop length.",
+    "a": "3.75 km",
+    "b": "7.50 km",
+    "c": "15.00 km",
+    "d": "10.00 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the DC loop current flowing through a 400 ohm telephone handset connected to a 5 km loop (133.9 ohms/km loop resistance) driven by a standard -48 V central office battery.",
+    "a": "90.2 mA",
+    "b": "44.9 mA",
+    "c": "22.5 mA",
+    "d": "75.4 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the DC voltage developed across the terminals of the 300 ohm telephone set if the loop current is 40 mA.",
+    "a": "6.0 V",
+    "b": "12.0 V",
+    "c": "15.0 V",
+    "d": "24.0 V",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system cluster is designed using a frequency reuse pattern with shift parameters i = 2 and j = 2. Calculate the number of cells in the cluster (N). Use N = i^2 + i * j + j^2.",
+    "a": "7 cells",
+    "b": "12 cells",
+    "c": "9 cells",
+    "d": "13 cells",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system cluster is designed with parameters i = 3 and j = 1. Calculate the number of cells in the cluster.",
+    "a": "10 cells",
+    "b": "13 cells",
+    "c": "7 cells",
+    "d": "19 cells",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for a 12-cell cluster design (N = 12). Use D/R = sqrt(3 * N).",
+    "a": "5.20",
+    "b": "6.00",
+    "c": "4.58",
+    "d": "7.00",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel reuse ratio (D/R) for a 19-cell cluster design.",
+    "a": "5.20",
+    "b": "7.55",
+    "c": "6.00",
+    "d": "4.58",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular system has an allocated total bandwidth of 20 MHz. If each simplex channel occupies 30 kHz (total duplex channel bandwidth = 60 kHz), calculate the total number of duplex channels available.",
+    "a": "666 channels",
+    "b": "333 channels",
+    "c": "833 channels",
+    "d": "416 channels",
+    "ans": "b"
+  },
+  {
+    "q": "For the cellular system in the previous question (total 333 duplex channels), if a 7-cell frequency reuse pattern is used, calculate the number of channels allocated per individual cell.",
+    "a": "30 channels",
+    "b": "47 channels",
+    "c": "59 channels",
+    "d": "75 channels",
+    "ans": "b"
+  },
+  {
+    "q": "A hexagonal cell in a cellular layout has a radius (R) of 2 km. Calculate the geographic area of the cell. Use the hexagon area formula A = 1.5 * sqrt(3) * R^2.",
+    "a": "5.19 sq km",
+    "b": "10.39 sq km",
+    "c": "15.00 sq km",
+    "d": "20.00 sq km",
+    "ans": "b"
+  },
+  {
+    "q": "A metropolitan city has a total geographic area of 1000 square kilometers. If the city is to be covered by hexagonal cells with a radius of 2.0 km (area = 10.39 sq km), calculate the minimum number of cell sites needed.",
+    "a": "50 cell sites",
+    "b": "96 cell sites",
+    "c": "100 cell sites",
+    "d": "166 cell sites",
+    "ans": "b"
+  },
+  {
+    "q": "A vehicle travels at a constant speed of 120 km/h through a cellular system. If the distance between cell sites is exactly 8 km, calculate how often handoffs will occur on average.",
+    "a": "2 minutes",
+    "b": "4 minutes",
+    "c": "6 minutes",
+    "d": "8 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A vehicle travels at 80 km/h. Find the time between multipath fades for a GSM signal operating at 900 MHz (wavelength = 0.333 m) if fades occur every half-wavelength of distance.",
+    "a": "15.0 milliseconds",
+    "b": "7.5 milliseconds",
+    "c": "5.0 milliseconds",
+    "d": "10.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the receive carrier frequency for AMPS Channel 991 (Base station to Mobile station). Use the AMPS downlink formula f_Rx = 869.00 + 0.03 * (Channel - 1023) MHz for channels 991-1023. Wait, let's use the standard formula for channel 991: f_Rx = 824.00 + 0.03 * (Channel - 1023) for uplink, or receive is 45 MHz higher. For channel 991: receive frequency is 869.00 + 0.03 * (991 - 1023) = 869.00 - 0.96 = 868.04 MHz. Or in standard AMPS, the formula for channels 991 to 1023 is f_Rx = 869.00 + 0.03 * (Channel - 1023) = 869.00 - 0.96 = 868.04 MHz. Let's calculate for Channel 991.",
+    "a": "870.04 MHz",
+    "b": "868.04 MHz",
+    "c": "869.04 MHz",
+    "d": "859.04 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the transmit carrier frequency for AMPS Channel 991 (Mobile station to Base station). Use the AMPS uplink formula f_Tx = 824.00 + 0.03 * (Channel - 1023) MHz.",
+    "a": "825.04 MHz",
+    "b": "823.04 MHz",
+    "c": "824.04 MHz",
+    "d": "814.04 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone trunk line has a signal-to-noise ratio of 30 dB. Convert this SNR into an absolute power ratio.",
+    "a": "500 to 1",
+    "b": "1000 to 1",
+    "c": "2000 to 1",
+    "d": "100 to 1",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 1000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "5 calls",
+    "b": "10 calls",
+    "c": "20 calls",
+    "d": "15 calls",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 12-cell cluster system if the path loss exponent is gamma = 4.0. Assume the mobile receives interference from 6 co-channel cells in the first tier. Use C/I = (D/R)^gamma / 6.",
+    "a": "15.0 dB",
+    "b": "23.3 dB",
+    "c": "20.0 dB",
+    "d": "26.5 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the co-channel interference ratio (C/I) in dB for a 19-cell cluster system if the path loss exponent is gamma = 4.0 and there are 6 interfering cells.",
+    "a": "20.0 dB",
+    "b": "27.3 dB",
+    "c": "25.0 dB",
+    "d": "30.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone signal travels through a copper trunk line between two offices separated by a distance of 20 km. If the cable attenuation is 1.5 dB per kilometer, calculate the total attenuation loss of the line in dB.",
+    "a": "15.0 dB",
+    "b": "30.0 dB",
+    "c": "45.0 dB",
+    "d": "20.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A regional trunk line consists of three cascaded switching facilities in tandem. If the individual Grade of Service (Goes) of each switch is P1 = 0.02, P2 = 0.02, and P3 = 0.02, calculate the overall GoS of the tandem link.",
+    "a": "0.04",
+    "b": "0.06",
+    "c": "0.02",
+    "d": "0.08",
+    "ans": "b"
+  },
+  {
+    "q": "A T1 digital carrier system multiplexes 24 voice channels. If each voice channel is converted to 8-bit PCM and sampled at 8 kHz, calculate the combined bit rate before adding framing bits.",
+    "a": "64 kbps",
+    "b": "1.536 Mbps",
+    "c": "1.544 Mbps",
+    "d": "2.048 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone modem operates at a data rate of 56 kbps. Calculate how long it will take to transmit a 2-megabyte (16 megabit) file in seconds.",
+    "a": "143 seconds",
+    "b": "286 seconds",
+    "c": "300 seconds",
+    "d": "400 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A high-speed DSL link operates with a downlink data rate of 20 Mbps. Calculate how long it will take to transmit a 100-megabyte (800 megabit) file in seconds.",
+    "a": "20 seconds",
+    "b": "40 seconds",
+    "c": "80 seconds",
+    "d": "50 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A 2-wire subscriber loop is connected to a central office. If the loop current is 40 mA when off-hook, and the battery voltage is 48 V, calculate the total DC loop resistance.",
+    "a": "600 ohms",
+    "b": "1200 ohms",
+    "c": "300 ohms",
+    "d": "900 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone local loop is connected to a 48 V battery. If the loop resistance is 1000 ohms and the telephone handset has an off-hook resistance of 200 ohms, calculate the loop current.",
+    "a": "20 mA",
+    "b": "40 mA",
+    "c": "80 mA",
+    "d": "50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An analog cellular receiver has a sensitivity threshold of -95 dBm. If the received power is -70 dBm, calculate the received signal strength margin above threshold.",
+    "a": "15 dB",
+    "b": "25 dB",
+    "c": "10 dB",
+    "d": "50 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A class II AMPS mobile phone has an effective radiated power (ERP) of -6 dBW. Convert this ERP value into milliwatts (dBm).",
+    "a": "20 dBm",
+    "b": "24 dBm",
+    "c": "17 dBm",
+    "d": "30 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "An AMPS class I mobile phone has an ERP of 6 dBW. Convert this ERP value into milliwatts (dBm).",
+    "a": "30 dBm",
+    "b": "36 dBm",
+    "c": "40 dBm",
+    "d": "24 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "A cellular base station antenna has a transmitter power output of 40 Watts (46 dBm). If the antenna gain is 15 dBi and the cable feed loss is 3 dB, calculate the EIRP in dBm.",
+    "a": "46 dBm",
+    "b": "58 dBm",
+    "c": "55 dBm",
+    "d": "61 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the base station EIRP of 58 dBm from the previous question into Watts.",
+    "a": "316 Watts",
+    "b": "631 Watts",
+    "c": "1000 Watts",
+    "d": "500 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A microcell base station operates with a low transmit power of 1.0 Watt. Convert this power level into dBm.",
+    "a": "20 dBm",
+    "b": "30 dBm",
+    "c": "40 dBm",
+    "d": "10 dBm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the propagation time delay in microseconds for a wireless signal to travel a distance of 6 km from a mobile handset to a base station antenna in free space.",
+    "a": "10.0 microseconds",
+    "b": "20.0 microseconds",
+    "c": "40.0 microseconds",
+    "d": "30.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in microseconds for the mobile system in the previous question (distance = 6 km).",
+    "a": "20.0 microseconds",
+    "b": "40.0 microseconds",
+    "c": "80.0 microseconds",
+    "d": "60.0 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A long-distance telephone call is routed via satellite, introducing a one-way distance of 36,000 km. Find the propagation time delay in milliseconds for the talker's voice to reach the listener.",
+    "a": "60 milliseconds",
+    "b": "120 milliseconds",
+    "c": "240 milliseconds",
+    "d": "180 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question.",
+    "a": "120 milliseconds",
+    "b": "240 milliseconds",
+    "c": "480 milliseconds",
+    "d": "360 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a velocity factor of 0.66. Calculate the propagation velocity of a signal inside this cable.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.98 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A signal travels via copper cables (propagation velocity = 0.66 c) between New York and Los Angeles, a distance of 3000 miles (4828 km). Calculate the talker echo (round-trip) time delay in milliseconds.",
+    "a": "24 milliseconds",
+    "b": "487 milliseconds",
+    "c": "97 milliseconds",
+    "d": "48.7 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A central dispatcher uses an antenna at the top of a 20-meter tower to communicate with mobile units. If the mobile antennas are mounted on car roofs approximately 1.5 meters above the ground, calculate the maximum communication distance. Use d_km = 4.12 * (sqrt(h_t) + sqrt(h_r)).",
+    "a": "11.0 km",
+    "b": "23.5 km",
+    "c": "15.0 km",
+    "d": "30.0 km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum communication distance (in kilometers) between two mobile units (both antennas at 1.0 meter above the ground) using the formula d_km = 4.12 * (sqrt(h1) + sqrt(h2)).",
+    "a": "4.12 km",
+    "b": "8.24 km",
+    "c": "12.36 km",
+    "d": "6.18 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 50 in the uplink direction (Mobile to Base)? Use the GSM uplink formula f_uplink = 890.0 + 0.2 * Channel MHz.",
+    "a": "890.0 MHz",
+    "b": "900.0 MHz",
+    "c": "945.0 MHz",
+    "d": "910.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the carrier frequency of GSM 900 Channel 50 in the downlink direction (Base to Mobile)? Use the GSM downlink formula f_downlink = 935.0 + 0.2 * Channel MHz.",
+    "a": "935.0 MHz",
+    "b": "945.0 MHz",
+    "c": "900.0 MHz",
+    "d": "955.0 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total duplex frequency separation between the uplink and downlink bands in the standard GSM 1800 system?",
+    "a": "45 MHz",
+    "b": "95 MHz",
+    "c": "25 MHz",
+    "d": "75 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A corporate PBX has 10 outgoing trunks. During the busy hour, the total traffic offered is 5.0 Erlangs. If the average blocking probability (Grade of Service) is to be evaluated, what traffic model matches this closed-system block calculation?",
+    "a": "Poisson distribution",
+    "b": "Erlang-C formula",
+    "c": "Erlang-B formula",
+    "d": "Engset formula",
+    "ans": "c"
+  },
+  {
+    "q": "What is the maximum number of decimal characters that can be accommodated in a standard PCS text message payload according to early GSM-SMS standards?",
+    "a": "64 characters",
+    "b": "160 characters",
+    "c": "256 characters",
+    "d": "128 characters",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum possible number of characters in a standard PCS text message if 8-bit octet formatting is used instead of 7-bit default alphabet?",
+    "a": "160 characters",
+    "b": "140 characters",
+    "c": "128 characters",
+    "d": "256 characters",
+    "ans": "b"
+  },
+  {
+    "q": "In mobile networks, GSM signaling messages are broken up into standard packages of how many bits?",
+    "a": "16 bits",
+    "b": "32 bits",
+    "c": "64 bits",
+    "d": "128 bits",
+    "ans": "b"
+  },
+  {
+    "q": "In telephony, what represents the basic vertical frequency interval used to transmit standard touch-tones for the digit '5'?",
+    "a": "697 and 1209 Hz",
+    "b": "770 and 1336 Hz",
+    "c": "852 and 1336 Hz",
+    "d": "770 and 1477 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "In telephony, what represents the basic vertical frequency interval used to transmit standard touch-tones for the digit '9'?",
+    "a": "770 and 1477 Hz",
+    "b": "852 and 1477 Hz",
+    "c": "852 and 1336 Hz",
+    "d": "941 and 1477 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A voice-grade channel has a Signal-to-Noise Ratio (S/N) of 100. Calculate its theoretical channel capacity using the Shannon-Hartley Theorem over a bandwidth of 3 kHz.",
+    "a": "10 kbps",
+    "b": "20 kbps",
+    "c": "30 kbps",
+    "d": "15 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.05. If 1000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "10 calls",
+    "b": "50 calls",
+    "c": "20 calls",
+    "d": "100 calls",
+    "ans": "b"
+  },
+  {
+    "q": "A metropolitan city with a total geographic area of 5000 square kilometers is covered by a cellular mobile telephone service using hexagonal cells with a radius of 4.5 km. Calculate the cell area. Use the hexagonal cell formula area = 2.598 * R^2.",
+    "a": "26.3 sq km",
+    "b": "52.6 sq km",
+    "c": "41.2 sq km",
+    "d": "105.2 sq km",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the minimum number of cell sites needed to cover the 5000 square kilometer city from the previous question (cell area = 52.61 sq km).",
+    "a": "50 cell sites",
+    "b": "95 cell sites",
+    "c": "100 cell sites",
+    "d": "190 cell sites",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 8.0 dB.",
+    "a": "2.5 km",
+    "b": "4.9 km",
+    "c": "10.0 km",
+    "d": "7.5 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 20 calls offered?",
+    "a": "1.5 minutes",
+    "b": "3.0 minutes",
+    "c": "6.0 minutes",
+    "d": "2.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 40 voice channels. If the average busy-hour traffic per subscriber is 0.04 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 40 channels is 31.0 Erlangs).",
+    "a": "450 subscribers",
+    "b": "775 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 1500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "2.5 milliseconds",
+    "b": "5.0 milliseconds",
+    "c": "10.0 milliseconds",
+    "d": "7.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 1500 km).",
+    "a": "5.0 milliseconds",
+    "b": "10.0 milliseconds",
+    "c": "20.0 milliseconds",
+    "d": "15.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 2000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "10 calls",
+    "b": "20 calls",
+    "c": "40 calls",
+    "d": "30 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 10.0 dB.",
+    "a": "3.1 km",
+    "b": "6.2 km",
+    "c": "12.4 km",
+    "d": "9.3 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 30 calls offered?",
+    "a": "1.0 minute",
+    "b": "2.0 minutes",
+    "c": "4.0 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 50 voice channels. If the average busy-hour traffic per subscriber is 0.05 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 50 channels is 40.2 Erlangs).",
+    "a": "450 subscribers",
+    "b": "804 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 3000 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "5.0 milliseconds",
+    "b": "10.0 milliseconds",
+    "c": "20.0 milliseconds",
+    "d": "15.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 3000 km).",
+    "a": "10.0 milliseconds",
+    "b": "20.0 milliseconds",
+    "c": "40.0 milliseconds",
+    "d": "30.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 3000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "15 calls",
+    "b": "30 calls",
+    "c": "60 calls",
+    "d": "45 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 12.0 dB.",
+    "a": "3.7 km",
+    "b": "7.5 km",
+    "c": "15.0 km",
+    "d": "11.2 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 40 calls offered?",
+    "a": "1.0 minute",
+    "b": "1.5 minutes",
+    "c": "3.0 minutes",
+    "d": "2.0 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 60 voice channels. If the average busy-hour traffic per subscriber is 0.06 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 60 channels is 49.6 Erlangs).",
+    "a": "450 subscribers",
+    "b": "827 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 4500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "7.5 milliseconds",
+    "b": "15.0 milliseconds",
+    "c": "30.0 milliseconds",
+    "d": "22.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 4500 km).",
+    "a": "15.0 milliseconds",
+    "b": "30.0 milliseconds",
+    "c": "60.0 milliseconds",
+    "d": "45.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 4000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "20 calls",
+    "b": "40 calls",
+    "c": "80 calls",
+    "d": "60 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 15.0 dB.",
+    "a": "4.7 km",
+    "b": "9.3 km",
+    "c": "18.6 km",
+    "d": "13.9 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 50 calls offered?",
+    "a": "0.6 minutes",
+    "b": "1.2 minutes",
+    "c": "2.4 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 70 voice channels. If the average busy-hour traffic per subscriber is 0.07 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 70 channels is 59.1 Erlangs).",
+    "a": "450 subscribers",
+    "b": "844 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 6000 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "10.0 milliseconds",
+    "b": "20.0 milliseconds",
+    "c": "40.0 milliseconds",
+    "d": "30.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 6000 km).",
+    "a": "20.0 milliseconds",
+    "b": "40.0 milliseconds",
+    "c": "80.0 milliseconds",
+    "d": "60.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone network has a Grade of Service specified as P = 0.01. If 5000 calls are offered to the system during the busy hour, how many calls are expected to be blocked?",
+    "a": "25 calls",
+    "b": "50 calls",
+    "c": "100 calls",
+    "d": "75 calls",
+    "ans": "b"
+  },
+  {
+    "q": "An analog telephone local loop has an attenuation coefficient of 1.61 dB per kilometer. Calculate the maximum length of loop in kilometers if the loop attenuation limit is 18.0 dB.",
+    "a": "5.6 km",
+    "b": "11.2 km",
+    "c": "22.4 km",
+    "d": "16.8 km",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent holding time in minutes for an average subscriber call if 1 Erlang of traffic is logged over a 1-hour busy period with 60 calls offered?",
+    "a": "0.5 minutes",
+    "b": "1.0 minute",
+    "c": "2.0 minutes",
+    "d": "1.5 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A cell site is designed to have 80 voice channels. If the average busy-hour traffic per subscriber is 0.08 Erlangs, calculate the maximum number of subscribers this cell site can support with a Grade of Service of P = 0.02 (assume the trunk group capacity for 80 channels is 68.6 Erlangs).",
+    "a": "450 subscribers",
+    "b": "857 subscribers",
+    "c": "1000 subscribers",
+    "d": "1250 subscribers",
+    "ans": "b"
+  },
+  {
+    "q": "A LEO satellite communications link introduces a one-way distance of 7500 km. Find the propagation time delay in milliseconds for a signal to go from Earth to satellite.",
+    "a": "12.5 milliseconds",
+    "b": "25.0 milliseconds",
+    "c": "50.0 milliseconds",
+    "d": "37.5 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time delay in milliseconds for the LEO system in the previous question (distance = 7500 km).",
+    "a": "25.0 milliseconds",
+    "b": "50.0 milliseconds",
+    "c": "100.0 milliseconds",
+    "d": "75.0 milliseconds",
+    "ans": "b"
+  }
+]

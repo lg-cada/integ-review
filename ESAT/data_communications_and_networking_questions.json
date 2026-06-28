@@ -1,0 +1,1618 @@
+[
+  {
+    "q": "Which OSI model layer is primarily responsible for routing data packets across multiple distinct networks?",
+    "a": "Data Link layer",
+    "b": "Network layer",
+    "c": "Transport layer",
+    "d": "Session layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which OSI model layer is responsible for end-to-end flow control, packet segmentation, and error recovery?",
+    "a": "Network layer",
+    "b": "Transport layer",
+    "c": "Data Link layer",
+    "d": "Session layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the OSI model manages the dialogue, checkpoints, and synchronization between two communicating applications?",
+    "a": "Presentation layer",
+    "b": "Session layer",
+    "c": "Transport layer",
+    "d": "Application layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the OSI model handles data format translation, syntax conversion, encryption, and compression?",
+    "a": "Application layer",
+    "b": "Session layer",
+    "c": "Presentation layer",
+    "d": "Data Link layer",
+    "ans": "c"
+  },
+  {
+    "q": "What is the standard name of the protocol data unit (PDU) processed at the Data Link layer?",
+    "a": "bit",
+    "b": "frame",
+    "c": "packet",
+    "d": "segment",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard name of the protocol data unit (PDU) processed at the Network layer?",
+    "a": "frame",
+    "b": "packet",
+    "c": "segment",
+    "d": "bit",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard name of the protocol data unit (PDU) processed at the Transport layer?",
+    "a": "packet",
+    "b": "segment",
+    "c": "frame",
+    "d": "bit",
+    "ans": "b"
+  },
+  {
+    "q": "At which layer of the OSI model are physical hardware addresses (MAC addresses) defined and processed?",
+    "a": "Physical layer",
+    "b": "Data Link layer",
+    "c": "Network layer",
+    "d": "Transport layer",
+    "ans": "b"
+  },
+  {
+    "q": "At which layer of the OSI model are logical IP addresses processed to make forwarding decisions?",
+    "a": "Data Link layer",
+    "b": "Network layer",
+    "c": "Transport layer",
+    "d": "Physical layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the OSI model is responsible for the actual electrical, mechanical, and functional transmission of raw bit streams?",
+    "a": "Data Link layer",
+    "b": "Physical layer",
+    "c": "Network layer",
+    "d": "Transport layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes the functional characteristics of the OSI Physical layer?",
+    "a": "It manages logical network addressing.",
+    "b": "It deals with voltage levels, pin configurations, and cable specifications.",
+    "c": "It performs frame error checking using CRC.",
+    "d": "It establishes session checkpoints between hosts.",
+    "ans": "b"
+  },
+  {
+    "q": "Which OSI layer is responsible for node-to-node framing, flow control, and access control to the physical medium?",
+    "a": "Physical layer",
+    "b": "Data Link layer",
+    "c": "Network layer",
+    "d": "Transport layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following protocols operates at the Transport layer to provide a connectionless and unreliable transfer of data?",
+    "a": "TCP",
+    "b": "UDP",
+    "c": "IP",
+    "d": "ARP",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following protocols operates at the Transport layer to provide connection-oriented, reliable, and byte-stream data transfer?",
+    "a": "UDP",
+    "b": "TCP",
+    "c": "ICMP",
+    "d": "DHCP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is utilized to dynamically resolve a known IP address to its corresponding physical MAC address on a local area network?",
+    "a": "DNS",
+    "b": "ARP",
+    "c": "DHCP",
+    "d": "ICMP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is utilized by host devices to automatically obtain an IP address and network configuration from a server?",
+    "a": "DNS",
+    "b": "DHCP",
+    "c": "ARP",
+    "d": "ICMP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is used to translate human-readable domain names into their corresponding numerical IP addresses?",
+    "a": "DHCP",
+    "b": "DNS",
+    "c": "ARP",
+    "d": "HTTP",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the TCP/IP model corresponds directly to the Network layer of the seven-layer OSI model?",
+    "a": "Network Interface layer",
+    "b": "Internet layer",
+    "c": "Transport layer",
+    "d": "Application layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is standard for sending electronic mail messages between mail servers across the Internet?",
+    "a": "POP3",
+    "b": "SMTP",
+    "c": "IMAP",
+    "d": "HTTP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is designed to retrieve emails from a remote server, downloading them to a local client and typically deleting them from the server?",
+    "a": "SMTP",
+    "b": "POP3",
+    "c": "IMAP",
+    "d": "FTP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is designed to transfer files reliably over TCP ports 20 and 21?",
+    "a": "TFTP",
+    "b": "FTP",
+    "c": "HTTP",
+    "d": "SMTP",
+    "ans": "b"
+  },
+  {
+    "q": "What application layer protocol is used to monitor, manage, and configure network devices over an IP network?",
+    "a": "SMTP",
+    "b": "SNMP",
+    "c": "DNS",
+    "d": "ICMP",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is used by network devices, like routers, to send diagnostic, error, and operational status messages?",
+    "a": "ARP",
+    "b": "ICMP",
+    "c": "DHCP",
+    "d": "IGMP",
+    "ans": "b"
+  },
+  {
+    "q": "A network gateway device is characterized by its ability to operate at which level of the OSI model?",
+    "a": "Physical layer only",
+    "b": "All layers from Physical to Application",
+    "c": "Network layer only",
+    "d": "Data Link layer only",
+    "ans": "b"
+  },
+  {
+    "q": "At which layer of the OSI model does a standard network switch operate to forward frames based on MAC addresses?",
+    "a": "Physical layer",
+    "b": "Data Link layer",
+    "c": "Network layer",
+    "d": "Transport layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which network topology connects all nodes directly to a central hub or switch using individual cables?",
+    "a": "Bus topology",
+    "b": "Star topology",
+    "c": "Ring topology",
+    "d": "Mesh topology",
+    "ans": "b"
+  },
+  {
+    "q": "Which network topology connects all devices to a single common backbone transmission cable terminated at both ends?",
+    "a": "Star topology",
+    "b": "Bus topology",
+    "c": "Ring topology",
+    "d": "Tree topology",
+    "ans": "b"
+  },
+  {
+    "q": "Which network topology connects every device to exactly two other devices, forming a continuous closed loop?",
+    "a": "Bus topology",
+    "b": "Ring topology",
+    "c": "Star topology",
+    "d": "Mesh topology",
+    "ans": "b"
+  },
+  {
+    "q": "Which network topology connects every node directly to every other node, providing the highest level of redundancy and fault tolerance?",
+    "a": "Star topology",
+    "b": "Mesh topology",
+    "c": "Ring topology",
+    "d": "Bus topology",
+    "ans": "b"
+  },
+  {
+    "q": "What is considered a primary disadvantage of a physical ring topology?",
+    "a": "It requires more cabling than any other topology.",
+    "b": "A break in the ring or a single node failure can disable the entire network.",
+    "c": "It requires a central high-power switch to operate.",
+    "d": "It cannot support digital data transmission.",
+    "ans": "b"
+  },
+  {
+    "q": "What is the main disadvantage of a fully connected physical mesh topology?",
+    "a": "It offers very low redundancy.",
+    "b": "High cost and complexity due to the massive number of physical connections and ports required.",
+    "c": "It is susceptible to a single point of failure at a central hub.",
+    "d": "It is limited to a maximum of 5 nodes.",
+    "ans": "b"
+  },
+  {
+    "q": "What physical topology is utilized by standard modern 10BaseT Ethernet LANs?",
+    "a": "Bus topology",
+    "b": "Star topology",
+    "c": "Ring topology",
+    "d": "Mesh topology",
+    "ans": "b"
+  },
+  {
+    "q": "What topology consists of multiple star networks connected together along a central bus line?",
+    "a": "Ring topology",
+    "b": "Tree topology",
+    "c": "Mesh topology",
+    "d": "Collinear topology",
+    "ans": "b"
+  },
+  {
+    "q": "What type of topology is characterized by a central point of control where a failure of the central switch disables all node-to-node communications?",
+    "a": "Bus topology",
+    "b": "Star topology",
+    "c": "Ring topology",
+    "d": "Mesh topology",
+    "ans": "b"
+  },
+  {
+    "q": "Which network configuration offers the highest level of resilience against link failures?",
+    "a": "Star topology",
+    "b": "Mesh topology",
+    "c": "Bus topology",
+    "d": "Ring topology",
+    "ans": "b"
+  },
+  {
+    "q": "What media access control method is used by standard half-duplex Ethernet LANs to handle collisions?",
+    "a": "CSMA/CA",
+    "b": "CSMA/CD",
+    "c": "Token Passing",
+    "d": "Pure ALOHA",
+    "ans": "b"
+  },
+  {
+    "q": "What media access control method is used by wireless Wi-Fi (IEEE 802.11) networks to actively avoid collisions?",
+    "a": "CSMA/CD",
+    "b": "CSMA/CA",
+    "c": "Token Passing",
+    "d": "Slotted ALOHA",
+    "ans": "b"
+  },
+  {
+    "q": "What media access control method involves a deterministic approach where a station must capture a special control frame before it can transmit?",
+    "a": "CSMA/CD",
+    "b": "Token Passing",
+    "c": "CSMA/CA",
+    "d": "Pure ALOHA",
+    "ans": "b"
+  },
+  {
+    "q": "What random access protocol allows stations to transmit whenever they have data, necessitating a retransmission after a random delay if an acknowledgment is not received?",
+    "a": "CSMA/CD",
+    "b": "Pure ALOHA",
+    "c": "Slotted ALOHA",
+    "d": "Token Passing",
+    "ans": "b"
+  },
+  {
+    "q": "What media access control method restricts stations to transmit only at the beginning of discrete, synchronized time slots, reducing the collision window?",
+    "a": "Pure ALOHA",
+    "b": "Slotted ALOHA",
+    "c": "CSMA/CD",
+    "d": "CSMA/CA",
+    "ans": "b"
+  },
+  {
+    "q": "What does the abbreviation 'CD' in the CSMA/CD protocol stand for?",
+    "a": "Collision Avoidance",
+    "b": "Collision Detection",
+    "c": "Carrier Detection",
+    "d": "Channel Division",
+    "ans": "b"
+  },
+  {
+    "q": "What does the abbreviation 'CA' in the CSMA/CA protocol stand for?",
+    "a": "Collision Detection",
+    "b": "Collision Avoidance",
+    "c": "Carrier Allocation",
+    "d": "Channel Access",
+    "ans": "b"
+  },
+  {
+    "q": "In a CSMA/CD network, what is the purpose of transmitting a jam signal after detecting a collision?",
+    "a": "To reset the central switch's port states.",
+    "b": "To ensure all other transmitting stations realize a collision has occurred and cease transmission.",
+    "c": "To synchronize the clocks of all nodes.",
+    "d": "To initiate the token rotation process.",
+    "ans": "b"
+  },
+  {
+    "q": "What backoff algorithm is used by Ethernet stations to determine the random waiting time before retransmitting after a collision?",
+    "a": "Linear backoff",
+    "b": "Binary Exponential Backoff",
+    "c": "Random Poisson backoff",
+    "d": "Gaussian backoff",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following media access control methods is non-contention based and guarantees an upper bound on channel access time?",
+    "a": "CSMA/CD",
+    "b": "Token Passing",
+    "c": "CSMA/CA",
+    "d": "Slotted ALOHA",
+    "ans": "b"
+  },
+  {
+    "q": "Which IEEE standard group defines the global specifications for wireless local area networks (Wi-Fi)?",
+    "a": "802.3",
+    "b": "802.11",
+    "c": "802.15",
+    "d": "802.16",
+    "ans": "b"
+  },
+  {
+    "q": "Which IEEE standard group defines the physical and data link layer specifications for wired Ethernet?",
+    "a": "802.11",
+    "b": "802.3",
+    "c": "802.15",
+    "d": "802.1Q",
+    "ans": "b"
+  },
+  {
+    "q": "Which IEEE standard group defines the specifications for Wireless Personal Area Networks (WPANs), such as Bluetooth?",
+    "a": "802.11",
+    "b": "802.15",
+    "c": "802.16",
+    "d": "802.3",
+    "ans": "b"
+  },
+  {
+    "q": "What network hardware device operates at the Physical layer to amplify and regenerate weak electrical signals to extend cable distance?",
+    "a": "Bridge",
+    "b": "Repeater",
+    "c": "Switch",
+    "d": "Router",
+    "ans": "b"
+  },
+  {
+    "q": "What network device operates at the Data Link layer to connect two similar segments, forwarding frames based on MAC addresses?",
+    "a": "Repeater",
+    "b": "Bridge",
+    "c": "Router",
+    "d": "Hub",
+    "ans": "b"
+  },
+  {
+    "q": "What network hardware device operates at the Network layer to forward packets based on destination IP addresses?",
+    "a": "Bridge",
+    "b": "Router",
+    "c": "Switch",
+    "d": "Repeater",
+    "ans": "b"
+  },
+  {
+    "q": "What network device is used to connect two distinct networks that utilize entirely different protocol architectures and data formats?",
+    "a": "Bridge",
+    "b": "Gateway",
+    "c": "Router",
+    "d": "Switch",
+    "ans": "b"
+  },
+  {
+    "q": "What type of network switch forwards a frame immediately after reading its destination MAC address, minimizing latency but bypassing error checking?",
+    "a": "Store-and-forward switch",
+    "b": "Cut-through switch",
+    "c": "Symmetrical switch",
+    "d": "Fragment-free switch",
+    "ans": "b"
+  },
+  {
+    "q": "What type of network switch receives the entire frame, performs an error check (FCS), and then forwards it if no errors are found?",
+    "a": "Cut-through switch",
+    "b": "Store-and-forward switch",
+    "c": "Fragment-free switch",
+    "d": "Direct-connection switch",
+    "ans": "b"
+  },
+  {
+    "q": "In computer networking, what does the abbreviation 'NIC' stand for?",
+    "a": "Network Interface Controller",
+    "b": "Network Interface Card",
+    "c": "Network Internet Connection",
+    "d": "Network Integration Chip",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission mode allows data to flow in both directions simultaneously over a communication link?",
+    "a": "Simplex",
+    "b": "Full-Duplex",
+    "c": "Half-Duplex",
+    "d": "Asynchronous",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission mode allows data to flow in both directions, but only in one direction at any given time?",
+    "a": "Simplex",
+    "b": "Half-Duplex",
+    "c": "Full-Duplex",
+    "d": "Synchronous",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission mode restricts data flow to a single, predetermined direction only?",
+    "a": "Half-Duplex",
+    "b": "Simplex",
+    "c": "Full-Duplex",
+    "d": "Asynchronous",
+    "ans": "b"
+  },
+  {
+    "q": "In synchronous data transmission, how are the transmitter and receiver clocks typically synchronized?",
+    "a": "By start and stop bits appended to each byte.",
+    "b": "By a common master clock signal or a synchronization preamble embedded in the frame.",
+    "c": "By using a separate high-frequency voice channel.",
+    "d": "By manual adjustment at both ends.",
+    "ans": "b"
+  },
+  {
+    "q": "In asynchronous data transmission, what framing markers are used to indicate the beginning and end of each transmitted character?",
+    "a": "preamble and postamble",
+    "b": "start and stop bits",
+    "c": "frame check sequences",
+    "d": "sync flags",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission cable is standard for connecting devices in a modern 10BaseT Ethernet network?",
+    "a": "Thick coaxial cable",
+    "b": "Category 5 Unshielded Twisted Pair (UTP)",
+    "c": "Single-mode optical fiber",
+    "d": "Shielded twin-lead",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum recommended physical length of a standard 10BaseT UTP copper cable segment?",
+    "a": "50 meters",
+    "b": "100 meters",
+    "c": "185 meters",
+    "d": "500 meters",
+    "ans": "b"
+  },
+  {
+    "q": "What type of line coding represents binary 1 as a positive voltage and binary 0 as a negative voltage, maintaining the level for the entire bit duration?",
+    "a": "Unipolar RZ",
+    "b": "Polar Non-Return to Zero (NRZ)",
+    "c": "Manchester",
+    "d": "Bipolar AMI",
+    "ans": "b"
+  },
+  {
+    "q": "Which line coding format features a mid-bit transition in every interval, providing both a data representation and a self-synchronizing clock signal?",
+    "a": "Polar NRZ",
+    "b": "Manchester coding",
+    "c": "Bipolar NRZ",
+    "d": "Miller coding",
+    "ans": "b"
+  },
+  {
+    "q": "What line coding format is standard for 10 Mbps (10Base5 and 10BaseT) Ethernet networks?",
+    "a": "AMI",
+    "b": "Manchester coding",
+    "c": "HDB3",
+    "d": "NRZ-L",
+    "ans": "b"
+  },
+  {
+    "q": "What is a primary advantage of optical fiber cabling over copper twisted-pair cabling in local area networks?",
+    "a": "Lower physical material costs.",
+    "b": "Complete immunity to electromagnetic interference (EMI) and much higher bandwidth.",
+    "c": "Simpler and faster connector installation.",
+    "d": "Ability to supply DC power to remote devices.",
+    "ans": "b"
+  },
+  {
+    "q": "Which network classification covers a relatively small geographic area, such as a single office, home, or school building?",
+    "a": "Wide Area Network (WAN)",
+    "b": "Local Area Network (LAN)",
+    "c": "Metropolitan Area Network (MAN)",
+    "d": "Personal Area Network (PAN)",
+    "ans": "b"
+  },
+  {
+    "q": "Which network classification spans a large geographic area, such as a state, country, or continent, typically using leased telecom lines?",
+    "a": "Local Area Network (LAN)",
+    "b": "Wide Area Network (WAN)",
+    "c": "Metropolitan Area Network (MAN)",
+    "d": "Campus Area Network (CAN)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the name of the digital telephone network service (ISDN) that provides 23 Bearer channels and 1 Data channel in North America?",
+    "a": "Basic Rate Interface (BRI)",
+    "b": "Primary Rate Interface (PRI)",
+    "c": "T1 carrier line",
+    "d": "Frame Relay",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard data bit rate of a single Bearer (B) channel in ISDN systems?",
+    "a": "16 kbps",
+    "b": "64 kbps",
+    "c": "128 kbps",
+    "d": "1.544 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard data bit rate of the D (Data) channel in an ISDN Basic Rate Interface (BRI) connection?",
+    "a": "64 kbps",
+    "b": "16 kbps",
+    "c": "128 kbps",
+    "d": "384 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "Which data link protocol is a standard WAN protocol that supports synchronous and asynchronous lines, providing authentication through PAP or CHAP?",
+    "a": "SLIP",
+    "b": "Point-to-Point Protocol (PPP)",
+    "c": "HDLC",
+    "d": "Frame Relay",
+    "ans": "b"
+  },
+  {
+    "q": "Which protocol is utilized to resolve an IP address to its corresponding physical MAC address on a local area network?",
+    "a": "DNS",
+    "b": "Address Resolution Protocol (ARP)",
+    "c": "DHCP",
+    "d": "ICMP",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total size of an IPv4 address in bits?",
+    "a": "16 bits",
+    "b": "32 bits",
+    "c": "64 bits",
+    "d": "128 bits",
+    "ans": "b"
+  },
+  {
+    "q": "What is the total size of an IPv6 address in bits?",
+    "a": "32 bits",
+    "b": "128 bits",
+    "c": "64 bits",
+    "d": "256 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the OSI model is responsible for establishing, managing, and terminating communication sessions between applications?",
+    "a": "Transport layer",
+    "b": "Session layer",
+    "c": "Presentation layer",
+    "d": "Application layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which layer of the OSI model handles data format translation, syntax conversion, encryption, and compression?",
+    "a": "Application layer",
+    "b": "Presentation layer",
+    "c": "Session layer",
+    "d": "Data Link layer",
+    "ans": "b"
+  },
+  {
+    "q": "Which network hardware device acts as a multi-port repeater, forwarding all incoming traffic to all of its output ports?",
+    "a": "Switch",
+    "b": "Hub",
+    "c": "Router",
+    "d": "Bridge",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a standard modem in computer communications?",
+    "a": "To route packets across different subnets.",
+    "b": "To modulate digital computer signals to analog format, and demodulate analog signals to digital format.",
+    "c": "To convert 2-wire loops into 4-wire systems.",
+    "d": "To assign dynamic IP addresses to host units.",
+    "ans": "b"
+  },
+  {
+    "q": "What basic error detection method involves adding an extra bit to a character to make the total count of '1' bits either even or odd?",
+    "a": "Checksum",
+    "b": "Parity Check",
+    "c": "Cyclic Redundancy Check",
+    "d": "Frame Check Sequence",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the channel capacity of a noiseless 4 kHz channel that transmits a digital signal with 4 signaling levels.",
+    "a": "8,000 bps",
+    "b": "16,000 bps",
+    "c": "32,000 bps",
+    "d": "4,000 bps",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the maximum channel capacity of a 3 kHz telephone line with a Signal-to-Noise Ratio (S/N) of 31 (which corresponds to 15 dB).",
+    "a": "12,000 bps",
+    "b": "15,000 bps",
+    "c": "9,000 bps",
+    "d": "18,000 bps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum data rate of a 4 kHz bandwidth channel if the S/N ratio is 15 (which is 12 dB)?",
+    "a": "8,000 bps",
+    "b": "16,000 bps",
+    "c": "24,000 bps",
+    "d": "32,000 bps",
+    "ans": "b"
+  },
+  {
+    "q": "Find the minimum bandwidth required to transmit at a rate of 24 kbps over a noiseless channel that uses 8 signaling levels.",
+    "a": "2,000 Hz",
+    "b": "4,000 Hz",
+    "c": "6,000 Hz",
+    "d": "8,000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "If a communication channel has a bandwidth of 1 MHz and a Signal-to-Noise Ratio of 127 (which is 21 dB), calculate its Shannon capacity limit.",
+    "a": "5 Mbps",
+    "b": "7 Mbps",
+    "c": "14 Mbps",
+    "d": "10 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone line has an effective bandwidth of 3.4 kHz and a S/N ratio of 30 dB (which is approximately 1000). Calculate the Shannon capacity limit.",
+    "a": "24 kbps",
+    "b": "34 kbps",
+    "c": "48 kbps",
+    "d": "56 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A digital system needs to transmit data at a rate of 56 kbps over a 4 kHz channel. What is the minimum required S/N ratio in decibels?",
+    "a": "36 dB",
+    "b": "42 dB",
+    "c": "48 dB",
+    "d": "30 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the maximum data rate of a 100 kHz channel if the S/N ratio is 7 (which is 8.45 dB).",
+    "a": "100 kbps",
+    "b": "300 kbps",
+    "c": "400 kbps",
+    "d": "200 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the maximum number of signaling levels needed to transmit 48 kbps over an error-free 6 kHz channel.",
+    "a": "8",
+    "b": "16",
+    "c": "32",
+    "d": "4",
+    "ans": "b"
+  },
+  {
+    "q": "If a channel has a bandwidth of 200 kHz and a capacity of 1 Mbps, find the minimum required S/N ratio.",
+    "a": "15",
+    "b": "31",
+    "c": "63",
+    "d": "7",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the absolute S/N ratio of 31 from the previous question into decibels.",
+    "a": "12 dB",
+    "b": "15 dB",
+    "c": "18 dB",
+    "d": "10 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A 12.5 MHz satellite channel is used with a Signal-to-Noise Ratio of 15. Calculate the Shannon capacity limit.",
+    "a": "25 Mbps",
+    "b": "50 Mbps",
+    "c": "100 Mbps",
+    "d": "75 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "Find the Shannon capacity limit of an optical fiber link with an effective bandwidth of 10 GHz and a S/N ratio of 3.",
+    "a": "10 Gbps",
+    "b": "20 Gbps",
+    "c": "40 Gbps",
+    "d": "5 Gbps",
+    "ans": "b"
+  },
+  {
+    "q": "A noiseless channel has a bandwidth of 20 kHz. If it transmits a digital signal with 8 levels, calculate the maximum Nyquist bit rate.",
+    "a": "60 kbps",
+    "b": "120 kbps",
+    "c": "240 kbps",
+    "d": "80 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A digital link must transmit at a rate of 9600 bps. If the channel is noiseless and has 4 signaling levels, what is the minimum required bandwidth?",
+    "a": "1200 Hz",
+    "b": "2400 Hz",
+    "c": "4800 Hz",
+    "d": "9600 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A channel with a bandwidth of 10 kHz has a S/N ratio of 63. Calculate the Shannon capacity.",
+    "a": "30 kbps",
+    "b": "60 kbps",
+    "c": "120 kbps",
+    "d": "10 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A channel has a S/N ratio of 15. If its capacity is 80 kbps, find its required bandwidth.",
+    "a": "10 kHz",
+    "b": "20 kHz",
+    "c": "40 kHz",
+    "d": "5 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Nyquist rate for a bandpass channel with a frequency range from 100 kHz to 120 kHz if 16 signaling levels are used?",
+    "a": "80 kbps",
+    "b": "160 kbps",
+    "c": "320 kbps",
+    "d": "240 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the S/N ratio required to achieve a capacity of 20 kbps on a 2 kHz channel.",
+    "a": "511",
+    "b": "1023",
+    "c": "2047",
+    "d": "255",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the absolute S/N ratio of 1023 into decibels.",
+    "a": "24 dB",
+    "b": "30 dB",
+    "c": "36 dB",
+    "d": "20 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has an operational bandwidth of 5 MHz and a S/N ratio of 255 (which is 24 dB). Calculate its maximum theoretical capacity.",
+    "a": "20 Mbps",
+    "b": "40 Mbps",
+    "c": "80 Mbps",
+    "d": "50 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum required bandwidth to transmit 12 Mbps using 64 signaling levels on a noiseless channel?",
+    "a": "500 kHz",
+    "b": "1 MHz",
+    "c": "2 MHz",
+    "d": "1.5 MHz",
+    "ans": "b"
+  },
+  {
+    "q": "A telephone loop of 3.1 kHz has a S/N ratio of 127. Find the Shannon capacity.",
+    "a": "15.5 kbps",
+    "b": "21.7 kbps",
+    "c": "31.0 kbps",
+    "d": "43.4 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum signaling rate (baud rate) that can be supported by a noiseless 100 kHz channel?",
+    "a": "100 kbaud",
+    "b": "200 kbaud",
+    "c": "400 kbaud",
+    "d": "50 kbaud",
+    "ans": "b"
+  },
+  {
+    "q": "A channel operates with 16-QAM modulation (16 levels) over a bandwidth of 500 kHz. Calculate the maximum Nyquist rate.",
+    "a": "2 Mbps",
+    "b": "4 Mbps",
+    "c": "8 Mbps",
+    "d": "1 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A 1000-byte packet is sent over a 10 Mbps point-to-point link. Calculate the transmission time in milliseconds.",
+    "a": "0.4 ms",
+    "b": "0.8 ms",
+    "c": "1.2 ms",
+    "d": "0.2 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A fiber optic link has a length of 2000 km. If the propagation velocity in glass is 2 x 10^8 m/s, calculate the one-way propagation delay in milliseconds.",
+    "a": "5 ms",
+    "b": "10 ms",
+    "c": "20 ms",
+    "d": "15 ms",
+    "ans": "b"
+  },
+  {
+    "q": "For the fiber optic link in the previous question, calculate the round-trip propagation time (RTT) in milliseconds.",
+    "a": "10 ms",
+    "b": "20 ms",
+    "c": "40 ms",
+    "d": "30 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A satellite link has a round-trip distance of 72,000 km (uplink plus downlink). Calculate the propagation delay in milliseconds. (Take c = 3 x 10^8 m/s).",
+    "a": "120 ms",
+    "b": "240 ms",
+    "c": "480 ms",
+    "d": "360 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A 1500-byte packet is sent over a 1.544 Mbps T1 carrier link. Calculate the transmission time in milliseconds.",
+    "a": "3.88 ms",
+    "b": "7.77 ms",
+    "c": "15.54 ms",
+    "d": "5.18 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A LAN is 500 meters long using a coaxial cable with a velocity factor of 0.66. Calculate the one-way propagation delay in microseconds.",
+    "a": "1.25 microseconds",
+    "b": "2.53 microseconds",
+    "c": "5.06 microseconds",
+    "d": "3.12 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "For the LAN in the previous question, if two stations start transmitting at the same time at a rate of 10 Mbps, what is the maximum number of bits that either station can transmit before detecting a collision?",
+    "a": "25 bits",
+    "b": "51 bits",
+    "c": "100 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the minimum frame size in bytes for a standard 10 Mbps CSMA/CD network if the maximum round-trip propagation delay is 51.2 microseconds.",
+    "a": "32 bytes",
+    "b": "64 bytes",
+    "c": "128 bytes",
+    "d": "48 bytes",
+    "ans": "b"
+  },
+  {
+    "q": "If a network has a minimum frame size of 64 bytes and operates at 100 Mbps, calculate the maximum allowed round-trip propagation delay (collision window) in microseconds.",
+    "a": "51.2 microseconds",
+    "b": "5.12 microseconds",
+    "c": "10.24 microseconds",
+    "d": "2.56 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A 100-kilobyte file is transmitted over a 64 kbps ISDN channel. Calculate the transmission time in seconds.",
+    "a": "6.25 seconds",
+    "b": "12.50 seconds",
+    "c": "25.00 seconds",
+    "d": "8.00 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the transmission time of a 1.2-megabyte file over a 100 Mbps Ethernet link.",
+    "a": "48 ms",
+    "b": "96 ms",
+    "c": "192 ms",
+    "d": "12 ms",
+    "ans": "b"
+  },
+  {
+    "q": "An Earth station sends a command packet of 1000 bits to a satellite at a distance of 36,000 km. If the transmission rate is 100 kbps, calculate the total delay in milliseconds until the packet is fully received by the satellite.",
+    "a": "120 ms",
+    "b": "130 ms",
+    "c": "240 ms",
+    "d": "110 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A system has a round-trip propagation delay of 40 ms. If a sender uses the Stop-and-Wait protocol with a packet size of 1000 bytes over a 1 Mbps link, calculate the transmission time of a packet in milliseconds.",
+    "a": "4 ms",
+    "b": "8 ms",
+    "c": "16 ms",
+    "d": "2 ms",
+    "ans": "b"
+  },
+  {
+    "q": "For the system in the previous question (T_trans = 8 ms, RTT = 40 ms), calculate the Stop-and-Wait link efficiency.",
+    "a": "33.33%",
+    "b": "16.67%",
+    "c": "8.33%",
+    "d": "50.00%",
+    "ans": "b"
+  },
+  {
+    "q": "If a Stop-and-Wait link has an efficiency of 20% and the RTT is 16 milliseconds, calculate the required transmission time of a packet in milliseconds.",
+    "a": "2 ms",
+    "b": "4 ms",
+    "c": "8 ms",
+    "d": "1.6 ms",
+    "ans": "b"
+  },
+  {
+    "q": "A 10 Gbps fiber network is 100 km long (propagation speed = 2 x 10^8 m/s). Calculate the propagation delay in microseconds.",
+    "a": "250 microseconds",
+    "b": "500 microseconds",
+    "c": "1000 microseconds",
+    "d": "50 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "For the network in the previous question, if a packet size of 1500 bytes is sent, calculate the ratio of propagation delay to transmission time (a = T_prop / T_trans).",
+    "a": "41.67",
+    "b": "416.67",
+    "c": "833.33",
+    "d": "208.33",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the round-trip propagation time of a Wi-Fi signal traveling 300 meters inside an office space in microseconds.",
+    "a": "1.0 microsecond",
+    "b": "2.0 microseconds",
+    "c": "4.0 microseconds",
+    "d": "0.5 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A data bus inside a computer is 30 cm long. If signals travel at the speed of light, calculate the propagation delay in nanoseconds.",
+    "a": "0.5 ns",
+    "b": "1.0 ns",
+    "c": "2.0 ns",
+    "d": "10.0 ns",
+    "ans": "b"
+  },
+  {
+    "q": "A network carries a total traffic of 50,000 packets per second. If each packet is 1000 bits on average, calculate the required line bandwidth in Mbps to keep the link utilization at 50%.",
+    "a": "50 Mbps",
+    "b": "100 Mbps",
+    "c": "200 Mbps",
+    "d": "25 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "What is the network address of a host with IP address 192.168.1.135 and subnet mask 255.255.255.192?",
+    "a": "192.168.1.0",
+    "b": "192.168.1.128",
+    "c": "192.168.1.64",
+    "d": "192.168.1.192",
+    "ans": "b"
+  },
+  {
+    "q": "For the subnet in the previous question (192.168.1.128/26), what is the directed broadcast address?",
+    "a": "192.168.1.255",
+    "b": "192.168.1.191",
+    "c": "192.168.1.127",
+    "d": "192.168.1.192",
+    "ans": "b"
+  },
+  {
+    "q": "How many usable host IP addresses are available in a Class C subnet with mask 255.255.255.224 (/27)?",
+    "a": "14",
+    "b": "30",
+    "c": "62",
+    "d": "6",
+    "ans": "b"
+  },
+  {
+    "q": "An IP address block has CIDR notation 172.16.0.0/22. How many usable host IP addresses are available?",
+    "a": "510",
+    "b": "1022",
+    "c": "2046",
+    "d": "1024",
+    "ans": "b"
+  },
+  {
+    "q": "What is the custom subnet mask for CIDR notation /20?",
+    "a": "255.255.224.0",
+    "b": "255.255.240.0",
+    "c": "255.255.248.0",
+    "d": "255.255.192.0",
+    "ans": "b"
+  },
+  {
+    "q": "A company requires 5 subnets from a Class C network block (e.g., 192.168.10.0). What is the minimum subnet mask needed to accommodate this?",
+    "a": "255.255.255.192",
+    "b": "255.255.255.224",
+    "c": "255.255.255.240",
+    "d": "255.255.255.248",
+    "ans": "b"
+  },
+  {
+    "q": "If the subnet mask is 255.255.255.248, how many subnets and usable hosts per subnet are created from a Class C network block?",
+    "a": "16 subnets, 14 hosts",
+    "b": "32 subnets, 6 hosts",
+    "c": "64 subnets, 2 hosts",
+    "d": "8 subnets, 30 hosts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the network address of a host with IP 10.15.42.100 and subnet mask 255.255.240.0?",
+    "a": "10.15.16.0",
+    "b": "10.15.32.0",
+    "c": "10.15.40.0",
+    "d": "10.15.48.0",
+    "ans": "b"
+  },
+  {
+    "q": "For the subnet in the previous question (10.15.32.0/20), what is the directed broadcast address?",
+    "a": "10.15.42.255",
+    "b": "10.15.47.255",
+    "c": "10.15.32.255",
+    "d": "10.15.48.255",
+    "ans": "b"
+  },
+  {
+    "q": "What is the CIDR prefix notation for the subnet mask 255.255.255.192?",
+    "a": "/24",
+    "b": "/26",
+    "c": "/28",
+    "d": "/25",
+    "ans": "b"
+  },
+  {
+    "q": "An IP network is assigned a block 192.168.1.0/24. If we divide this block into 4 equal-sized subnets, what is the subnet mask and host capacity of each subnet?",
+    "a": "255.255.255.0, 254 hosts",
+    "b": "255.255.255.192, 62 hosts",
+    "c": "255.255.255.224, 30 hosts",
+    "d": "255.255.255.240, 14 hosts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the directed broadcast address of a host with IP 192.168.5.210 and subnet mask 255.255.255.240?",
+    "a": "192.168.5.255",
+    "b": "192.168.5.223",
+    "c": "192.168.5.207",
+    "d": "192.168.5.224",
+    "ans": "b"
+  },
+  {
+    "q": "How many subnets of size /30 can be carved out of a single /26 IP block?",
+    "a": "4",
+    "b": "16",
+    "c": "8",
+    "d": "32",
+    "ans": "b"
+  },
+  {
+    "q": "An IPv6 address prefix is specified as /64. How many bits are available in the interface identifier (host portion)?",
+    "a": "32 bits",
+    "b": "64 bits",
+    "c": "128 bits",
+    "d": "96 bits",
+    "ans": "b"
+  },
+  {
+    "q": "What is the directed broadcast address of a Class B network block 172.16.0.0 with no subnetting?",
+    "a": "172.16.0.255",
+    "b": "172.16.255.255",
+    "c": "172.255.255.255",
+    "d": "172.16.1.255",
+    "ans": "b"
+  },
+  {
+    "q": "A point-to-point link between two routers only requires 2 usable host IP addresses. What is the most efficient subnet mask for this link?",
+    "a": "255.255.255.248",
+    "b": "255.255.255.252",
+    "c": "255.255.255.192",
+    "d": "255.255.255.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the directed broadcast address of a host with IP address 10.200.80.55 and subnet mask 255.255.192.0?",
+    "a": "10.200.80.255",
+    "b": "10.200.127.255",
+    "c": "10.200.255.255",
+    "d": "10.200.95.255",
+    "ans": "b"
+  },
+  {
+    "q": "A network engineer is designing subnets for 6 departments. Each department requires at least 25 usable host IP addresses. What is the most efficient CIDR prefix that can be used for each subnet?",
+    "a": "/26",
+    "b": "/27",
+    "c": "/28",
+    "d": "/25",
+    "ans": "b"
+  },
+  {
+    "q": "How many bits are in the network portion of a standard Class A IP address before subnetting?",
+    "a": "16 bits",
+    "b": "8 bits",
+    "c": "24 bits",
+    "d": "32 bits",
+    "ans": "b"
+  },
+  {
+    "q": "How many bits are in the host portion of a standard Class B IP address before subnetting?",
+    "a": "8 bits",
+    "b": "16 bits",
+    "c": "24 bits",
+    "d": "12 bits",
+    "ans": "b"
+  },
+  {
+    "q": "In Hamming code, what is the minimum number of parity bits required to detect and correct single-bit errors in an 8-bit data word?",
+    "a": "3 bits",
+    "b": "4 bits",
+    "c": "5 bits",
+    "d": "8 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the minimum number of Hamming parity bits required to protect a 32-bit data block.",
+    "a": "5 bits",
+    "b": "6 bits",
+    "c": "7 bits",
+    "d": "8 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A Hamming code is designed to carry a 12-bit data block. Find the total length of the transmitted word (data plus parity).",
+    "a": "16 bits",
+    "b": "17 bits",
+    "c": "21 bits",
+    "d": "18 bits",
+    "ans": "b"
+  },
+  {
+    "q": "If a single-parity-check system is used to check for errors in 7-bit ASCII characters, what is the maximum number of bit errors that can be guaranteed to be detected?",
+    "a": "2 bit errors",
+    "b": "1 bit error",
+    "c": "3 bit errors",
+    "d": "4 bit errors",
+    "ans": "b"
+  },
+  {
+    "q": "A generator polynomial for a CRC system is G(x) = x^3 + x + 1. How many bits long is the CRC checksum appended to the message?",
+    "a": "4 bits",
+    "b": "3 bits",
+    "c": "2 bits",
+    "d": "5 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A message block is represented by the bit sequence 10111, and the CRC generator polynomial is G(x) = x^2 + 1 (binary 101). Calculate the transmitted CRC checksum to be appended to the message.",
+    "a": "01",
+    "b": "11",
+    "c": "10",
+    "d": "00",
+    "ans": "b"
+  },
+  {
+    "q": "A CRC receiver receives the frame 1101011. If the generator polynomial is 1011, perform polynomial division to check if the frame was received without error. What is the remainder?",
+    "a": "000",
+    "b": "010",
+    "c": "111",
+    "d": "101",
+    "ans": "b"
+  },
+  {
+    "q": "In checksum error detection, three 16-bit blocks are represented in hexadecimal as 0xFFFF, 0x1234, and 0x5678. Calculate their sum using one's complement arithmetic.",
+    "a": "0x68AB",
+    "b": "0x68AC",
+    "c": "0xFFFF",
+    "d": "0x5678",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the one's complement sum 0x68AC into its final IP checksum value by taking its one's complement.",
+    "a": "0x68AC",
+    "b": "0x9753",
+    "c": "0xFFFF",
+    "d": "0x1234",
+    "ans": "b"
+  },
+  {
+    "q": "In Hamming code, what is the minimum Hamming distance required to guarantee the correction of up to 2 bit errors?",
+    "a": "3",
+    "b": "5",
+    "c": "4",
+    "d": "6",
+    "ans": "b"
+  },
+  {
+    "q": "In Hamming code, what is the minimum Hamming distance required to guarantee the detection of up to 4 bit errors?",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "3",
+    "ans": "b"
+  },
+  {
+    "q": "A 10-bit data block is transmitted with a single even parity bit. If the data block received is 1101011001 with a parity bit of 1, is there an error?",
+    "a": "Yes, an error is detected",
+    "b": "No, no error is detected",
+    "c": "Parity is invalid",
+    "d": "System is overloaded",
+    "ans": "b"
+  },
+  {
+    "q": "A 7-bit Hamming code word is received as 1011011. Parity bits are located at positions 1, 2, and 4. Check the parity equations (using even parity) to locate the bit error position.",
+    "a": "position 3",
+    "b": "position 7",
+    "c": "position 5",
+    "d": "position 1",
+    "ans": "b"
+  },
+  {
+    "q": "A CRC-16 system uses a generator polynomial of degree 16. What is the length of the transmitted CRC checksum appended to the data?",
+    "a": "8 bits",
+    "b": "16 bits",
+    "c": "32 bits",
+    "d": "24 bits",
+    "ans": "b"
+  },
+  {
+    "q": "If a network has a Bit Error Rate (BER) of 10^-6, calculate the probability that a 1000-bit packet is transmitted with at least one bit error.",
+    "a": "0.01%",
+    "b": "0.10%",
+    "c": "1.00%",
+    "d": "0.50%",
+    "ans": "b"
+  },
+  {
+    "q": "A data link uses Block Character Check (BCC) with two-dimensional parity (VRC/LRC). If a block of four 7-bit characters is transmitted, how many parity bits are added in total as overhead?",
+    "a": "8 bits",
+    "b": "12 bits",
+    "c": "16 bits",
+    "d": "11 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the percentage overhead introduced by Hamming parity bits when protecting a 4-bit nibble of data.",
+    "a": "50%",
+    "b": "75%",
+    "c": "43%",
+    "d": "100%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the percentage overhead of a standard Hamming code word of length 7 (4 data bits, 3 parity bits).",
+    "a": "75.00%",
+    "b": "42.86%",
+    "c": "25.00%",
+    "d": "57.14%",
+    "ans": "b"
+  },
+  {
+    "q": "A checksum scheme combines four 8-bit blocks: 0x05, 0x12, 0x34, and 0x56. Calculate their simple arithmetic sum in hexadecimal.",
+    "a": "0x9B",
+    "b": "0xA1",
+    "c": "0xB2",
+    "d": "0xFF",
+    "ans": "b"
+  },
+  {
+    "q": "If a Hamming distance of 3 is achieved in a coding block, what is the maximum number of random bit errors per block that can be guaranteed to be corrected?",
+    "a": "2 bit errors",
+    "b": "1 bit error",
+    "c": "3 bit errors",
+    "d": "0 bit errors",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window protocol uses a 3-bit sequence number. If Go-Back-N (GBN) ARQ is used, what is the maximum sender window size?",
+    "a": "8",
+    "b": "7",
+    "c": "4",
+    "d": "3",
+    "ans": "b"
+  },
+  {
+    "q": "If Selective Repeat (SR) ARQ is used with a 3-bit sequence number, what is the maximum sender window size?",
+    "a": "8",
+    "b": "4",
+    "c": "7",
+    "d": "3",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window protocol operates with a sender window size of 15. What is the minimum number of sequence number bits required if Go-Back-N is used?",
+    "a": "3 bits",
+    "b": "4 bits",
+    "c": "5 bits",
+    "d": "15 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window protocol operates with a sender window size of 8. What is the minimum number of sequence number bits required if Selective Repeat is used?",
+    "a": "3 bits",
+    "b": "4 bits",
+    "c": "5 bits",
+    "d": "8 bits",
+    "ans": "b"
+  },
+  {
+    "q": "A link has a round-trip propagation time of 80 milliseconds. If the packet size is 1000 bytes and the link bandwidth is 1 Mbps, calculate the transmission time of a packet in milliseconds.",
+    "a": "4 ms",
+    "b": "8 ms",
+    "c": "16 ms",
+    "d": "20 ms",
+    "ans": "b"
+  },
+  {
+    "q": "For the link in the previous question, what is the minimum sender window size required to achieve a theoretical link utilization of 100%?",
+    "a": "5",
+    "b": "11",
+    "c": "22",
+    "d": "10",
+    "ans": "b"
+  },
+  {
+    "q": "If the sliding window protocol in the previous questions uses a window size of 4, what is the resulting link efficiency?",
+    "a": "18.18%",
+    "b": "36.36%",
+    "c": "72.72%",
+    "d": "50.00%",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window system operates with a packet transmission time of 2 milliseconds and a round-trip time of 18 milliseconds. If the window size is 5, calculate the link utilization.",
+    "a": "25%",
+    "b": "50%",
+    "c": "100%",
+    "d": "75%",
+    "ans": "b"
+  },
+  {
+    "q": "A link has a round-trip propagation time of 10 ms. If packet size is 1250 bytes and bandwidth is 2 Mbps, find the value of the ratio of propagation delay to transmission time.",
+    "a": "2.0",
+    "b": "1.0",
+    "c": "0.5",
+    "d": "4.0",
+    "ans": "b"
+  },
+  {
+    "q": "Using the parameter ratio from the previous question, calculate the Stop-and-Wait protocol efficiency.",
+    "a": "50.00%",
+    "b": "33.33%",
+    "c": "16.67%",
+    "d": "20.00%",
+    "ans": "b"
+  },
+  {
+    "q": "If we want to achieve at least 80% efficiency on the link from the previous questions, what is the minimum required sliding window size?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window protocol uses a 4-bit sequence number. What is the maximum sender window size for Go-Back-N ARQ?",
+    "a": "16",
+    "b": "15",
+    "c": "8",
+    "d": "7",
+    "ans": "b"
+  },
+  {
+    "q": "A sliding window protocol uses a 4-bit sequence number. What is the maximum sender window size for Selective Repeat ARQ?",
+    "a": "16",
+    "b": "8",
+    "c": "15",
+    "d": "7",
+    "ans": "b"
+  },
+  {
+    "q": "If the packet transmission time is 10 microseconds, and the round-trip propagation time is 90 microseconds, calculate the Stop-and-Wait efficiency.",
+    "a": "5%",
+    "b": "10%",
+    "c": "20%",
+    "d": "50%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum window size required to get 90% efficiency on the link from the previous question?",
+    "a": "5",
+    "b": "9",
+    "c": "10",
+    "d": "18",
+    "ans": "b"
+  },
+  {
+    "q": "A system has a round-trip time of 50 ms. Packets are 1000 bytes and the link is 10 Mbps. Calculate the transmission time of a packet in microseconds.",
+    "a": "400 microseconds",
+    "b": "800 microseconds",
+    "c": "1600 microseconds",
+    "d": "1000 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "For the system in the previous question, what is the ratio of propagation delay to transmission time?",
+    "a": "15.62",
+    "b": "31.25",
+    "c": "62.50",
+    "d": "10.00",
+    "ans": "b"
+  },
+  {
+    "q": "A QPSK (Quadrature Phase Shift Keying) system operates with a symbol rate of 1200 baud. Calculate its bit rate in bps.",
+    "a": "1200 bps",
+    "b": "2400 bps",
+    "c": "4800 bps",
+    "d": "9600 bps",
+    "ans": "b"
+  },
+  {
+    "q": "An 8-PSK system operates with an information bit rate of 24 kbps. Calculate its symbol rate (baud rate).",
+    "a": "24000 baud",
+    "b": "8000 baud",
+    "c": "12000 baud",
+    "d": "6000 baud",
+    "ans": "b"
+  },
+  {
+    "q": "For the 8-PSK system in the previous question, determine its bandwidth efficiency in bps/Hz if the minimum Nyquist bandwidth is used.",
+    "a": "1 bps/Hz",
+    "b": "3 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "1.5 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A 16-QAM digital modulator has a symbol rate of 4800 baud. Calculate its bit rate in bps.",
+    "a": "9600 bps",
+    "b": "19200 bps",
+    "c": "38400 bps",
+    "d": "4800 bps",
+    "ans": "b"
+  },
+  {
+    "q": "A digital communications link has a bit rate of 9600 bps. If the modulator uses 64-QAM (6 bits per symbol), calculate the required baud rate.",
+    "a": "3200 baud",
+    "b": "1600 baud",
+    "c": "4800 baud",
+    "d": "2400 baud",
+    "ans": "b"
+  },
+  {
+    "q": "What is the bandwidth efficiency of a 256-QAM digital modulation system in bps/Hz?",
+    "a": "4 bps/Hz",
+    "b": "8 bps/Hz",
+    "c": "16 bps/Hz",
+    "d": "6 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A BPSK (Binary Phase Shift Keying) modulator has an input bit rate of 10 Mbps. Calculate its baud rate.",
+    "a": "5 Mbaud",
+    "b": "10 Mbaud",
+    "c": "20 Mbaud",
+    "d": "2.5 Mbaud",
+    "ans": "b"
+  },
+  {
+    "q": "A digital radio link has an operating bandwidth of 2 MHz. If it uses QPSK modulation (efficiency = 2 bps/Hz), what is the maximum achievable bit rate?",
+    "a": "2 Mbps",
+    "b": "4 Mbps",
+    "c": "8 Mbps",
+    "d": "1 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "If the radio link in the previous question is upgraded to 64-QAM (6 bps/Hz), calculate the new maximum achievable bit rate.",
+    "a": "6 Mbps",
+    "b": "12 Mbps",
+    "c": "24 Mbps",
+    "d": "18 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A high-speed microwave link has a bit rate of 150 Mbps and operates over a bandwidth of 25 MHz. Calculate the bandwidth efficiency of the link in bps/Hz.",
+    "a": "3 bps/Hz",
+    "b": "6 bps/Hz",
+    "c": "12 bps/Hz",
+    "d": "4 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An optical receiver requires a minimum Eb/N0 of 12 dB to maintain a specific Bit Error Rate. If the digital data rate is 100 Mbps, calculate the required Carrier-to-Noise density ratio (C/N0) in dB-Hz.",
+    "a": "80 dB-Hz",
+    "b": "92 dB-Hz",
+    "c": "104 dB-Hz",
+    "d": "72 dB-Hz",
+    "ans": "b"
+  },
+  {
+    "q": "If the bit rate of a digital link is 64 kbps, and the channel uses 4-level signaling, what is the baud rate?",
+    "a": "16000 baud",
+    "b": "32000 baud",
+    "c": "64000 baud",
+    "d": "8000 baud",
+    "ans": "b"
+  },
+  {
+    "q": "A spread-spectrum system has an original baseband data rate of 10 kbps. If the signal is spread using a pseudo-random code to a bandwidth of 1 MHz, calculate the processing gain of the system in dB.",
+    "a": "10 dB",
+    "b": "20 dB",
+    "c": "30 dB",
+    "d": "40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A digital link uses 32-PSK modulation. Calculate its bandwidth efficiency in bps/Hz.",
+    "a": "4 bps/Hz",
+    "b": "5 bps/Hz",
+    "c": "6 bps/Hz",
+    "d": "8 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A QAM system has an operating bandwidth of 200 kHz and a bit rate of 800 kbps. Calculate its bandwidth efficiency.",
+    "a": "2 bps/Hz",
+    "b": "4 bps/Hz",
+    "c": "8 bps/Hz",
+    "d": "1 bps/Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A single-channel PCM system uses a sample rate of 6000 samples per second and a 7-bit compressed PCM code. Calculate the output bit rate (line speed).",
+    "a": "21 kbps",
+    "b": "42 kbps",
+    "c": "14 kbps",
+    "d": "12 kbps",
+    "ans": "b"
+  },
+  {
+    "q": "A time-division multiplexer combines four 100-kbps digital channels using a time slot of exactly 2 bits. Calculate the frame duration in microseconds.",
+    "a": "10 microseconds",
+    "b": "20 microseconds",
+    "c": "40 microseconds",
+    "d": "80 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A standard DS1 (T1) signal contains 24 voice channels. If each channel is encoded using 8-bit PCM and sampled at 8 kHz, calculate the total number of bits inside a single T1 frame (including 1 framing bit).",
+    "a": "192 bits",
+    "b": "193 bits",
+    "c": "256 bits",
+    "d": "128 bits",
+    "ans": "b"
+  },
+  {
+    "q": "Since a standard T1 frame contains 193 bits, and there are 8000 frames sent per second, verify the standard T1 line speed.",
+    "a": "1.536 Mbps",
+    "b": "1.544 Mbps",
+    "c": "2.048 Mbps",
+    "d": "0.064 Mbps",
+    "ans": "b"
+  },
+  {
+    "q": "A multiplexer combines ten 64-kbps channels using synchronous TDM with 1-byte time slots and no framing bits. Calculate the output line speed.",
+    "a": "320 kbps",
+    "b": "640 kbps",
+    "c": "1280 kbps",
+    "d": "960 kbps",
+    "ans": "b"
+  }
+]

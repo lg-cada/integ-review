@@ -1,0 +1,2042 @@
+[
+  {
+    "q": "What type of transmission line consists of an inner conductor surrounded by a continuous uniform dielectric material and an outer shielding conductor?",
+    "a": "Balanced parallel line",
+    "b": "Coaxial cable",
+    "c": "Flat twin-lead",
+    "d": "Microstrip",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of transmission line is considered balanced?",
+    "a": "Coaxial cable",
+    "b": "Microstrip line",
+    "c": "Two-wire parallel line",
+    "d": "Single-wire earth-return line",
+    "ans": "c"
+  },
+  {
+    "q": "What is the primary function of twisting the wire pairs in a twisted-pair transmission line?",
+    "a": "To increase the physical strength of the line",
+    "b": "To reduce electromagnetic coupling and crosstalk between adjacent pairs",
+    "c": "To increase the characteristic impedance",
+    "d": "To maximize the velocity of propagation",
+    "ans": "b"
+  },
+  {
+    "q": "What represents the velocity factor (VF) of a transmission line?",
+    "a": "The ratio of the physical velocity of propagation in the line to the velocity of light in free space",
+    "b": "The ratio of the line's inductance to its capacitance",
+    "c": "The ratio of the incident voltage to the reflected voltage",
+    "d": "The phase shift per unit length of the line",
+    "ans": "a"
+  },
+  {
+    "q": "How does the dielectric constant (dielectric permittivity) of the material in a transmission line affect its velocity factor?",
+    "a": "A higher dielectric constant increases the velocity factor",
+    "b": "A higher dielectric constant decreases the velocity factor",
+    "c": "The velocity factor is completely independent of the dielectric constant",
+    "d": "It doubles the velocity factor regardless of the material",
+    "ans": "b"
+  },
+  {
+    "q": "What are the primary constants of a transmission line per unit length?",
+    "a": "Characteristic impedance and propagation constant",
+    "b": "Resistance, Inductance, Conductance, and Capacitance (R, L, G, C)",
+    "c": "Reflection coefficient and SWR",
+    "d": "Phase constant and attenuation constant",
+    "ans": "b"
+  },
+  {
+    "q": "What are the secondary constants of a transmission line?",
+    "a": "Resistance, Inductance, Conductance, and Capacitance (R, L, G, C)",
+    "b": "Characteristic impedance (Z0) and propagation constant (gamma)",
+    "c": "SWR and return loss",
+    "d": "Velocity factor and reflection coefficient",
+    "ans": "b"
+  },
+  {
+    "q": "Which condition represents a mathematically lossless transmission line?",
+    "a": "R is infinite and G is infinite",
+    "b": "R = 0 and G = 0",
+    "c": "L = 0 and C = 0",
+    "d": "Z0 is purely reactive",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Heaviside condition for a distortionless transmission line?",
+    "a": "R * L = G * C",
+    "b": "R / L = G / C",
+    "c": "R + L = G + C",
+    "d": "R / C = G / L",
+    "ans": "b"
+  },
+  {
+    "q": "What does a Standing Wave Ratio (SWR) of exactly 1.0 indicate?",
+    "a": "The line is completely open at the load",
+    "b": "The line is terminated in a matched load with zero reflection",
+    "c": "The line is completely short-circuited at the load",
+    "d": "The input impedance of the line is zero",
+    "ans": "b"
+  },
+  {
+    "q": "What is the range of possible values for the Standing Wave Ratio (SWR) on a transmission line?",
+    "a": "Negative infinity to positive infinity",
+    "b": "1.0 to infinity",
+    "c": "0 to 1.0",
+    "d": "0 to infinity",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the SWR if a transmission line is terminated in a purely reactive load?",
+    "a": "SWR becomes equal to 1.0",
+    "b": "SWR becomes infinite",
+    "c": "SWR drops to 0",
+    "d": "SWR oscillates between 0 and 1.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the reflection coefficient (Gamma) for a transmission line terminated in a short circuit?",
+    "a": "1.0 at a phase angle of 0 degrees",
+    "b": "1.0 at a phase angle of 180 degrees",
+    "c": "0.0",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "What is the reflection coefficient (Gamma) for a transmission line terminated in an open circuit?",
+    "a": "-1.0",
+    "b": "1.0 at a phase angle of 0 degrees",
+    "c": "0.0",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "What is return loss (RL) a measure of?",
+    "a": "The physical power lost due to heat in the conductor",
+    "b": "The ratio of reflected power to incident power expressed in decibels",
+    "c": "The loss of signal phase along the line",
+    "d": "The attenuation of the line per unit length",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission line consists of a flat conductor strip separated from a ground plane by a dielectric layer?",
+    "a": "Coaxial line",
+    "b": "Microstrip line",
+    "c": "Twin-lead line",
+    "d": "Rectangular waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transmission line consists of a flat conductor strip embedded completely inside a dielectric material between two parallel ground planes?",
+    "a": "Microstrip line",
+    "b": "Stripline",
+    "c": "Shielded twisted pair",
+    "d": "Circular waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "Why are hollow metallic waveguides generally preferred over coaxial cables at microwave frequencies above 1 GHz?",
+    "a": "Waveguides are much smaller physically",
+    "b": "Waveguides have much lower attenuation losses because they eliminate dielectric and radiation losses",
+    "c": "Waveguides support TEM waves, which carry more power",
+    "d": "Waveguides have a much simpler impedance matching requirement",
+    "ans": "b"
+  },
+  {
+    "q": "What wave mode has zero electric field component in the direction of propagation?",
+    "a": "Transverse Magnetic (TM) mode",
+    "b": "Transverse Electric (TE) mode",
+    "c": "Transverse Electromagnetic (TEM) mode",
+    "d": "Hybrid mode",
+    "ans": "b"
+  },
+  {
+    "q": "What wave mode has zero magnetic field component in the direction of propagation?",
+    "a": "Transverse Electric (TE) mode",
+    "b": "Transverse Magnetic (TM) mode",
+    "c": "Transverse Electromagnetic (TEM) mode",
+    "d": "Evanescent mode",
+    "ans": "b"
+  },
+  {
+    "q": "What wave mode has both electric and magnetic field vectors completely perpendicular to the direction of propagation?",
+    "a": "Transverse Electric (TE) mode",
+    "b": "Transverse Electromagnetic (TEM) mode",
+    "c": "Transverse Magnetic (TM) mode",
+    "d": "Evanescent mode",
+    "ans": "b"
+  },
+  {
+    "q": "Which transmission line can support the Transverse Electromagnetic (TEM) wave mode?",
+    "a": "Hollow rectangular waveguide",
+    "b": "Coaxial cable",
+    "c": "Hollow circular waveguide",
+    "d": "Single-conductor tube",
+    "ans": "b"
+  },
+  {
+    "q": "Why cannot a standard TEM wave propagate inside a single-conductor hollow waveguide?",
+    "a": "The wave frequency is too high",
+    "b": "TEM waves require at least two separate conductors to maintain a potential difference",
+    "c": "The walls of the waveguide absorb TEM waves",
+    "d": "The phase velocity of a TEM wave would exceed the speed of light",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dominant propagation mode inside a standard hollow rectangular waveguide?",
+    "a": "TE11 mode",
+    "b": "TE10 mode",
+    "c": "TM11 mode",
+    "d": "TEM mode",
+    "ans": "b"
+  },
+  {
+    "q": "What is the dominant propagation mode inside a standard hollow circular waveguide?",
+    "a": "TE10 mode",
+    "b": "TE11 mode",
+    "c": "TM01 mode",
+    "d": "TE01 mode",
+    "ans": "b"
+  },
+  {
+    "q": "What is the cutoff frequency of a waveguide?",
+    "a": "The maximum frequency that can propagate through the waveguide without being attenuated",
+    "b": "The lowest frequency at which a specific mode can propagate through the waveguide",
+    "c": "The frequency where the guide wavelength is equal to infinity",
+    "d": "The frequency where the phase velocity equals the group velocity",
+    "ans": "b"
+  },
+  {
+    "q": "What is guide wavelength (lambda_g)?",
+    "a": "The wavelength of the wave in free space",
+    "b": "The wavelength of the wave as measured inside the waveguide along its longitudinal axis",
+    "c": "The physical width of the waveguide",
+    "d": "The distance the wave travels in one nanosecond",
+    "ans": "b"
+  },
+  {
+    "q": "How does the guide wavelength in a waveguide compare to the wavelength of the same signal in free space?",
+    "a": "The guide wavelength is shorter",
+    "b": "The guide wavelength is longer",
+    "c": "The guide wavelength is exactly the same",
+    "d": "The guide wavelength is unrelated to free-space wavelength",
+    "ans": "b"
+  },
+  {
+    "q": "What is group velocity (v_g) in a waveguide?",
+    "a": "The velocity at which individual wavefronts appear to travel",
+    "b": "The velocity at which the modulated signal energy and information propagate down the guide",
+    "c": "The velocity of light in free space",
+    "d": "The velocity of electrons in the waveguide walls",
+    "ans": "b"
+  },
+  {
+    "q": "What is phase velocity (v_p) in a waveguide?",
+    "a": "The velocity at which information travels",
+    "b": "The velocity at which the phase of the wave appears to travel along the guide axis, which can exceed the speed of light",
+    "c": "The group velocity divided by two",
+    "d": "The velocity of light divided by the dielectric constant",
+    "ans": "b"
+  },
+  {
+    "q": "What is the mathematical relationship between the group velocity (v_g), phase velocity (v_p), and the speed of light (c) in an air-filled waveguide?",
+    "a": "v_p * v_g = c",
+    "b": "v_p * v_g = c^2",
+    "c": "v_p / v_g = c",
+    "d": "v_p + v_g = c",
+    "ans": "b"
+  },
+  {
+    "q": "What are evanescent fields in a waveguide?",
+    "a": "The radiating fields outside the waveguide walls",
+    "b": "The non-propagating, exponentially decaying fields that exist at frequencies below the cutoff frequency",
+    "c": "The parasitic fields that cause heating in the waveguide",
+    "d": "The reflections from the load",
+    "ans": "b"
+  },
+  {
+    "q": "What is a resonant cavity (cavity resonator)?",
+    "a": "A shorted stub used for impedance matching",
+    "b": "A closed metal structure that acts as a highly selective tuned circuit at microwave frequencies",
+    "c": "A segment of coaxial cable cut to exactly one-half wavelength",
+    "d": "The input feedhorn of a satellite dish",
+    "ans": "b"
+  },
+  {
+    "q": "How does the Q-factor of a resonant cavity compare to a standard lumped LC resonant circuit?",
+    "a": "The resonant cavity has a much lower Q-factor",
+    "b": "The resonant cavity has a much higher Q-factor",
+    "c": "They are approximately equal",
+    "d": "Resonant cavities do not have a defined Q-factor",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when a quarter-wave transmission line is short-circuited at its far end?",
+    "a": "It behaves like a short circuit at the input",
+    "b": "It behaves like a parallel resonant circuit (very high impedance/open) at the input",
+    "c": "It acts as a pure capacitance of infinite value",
+    "d": "It causes the transmitter to burn out",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when a quarter-wave transmission line is open-circuited at its far end?",
+    "a": "It behaves like a parallel resonant circuit (high impedance) at the input",
+    "b": "It behaves like a series resonant circuit (low impedance/short) at the input",
+    "c": "It acts as a pure inductance of infinite value",
+    "d": "It doubles the SWR on the feed line",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when a half-wave transmission line is short-circuited at its far end?",
+    "a": "It behaves like an open circuit at the input",
+    "b": "It behaves like a short circuit at the input",
+    "c": "It acts as a capacitive susceptance",
+    "d": "It acts as a quarter-wave transformer",
+    "ans": "b"
+  },
+  {
+    "q": "What happens when a half-wave transmission line is open-circuited at its far end?",
+    "a": "It behaves like a short circuit at the input",
+    "b": "It behaves like an open circuit at the input",
+    "c": "It acts as a series resonant circuit",
+    "d": "It matches any load impedance",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary graphical tool used by RF engineers to solve transmission line and impedance matching problems?",
+    "a": "Bode plot",
+    "b": "Smith Chart",
+    "c": "Nyquist diagram",
+    "d": "Karnaugh map",
+    "ans": "b"
+  },
+  {
+    "q": "Who invented the Smith Chart in 1939?",
+    "a": "Harry Nyquist",
+    "b": "Phillip H. Smith",
+    "c": "Oliver Heaviside",
+    "d": "Julius Adams Stratton",
+    "ans": "b"
+  },
+  {
+    "q": "What does the exact center of the Smith Chart represent?",
+    "a": "A perfect short circuit",
+    "b": "A perfectly matched load (normalized impedance 1 + j0)",
+    "c": "A perfect open circuit",
+    "d": "Infinite SWR",
+    "ans": "b"
+  },
+  {
+    "q": "What do the circles on a standard Smith Chart represent?",
+    "a": "Constant reactance lines",
+    "b": "Constant resistance circles",
+    "c": "Constant phase contours",
+    "d": "Constant voltage circles",
+    "ans": "b"
+  },
+  {
+    "q": "What do the curved lines on a standard Smith Chart represent?",
+    "a": "Constant resistance",
+    "b": "Constant reactance",
+    "c": "Constant standing wave ratio",
+    "d": "Constant reflection coefficient",
+    "ans": "b"
+  },
+  {
+    "q": "The upper half of the Smith Chart represents what type of reactive impedance?",
+    "a": "Capacitive reactance",
+    "b": "Inductive reactance",
+    "c": "Pure resistance",
+    "d": "Negative resistance",
+    "ans": "b"
+  },
+  {
+    "q": "The lower half of the Smith Chart represents what type of reactive impedance?",
+    "a": "Inductive reactance",
+    "b": "Capacitive reactance",
+    "c": "Pure conductance",
+    "d": "Evanescent impedance",
+    "ans": "b"
+  },
+  {
+    "q": "A flat transmission line is a line that _____.",
+    "a": "Is physically laid flat on a surface",
+    "b": "Is terminated in its characteristic impedance, resulting in an SWR of 1.0",
+    "c": "Has a characteristic impedance of 0 ohms",
+    "d": "Has infinite attenuation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard characteristic impedance of coaxial cables widely used in professional RF transmitter feeds and test equipment?",
+    "a": "75 ohms",
+    "b": "50 ohms",
+    "c": "300 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard characteristic impedance of coaxial cables widely used in cable television (CATV) and standard television reception feeds?",
+    "a": "50 ohms",
+    "b": "75 ohms",
+    "c": "300 ohms",
+    "d": "150 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard characteristic impedance of flat twin-lead parallel-wire transmission lines used for older television antennas?",
+    "a": "50 ohms",
+    "b": "300 ohms",
+    "c": "75 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of line has the highest susceptibility to nearby metallic objects and moisture, requiring physical stand-offs for proper routing?",
+    "a": "Coaxial cable",
+    "b": "Unshielded parallel-wire twin-lead",
+    "c": "Shielded twisted pair",
+    "d": "Hollow rectangular waveguide",
+    "ans": "b"
+  },
+  {
+    "q": "In a rectangular waveguide, how does the cutoff wavelength (lambda_c) of the dominant TE10 mode relate to the waveguide's broad dimension (a)?",
+    "a": "lambda_c = a",
+    "b": "lambda_c = 2 * a",
+    "c": "lambda_c = a / 2",
+    "d": "lambda_c = 4 * a",
+    "ans": "b"
+  },
+  {
+    "q": "What does the first subscript (m) in the waveguide mode designation TE_m,n represent?",
+    "a": "The number of full wavelengths along the waveguide axis",
+    "b": "The number of half-wave field variations along the broad waveguide dimension (a)",
+    "c": "The number of half-wave field variations along the narrow waveguide dimension (b)",
+    "d": "The frequency band multiplier",
+    "ans": "b"
+  },
+  {
+    "q": "What does the second subscript (n) in the waveguide mode designation TE_m,n represent?",
+    "a": "The number of half-wave field variations along the broad waveguide dimension (a)",
+    "b": "The number of half-wave field variations along the narrow waveguide dimension (b)",
+    "c": "The number of full waves inside the guide",
+    "d": "The dielectric constant factor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the purpose of stub matching in transmission line systems?",
+    "a": "To increase the attenuation of the line",
+    "b": "To match a complex load impedance to the characteristic impedance of the line, eliminating standing waves",
+    "c": "To filter out the low frequency audio signals",
+    "d": "To act as a surge protector against lightning strikes",
+    "ans": "b"
+  },
+  {
+    "q": "In single-stub matching, what is the stub's physical length and placement selected to achieve?",
+    "a": "An input impedance of 0 ohms",
+    "b": "An input admittance whose real part matches the line conductance and whose imaginary part cancels the line susceptance",
+    "c": "A standing wave ratio of infinity",
+    "d": "A reflection coefficient of -1",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary advantage of double-stub matching over single-stub matching?",
+    "a": "It provides a wider operational bandwidth",
+    "b": "It allows matching of a wider range of load impedances without changing the distance between the load and the first stub",
+    "c": "It is much less expensive to construct",
+    "d": "It completely eliminates copper losses",
+    "ans": "b"
+  },
+  {
+    "q": "What is the impedance of a quarter-wave matching transformer (impedance inverter) used to match a line of impedance Z0 to a resistive load ZL?",
+    "a": "Zx = Z0 * ZL",
+    "b": "Zx = sqrt(Z0 * ZL)",
+    "c": "Zx = (Z0 + ZL) / 2",
+    "d": "Zx = Z0^2 / ZL",
+    "ans": "b"
+  },
+  {
+    "q": "What does a standing wave represent on a transmission line?",
+    "a": "A wave that travels back and forth at the speed of light",
+    "b": "The interference pattern created by the superposition of the incident wave and the reflected wave",
+    "c": "A wave that has zero frequency",
+    "d": "The DC voltage component of the signal",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the ratio of the reflected voltage wave amplitude to the incident voltage wave amplitude?",
+    "a": "VSWR",
+    "b": "Voltage Reflection Coefficient (Gamma)",
+    "c": "Transmission coefficient",
+    "d": "Velocity factor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the relationship between the transmission coefficient (T) and the reflection coefficient (Gamma) for voltage waves?",
+    "a": "T = Gamma - 1",
+    "b": "T = 1 + Gamma",
+    "c": "T = 1 / Gamma",
+    "d": "T * Gamma = 1",
+    "ans": "b"
+  },
+  {
+    "q": "A lossless transmission line terminated in its characteristic impedance is called a(n) _____.",
+    "a": "Resonant line",
+    "b": "Infinite or matched line",
+    "c": "Reactive stub",
+    "d": "Open stub",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter describes the frequency above which a waveguide behaves like a high-pass filter?",
+    "a": "Resonant frequency",
+    "b": "Cutoff frequency",
+    "c": "Flicker frequency",
+    "d": "Guide frequency",
+    "ans": "b"
+  },
+  {
+    "q": "What type of connector is most commonly used with standard RG-58 coaxial cables in RF applications?",
+    "a": "F-type connector",
+    "b": "BNC connector",
+    "c": "RJ-45 connector",
+    "d": "Toslink",
+    "ans": "b"
+  },
+  {
+    "q": "What type of connector is standard for cable television drop lines (RG-59 or RG-6)?",
+    "a": "BNC",
+    "b": "F-type connector",
+    "c": "N-type connector",
+    "d": "SMA",
+    "ans": "b"
+  },
+  {
+    "q": "What type of high-precision connector is typically used for heavy, low-loss coaxial lines in high-power microwave systems?",
+    "a": "BNC",
+    "b": "N-type connector",
+    "c": "F-type",
+    "d": "RJ-11",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the skin depth of a copper conductor as the frequency of the transmission signal increases?",
+    "a": "The skin depth increases",
+    "b": "The skin depth decreases",
+    "c": "The skin depth remains constant",
+    "d": "The skin depth drops to zero immediately",
+    "ans": "b"
+  },
+  {
+    "q": "The skin effect causes high-frequency currents to flow primarily where in a conductor?",
+    "a": "Uniformly through the entire cross-section",
+    "b": "Near the outer surface (skin) of the conductor",
+    "c": "Only in the exact physical center",
+    "d": "In a clockwise circular path",
+    "ans": "b"
+  },
+  {
+    "q": "What is the characteristic impedance of free space?",
+    "a": "50 ohms",
+    "b": "377 ohms",
+    "c": "75 ohms",
+    "d": "300 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A choke flange in a waveguide system is designed to provide _____.",
+    "a": "A high-resistance DC path",
+    "b": "A low-reflection, low-leakage microwave connection between waveguide sections without requiring perfect electrical contact of the outer edges",
+    "c": "An adjustable attenuation level",
+    "d": "A mechanical support to prevent waveguide bending",
+    "ans": "b"
+  },
+  {
+    "q": "What device is used to couples a specific fraction of the microwave power in a waveguide to another port?",
+    "a": "Waveguide isolator",
+    "b": "Directional coupler",
+    "c": "Cavity resonator",
+    "d": "Circulator",
+    "ans": "b"
+  },
+  {
+    "q": "What non-reciprocal microwave device allows power to flow in one direction with low loss, but strongly attenuates power flowing in the reverse direction?",
+    "a": "Directional coupler",
+    "b": "Isolator",
+    "c": "Circulator",
+    "d": "Magic Tee",
+    "ans": "b"
+  },
+  {
+    "q": "What microwave junction is a 4-port waveguide hybrid that can perform addition and subtraction of microwave signals?",
+    "a": "Circulator",
+    "b": "Magic Tee",
+    "c": "Isolator",
+    "d": "H-plane Tee",
+    "ans": "b"
+  },
+  {
+    "q": "The attenuation of a waveguide operating below its cutoff frequency is _____.",
+    "a": "Zero",
+    "b": "Extremely high (acts as an attenuator)",
+    "c": "Exactly 3 dB",
+    "d": "Equal to the attenuation of a coaxial cable",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary factor that limits the power-handling capability of a waveguide?",
+    "a": "The physical weight of the metal",
+    "b": "Dielectric breakdown (arcing) of the air or gas inside the guide",
+    "c": "The copper resistance of the walls",
+    "d": "The input impedance of the feedhorn",
+    "ans": "b"
+  },
+  {
+    "q": "To prevent moisture from causing corrosion and dielectric breakdown, high-power microwave waveguides are often filled with _____.",
+    "a": "Distilled water",
+    "b": "Dry nitrogen gas under positive pressure",
+    "c": "Carbon dioxide",
+    "d": "Argon gas",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter of a transmission line increases as the physical spacing between the conductors is increased?",
+    "a": "Capacitance",
+    "b": "Inductance and characteristic impedance",
+    "c": "Conductance",
+    "d": "Velocity factor",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter of a transmission line increases as the physical size of the conductors is increased for a constant spacing?",
+    "a": "Inductance",
+    "b": "Capacitance",
+    "c": "Characteristic impedance",
+    "d": "Velocity of propagation",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs to the characteristic impedance of a transmission line if the dielectric constant of the insulating material is increased?",
+    "a": "It increases",
+    "b": "It decreases",
+    "c": "It remains unchanged",
+    "d": "It becomes purely reactive",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a characteristic impedance of 50 ohms. If we cut the line exactly in half, what is the characteristic impedance of each piece?",
+    "a": "25 ohms",
+    "b": "50 ohms",
+    "c": "100 ohms",
+    "d": "12.5 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has an inductance of 250 nH/m and a capacitance of 100 pF/m. Calculate its characteristic impedance (Z0).",
+    "a": "25 ohms",
+    "b": "50 ohms",
+    "c": "75 ohms",
+    "d": "100 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has an inductance of 200 nH/m and a capacitance of 80 pF/m. Calculate its characteristic impedance (Z0).",
+    "a": "40 ohms",
+    "b": "50 ohms",
+    "c": "60 ohms",
+    "d": "70 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line exhibits an inductance of 320 nH/m and a capacitance of 51.2 pF/m. What is the characteristic impedance of the line?",
+    "a": "50 ohms",
+    "b": "79 ohms",
+    "c": "75 ohms",
+    "d": "100 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel-wire line has an inductance of 0.8 uH/m and a capacitance of 8.88 pF/m. Find its characteristic impedance.",
+    "a": "150 ohms",
+    "b": "300 ohms",
+    "c": "450 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the characteristic impedance of a coaxial cable with a dielectric constant of 2.25 if the inner conductor diameter is 1.0 mm and the outer conductor inner diameter is 3.5 mm. Use the formula Z0 = (138 / sqrt(er)) * log(D / d).",
+    "a": "36.5 ohms",
+    "b": "50.0 ohms",
+    "c": "75.0 ohms",
+    "d": "92.0 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of an air-filled coaxial line with an outer diameter D = 6 mm and inner diameter d = 2 mm. Use the formula Z0 = 138 * log(D / d).",
+    "a": "50.0 ohms",
+    "b": "65.8 ohms",
+    "c": "75.0 ohms",
+    "d": "138.0 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel-wire transmission line in air has a conductor spacing of 10 cm and conductor radius of 1.0 mm (diameter = 2.0 mm). Calculate its characteristic impedance using Z0 = 276 * log(2S / d).",
+    "a": "276 ohms",
+    "b": "552 ohms",
+    "c": "138 ohms",
+    "d": "600 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the velocity of propagation of a signal inside a coaxial cable with a velocity factor of 0.66. (Take the speed of light c = 3 x 10^8 m/s).",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.98 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the velocity factor (VF) of a coaxial line containing a Teflon dielectric with a relative permittivity (er) of 2.1.",
+    "a": "0.48",
+    "b": "0.69",
+    "c": "0.82",
+    "d": "0.95",
+    "ans": "b"
+  },
+  {
+    "q": "Find the velocity of propagation in a transmission line whose dielectric has a relative permittivity of er = 4.0.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.50 x 10^8 m/s",
+    "c": "0.75 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a velocity factor of 0.8. Calculate the time delay introduced by a 100-meter length of this cable.",
+    "a": "333 nanoseconds",
+    "b": "417 nanoseconds",
+    "c": "500 nanoseconds",
+    "d": "250 nanoseconds",
+    "ans": "b"
+  },
+  {
+    "q": "How long does it take for an RF pulse to travel down a 300-meter coaxial feedline if its dielectric is solid polyethylene (er = 2.25, VF = 0.667)?",
+    "a": "1.0 microsecond",
+    "b": "1.5 microseconds",
+    "c": "2.0 microseconds",
+    "d": "0.5 microseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm transmission line is terminated in a 150 ohm resistive load. Calculate the voltage reflection coefficient (Gamma).",
+    "a": "0.33",
+    "b": "0.50",
+    "c": "0.25",
+    "d": "0.67",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm transmission line is terminated in a 25 ohm resistive load. Calculate the voltage reflection coefficient (Gamma).",
+    "a": "0.50",
+    "b": "-0.33",
+    "c": "0.33",
+    "d": "-0.50",
+    "ans": "b"
+  },
+  {
+    "q": "A 75 ohm television drop line is terminated in a 75 ohm resistor. Calculate the reflection coefficient.",
+    "a": "1.0",
+    "b": "0.0",
+    "c": "0.5",
+    "d": "-1.0",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a reflection coefficient of 0.2. Calculate the corresponding Standing Wave Ratio (SWR) on the line.",
+    "a": "1.20",
+    "b": "1.50",
+    "c": "1.80",
+    "d": "2.00",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a reflection coefficient of 0.5. Calculate the Standing Wave Ratio (SWR) on the line.",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "1.5",
+    "ans": "b"
+  },
+  {
+    "q": "If the reflection coefficient of a mismatched transmission line is 0.333, calculate the SWR.",
+    "a": "1.5",
+    "b": "2.0",
+    "c": "3.0",
+    "d": "4.0",
+    "ans": "b"
+  },
+  {
+    "q": "An SWR of 2.0 is measured on an antenna feedline. Calculate the magnitude of the voltage reflection coefficient (Gamma).",
+    "a": "0.50",
+    "b": "0.33",
+    "c": "0.25",
+    "d": "0.67",
+    "ans": "b"
+  },
+  {
+    "q": "An SWR of 3.0 is measured on a 50 ohm coaxial cable. Calculate the magnitude of the reflection coefficient.",
+    "a": "0.33",
+    "b": "0.50",
+    "c": "0.25",
+    "d": "0.75",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a reflection coefficient Gamma = 0.1. Calculate the return loss of the line in decibels.",
+    "a": "10 dB",
+    "b": "20 dB",
+    "c": "30 dB",
+    "d": "40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a reflection coefficient Gamma = 0.5. Calculate the return loss of the line in dB.",
+    "a": "3.01 dB",
+    "b": "6.02 dB",
+    "c": "12.04 dB",
+    "d": "20.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the return loss on a transmission line if the standing wave ratio is measured to be SWR = 1.5.",
+    "a": "10.0 dB",
+    "b": "14.0 dB",
+    "c": "20.0 dB",
+    "d": "6.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the return loss on a transmission line if SWR = 2.0?",
+    "a": "6.02 dB",
+    "b": "9.54 dB",
+    "c": "12.04 dB",
+    "d": "3.01 dB",
+    "ans": "b"
+  },
+  {
+    "q": "If SWR = 1.0, what is the return loss in dB?",
+    "a": "0 dB",
+    "b": "Infinity dB",
+    "c": "1 dB",
+    "d": "-1 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a return loss of 26 dB. Calculate the magnitude of the reflection coefficient.",
+    "a": "0.100",
+    "b": "0.050",
+    "c": "0.010",
+    "d": "0.200",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm line is connected to an antenna. If the reflected power is measured at 4 W when the incident power is 100 W, calculate the reflection coefficient.",
+    "a": "0.04",
+    "b": "0.20",
+    "c": "0.10",
+    "d": "0.40",
+    "ans": "b"
+  },
+  {
+    "q": "For the system in the previous question (incident power = 100 W, reflected power = 4 W, Gamma = 0.2), calculate the return loss in dB.",
+    "a": "26.02 dB",
+    "b": "13.98 dB",
+    "c": "20.00 dB",
+    "d": "30.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "For the system in the previous questions, calculate the SWR on the feedline.",
+    "a": "1.25",
+    "b": "1.50",
+    "c": "1.80",
+    "d": "1.10",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm transmitter feedline is matched to a 200 ohm resistive antenna using a quarter-wave matching section. Calculate the characteristic impedance of this quarter-wave section.",
+    "a": "150 ohms",
+    "b": "100 ohms",
+    "c": "125 ohms",
+    "d": "75 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A quarter-wave matching transformer is used to connect a 75 ohm line to a 300 ohm folded dipole antenna. Calculate the characteristic impedance required for the matching transformer.",
+    "a": "225 ohms",
+    "b": "150 ohms",
+    "c": "187.5 ohms",
+    "d": "100 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "An RF design requires matching a 50 ohm coaxial cable to a 75 ohm antenna. What must be the characteristic impedance of the quarter-wave matching line?",
+    "a": "62.5 ohms",
+    "b": "61.2 ohms",
+    "c": "55.0 ohms",
+    "d": "68.3 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the cutoff frequency of the dominant TE10 mode in an air-filled rectangular waveguide with broad dimension a = 2.28 cm and narrow dimension b = 1.01 cm.",
+    "a": "3.28 GHz",
+    "b": "6.58 GHz",
+    "c": "13.16 GHz",
+    "d": "5.00 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the cutoff wavelength (lambda_c) for the TE10 mode in a rectangular waveguide with dimensions a = 4.0 cm and b = 2.0 cm.",
+    "a": "4.0 cm",
+    "b": "8.0 cm",
+    "c": "2.0 cm",
+    "d": "16.0 cm",
+    "ans": "b"
+  },
+  {
+    "q": "An air-filled rectangular waveguide has a broad dimension of a = 3.0 cm. Calculate the cutoff frequency of its dominant mode.",
+    "a": "10.0 GHz",
+    "b": "5.0 GHz",
+    "c": "2.5 GHz",
+    "d": "7.5 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A rectangular waveguide has a broad dimension of a = 5 cm and is filled with a dielectric having er = 4.0. Calculate the cutoff frequency for the TE10 mode.",
+    "a": "3.0 GHz",
+    "b": "1.5 GHz",
+    "c": "6.0 GHz",
+    "d": "0.75 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A rectangular waveguide has broad dimension a = 3 cm. If an RF signal with a frequency of 6 GHz is propagated in the dominant TE10 mode, calculate the guide wavelength (lambda_g). Note: f_c = 5 GHz.",
+    "a": "5.00 cm",
+    "b": "9.05 cm",
+    "c": "3.00 cm",
+    "d": "7.54 cm",
+    "ans": "b"
+  },
+  {
+    "q": "An air-filled waveguide operates at 10 GHz with a cutoff frequency of 6 GHz. Calculate the guide wavelength (lambda_g). (Note: free-space wavelength lambda_0 = 3 cm).",
+    "a": "2.00 cm",
+    "b": "4.08 cm",
+    "c": "3.00 cm",
+    "d": "5.21 cm",
+    "ans": "b"
+  },
+  {
+    "q": "For the waveguide in the previous question (f = 10 GHz, f_c = 6 GHz), calculate the phase velocity (v_p) inside the guide.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "4.08 x 10^8 m/s",
+    "c": "2.20 x 10^8 m/s",
+    "d": "1.50 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "For the waveguide in the previous questions, calculate the group velocity (v_g) inside the guide.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.20 x 10^8 m/s",
+    "c": "4.08 x 10^8 m/s",
+    "d": "1.80 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the wave impedance (Z_TE) of an air-filled rectangular waveguide for the dominant TE10 mode operating at 10 GHz with a cutoff frequency of 5 GHz. Use Z_TE = 377 / sqrt(1 - (f_c/f)^2).",
+    "a": "377 ohms",
+    "b": "435.3 ohms",
+    "c": "326.5 ohms",
+    "d": "500.0 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial transmission line is operating at a frequency of 1.0 GHz. If its physical length is exactly 15 cm and its velocity factor is 0.66, calculate its electrical length in wavelengths.",
+    "a": "0.50 wavelength",
+    "b": "0.76 wavelength",
+    "c": "1.00 wavelength",
+    "d": "0.25 wavelength",
+    "ans": "b"
+  },
+  {
+    "q": "What physical length of a short-circuited 50 ohm coaxial stub (with VF = 0.66) is required to act as a parallel resonant tank at a frequency of 100 MHz?",
+    "a": "1.65 meters",
+    "b": "0.495 meters",
+    "c": "0.990 meters",
+    "d": "1.980 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A short-circuited transmission line stub is cut to exactly one-eighth of a wavelength (0.125 lambda) at its operating frequency. What is its input reactance?",
+    "a": "Purely capacitive and equal to -j * Z0",
+    "b": "Purely inductive and equal to +j * Z0",
+    "c": "Purely resistive and equal to Z0",
+    "d": "Zero ohms (acting as a short circuit)",
+    "ans": "b"
+  },
+  {
+    "q": "An open-circuited transmission line stub is cut to exactly one-eighth of a wavelength (0.125 lambda). What is its input reactance?",
+    "a": "Purely inductive and equal to +j * Z0",
+    "b": "Purely capacitive and equal to -j * Z0",
+    "c": "Purely resistive and equal to Z0",
+    "d": "Infinite (acting as an open circuit)",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of a microstrip line with a copper trace width w = 2.0 mm, dielectric thickness h = 1.0 mm, and dielectric constant er = 4.0 using the simplified microstrip approximation.",
+    "a": "33.5 ohms",
+    "b": "49.6 ohms",
+    "c": "75.0 ohms",
+    "d": "92.4 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the standing wave ratio (SWR) on a 50 ohm line if the load impedance is 100 + j0 ohms.",
+    "a": "1.5",
+    "b": "2.0",
+    "c": "3.0",
+    "d": "4.0",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the standing wave ratio (SWR) on a 50 ohm line if the load impedance is 10 + j0 ohms.",
+    "a": "1.5",
+    "b": "5.0",
+    "c": "2.0",
+    "d": "10.0",
+    "ans": "c"
+  },
+  {
+    "q": "A matched 50 ohm line is terminated in a load impedance of 50 + j50 ohms. Calculate the voltage reflection coefficient magnitude.",
+    "a": "0.333",
+    "b": "0.447",
+    "c": "0.500",
+    "d": "0.707",
+    "ans": "b"
+  },
+  {
+    "q": "For the system in the previous question (load = 50 + j50 ohms, reflection coefficient = 0.447), calculate the SWR.",
+    "a": "2.00",
+    "b": "2.62",
+    "c": "3.00",
+    "d": "1.50",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a physical attenuation loss of 0.1 dB per meter. Calculate the total signal power loss in a 50-meter length of this cable.",
+    "a": "2.0 dB",
+    "b": "5.0 dB",
+    "c": "10.0 dB",
+    "d": "3.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter feeds 100 Watts into a coaxial feedline with 3 dB of total attenuation. How much power reaches the antenna?",
+    "a": "70.7 Watts",
+    "b": "50.0 Watts",
+    "c": "25.0 Watts",
+    "d": "10.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A transmitter feeds 200 Watts into a feedline with 6 dB of total attenuation. How much power reaches the antenna?",
+    "a": "100 Watts",
+    "b": "50 Watts",
+    "c": "25 Watts",
+    "d": "12.5 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the percentage of transmitted power that is reflected back from an antenna system if the measured SWR is 3.0.",
+    "a": "10%",
+    "b": "25%",
+    "c": "50%",
+    "d": "5%",
+    "ans": "b"
+  },
+  {
+    "q": "What percentage of transmitter power is reflected back from an antenna system if the measured SWR is 1.5?",
+    "a": "2.0%",
+    "b": "4.0%",
+    "c": "8.0%",
+    "d": "10.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A matched 50 ohm transmission line is terminated in an antenna. If the measured SWR is 2.0, calculate the percentage of forward power that is reflected back.",
+    "a": "5.5%",
+    "b": "11.1%",
+    "c": "22.2%",
+    "d": "33.3%",
+    "ans": "b"
+  },
+  {
+    "q": "The forward power on a transmission line is measured as 80 Watts, and the reflected power is 20 Watts. Calculate the return loss of the system.",
+    "a": "3.01 dB",
+    "b": "6.02 dB",
+    "c": "12.04 dB",
+    "d": "1.25 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the mismatch loss in dB for a transmission line with an SWR of 2.0 using the formula Mismatch Loss = -10 * log(1 - Gamma^2).",
+    "a": "0.10 dB",
+    "b": "0.51 dB",
+    "c": "1.02 dB",
+    "d": "2.00 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the mismatch loss in dB for a transmission line with an SWR of 3.0.",
+    "a": "0.51 dB",
+    "b": "1.25 dB",
+    "c": "2.50 dB",
+    "d": "0.10 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Find the characteristic impedance of a shielded two-wire parallel line in air if the wire spacing S = 12 mm and the conductor diameter d = 3 mm. Use the formula Z0 = 276 * log(2S / d).",
+    "a": "138 ohms",
+    "b": "249 ohms",
+    "c": "276 ohms",
+    "d": "300 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of a transmission line if the open-circuit input impedance of a cut section is Z_oc = -j200 ohms and the short-circuit input impedance is Z_sc = +j50 ohms. Use Z0 = sqrt(Z_oc * Z_sc).",
+    "a": "50 ohms",
+    "b": "100 ohms",
+    "c": "150 ohms",
+    "d": "75 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of a transmission line if Z_oc = 300 ohms at a phase angle of -60 degrees and Z_sc = 120 ohms at a phase angle of +60 degrees.",
+    "a": "150 ohms at 0 degrees",
+    "b": "189.7 ohms at 0 degrees",
+    "c": "210.0 ohms at 0 degrees",
+    "d": "189.7 ohms at 60 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a characteristic impedance of 50 ohms. If its inductance is 0.25 uH/m, calculate its capacitance per meter.",
+    "a": "50 pF/m",
+    "b": "100 pF/m",
+    "c": "150 pF/m",
+    "d": "200 pF/m",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a characteristic impedance of 75 ohms. If its capacitance is 60 pF/m, calculate its inductance per meter.",
+    "a": "0.150 uH/m",
+    "b": "0.337 uH/m",
+    "c": "0.675 uH/m",
+    "d": "0.080 uH/m",
+    "ans": "b"
+  },
+  {
+    "q": "Find the physical length in meters of a quarter-wave matching transformer designed to operate at 400 MHz in a medium with a velocity factor of 0.8.",
+    "a": "0.250 meters (25.0 cm)",
+    "b": "0.150 meters (15.0 cm)",
+    "c": "0.125 meters (12.5 cm)",
+    "d": "0.300 meters (30.0 cm)",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a half-wave resonant line designed for 150 MHz if the velocity factor of the line is 0.66.",
+    "a": "1.00 meter",
+    "b": "0.66 meter",
+    "c": "2.00 meters",
+    "d": "1.33 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A rectangular waveguide has dimensions a = 1.5 cm and b = 0.8 cm. Calculate the cutoff wavelength (lambda_c) for the TE01 mode.",
+    "a": "1.5 cm",
+    "b": "1.6 cm",
+    "c": "3.0 cm",
+    "d": "0.8 cm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the cutoff frequency of the TE01 mode in the waveguide described in the previous question (b = 0.8 cm, air-filled).",
+    "a": "10.00 GHz",
+    "b": "18.75 GHz",
+    "c": "9.37 GHz",
+    "d": "37.50 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "A rectangular waveguide operates at 12 GHz with a cutoff frequency of 8 GHz. Calculate the guide wavelength (lambda_g) inside the guide. (Note: lambda_0 = 2.5 cm).",
+    "a": "1.67 cm",
+    "b": "3.35 cm",
+    "c": "2.50 cm",
+    "d": "5.00 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A waveguide has guide wavelength lambda_g = 6.0 cm and operating frequency wavelength lambda_0 = 3.0 cm. Calculate the cutoff wavelength (lambda_c) of the waveguide.",
+    "a": "3.00 cm",
+    "b": "3.46 cm",
+    "c": "1.50 cm",
+    "d": "5.19 cm",
+    "ans": "b"
+  },
+  {
+    "q": "For the waveguide in the previous question, calculate the cutoff frequency of the dominant mode if it is air-filled.",
+    "a": "10.00 GHz",
+    "b": "8.67 GHz",
+    "c": "5.00 GHz",
+    "d": "11.54 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the group velocity inside a waveguide if the phase velocity is measured at 4.0 x 10^8 m/s in an air-filled guide.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.25 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.00 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase velocity inside a waveguide if the group velocity of the energy wave is 2.0 x 10^8 m/s.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "4.50 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "An air-filled rectangular waveguide has cutoff frequency f_c = 6.0 GHz and operating frequency f = 10.0 GHz. Calculate the wave impedance (Z_TE) of the dominant TE10 mode.",
+    "a": "377 ohms",
+    "b": "471.25 ohms",
+    "c": "301.60 ohms",
+    "d": "600.00 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the waveguide in the previous question (f = 10 GHz, f_c = 6 GHz), calculate the wave impedance of the Transverse Magnetic (TM11) mode using Z_TM = 377 * sqrt(1 - (f_c/f)^2).",
+    "a": "377 ohms",
+    "b": "301.60 ohms",
+    "c": "471.25 ohms",
+    "d": "250.00 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has a relative dielectric constant er = 2.3. If we replace the dielectric with solid foam (er = 1.5), find the percentage change in the velocity of propagation.",
+    "a": "Velocity decreases by 10%",
+    "b": "Velocity increases by 23.8%",
+    "c": "Velocity decreases by 23.8%",
+    "d": "Velocity increases by 10%",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm transmission line has a reflection coefficient magnitude |Gamma| = 0.25. If the generator delivers an incident wave of 10 V peak to the line, calculate the peak voltage of the reflected wave.",
+    "a": "5.0 V",
+    "b": "2.5 V",
+    "c": "1.25 V",
+    "d": "7.5 V",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the peak voltage of the standing wave maximum (Vmax) on the line described in the previous question (V_incident = 10 V, V_reflected = 2.5 V).",
+    "a": "10.0 V",
+    "b": "12.5 V",
+    "c": "7.5 V",
+    "d": "5.0 V",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the peak voltage of the standing wave minimum (Vmin) on the line described in the previous questions (V_incident = 10 V, V_reflected = 2.5 V).",
+    "a": "10.0 V",
+    "b": "7.5 V",
+    "c": "12.5 V",
+    "d": "5.0 V",
+    "ans": "b"
+  },
+  {
+    "q": "Verify the standing wave ratio (SWR) for the system in the previous questions using the calculated Vmax and Vmin (Vmax = 12.5 V, Vmin = 7.5 V).",
+    "a": "1.25",
+    "b": "1.67",
+    "c": "2.00",
+    "d": "1.50",
+    "ans": "b"
+  },
+  {
+    "q": "An air-spaced two-wire parallel line is designed to have a characteristic impedance of 600 ohms. If the conductor diameter is 2.0 mm, calculate the required center-to-center spacing S using Z0 = 276 * log(2S / d).",
+    "a": "75 mm",
+    "b": "150 mm",
+    "c": "300 mm",
+    "d": "60 mm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the attenuation in dB of an RF signal that passes through a lossy transmission line if the input power is 50 W and the output power is 10 W.",
+    "a": "5 dB",
+    "b": "7 dB",
+    "c": "10 dB",
+    "d": "3 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A coaxial cable has an attenuation loss of 0.05 dB per foot. Find the remaining signal power at the end of a 200-foot run if the input power is 100 Watts.",
+    "a": "50 Watts",
+    "b": "10 Watts",
+    "c": "25 Watts",
+    "d": "5 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A television antenna feed line has a length of 50 meters and a loss of 0.08 dB per meter at 500 MHz. If the received signal power at the antenna is 10 uW, calculate the power reaching the receiver terminals.",
+    "a": "5.0 uW",
+    "b": "3.98 uW",
+    "c": "2.50 uW",
+    "d": "7.94 uW",
+    "ans": "b"
+  },
+  {
+    "q": "An RF matching network uses a shorted stub with an input admittance Y_stub = -j0.02 Siemens to match a line. Calculate the matching stub's equivalent input susceptance.",
+    "a": "0.02 Siemens inductive",
+    "b": "-0.02 Siemens capacitive",
+    "c": "50 ohms inductive",
+    "d": "-50 ohms capacitive",
+    "ans": "a"
+  },
+  {
+    "q": "A 50 ohm transmission line is terminated in a short-circuit stub matching network. If the input admittance has a real part matched to 0.02 Siemens, what does this indicate?",
+    "a": "The real part of the normalized input impedance is exactly 1.0 (matched line conductance)",
+    "b": "The reflection coefficient is equal to -1",
+    "c": "SWR is equal to infinity",
+    "d": "The stub impedance is exactly 50 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "A rectangular waveguide has dimensions a = 1.0 inch and b = 0.5 inches (1 inch = 2.54 cm). Find the cutoff frequency of its dominant mode TE10 in GHz.",
+    "a": "3.00 GHz",
+    "b": "5.90 GHz",
+    "c": "11.80 GHz",
+    "d": "8.50 GHz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the return loss in dB for a transmission line that has an SWR of exactly 1.15.",
+    "a": "10 dB",
+    "b": "23 dB",
+    "c": "30 dB",
+    "d": "40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the return loss in dB for a transmission line with an SWR of 1.05?",
+    "a": "20 dB",
+    "b": "32 dB",
+    "c": "40 dB",
+    "d": "15 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the return loss on a line if the incident power is 10 Watts and the reflected power is 1 Watt.",
+    "a": "5 dB",
+    "b": "10 dB",
+    "c": "20 dB",
+    "d": "1 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the return loss on a line if the incident power is 10 Watts and the reflected power is 0.1 Watts.",
+    "a": "10 dB",
+    "b": "20 dB",
+    "c": "30 dB",
+    "d": "40 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 ohm line is connected to an antenna. If the measured SWR is 1.25, find the return loss in dB.",
+    "a": "12.04 dB",
+    "b": "19.08 dB",
+    "c": "26.02 dB",
+    "d": "9.54 dB",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of a transmission line if its inductance is 300 nH/m and its capacitance is 120 pF/m.",
+    "a": "25 ohms",
+    "b": "50 ohms",
+    "c": "75 ohms",
+    "d": "100 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the characteristic impedance of a transmission line if its inductance is 400 nH/m and its capacitance is 64 pF/m.",
+    "a": "50 ohms",
+    "b": "79 ohms",
+    "c": "75 ohms",
+    "d": "100 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the characteristic impedance of a microstrip line with w/h = 1.5 and a dielectric er = 4.0 using the simplified microstrip approximation.",
+    "a": "33.5 ohms",
+    "b": "55.6 ohms",
+    "c": "75.0 ohms",
+    "d": "92.4 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the physical length in meters of a quarter-wave matching transformer designed to operate at 800 MHz in a medium with a velocity factor of 0.8.",
+    "a": "0.125 meters (12.5 cm)",
+    "b": "0.075 meters (7.5 cm)",
+    "c": "0.062 meters (6.25 cm)",
+    "d": "0.150 meters (15.0 cm)",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the physical length of a half-wave resonant line designed for 300 MHz if the velocity factor of the line is 0.66.",
+    "a": "0.50 meter",
+    "b": "0.33 meter",
+    "c": "1.00 meter",
+    "d": "0.66 meter",
+    "ans": "b"
+  },
+  {
+    "q": "A rectangular waveguide operates at 15 GHz with a cutoff frequency of 10 GHz. Calculate the guide wavelength (lambda_g) inside the guide. (Note: lambda_0 = 2.0 cm).",
+    "a": "1.34 cm",
+    "b": "2.68 cm",
+    "c": "2.00 cm",
+    "d": "4.00 cm",
+    "ans": "b"
+  },
+  {
+    "q": "A waveguide has guide wavelength lambda_g = 8.0 cm and operating frequency wavelength lambda_0 = 4.0 cm. Calculate the cutoff wavelength (lambda_c) of the waveguide.",
+    "a": "3.00 cm",
+    "b": "4.62 cm",
+    "c": "2.00 cm",
+    "d": "5.19 cm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the group velocity inside a waveguide if the phase velocity is measured at 5.0 x 10^8 m/s in an air-filled guide.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "1.80 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.00 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase velocity inside a waveguide if the group velocity of the energy wave is 1.5 x 10^8 m/s.",
+    "a": "3.00 x 10^8 m/s",
+    "b": "6.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "2.25 x 10^8 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the wave impedance (Z_TE) of an air-filled rectangular waveguide for the dominant TE10 mode operating at 12 GHz with a cutoff frequency of 6 GHz. Use Z_TE = 377 / sqrt(1 - (f_c/f)^2).",
+    "a": "377 ohms",
+    "b": "435.3 ohms",
+    "c": "326.5 ohms",
+    "d": "500.0 ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the waveguide in the previous question (f = 12 GHz, f_c = 6 GHz), calculate the wave impedance of the Transverse Magnetic (TM11) mode using Z_TM = 377 * sqrt(1 - (f_c/f)^2).",
+    "a": "377 ohms",
+    "b": "326.5 ohms",
+    "c": "435.3 ohms",
+    "d": "250.0 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier stage has an absolute Noise Factor of 1.5. Calculate the Equivalent Noise Temperature of the stage relative to T0 = 290 K.",
+    "a": "145 K",
+    "b": "150 K",
+    "c": "75 K",
+    "d": "290 K",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cascaded Noise Factor of two identical amplifiers connected in tandem. Each amplifier has F = 1.5 and a power gain G = 10 (absolute ratios).",
+    "a": "1.55",
+    "b": "1.50",
+    "c": "2.00",
+    "d": "1.65",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.55).",
+    "a": "1.90 dB",
+    "b": "1.50 dB",
+    "c": "3.00 dB",
+    "d": "2.20 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active device has an input signal voltage of 10 uV RMS and an input noise voltage of 1 uV RMS. If the output signal voltage is 1.0 V RMS and the output noise voltage is 200 mV RMS, calculate the Noise Factor (F) of the device.",
+    "a": "4.0",
+    "b": "2.0",
+    "c": "10.0",
+    "d": "5.0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the active device in the previous question (F = 4.0).",
+    "a": "6.02 dB",
+    "b": "3.01 dB",
+    "c": "10.00 dB",
+    "d": "1.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the shot noise current generated by a 10 mA DC bias current in a silicon photodetector operating over an equivalent bandwidth of 1 MHz.",
+    "a": "56.57 nanoamperes",
+    "b": "56.57 microamperes",
+    "c": "56.57 picoamperes",
+    "d": "56.57 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "An LNA operates at a cryogenically cooled temperature of 77 K (liquid nitrogen). If its noise temperature is 20 K, find its Noise Figure in dB relative to T0 = 290 K.",
+    "a": "0.29 dB",
+    "b": "1.05 dB",
+    "c": "0.55 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Two resistors in series (R1 = 50 ohms, R2 = 150 ohms) are at 27 degrees Celsius. Calculate the total thermal noise voltage generated over a bandwidth of 1 MHz.",
+    "a": "1.82 microvolts",
+    "b": "3.64 microvolts",
+    "c": "0.91 microvolts",
+    "d": "0.45 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 25 kHz. If the thermal noise power at its input at 290 K is to be calculated in Watts, what is its value?",
+    "a": "1.00 x 10^-16 Watts",
+    "b": "2.00 x 10^-16 Watts",
+    "c": "4.00 x 10^-16 Watts",
+    "d": "1.38 x 10^-16 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A digital link has a transmission rate of 100 kbps. If the system is measured to have 5 bit errors over a continuous period of 10 seconds, calculate the Bit Error Rate (BER).",
+    "a": "5.00 x 10^-6",
+    "b": "5.00 x 10^-5",
+    "c": "5.00 x 10^-7",
+    "d": "5.00 x 10^-4",
+    "ans": "a"
+  },
+  {
+    "q": "An amplifier has a noise figure of 2.5 dB. If the input S/N ratio is 18 dB, find the output S/N ratio in dB.",
+    "a": "15.5 dB",
+    "b": "20.5 dB",
+    "c": "12.5 dB",
+    "d": "10.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier has a first stage with Noise Figure F1 = 1.3 and power gain G1 = 8 (absolute ratios). The second stage mixer has F2 = 5.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.80",
+    "b": "1.30",
+    "c": "2.10",
+    "d": "1.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the total cascaded Noise Figure in dB for the receiver in the previous question (F_total = 1.80).",
+    "a": "2.55 dB",
+    "b": "1.80 dB",
+    "c": "3.12 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A sensitive audio preamplifier has a total voltage gain of 200 and operates over a bandwidth of 15 kHz. If the input resistance of the first stage is 10 kilohms and it operates at 27 degrees Celsius, calculate the output RMS noise voltage under open-circuit conditions.",
+    "a": "313.3 microvolts",
+    "b": "313.3 millivolts",
+    "c": "156.6 microvolts",
+    "d": "626.6 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A standard 12-bit linear PCM system operates over a dynamic range of 10 V. Calculate the maximum theoretical SQR in dB.",
+    "a": "74.00 dB",
+    "b": "72.24 dB",
+    "c": "75.76 dB",
+    "d": "70.24 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An optical detector dark current is measured to be 100 pA. Calculate the shot noise current generated by this dark current over a bandwidth of 5 MHz.",
+    "a": "12.65 picoamperes",
+    "b": "12.65 nanoamperes",
+    "c": "12.65 microamperes",
+    "d": "12.65 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates over a bandwidth of 100 kHz. If the absolute Equivalent Noise Temperature of the system is 290 K, calculate the total thermal noise power in dBm.",
+    "a": "-124 dBm",
+    "b": "-114 dBm",
+    "c": "-134 dBm",
+    "d": "-104 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A lossy coaxial cable has an attenuation loss of 3 dB at room temperature (290 K). What is the equivalent absolute Noise Factor of this cable?",
+    "a": "2.00",
+    "b": "3.00",
+    "c": "1.41",
+    "d": "1.00",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the 3 dB coaxial cable described in the previous question (F = 2.00, T0 = 290 K).",
+    "a": "290 K",
+    "b": "145 K",
+    "c": "580 K",
+    "d": "72.5 K",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver has a first stage RF amplifier with F1 = 1.4 and G1 = 15 (absolute values), followed by a second stage mixer with F2 = 8.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.87",
+    "b": "1.40",
+    "c": "2.10",
+    "d": "2.50",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.87).",
+    "a": "2.72 dB",
+    "b": "1.87 dB",
+    "c": "3.12 dB",
+    "d": "4.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Equivalent Noise Temperature of the cascaded system from the previous questions (F_total = 1.87) relative to T0 = 290 K.",
+    "a": "252.3 K",
+    "b": "145.0 K",
+    "c": "72.5 K",
+    "d": "290.0 K",
+    "ans": "a"
+  },
+  {
+    "q": "A pre-emphasis circuit has R = 10 kilohms and C = 7.5 nanofarads. Calculate the time constant of this filter.",
+    "a": "75 microseconds",
+    "b": "50 microseconds",
+    "c": "100 microseconds",
+    "d": "25 microseconds",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the 3 dB cutoff frequency for the pre-emphasis circuit described in the previous question (tau = 75 microseconds).",
+    "a": "2122 Hz",
+    "b": "3183 Hz",
+    "c": "1000 Hz",
+    "d": "1500 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An RF amplifier operates with a Signal-to-Noise Ratio of 50 dB. Convert this SNR into an absolute power ratio.",
+    "a": "3162 to 1",
+    "b": "1000 to 1",
+    "c": "5000 to 1",
+    "d": "316 to 1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistor at a standard room temperature of 17 degrees Celsius (290 K) over a bandwidth of 5 MHz.",
+    "a": "3.47 microvolts",
+    "b": "1.73 microvolts",
+    "c": "6.94 microvolts",
+    "d": "0.86 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "a": "1.73 microvolts",
+    "b": "3.47 microvolts",
+    "c": "0.86 microvolts",
+    "d": "0.43 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A satellite system has an overall Equivalent Noise Temperature of 120 K. If the system operates over a bandwidth of 50 MHz, calculate the total noise power at the receiver input.",
+    "a": "8.28 x 10^-14 Watts",
+    "b": "8.28 x 10^-11 Watts",
+    "c": "4.14 x 10^-14 Watts",
+    "d": "1.65 x 10^-13 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the total noise power from the previous question (Pn = 8.28 x 10^-14 Watts) into decibels relative to 1 milliwatt (dBm).",
+    "a": "-100.82 dBm",
+    "b": "-110.82 dBm",
+    "c": "-90.82 dBm",
+    "d": "-120.82 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "A spectrum analyzer measures the noise floor of a receiver as -115 dBm over a bandwidth of 50 kHz. Find the noise power spectral density in dBm/Hz.",
+    "a": "-162 dBm/Hz",
+    "b": "-142 dBm/Hz",
+    "c": "-182 dBm/Hz",
+    "d": "-172 dBm/Hz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the equivalent noise temperature of the receiver from the previous question (N0 = -162 dBm/Hz = 6.31 x 10^-20 W/Hz).",
+    "a": "457.2 K",
+    "b": "290.0 K",
+    "c": "145.0 K",
+    "d": "914.4 K",
+    "ans": "a"
+  },
+  {
+    "q": "A three-stage receiver has the following parameters: Stage 1: F1 = 1.25, G1 = 15 (absolute values). Stage 2: F2 = 4.0, G2 = 10. Stage 3: F3 = 10.0. Calculate the total cascaded Noise Factor.",
+    "a": "1.51",
+    "b": "1.25",
+    "c": "1.85",
+    "d": "2.10",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the three-stage system in the previous question (F_total = 1.51).",
+    "a": "1.79 dB",
+    "b": "1.50 dB",
+    "c": "2.50 dB",
+    "d": "3.12 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver operates with an overall system Noise Figure of 3.5 dB. If the input S/N ratio is 22 dB, calculate the output S/N ratio of the receiver in dB.",
+    "a": "18.5 dB",
+    "b": "25.5 dB",
+    "c": "15.0 dB",
+    "d": "12.0 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 20 MHz and a Signal-to-Noise Ratio of 12 dB (which is a power ratio of 15.85 to 1). Calculate the Shannon capacity limit.",
+    "a": "81.5 Mbps",
+    "b": "40.75 Mbps",
+    "c": "163.0 Mbps",
+    "d": "240.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "An audio signal has a total power of 5.0 W at the fundamental frequency. If the total power of all harmonic distortion products is 125 mW, calculate the percentage of Total Harmonic Distortion (%THD) of the system.",
+    "a": "15.81%",
+    "b": "2.50%",
+    "c": "5.00%",
+    "d": "7.91%",
+    "ans": "a"
+  },
+  {
+    "q": "A receiver is tested using a calibrated noise generator. If the input S/N ratio of the receiver is 15 dB and the output S/N ratio is 11.2 dB, calculate the Noise Figure of the receiver.",
+    "a": "3.8 dB",
+    "b": "26.2 dB",
+    "c": "1.90 dB",
+    "d": "7.6 dB",
+    "ans": "a"
+  },
+  {
+    "q": "A television receiver operates with an overall system Noise Figure of 6 dB. If the noise power at the receiver input is -108 dBm, what is the minimum received signal power required to maintain an output S/N ratio of 35 dB?",
+    "a": "-67 dBm",
+    "b": "-73 dBm",
+    "c": "-55 dBm",
+    "d": "-79 dBm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 150 ohm resistive antenna feedline at a standard temperature of 17 degrees Celsius (290 K) over an FM radio channel bandwidth of 250 kHz.",
+    "a": "0.78 microvolts",
+    "b": "1.56 microvolts",
+    "c": "0.39 microvolts",
+    "d": "3.12 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "a": "0.39 microvolts",
+    "b": "0.78 microvolts",
+    "c": "0.19 microvolts",
+    "d": "1.56 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "A high-speed digital communications channel has a bandwidth of 5 MHz and a Signal-to-Noise Ratio of 18 dB (which is a power ratio of 63.10 to 1). Calculate the Shannon capacity limit.",
+    "a": "30.0 Mbps",
+    "b": "15.0 Mbps",
+    "c": "60.0 Mbps",
+    "d": "90.0 Mbps",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the open-circuit thermal noise voltage generated by a 50 ohm resistor at a hot operating temperature of 100 degrees Celsius (373 K) over a bandwidth of 10 MHz.",
+    "a": "1.01 microvolts",
+    "b": "2.02 microvolts",
+    "c": "0.51 microvolts",
+    "d": "0.25 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cascaded Noise Factor of two identical amplifiers connected in tandem. Each amplifier has F = 1.35 and a power gain G = 15 (absolute ratios).",
+    "a": "1.373",
+    "b": "1.350",
+    "c": "1.700",
+    "d": "1.500",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the overall system Noise Figure in dB for the cascaded system in the previous question (F_total = 1.373).",
+    "a": "1.38 dB",
+    "b": "1.35 dB",
+    "c": "2.50 dB",
+    "d": "1.80 dB",
+    "ans": "a"
+  },
+  {
+    "q": "An active device has an input signal voltage of 15 uV RMS and an input noise voltage of 1.5 uV RMS. If the output signal voltage is 1.5 V RMS and the output noise voltage is 300 mV RMS, calculate the Noise Factor (F) of the device.",
+    "a": "4.0",
+    "b": "2.0",
+    "c": "10.0",
+    "d": "5.0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Noise Figure in dB for the active device in the previous question (F = 4.0).",
+    "a": "6.02 dB",
+    "b": "3.01 dB",
+    "c": "10.00 dB",
+    "d": "1.76 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the shot noise current generated by a 20 mA DC bias current flowing through a diode operating over an equivalent bandwidth of 2 MHz.",
+    "a": "113.14 nanoamperes",
+    "b": "113.14 microamperes",
+    "c": "113.14 picoamperes",
+    "d": "113.14 milliamperes",
+    "ans": "a"
+  },
+  {
+    "q": "An LNA operates at a cryogenically cooled temperature of 77 K. If its noise temperature is 15 K, find its Noise Figure in dB relative to T0 = 290 K.",
+    "a": "0.22 dB",
+    "b": "1.05 dB",
+    "c": "0.55 dB",
+    "d": "1.50 dB",
+    "ans": "a"
+  },
+  {
+    "q": "Two resistors in series (R1 = 100 ohms, R2 = 300 ohms) are at 27 degrees Celsius. Calculate the total thermal noise voltage generated over a bandwidth of 2 MHz.",
+    "a": "3.64 microvolts",
+    "b": "1.82 microvolts",
+    "c": "0.27 microvolts",
+    "d": "1.15 microvolts",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a 5/8 wavelength vertical antenna operating at 220 MHz in meters. Use the formula L = 5/8 * lambda.",
+    "a": "0.852 meters",
+    "b": "1.704 meters",
+    "c": "0.426 meters",
+    "d": "0.213 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish has a diameter of 3.6 meters and operates at 10 GHz. Calculate the beamwidth between half-power points.",
+    "a": "0.583°",
+    "b": "1.166°",
+    "c": "0.291°",
+    "d": "2.332°",
+    "ans": "a"
+  },
+  {
+    "q": "A helical antenna operating in axial mode has 20 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
+    "a": "75.0 (which is 18.75 dBi)",
+    "b": "37.5 (which is 15.74 dBi)",
+    "c": "150.0 (which is 21.76 dBi)",
+    "d": "30.0 (which is 14.77 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda.",
+    "a": "140 ohms",
+    "b": "70 ohms",
+    "c": "150 ohms",
+    "d": "300 ohms",
+    "ans": "a"
+  },
+  {
+    "q": "An HF rhombic antenna is designed with a leg length of 5 wavelengths at 14 MHz. Find the leg length in meters.",
+    "a": "107.14 meters",
+    "b": "21.43 meters",
+    "c": "42.86 meters",
+    "d": "214.28 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the boundary distance between the Fresnel near-field and Fraunhofer far-field zones for an antenna with a maximum dimension of 3.0 meters operating at 4 GHz (lambda = 0.075 meters)? Use the formula R = 2 * D^2 / lambda.",
+    "a": "240 meters",
+    "b": "120 meters",
+    "c": "60 meters",
+    "d": "480 meters",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a maximum dimension of 1.2 meters and operates at 12 GHz (lambda = 0.025 meters). Calculate the far-field boundary distance.",
+    "a": "115.2 meters",
+    "b": "57.6 meters",
+    "c": "230.4 meters",
+    "d": "100.0 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter produces a field strength of 300 microvolts per meter at a distance of 10 km. What is the expected field strength at a distance of 30 km in a free space environment?",
+    "a": "100 microvolts per meter",
+    "b": "150 microvolts per meter",
+    "c": "50 microvolts per meter",
+    "d": "25 microvolts per meter",
+    "ans": "a"
+  },
+  {
+    "q": "A receiving antenna with a gain of 8 dBi is placed in a field with a power density of 10^-8 Watts per square meter. If the frequency is 1.0 GHz (lambda = 0.3 meters), calculate the power delivered to a matched receiver.",
+    "a": "4.51 x 10^-9 Watts",
+    "b": "4.51 x 10^-10 Watts",
+    "c": "9.02 x 10^-10 Watts",
+    "d": "2.25 x 10^-10 Watts",
+    "ans": "a"
+  },
+  {
+    "q": "A 200 W transmitter is connected to a half-wave dipole (gain = 2.15 dBi). If the line loss is 2.15 dB, calculate the EIRP (Effective Isotropic Radiated Power) in dBW.",
+    "a": "23.0 dBW",
+    "b": "20.0 dBW",
+    "c": "25.15 dBW",
+    "d": "18.85 dBW",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the EIRP of 23 dBW from the previous question into Watts.",
+    "a": "199.53 W",
+    "b": "100.00 W",
+    "c": "316.23 W",
+    "d": "150.00 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna array consists of 6 half-wave dipoles stacked vertically. If each dipole provides a gain of 2.15 dBi and stacking them provides an additional 8 dB of array gain, what is the total gain of the array in dBi?",
+    "a": "10.15 dBi",
+    "b": "7.15 dBSPL",
+    "c": "13.15 dBi",
+    "d": "16.15 dBi",
+    "ans": "a"
+  },
+  {
+    "q": "A parabolic dish antenna has a diameter of 4.5 meters and operates at a microwave frequency of 6 GHz. Calculate the beamwidth between half-power points using the approximation BW = 70 * lambda / D.",
+    "a": "0.77°",
+    "b": "1.54°",
+    "c": "0.38°",
+    "d": "2.31°",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 4.5 meters, frequency = 6 GHz, wavelength = 5 cm) using the formula G = 6 * (D / lambda)^2.",
+    "a": "48,600 (which is 46.87 dBi)",
+    "b": "24,300 (which is 43.86 dBi)",
+    "c": "97,200 (which is 49.88 dBi)",
+    "d": "12,150 (which is 40.85 dBi)",
+    "ans": "a"
+  },
+  {
+    "q": "A rhombic antenna has an axial leg length of 300 meters. If the operating frequency is 20 MHz (lambda = 20 meters), how many wavelengths long is each leg?",
+    "a": "15.0 wavelengths",
+    "b": "30.0 wavelengths",
+    "c": "7.5 wavelengths",
+    "d": "22.5 wavelengths",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the physical length of a standard vertical ground-plane antenna designed to resonate at 146 MHz (using L_meters = 71.25 / f_MHz).",
+    "a": "0.4880 meters",
+    "b": "0.9760 meters",
+    "c": "0.2440 meters",
+    "d": "0.1220 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length of a half-wave dipole antenna designed for an FM station operating at 100 MHz (using L_meters = 142.5 / f_MHz).",
+    "a": "1.425 meters",
+    "b": "0.712 meters",
+    "c": "2.850 meters",
+    "d": "1.500 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the physical length in feet of a half-wave dipole antenna tuned to 50 MHz using the formula L_feet = 468 / f_MHz.",
+    "a": "9.36 feet",
+    "b": "4.68 feet",
+    "c": "18.72 feet",
+    "d": "2.34 feet",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has a radiation resistance of 73 ohms and a ground loss resistance of 17 ohms. Find the efficiency of this antenna.",
+    "a": "81.11%",
+    "b": "18.89%",
+    "c": "100.00%",
+    "d": "50.00%",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna operates with a power gain of 10 dBi and is supplied with 100 W of RF power. If the feedline loss is neglected, calculate the EIRP of the antenna in Watts.",
+    "a": "1000 W",
+    "b": "500 W",
+    "c": "2000 W",
+    "d": "100 W",
+    "ans": "a"
+  },
+  {
+    "q": "An antenna has an unmodulated input current of 10 A RMS. When the antenna is modulated by an AM transmitter, the current increases to 11 A. Calculate the factor by which the radiated power has increased.",
+    "a": "1.21 times",
+    "b": "1.10 times",
+    "c": "1.50 times",
+    "d": "2.20 times",
+    "ans": "a"
+  },
+  {
+    "q": "A transmitter has an output power of 5 kW and is connected to a 10 dBd gain antenna. Calculate the ERP in kW.",
+    "a": "50 kW",
+    "b": "5 kW",
+    "c": "100 kW",
+    "d": "25 kW",
+    "ans": "a"
+  },
+  {
+    "q": "What is the modulation index of an AM transmitter if the carrier power is 800 W and the total radiated power is 1000 W?",
+    "a": "0.71",
+    "b": "0.50",
+    "c": "0.60",
+    "d": "0.80",
+    "ans": "a"
+  },
+  {
+    "q": "An propagation medium has a relative permittivity (dielectric constant) of 2.25. If a radio wave propagates through this medium, what is the speed of propagation?",
+    "a": "3.00 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "1.50 x 10^8 m/s",
+    "d": "1.33 x 10^8 m/s",
+    "ans": "b"
+  }
+]

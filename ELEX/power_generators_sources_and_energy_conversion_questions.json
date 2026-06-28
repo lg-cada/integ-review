@@ -1,0 +1,1458 @@
+[
+  {
+    "q": "What is the primary function of the commutator in a DC generator?",
+    "a": "To collect current from the armature conductors",
+    "b": "To convert the internally induced AC voltage to a DC output",
+    "c": "To reduce friction between the brushes and the rotor",
+    "d": "To increase the total magnetic flux in the air gap",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes the core construction method used to minimize eddy current losses in transformers and DC machine armatures?",
+    "a": "Using solid blocks of cast iron",
+    "b": "Laminating the core with thin, insulated sheets of silicon steel",
+    "c": "Coating the winding conductors with thick rubber insulation",
+    "d": "Using non-magnetic ceramic substrates",
+    "ans": "b"
+  },
+  {
+    "q": "Swinburne's test is a highly economical and convenient method of testing DC machines primarily because it is conducted under what condition?",
+    "a": "Full-load conditions",
+    "b": "No-load conditions",
+    "c": "Overload conditions",
+    "d": "Locked-rotor conditions",
+    "ans": "b"
+  },
+  {
+    "q": "In a DC generator, the electromotive force (EMF) is dynamically induced in which of the following parts?",
+    "a": "Field poles",
+    "b": "Armature winding",
+    "c": "Commutator segments",
+    "d": "Carbon brushes",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of DC generator has field windings connected in parallel with the armature circuit?",
+    "a": "Series generator",
+    "b": "Shunt generator",
+    "c": "Compound generator",
+    "d": "Separately-excited generator",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of DC motor is characterized by having extremely high starting torque, making it ideal for heavy traction applications like trains?",
+    "a": "Shunt motor",
+    "b": "Series motor",
+    "c": "Cumulative compound motor",
+    "d": "Differentially compound motor",
+    "ans": "b"
+  },
+  {
+    "q": "What physical phenomenon occurs when the armature current in a DC machine distorts and weakens the main magnetic field established by the pole windings?",
+    "a": "Self-induction",
+    "b": "Armature reaction",
+    "c": "Mutual coupling",
+    "d": "Hysteresis lag",
+    "ans": "b"
+  },
+  {
+    "q": "The speed of a shunt DC motor can be controlled above its rated base speed by using which of the following methods?",
+    "a": "Decreasing the armature resistance",
+    "b": "Reducing the field current (field weakening)",
+    "c": "Increasing the supply voltage to the armature",
+    "d": "Inserting a series inductor in the supply line",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical value of the armature resistance in a standard, medium-power DC motor?",
+    "a": "Very high, around 100 to 500 Ohms",
+    "b": "Very low, typically below 1 Ohm (e.g. 0.5 Ohm)",
+    "c": "Exactly equal to the field winding resistance",
+    "d": "Completely infinite",
+    "ans": "b"
+  },
+  {
+    "q": "Which test is also known as a regenerative test, utilizing two identical coupled DC machines to determine efficiency under full-load conditions?",
+    "a": "Swinburne's test",
+    "b": "Hopkinson's test",
+    "c": "Retardation test",
+    "d": "Block test",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following losses in a DC machine remains approximately constant from no-load to full-load?",
+    "a": "Armature copper loss",
+    "b": "Core loss and mechanical friction loss",
+    "c": "Brush contact resistance loss",
+    "d": "Series field winding copper loss",
+    "ans": "b"
+  },
+  {
+    "q": "In a three-phase AC power system, the phase voltages are displaced from each other by how many electrical degrees?",
+    "a": "90 degrees",
+    "b": "120 degrees",
+    "c": "180 degrees",
+    "d": "240 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What type of rotor in a three-phase induction motor consists of copper or aluminum bars short-circuited at both ends by end rings?",
+    "a": "Wound rotor",
+    "b": "Squirrel-cage rotor",
+    "c": "Salient pole rotor",
+    "d": "Segmented slip-ring rotor",
+    "ans": "b"
+  },
+  {
+    "q": "The synchronous speed of a three-phase induction motor's rotating magnetic field depends on:",
+    "a": "The load applied to the rotor shaft",
+    "b": "The supply frequency and the number of poles",
+    "c": "The rotor winding resistance",
+    "d": "The diameter of the stator frame",
+    "ans": "b"
+  },
+  {
+    "q": "The difference between the synchronous speed of the stator field and the actual speed of the rotor in an induction motor is defined as:",
+    "a": "Pitch",
+    "b": "Slip",
+    "c": "Skew",
+    "d": "Lag",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the frequency of the currents induced in the rotor of an induction motor as the rotor speed approaches synchronous speed?",
+    "a": "It increases to match the stator frequency",
+    "b": "It decreases toward 0 Hz",
+    "c": "It remains constant at 60 Hz",
+    "d": "It oscillates between positive and negative limits",
+    "ans": "b"
+  },
+  {
+    "q": "An induction motor can never run at exactly synchronous speed because if it did:",
+    "a": "The stator current would double, burning the windings",
+    "b": "The relative speed would be zero, meaning no induced rotor EMF and zero torque",
+    "c": "The power factor would drop to zero lagging",
+    "d": "The slip-rings would short-circuit automatically",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of electric motor is designed to move its shaft in highly precise, discrete angular increments rather than continuous rotation?",
+    "a": "AC synchronous motor",
+    "b": "Stepper motor",
+    "c": "Universal motor",
+    "d": "Split-phase motor",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor that uses a permanent magnet rotor and a slotted stator is classified as a:",
+    "a": "Variable reluctance stepper",
+    "b": "Permanent magnet stepper",
+    "c": "Hybrid stepper",
+    "d": "Brushless DC stepper",
+    "ans": "b"
+  },
+  {
+    "q": "Which stepper motor type combines the design features of both variable reluctance and permanent magnet steppers to achieve very small step angles?",
+    "a": "Solenoid stepper",
+    "b": "Hybrid stepper",
+    "c": "Induction stepper",
+    "d": "Shunt-excited stepper",
+    "ans": "b"
+  },
+  {
+    "q": "What occurs when the primary winding of a transformer is connected to a direct current (DC) power source?",
+    "a": "The transformer steps up the DC voltage efficiently",
+    "b": "The primary winding draws excessive current and may burn out due to lack of back EMF",
+    "c": "The secondary winding outputs a constant DC voltage",
+    "d": "The core saturates and vibrates at 120 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following core losses in a transformer is caused by the continuous reversal of magnetic domains in the core material?",
+    "a": "Eddy current loss",
+    "b": "Hysteresis loss",
+    "c": "Copper loss",
+    "d": "Friction loss",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following core losses in a transformer is caused by circulating currents induced in the core steel by time-varying magnetic flux?",
+    "a": "Hysteresis loss",
+    "b": "Eddy current loss",
+    "c": "Copper loss",
+    "d": "Stray load loss",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary purpose of using silicon steel (about 3-4% silicon) for transformer cores?",
+    "a": "To increase mechanical rigidity",
+    "b": "To reduce hysteresis loss by lowering magnetic coercivity",
+    "c": "To decrease the copper winding resistance",
+    "d": "To act as a thermal barrier",
+    "ans": "b"
+  },
+  {
+    "q": "The copper losses in a transformer vary in what proportion to the load current?",
+    "a": "Directly proportional to the load current",
+    "b": "Proportional to the square of the load current",
+    "c": "Inversely proportional to the load current",
+    "d": "Independent of the load current",
+    "ans": "b"
+  },
+  {
+    "q": "At what load condition does a transformer achieve its maximum operating efficiency?",
+    "a": "At no-load conditions",
+    "b": "When copper losses are exactly equal to core (iron) losses",
+    "c": "At maximum rated overload",
+    "d": "When copper losses are twice the core losses",
+    "ans": "b"
+  },
+  {
+    "q": "What type of transformer consists of a single continuous winding shared by both the primary and secondary circuits, offering no electrical isolation?",
+    "a": "Isolation transformer",
+    "b": "Autotransformer",
+    "c": "Current transformer",
+    "d": "Mains transformer",
+    "ans": "b"
+  },
+  {
+    "q": "A cell or battery that cannot be recharged because its chemical reactions are irreversible is classified as a:",
+    "a": "Secondary cell",
+    "b": "Primary cell",
+    "c": "Fuel cell",
+    "d": "Photovoltaic cell",
+    "ans": "b"
+  },
+  {
+    "q": "A cell or battery that can be recharged by passing electrical current backward through it to reverse the chemical reactions is a:",
+    "a": "Primary cell",
+    "b": "Secondary cell",
+    "c": "Dry cell",
+    "d": "Alkaline cell",
+    "ans": "b"
+  },
+  {
+    "q": "What is the nominal open-circuit voltage of a single, fully charged lead-acid battery cell?",
+    "a": "1.2 Volts",
+    "b": "2.0 Volts",
+    "c": "1.5 Volts",
+    "d": "3.7 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the nominal open-circuit voltage of a single nickel-cadmium (NiCd) or nickel-metal hydride (NiMH) cell?",
+    "a": "1.5 Volts",
+    "b": "1.2 Volts",
+    "c": "2.0 Volts",
+    "d": "3.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the nominal open-circuit voltage of a standard non-rechargeable carbon-zinc or alkaline primary cell?",
+    "a": "1.2 Volts",
+    "b": "1.5 Volts",
+    "c": "2.0 Volts",
+    "d": "3.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What type of battery cell uses nickel hydroxide as the positive electrode, cadmium as the negative electrode, and potassium hydroxide as the electrolyte?",
+    "a": "Lead-acid cell",
+    "b": "Nickel-cadmium (NiCd) cell",
+    "c": "Edison cell",
+    "d": "Silver-zinc cell",
+    "ans": "b"
+  },
+  {
+    "q": "Which battery cell type is widely used in emergency systems and aerospace due to its high energy density and stable 1.05V to 1.1V discharge plateau?",
+    "a": "Lead-acid cell",
+    "b": "Silver-zinc cell",
+    "c": "Mercury cell",
+    "d": "Carbon-zinc cell",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of primary wet cell utilizes zinc and copper electrodes with a sulfuric acid and copper sulfate electrolyte, outputting a highly stable 1.1 Volts?",
+    "a": "Leclanche cell",
+    "b": "Daniell cell",
+    "c": "Weston cell",
+    "d": "Bunsen cell",
+    "ans": "b"
+  },
+  {
+    "q": "What specialized cell is used as a highly precise laboratory standard of electromotive force, outputting exactly 1.0186 Volts at 20 degrees Celsius?",
+    "a": "Daniell cell",
+    "b": "Weston cadmium cell",
+    "c": "Clark cell",
+    "d": "Edison cell",
+    "ans": "b"
+  },
+  {
+    "q": "Which primary cell has a very flat discharge curve, is highly compact, but has been widely phased out due to its environmental mercury pollution?",
+    "a": "Alkaline cell",
+    "b": "Mercury cell",
+    "c": "Lithium cell",
+    "d": "Silver-oxide cell",
+    "ans": "b"
+  },
+  {
+    "q": "What type of energy conversion device continuously converts the chemical energy of a fuel (like hydrogen) and an oxidant directly into electrical energy?",
+    "a": "Secondary battery",
+    "b": "Fuel cell",
+    "c": "Solar cell",
+    "d": "MHD generator",
+    "ans": "b"
+  },
+  {
+    "q": "The first practical hydrogen-oxygen fuel cell was developed in 1959 by which scientist?",
+    "a": "Alessandro Volta",
+    "b": "Francis Thomas Bacon",
+    "c": "John Frederic Daniell",
+    "d": "Georges Leclanche",
+    "ans": "b"
+  },
+  {
+    "q": "A solar or photovoltaic cell converts light energy directly into electrical energy based on which physical transduction principle?",
+    "a": "Piezoelectric effect",
+    "b": "Photovoltaic effect",
+    "c": "Seebeck effect",
+    "d": "Pyroelectric effect",
+    "ans": "b"
+  },
+  {
+    "q": "The maximum power that a solar cell can deliver to a load is determined by the product of its open-circuit voltage, short-circuit current, and what factor?",
+    "a": "Fidelity factor",
+    "b": "Fill factor (FF)",
+    "c": "Ripple factor",
+    "d": "Efficiency index",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter describes the capacity of a storage battery, indicating the total charge it can deliver over a specified discharge period?",
+    "a": "Ampere-Hours (Ah)",
+    "b": "Watts (W)",
+    "c": "Volts (V)",
+    "d": "Ohms (R)",
+    "ans": "a"
+  },
+  {
+    "q": "What bad electrochemical effect occurs in a nickel-cadmium battery if it is repeatedly recharged before being fully discharged, causing a temporary loss of capacity?",
+    "a": "Sulphation",
+    "b": "Memory effect",
+    "c": "Thermal runaway",
+    "d": "Polarization",
+    "ans": "b"
+  },
+  {
+    "q": "In a lead-acid battery, what bad condition occurs when the battery is left discharged for long periods, leading to the formation of hard, inactive lead sulfate crystals?",
+    "a": "Memory decay",
+    "b": "Sulphation",
+    "c": "Gassing",
+    "d": "Local action",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the internal resistance of a lead-acid cell as it discharges?",
+    "a": "It decreases significantly",
+    "b": "It increases significantly",
+    "c": "It remains completely constant",
+    "d": "It drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter is used to measure the state of charge of a lead-acid battery's liquid electrolyte?",
+    "a": "Voltage drop across the load",
+    "b": "Specific gravity (using a hydrometer)",
+    "c": "Electrolyte temperature",
+    "d": "Internal capacitance",
+    "ans": "b"
+  },
+  {
+    "q": "A battery that has an extremely long shelf life (often exceeding 10 years) and is commonly used for backup power in microcomputer memories is the:",
+    "a": "Carbon-zinc battery",
+    "b": "Lithium cell",
+    "c": "Nickel-cadmium battery",
+    "d": "Lead-acid battery",
+    "ans": "b"
+  },
+  {
+    "q": "What term is used to describe the process of charging a battery at a very slow, continuous rate to keep it fresh and fully charged?",
+    "a": "Quick charging",
+    "b": "Trickle charging",
+    "c": "Boost charging",
+    "d": "Asynchronous charging",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of electric motor can operate on either AC or DC power supplies, with its speed highly dependent on the load current?",
+    "a": "Synchronous motor",
+    "b": "Universal (series-wound) motor",
+    "c": "Squirrel-cage induction motor",
+    "d": "Capacitor-start motor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary purpose of skewed rotor slots in a squirrel-cage induction motor?",
+    "a": "To reduce the physical weight of the rotor",
+    "b": "To reduce magnetic humming, prevent cogging (locking), and provide smoother torque",
+    "c": "To increase the copper winding conductivity",
+    "d": "To eliminate the need for end rings",
+    "ans": "b"
+  },
+  {
+    "q": "The speed of a three-phase induction motor can be decreased by using which of the following methods?",
+    "a": "Increasing the supply frequency",
+    "b": "Decreasing the supply voltage or increasing the slip",
+    "c": "Reducing the stator winding resistance",
+    "d": "Removing two pole pairs from the stator",
+    "ans": "b"
+  },
+  {
+    "q": "What type of motor has its stator magnetic field rotate at synchronous speed and its rotor rotate at a slightly slower speed?",
+    "a": "Synchronous motor",
+    "b": "Induction motor",
+    "c": "DC shunt motor",
+    "d": "Stepper motor",
+    "ans": "b"
+  },
+  {
+    "q": "What type of motor has its rotor lock magnetically with the stator field, rotating at exactly synchronous speed under all normal load conditions?",
+    "a": "Induction motor",
+    "b": "Synchronous motor",
+    "c": "DC series motor",
+    "d": "Universal motor",
+    "ans": "b"
+  },
+  {
+    "q": "Which transformer parameter is defined as the ratio of the secondary voltage to the primary voltage under no-load conditions?",
+    "a": "Impedance ratio",
+    "b": "Turns ratio (Transformation ratio)",
+    "c": "Efficiency index",
+    "d": "Voltage regulation factor",
+    "ans": "b"
+  },
+  {
+    "q": "In a step-up transformer, how do the primary and secondary parameters compare?",
+    "a": "Primary turns are greater than secondary turns",
+    "b": "Primary voltage is less than secondary voltage",
+    "c": "Primary current is less than secondary current",
+    "d": "Primary power is greater than secondary power by 100 percent",
+    "ans": "b"
+  },
+  {
+    "q": "In a step-down transformer, how do the primary and secondary parameters compare?",
+    "a": "Primary turns are less than secondary turns",
+    "b": "Primary voltage is greater than secondary voltage",
+    "c": "Primary current is greater than secondary current",
+    "d": "Primary power is less than secondary power",
+    "ans": "b"
+  },
+  {
+    "q": "Which core loss in a transformer is heavily dependent on the thickness of the lamination sheets?",
+    "a": "Hysteresis loss",
+    "b": "Eddy current loss",
+    "c": "Copper loss",
+    "d": "Windage loss",
+    "ans": "b"
+  },
+  {
+    "q": "Which transformer cooling method is most commonly specified for medium-to-low power indoor electronic transformers?",
+    "a": "Forced-oil cooling",
+    "b": "Natural air circulation (dry-type)",
+    "c": "Oil-immersed water-cooled",
+    "d": "Hydrogen gas cooling",
+    "ans": "b"
+  },
+  {
+    "q": "The change in secondary terminal voltage from no-load to full-load, expressed as a percentage of full-load voltage, is called the:",
+    "a": "Efficiency",
+    "b": "Voltage regulation",
+    "c": "Transformation ratio",
+    "d": "Impedance matching factor",
+    "ans": "b"
+  },
+  {
+    "q": "Which transformer core construction configuration has the windings wrapped around two separate outer legs of a rectangular core?",
+    "a": "Shell-type",
+    "b": "Core-type",
+    "c": "Toroidal-type",
+    "d": "Berry-type",
+    "ans": "b"
+  },
+  {
+    "q": "Which transformer core configuration has the windings wrapped around a single central leg, enclosing the core structure magnetically?",
+    "a": "Core-type",
+    "b": "Shell-type",
+    "c": "Spirakoy-type",
+    "d": "H-type",
+    "ans": "b"
+  },
+  {
+    "q": "A transformer that provides a 1:1 turns ratio is primarily used in electronic circuits to provide:",
+    "a": "Maximum voltage amplification",
+    "b": "Electrical and galvanic isolation between two circuits",
+    "c": "High-frequency noise filtering only",
+    "d": "Impedance step-down matching",
+    "ans": "b"
+  },
+  {
+    "q": "Which battery type is most prone to the hazardous condition of thermal runaway during high-current charging?",
+    "a": "Carbon-zinc",
+    "b": "Lead-acid or Sealed Nickel-cadmium",
+    "c": "Alkaline",
+    "d": "Daniell cell",
+    "ans": "b"
+  },
+  {
+    "q": "The active materials in a fully charged lead-acid battery cell are:",
+    "a": "Lead oxide (positive) and cadmium (negative)",
+    "b": "Lead dioxide (positive), spongy lead (negative), and sulfuric acid (electrolyte)",
+    "c": "Nickel hydroxide (positive) and spongy iron (negative)",
+    "d": "Silver oxide (positive) and zinc (negative)",
+    "ans": "b"
+  },
+  {
+    "q": "A solar panel array connected in series increases the total:",
+    "a": "Current capacity",
+    "b": "Output voltage",
+    "c": "Internal resistance only",
+    "d": "Short-circuit current only",
+    "ans": "b"
+  },
+  {
+    "q": "A solar panel array connected in parallel increases the total:",
+    "a": "Output voltage",
+    "b": "Current capacity",
+    "c": "Open-circuit voltage only",
+    "d": "Internal resistance",
+    "ans": "b"
+  },
+  {
+    "q": "The open-circuit voltage (V_oc) of a single standard silicon solar cell in direct sunlight is approximately:",
+    "a": "1.2 to 1.5 Volts",
+    "b": "0.5 to 0.6 Volts",
+    "c": "2.0 to 2.5 Volts",
+    "d": "3.7 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "The active material of the negative electrode of a dry-type alkaline cell is composed of:",
+    "a": "Manganese dioxide",
+    "b": "Zinc powder",
+    "c": "Carbon black",
+    "d": "Potassium hydroxide",
+    "ans": "b"
+  },
+  {
+    "q": "The active material of the positive electrode of a dry-type alkaline cell is composed of:",
+    "a": "Zinc oxide",
+    "b": "Manganese dioxide",
+    "c": "Ammonium chloride",
+    "d": "Spongy lead",
+    "ans": "b"
+  },
+  {
+    "q": "What term applies to the operation of connecting two or more power generators to supply a single common load?",
+    "a": "Cascade operation",
+    "b": "Parallel operation",
+    "c": "Series-aiding operation",
+    "d": "Symmetrical regulation",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of DC generator has a voltage regulation curve that remains approximately constant from no-load to full-load?",
+    "a": "Under-compounded generator",
+    "b": "Flat-compounded generator",
+    "c": "Over-compounded generator",
+    "d": "Series-wound generator",
+    "ans": "b"
+  },
+  {
+    "q": "In an induction motor, the speed of the rotating stator magnetic field in RPM is called the:",
+    "a": "Rotor speed",
+    "b": "Synchronous speed",
+    "c": "Slip speed",
+    "d": "Base speed",
+    "ans": "b"
+  },
+  {
+    "q": "A synchronous motor is started by using which of the following built-in methods?",
+    "a": "Applying DC current directly to the stator",
+    "b": "Using damper windings on the rotor as a temporary squirrel-cage induction motor",
+    "c": "Increasing the supply frequency slowly from 0 Hz",
+    "d": "Coupling a mechanical hand-crank to the shaft",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor's resolution can be doubled by using which driving method?",
+    "a": "Full-step drive",
+    "b": "Half-step drive",
+    "c": "Microstepping drive only",
+    "d": "Wave drive",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of transformer winding has a higher voltage rating?",
+    "a": "Low-voltage winding",
+    "b": "High-voltage winding",
+    "c": "Primary winding always",
+    "d": "Secondary winding always",
+    "ans": "b"
+  },
+  {
+    "q": "Which transformer parameter refers to the ratio of the full-load copper loss to the iron loss?",
+    "a": "Turns ratio",
+    "b": "Loss ratio",
+    "c": "Regulation factor",
+    "d": "Impedance index",
+    "ans": "b"
+  },
+  {
+    "q": "What is the function of the bimetallic strip in an industrial thermostat control system?",
+    "a": "To amplify the current signal",
+    "b": "To bend and open/close a contact due to unequal thermal expansion of two joined metals",
+    "c": "To generate a thermoelectric voltage",
+    "d": "To act as a high-precision RTD sensor",
+    "ans": "b"
+  },
+  {
+    "q": "A storage battery cell that has a flat discharge curve means that its terminal voltage:",
+    "a": "Drops linearly from the start of discharge",
+    "b": "Remains approximately constant almost until the cell dies",
+    "c": "Fluctuates up and down randomly",
+    "d": "Spikes upward before dropping to zero",
+    "ans": "b"
+  },
+  {
+    "q": "What is a major disadvantage of mercury-type primary cells?",
+    "a": "Extremely short shelf life",
+    "b": "They contain toxic mercury which pollutes the environment upon disposal",
+    "c": "A highly sloped discharge curve",
+    "d": "Inability to operate at room temperature",
+    "ans": "b"
+  },
+  {
+    "q": "Which battery type should never be allowed to fully discharge ('die') repeatedly as it can cause internal cell reversal and permanent damage?",
+    "a": "Carbon-zinc",
+    "b": "Nickel-cadmium (NiCd)",
+    "c": "Alkaline",
+    "d": "Daniell cell",
+    "ans": "b"
+  },
+  {
+    "q": "A 4-pole DC generator has a wave-wound armature containing 400 conductors. If the generator rotates at 1200 RPM and the magnetic flux per pole is 0.02 Webers, calculate the generated EMF.",
+    "a": "160 Volts",
+    "b": "320 Volts",
+    "c": "80 Volts",
+    "d": "640 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the armature winding of the DC generator in the previous question is reconfigured to a lap winding (where the number of parallel paths A equals the number of poles P), calculate the new generated EMF.",
+    "a": "320 Volts",
+    "b": "160 Volts",
+    "c": "80 Volts",
+    "d": "640 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A DC shunt generator has an armature resistance of 0.1 Ohms and field resistance of 100 Ohms. If the generator delivers 50 Amperes of terminal current to a load at a terminal voltage of 200 Volts, calculate the shunt field current.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "5.0 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Using the data from the previous question (load current = 50 A, field current = 2 A), calculate the total armature current of the generator.",
+    "a": "48 Amperes",
+    "b": "52 Amperes",
+    "c": "50 Amperes",
+    "d": "100 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Using the armature current of 52 Amperes and armature resistance of 0.1 Ohms from the previous questions, calculate the induced EMF (E_g) of the generator.",
+    "a": "200.0 Volts",
+    "b": "205.2 Volts",
+    "c": "194.8 Volts",
+    "d": "210.4 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A DC shunt motor has armature resistance of 0.2 Ohms and is connected to a 120-Volt DC source. If the back EMF (E_b) is 110 Volts at a certain speed, calculate the armature current.",
+    "a": "10 Amperes",
+    "b": "50 Amperes",
+    "c": "25 Amperes",
+    "d": "100 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A 10-hp, 220-V DC shunt motor draws a line current of 40 Amperes at full load. If the field resistance is 110 Ohms and armature resistance is 0.25 Ohms, calculate the shunt field current.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "4.0 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the same DC shunt motor (line current = 40 A, field current = 2 A), calculate the full-load armature current.",
+    "a": "42 Amperes",
+    "b": "38 Amperes",
+    "c": "40 Amperes",
+    "d": "80 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Using the armature current of 38 Amperes and armature resistance of 0.25 Ohms from the previous questions, calculate the back EMF (E_b) of the motor under full load.",
+    "a": "220.0 Volts",
+    "b": "210.5 Volts",
+    "c": "229.5 Volts",
+    "d": "110.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the armature copper loss (I_A^2 * R_A) of the DC shunt motor under full load (I_A = 38 A, R_A = 0.25 Ohms).",
+    "a": "180.5 Watts",
+    "b": "361.0 Watts",
+    "c": "722.0 Watts",
+    "d": "90.25 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A 4-pole three-phase induction motor is connected to a 60-Hz supply line. Calculate the synchronous speed (N_s) of the rotating magnetic field.",
+    "a": "1200 RPM",
+    "b": "1800 RPM",
+    "c": "3600 RPM",
+    "d": "900 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "If the actual rotor speed of the induction motor described in the previous question is 1710 RPM under load, calculate the slip of the motor.",
+    "a": "2.5 percent",
+    "b": "5.0 percent",
+    "c": "10.0 percent",
+    "d": "1.5 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Using the slip of 5.0 percent (0.05) and supply frequency of 60 Hz from the previous questions, calculate the frequency of the currents induced in the rotor.",
+    "a": "60.0 Hz",
+    "b": "3.0 Hz",
+    "c": "1.5 Hz",
+    "d": "0.5 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A 6-pole three-phase induction motor operates from a 50-Hz supply. If the slip is 4 percent under full-load, calculate the synchronous speed of the stator field.",
+    "a": "1200 RPM",
+    "b": "1000 RPM",
+    "c": "1500 RPM",
+    "d": "3000 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "Using the synchronous speed of 1000 RPM and slip of 4 percent (0.04) from the previous question, calculate the actual rotational speed of the rotor.",
+    "a": "1040 RPM",
+    "b": "960 RPM",
+    "c": "900 RPM",
+    "d": "1500 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor has a step angle of 3.6 degrees. Calculate the total number of steps required to complete 10 full revolutions.",
+    "a": "1000 steps",
+    "b": "1000 steps",
+    "c": "500 steps",
+    "d": "2000 steps",
+    "ans": "b"
+  },
+  {
+    "q": "If a stepper motor requires 48 steps per revolution, calculate its step angle in degrees.",
+    "a": "1.8 degrees",
+    "b": "7.5 degrees",
+    "c": "3.6 degrees",
+    "d": "15.0 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor has a step angle of 1.8 degrees. If it is driven by a pulse frequency of 600 Hz (pulses per second), calculate the rotational speed in RPM.",
+    "a": "90 RPM",
+    "b": "180 RPM",
+    "c": "360 RPM",
+    "d": "45 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor must rotate at 120 RPM. If the motor step angle is 7.5 degrees, calculate the pulse frequency (pps) required from the driver.",
+    "a": "48 Hz",
+    "b": "96 Hz",
+    "c": "192 Hz",
+    "d": "24 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor output is coupled to a lead screw with a pitch of 4 mm per revolution. If the stepper has 200 steps per revolution, calculate the linear translation distance per step in micrometers.",
+    "a": "10 u",
+    "b": "20 u",
+    "c": "40 u",
+    "d": "5 u",
+    "ans": "b"
+  },
+  {
+    "q": "A single-phase transformer has a primary winding with 440 turns and a secondary winding with 110 turns. If connected to a 220-Volt RMS AC line, calculate the secondary RMS voltage.",
+    "a": "110 Volts",
+    "b": "55 Volts",
+    "c": "22 Volts",
+    "d": "880 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If a load resistor of 11 Ohms is connected across the secondary winding of the transformer in the previous question (secondary voltage = 55 V), calculate the secondary load current.",
+    "a": "10.0 Amperes",
+    "b": "5.0 Amperes",
+    "c": "2.5 Amperes",
+    "d": "1.0 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the primary current drawn from the 220-Volt line under the loaded condition described in the previous questions (turns ratio = 4:1, secondary current = 5.0 A).",
+    "a": "5.00 Amperes",
+    "b": "1.25 Amperes",
+    "c": "2.50 Amperes",
+    "d": "20.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A 10-kVA transformer has a turns ratio of 10:1 (primary to secondary). If the full-load primary current is 4.35 Amperes, calculate the rated primary voltage (approximate).",
+    "a": "1100 Volts",
+    "b": "2300 Volts",
+    "c": "440 Volts",
+    "d": "220 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same 10-kVA transformer (turns ratio = 10:1, rated primary voltage = 2300 V), calculate the rated secondary voltage.",
+    "a": "230 Volts",
+    "b": "230 Volts",
+    "c": "115 Volts",
+    "d": "460 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A 5-kVA transformer has core (iron) losses of 100 Watts and full-load copper losses of 150 Watts. Calculate the total power losses of the transformer under full-load conditions.",
+    "a": "100 Watts",
+    "b": "250 Watts",
+    "c": "150 Watts",
+    "d": "50 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total power loss of 250 Watts from the previous question, calculate the efficiency of the transformer at full load operating at unity power factor.",
+    "a": "98.0 percent",
+    "b": "95.2 percent",
+    "c": "92.4 percent",
+    "d": "97.1 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the copper loss of the same 5-kVA transformer when it is operated at exactly half of its rated load. (Full-load copper loss = 150 W).",
+    "a": "75.0 Watts",
+    "b": "37.5 Watts",
+    "c": "18.75 Watts",
+    "d": "150.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total power losses of the transformer under the half-load condition. (Core loss remains constant at 100 W, half-load copper loss = 37.5 W).",
+    "a": "175.0 Watts",
+    "b": "137.5 Watts",
+    "c": "250.0 Watts",
+    "d": "100.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A step-down transformer has a secondary no-load terminal voltage of 24 Volts. When rated load is connected, the voltage drops to 22.5 Volts. Calculate the percent voltage regulation.",
+    "a": "6.25 percent",
+    "b": "6.67 percent",
+    "c": "15.00 percent",
+    "d": "3.12 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A lead-acid battery is rated at 80 Ampere-hours (Ah). If a constant current of 4.0 Amperes is drawn from the battery, calculate the theoretical discharge time in hours.",
+    "a": "10 hours",
+    "b": "20 hours",
+    "c": "40 hours",
+    "d": "8 hours",
+    "ans": "b"
+  },
+  {
+    "q": "If the same 80 Ah battery is discharged over a shorter period of 5.0 hours, calculate the average continuous current that can be delivered.",
+    "a": "16 Amperes",
+    "b": "16 Amperes",
+    "c": "8 Amperes",
+    "d": "32 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Six lead-acid cells, each having a nominal voltage of 2.0 Volts and capacity of 50 Ah, are connected in series. Calculate the total nominal voltage and capacity of this battery bank.",
+    "a": "2.0 V, 300 Ah",
+    "b": "12.0 V, 50 Ah",
+    "c": "12.0 V, 300 Ah",
+    "d": "6.0 V, 100 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "If the same six cells (2.0 V, 50 Ah) are connected in parallel, calculate the total nominal voltage and capacity of the bank.",
+    "a": "12.0 V, 50 Ah",
+    "b": "2.0 V, 300 Ah",
+    "c": "12.0 V, 300 Ah",
+    "d": "6.0 V, 150 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "A battery cell has an open-circuit electromotive force E = 1.5 Volts and internal resistance R_i = 0.2 Ohms. If a load resistor of 1.3 Ohms is connected across its terminals, calculate the circuit current.",
+    "a": "1.15 Amperes",
+    "b": "1.00 Ampere",
+    "c": "0.75 Amperes",
+    "d": "1.50 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the terminal voltage (V_t) of the battery cell under the loaded condition described in the previous question (E = 1.5 V, I = 1.0 A, R_i = 0.2 Ohms).",
+    "a": "1.5 Volts",
+    "b": "1.3 Volts",
+    "c": "1.1 Volts",
+    "d": "1.0 Volt",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power lost as heat inside the battery cell due to its internal resistance under the loaded condition (I = 1.0 A, R_i = 0.2 Ohms).",
+    "a": "0.4 Watts",
+    "b": "0.2 Watts",
+    "c": "0.1 Watts",
+    "d": "0.5 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A solar cell has an open-circuit voltage V_oc = 0.6 Volts and short-circuit current I_sc = 120 mA. If the measured fill factor (FF) is 0.75, calculate the maximum electrical power output.",
+    "a": "90.0 mW",
+    "b": "54.0 mW",
+    "c": "72.0 mW",
+    "d": "36.0 mW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar panel consists of 36 identical series-connected silicon solar cells. If each cell outputs a short-circuit current of 150 mA and open-circuit voltage of 0.55 Volts, calculate the open-circuit voltage of the panel.",
+    "a": "0.55 Volts",
+    "b": "19.80 Volts",
+    "c": "9.90 Volts",
+    "d": "36.00 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the short-circuit current capacity of the 36-cell series solar panel described in the previous question?",
+    "a": "5.40 Amperes",
+    "b": "0.15 Amperes",
+    "c": "2.70 Amperes",
+    "d": "0.30 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "If the 36-cell solar panel (V_oc = 19.8 V, I_sc = 150 mA) operates under direct sunlight with a fill factor of 0.70, calculate the maximum power output.",
+    "a": "2.97 Watts",
+    "b": "2.08 Watts",
+    "c": "4.16 Watts",
+    "d": "1.04 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the electrical conversion efficiency of the solar panel if its total surface area is 0.02 square meters and the solar irradiance (input light power) is 1000 Watts per square meter. (P_max = 2.08 Watts).",
+    "a": "20.8 percent",
+    "b": "10.4 percent",
+    "c": "5.2 percent",
+    "d": "15.6 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A hydrogen-oxygen fuel cell operates at a terminal voltage of 0.8 Volts and delivers a current of 50 Amperes to a load. Calculate the electrical power output.",
+    "a": "20.0 Watts",
+    "b": "40.0 Watts",
+    "c": "80.0 Watts",
+    "d": "10.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "If the fuel cell described in the previous question consumes 0.01 moles of hydrogen per second to deliver 40 Watts, and the theoretical energy available from 0.01 moles is 240 Watts, calculate the conversion efficiency.",
+    "a": "33.3 percent",
+    "b": "16.7 percent",
+    "c": "8.3 percent",
+    "d": "25.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A DC shunt generator has armature resistance of 0.15 Ohms. If the generated EMF is 240 Volts and the terminal voltage is 230 Volts under load, calculate the armature current.",
+    "a": "33.3 Amperes",
+    "b": "66.7 Amperes",
+    "c": "133.3 Amperes",
+    "d": "50.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the same generator (armature current = 66.7 A), if the shunt field current is 2.7 Amperes, calculate the terminal load current.",
+    "a": "69.4 Amperes",
+    "b": "64.0 Amperes",
+    "c": "32.0 Amperes",
+    "d": "128.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A DC series motor has armature resistance of 0.3 Ohms and series field resistance of 0.2 Ohms. If the motor is connected to a 240-Volt supply and draws 20 Amperes of line current, calculate the back EMF.",
+    "a": "240.0 Volts",
+    "b": "230.0 Volts",
+    "c": "220.0 Volts",
+    "d": "210.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the back EMF of 230 Volts and armature current of 20 Amperes from the previous series motor question, calculate the gross mechanical power developed by the motor.",
+    "a": "4.80 kW",
+    "b": "4.60 kW",
+    "c": "2.30 kW",
+    "d": "9.20 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A 4-pole three-phase induction motor is connected to a 50-Hz supply. Calculate the synchronous speed (N_s) of the motor in RPM.",
+    "a": "1800 RPM",
+    "b": "1500 RPM",
+    "c": "3000 RPM",
+    "d": "1000 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "If the actual rotor speed of the 50-Hz induction motor is 1440 RPM under load, calculate the slip of the motor.",
+    "a": "2.0 percent",
+    "b": "4.0 percent",
+    "c": "8.0 percent",
+    "d": "1.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor has a step angle of 1.5 degrees. Calculate the total number of steps required to complete exactly 5 full revolutions.",
+    "a": "600 steps",
+    "b": "1200 steps",
+    "c": "2400 steps",
+    "d": "300 steps",
+    "ans": "b"
+  },
+  {
+    "q": "If the stepper motor (1.5 degrees step angle) is driven at a pulse rate of 1200 pps, calculate its speed in RPM.",
+    "a": "150 RPM",
+    "b": "300 RPM",
+    "c": "600 RPM",
+    "d": "75 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "A step-down transformer has a turns ratio of 20:1. If primary voltage is 120 Volts RMS AC, calculate the secondary RMS voltage.",
+    "a": "12.0 Volts",
+    "b": "6.0 Volts",
+    "c": "3.0 Volts",
+    "d": "2400.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If a 3 Ohm load is connected across the secondary of the transformer in the previous question (secondary voltage = 6 V), calculate the secondary load current.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "4.0 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the primary current drawn under the loaded condition in the previous questions (turns ratio = 20:1, secondary current = 2.0 A).",
+    "a": "0.20 Amperes",
+    "b": "0.10 Amperes",
+    "c": "0.05 Amperes",
+    "d": "40.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A 20-kVA transformer has a core loss of 200 Watts and a full-load copper loss of 300 Watts. Calculate the total power losses under full load.",
+    "a": "200 Watts",
+    "b": "500 Watts",
+    "c": "300 Watts",
+    "d": "100 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total power loss of 500 Watts from the previous question, calculate the full-load efficiency of the 20-kVA transformer at unity power factor.",
+    "a": "98.5 percent",
+    "b": "97.6 percent",
+    "c": "95.2 percent",
+    "d": "99.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the copper loss of the same 20-kVA transformer when it operates at exactly half of its rated load. (Full-load copper loss = 300 W).",
+    "a": "150.0 Watts",
+    "b": "75.0 Watts",
+    "c": "37.5 Watts",
+    "d": "300.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total power losses of the transformer under the half-load condition. (Core loss remains constant at 200 W, half-load copper loss = 75 W).",
+    "a": "250.0 Watts",
+    "b": "275.0 Watts",
+    "c": "500.0 Watts",
+    "d": "200.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A step-down transformer has a secondary no-load voltage of 12 Volts. When a rated load is connected, the voltage drops to 11.2 Volts. Calculate the percent voltage regulation.",
+    "a": "6.67 percent",
+    "b": "7.14 percent",
+    "c": "14.28 percent",
+    "d": "3.57 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A nickel-cadmium battery is rated at 120 Ah. If a constant current of 6.0 Amperes is drawn, calculate the theoretical discharge time in hours.",
+    "a": "10 hours",
+    "b": "20 hours",
+    "c": "40 hours",
+    "d": "5 hours",
+    "ans": "b"
+  },
+  {
+    "q": "If the same 120 Ah battery is discharged over 8.0 hours, calculate the average continuous current that can be delivered.",
+    "a": "10 Amperes",
+    "b": "15 Amperes",
+    "c": "7.5 Amperes",
+    "d": "30 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Ten lead-acid cells, each with a nominal voltage of 2.0 Volts and capacity of 100 Ah, are connected in series. Calculate the total nominal voltage and capacity of the bank.",
+    "a": "2.0 V, 1000 Ah",
+    "b": "20.0 V, 100 Ah",
+    "c": "20.0 V, 1000 Ah",
+    "d": "10.0 V, 200 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "If the same ten cells (2.0 V, 100 Ah) are connected in parallel, calculate the total nominal voltage and capacity of the bank.",
+    "a": "20.0 V, 100 Ah",
+    "b": "2.0 V, 1000 Ah",
+    "c": "20.0 V, 1000 Ah",
+    "d": "10.0 V, 500 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "A battery cell has an open-circuit voltage of 2.1 Volts and internal resistance R_i = 0.1 Ohms. If a load resistor of 1.9 Ohms is connected, calculate the circuit current.",
+    "a": "1.10 Amperes",
+    "b": "1.05 Amperes",
+    "c": "0.52 Amperes",
+    "d": "2.10 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the terminal voltage of the battery cell under the loaded condition in the previous question (E = 2.1 V, I = 1.05 A, R_i = 0.1 Ohms).",
+    "a": "2.10 Volts",
+    "b": "1.995 Volts",
+    "c": "1.890 Volts",
+    "d": "1.500 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power lost as heat inside the battery cell due to its internal resistance under the loaded condition (I = 1.05 A, R_i = 0.1 Ohms).",
+    "a": "0.220 Watts",
+    "b": "0.110 Watts",
+    "c": "0.055 Watts",
+    "d": "0.440 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A solar cell has V_oc = 0.55 Volts and I_sc = 150 mA. If the fill factor is 0.70, calculate the maximum power output.",
+    "a": "82.5 mW",
+    "b": "57.75 mW",
+    "c": "41.25 mW",
+    "d": "115.50 mW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar panel consists of 40 series-connected cells. If each cell has a short-circuit current of 200 mA and open-circuit voltage of 0.50 Volts, calculate the open-circuit voltage of the panel.",
+    "a": "0.50 Volts",
+    "b": "20.00 Volts",
+    "c": "10.00 Volts",
+    "d": "40.00 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the short-circuit current capacity of the 40-cell series solar panel described in the previous question?",
+    "a": "8.00 Amperes",
+    "b": "0.20 Amperes",
+    "c": "4.00 Amperes",
+    "d": "0.40 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "If the 40-cell solar panel (V_oc = 20.0 V, I_sc = 200 mA) operates under direct sunlight with a fill factor of 0.65, calculate the maximum power output.",
+    "a": "4.00 Watts",
+    "b": "2.60 Watts",
+    "c": "5.20 Watts",
+    "d": "1.30 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the conversion efficiency of the solar panel if its surface area is 0.025 m^2 and solar irradiance is 1000 W/m^2. (P_max = 2.60 Watts).",
+    "a": "20.8 percent",
+    "b": "10.4 percent",
+    "c": "5.2 percent",
+    "d": "15.6 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A fuel cell operates at a terminal voltage of 0.75 Volts and delivers 80 Amperes to a load. Calculate the electrical power output.",
+    "a": "30.0 Watts",
+    "b": "60.0 Watts",
+    "c": "120.0 Watts",
+    "d": "15.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "If the fuel cell described in the previous question consumes 0.02 moles of hydrogen per second to deliver 60 Watts, and the theoretical energy available from 0.02 moles is 360 Watts, calculate the conversion efficiency.",
+    "a": "33.3 percent",
+    "b": "16.7 percent",
+    "c": "8.3 percent",
+    "d": "25.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A DC shunt generator has armature resistance of 0.2 Ohms. If the generated EMF is 125 Volts and the terminal voltage is 120 Volts under load, calculate the armature current.",
+    "a": "12.5 Amperes",
+    "b": "25.0 Amperes",
+    "c": "50.0 Amperes",
+    "d": "6.25 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the same generator (armature current = 25.0 A), if the shunt field current is 1.5 Amperes, calculate the terminal load current.",
+    "a": "26.5 Amperes",
+    "b": "23.5 Amperes",
+    "c": "11.75 Amperes",
+    "d": "47.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A DC series motor has armature resistance of 0.4 Ohms and series field resistance of 0.2 Ohms. If the motor is connected to a 120-Volt supply and draws 10 Amperes of line current, calculate the back EMF.",
+    "a": "120.0 Volts",
+    "b": "114.0 Volts",
+    "c": "108.0 Volts",
+    "d": "105.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the back EMF of 114 Volts and armature current of 10 Amperes from the previous series motor question, calculate the gross mechanical power developed by the motor.",
+    "a": "2.40 kW",
+    "b": "1.14 kW",
+    "c": "0.57 kW",
+    "d": "2.28 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A 6-pole three-phase induction motor is connected to a 60-Hz supply. Calculate the synchronous speed (N_s) of the motor in RPM.",
+    "a": "3600 RPM",
+    "b": "1200 RPM",
+    "c": "1800 RPM",
+    "d": "1000 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "If the actual rotor speed of the 60-Hz induction motor is 1140 RPM under load, calculate the slip of the motor.",
+    "a": "2.5 percent",
+    "b": "5.0 percent",
+    "c": "10.0 percent",
+    "d": "1.5 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A stepper motor has a step angle of 0.9 degrees. Calculate the total number of steps required to complete exactly 5 full revolutions.",
+    "a": "1000 steps",
+    "b": "2000 steps",
+    "c": "4000 steps",
+    "d": "500 steps",
+    "ans": "b"
+  },
+  {
+    "q": "If the stepper motor (0.9 degrees step angle) is driven at a pulse rate of 2000 pps, calculate its speed in RPM.",
+    "a": "150 RPM",
+    "b": "300 RPM",
+    "c": "600 RPM",
+    "d": "75 RPM",
+    "ans": "b"
+  },
+  {
+    "q": "A step-down transformer has a turns ratio of 10:1. If primary voltage is 120 Volts RMS AC, calculate the secondary RMS voltage.",
+    "a": "24.0 Volts",
+    "b": "12.0 Volts",
+    "c": "6.0 Volts",
+    "d": "1200.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If a 4 Ohm load is connected across the secondary of the transformer in the previous question (secondary voltage = 12 V), calculate the secondary load current.",
+    "a": "1.5 Amperes",
+    "b": "3.0 Amperes",
+    "c": "6.0 Amperes",
+    "d": "0.75 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the primary current drawn under the loaded condition in the previous questions (turns ratio = 10:1, secondary current = 3.0 A).",
+    "a": "0.60 Amperes",
+    "b": "0.30 Amperes",
+    "c": "0.15 Amperes",
+    "d": "30.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A 10-kVA transformer has a core loss of 150 Watts and a full-load copper loss of 250 Watts. Calculate the total power losses under full load.",
+    "a": "150 Watts",
+    "b": "400 Watts",
+    "c": "250 Watts",
+    "d": "100 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total power loss of 400 Watts from the previous question, calculate the full-load efficiency of the 10-kVA transformer at unity power factor.",
+    "a": "98.0 percent",
+    "b": "96.15 percent",
+    "c": "94.28 percent",
+    "d": "97.50 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the copper loss of the same 10-kVA transformer when it operates at exactly half of its rated load. (Full-load copper loss = 250 W).",
+    "a": "125.0 Watts",
+    "b": "62.5 Watts",
+    "c": "31.25 Watts",
+    "d": "250.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total power losses of the transformer under the half-load condition. (Core loss remains constant at 150 W, half-load copper loss = 62.5 W).",
+    "a": "200.0 Watts",
+    "b": "212.5 Watts",
+    "c": "400.0 Watts",
+    "d": "150.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A step-down transformer has a secondary no-load voltage of 24 Volts. When a rated load is connected, the voltage drops to 23.0 Volts. Calculate the percent voltage regulation.",
+    "a": "4.17 percent",
+    "b": "4.35 percent",
+    "c": "8.70 percent",
+    "d": "2.17 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A lead-acid battery is rated at 100 Ah. If a constant current of 5.0 Amperes is drawn, calculate the theoretical discharge time in hours.",
+    "a": "10 hours",
+    "b": "20 hours",
+    "c": "40 hours",
+    "d": "5 hours",
+    "ans": "b"
+  },
+  {
+    "q": "If the same 100 Ah battery is discharged over 10.0 hours, calculate the average continuous current that can be delivered.",
+    "a": "5 Amperes",
+    "b": "10 Amperes",
+    "c": "2.5 Amperes",
+    "d": "20 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Twelve lead-acid cells, each with a nominal voltage of 2.0 Volts and capacity of 60 Ah, are connected in series. Calculate the total nominal voltage and capacity of the bank.",
+    "a": "2.0 V, 720 Ah",
+    "b": "24.0 V, 60 Ah",
+    "c": "24.0 V, 720 Ah",
+    "d": "12.0 V, 120 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "If the same twelve cells (2.0 V, 60 Ah) are connected in parallel, calculate the total nominal voltage and capacity of the bank.",
+    "a": "24.0 V, 60 Ah",
+    "b": "2.0 V, 720 Ah",
+    "c": "24.0 V, 720 Ah",
+    "d": "12.0 V, 360 Ah",
+    "ans": "b"
+  },
+  {
+    "q": "A battery cell has an open-circuit voltage of 1.5 Volts and internal resistance R_i = 0.15 Ohms. If a load resistor of 1.35 Ohms is connected, calculate the circuit current.",
+    "a": "1.10 Amperes",
+    "b": "1.00 Ampere",
+    "c": "0.50 Amperes",
+    "d": "1.50 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the terminal voltage of the battery cell under the loaded condition in the previous question (E = 1.5 V, I = 1.0 A, R_i = 0.15 Ohms).",
+    "a": "1.50 Volts",
+    "b": "1.35 Volts",
+    "c": "1.20 Volts",
+    "d": "1.00 Volt",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power lost as heat inside the battery cell due to its internal resistance under the loaded condition (I = 1.0 A, R_i = 0.15 Ohms).",
+    "a": "0.30 Watts",
+    "b": "0.15 Watts",
+    "c": "0.075 Watts",
+    "d": "0.60 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A solar cell has V_oc = 0.60 Volts and I_sc = 200 mA. If the fill factor is 0.65, calculate the maximum power output.",
+    "a": "120.0 mW",
+    "b": "78.0 mW",
+    "c": "60.0 mW",
+    "d": "156.0 mW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar panel consists of 30 series-connected cells. If each cell has a short-circuit current of 250 mA and open-circuit voltage of 0.60 Volts, calculate the open-circuit voltage of the panel.",
+    "a": "0.60 Volts",
+    "b": "18.00 Volts",
+    "c": "9.00 Volts",
+    "d": "30.00 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the short-circuit current capacity of the 30-cell series solar panel described in the previous question?",
+    "a": "7.50 Amperes",
+    "b": "0.25 Amperes",
+    "c": "3.75 Amperes",
+    "d": "0.50 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "If the 30-cell solar panel (V_oc = 18.0 V, I_sc = 250 mA) operates under direct sunlight with a fill factor of 0.70, calculate the maximum power output.",
+    "a": "4.50 Watts",
+    "b": "3.15 Watts",
+    "c": "6.30 Watts",
+    "d": "1.58 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the conversion efficiency of the solar panel if its surface area is 0.03 m^2 and solar irradiance is 1000 W/m^2. (P_max = 3.15 Watts).",
+    "a": "10.5 percent",
+    "b": "10.5 percent",
+    "c": "5.25 percent",
+    "d": "15.75 percent",
+    "ans": "b"
+  }
+]

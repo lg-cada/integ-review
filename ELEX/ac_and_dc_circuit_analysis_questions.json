@@ -1,0 +1,2250 @@
+[
+  {
+    "q": "Alternating current (AC) can be defined as current that continuously varies in which two properties?",
+    "a": "amplitude and phase",
+    "b": "amplitude and direction",
+    "c": "magnitude and phase",
+    "d": "time and phase",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary advantage of alternating current over direct current for modern power transmission grids?",
+    "a": "AC can be transmitted with zero line loss",
+    "b": "AC can be readily stepped up or down in voltage using transformers",
+    "c": "AC can be transmitted at lower voltage and higher current levels safely",
+    "d": "AC generators are completely silent and require no prime movers",
+    "ans": "b"
+  },
+  {
+    "q": "A waveform is a graphic plot representing what two quantities?",
+    "a": "Current versus voltage",
+    "b": "Voltage versus amplitude",
+    "c": "Amplitude versus time",
+    "d": "Magnitude versus frequency",
+    "ans": "c"
+  },
+  {
+    "q": "What physical property always surrounds any current-carrying conductor?",
+    "a": "An electrostatic field",
+    "b": "A magnetic field",
+    "c": "An attractive force only",
+    "d": "A vacuum barrier",
+    "ans": "b"
+  },
+  {
+    "q": "Ohm's law states that electric current is directly proportional to voltage and inversely proportional to what property?",
+    "a": "Conductance",
+    "b": "Capacitance",
+    "c": "Resistance",
+    "d": "Inductance",
+    "ans": "c"
+  },
+  {
+    "q": "Which law states that the algebraic sum of the currents entering and leaving any node or junction in a circuit is equal to zero?",
+    "a": "Kirchhoff's Voltage Law",
+    "b": "Kirchhoff's Current Law",
+    "c": "Norton's Theorem",
+    "d": "Millman's Theorem",
+    "ans": "b"
+  },
+  {
+    "q": "An insulator is best described as a material that exhibits which of the following characteristics?",
+    "a": "A high concentration of free electrons",
+    "b": "A very high resistance to the flow of electric current",
+    "c": "A positive temperature coefficient of resistance only",
+    "d": "No opposition to electrostatic fields",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of resistor is highly preferred in high-power DC circuits because of its robust heat-handling capabilities?",
+    "a": "Carbon composition resistor",
+    "b": "Metal film resistor",
+    "c": "Wirewound resistor",
+    "d": "Carbon film resistor",
+    "ans": "c"
+  },
+  {
+    "q": "A carbon composition resistor is highly valuable in radio-frequency (RF) circuits primarily because it has:",
+    "a": "Very high voltage coefficients",
+    "b": "Essentially no internal inductance and capacitance",
+    "c": "A negative temperature coefficient only",
+    "d": "An adjustable resistance slider",
+    "ans": "b"
+  },
+  {
+    "q": "A capacitor stores energy in which type of field?",
+    "a": "Electromagnetic field",
+    "b": "Electrostatic (electric) field",
+    "c": "Gravitational field",
+    "d": "Magnetic field",
+    "ans": "b"
+  },
+  {
+    "q": "When a capacitor is connected across an AC supply, how does the phase of the current relate to the phase of the voltage?",
+    "a": "Current lags voltage by 90 degrees",
+    "b": "Current leads voltage by 90 degrees",
+    "c": "Current is in phase with voltage",
+    "d": "Current leads voltage by 45 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "The absolute value of the impedance in an AC circuit increases when what happens to the flow of AC current?",
+    "a": "The current increases",
+    "b": "The current decreases",
+    "c": "The current remains constant",
+    "d": "The current reverses direction instantly",
+    "ans": "b"
+  },
+  {
+    "q": "An inductor stores energy in which type of field?",
+    "a": "Electrostatic field",
+    "b": "Magnetic field",
+    "c": "Thermal field",
+    "d": "Acoustic field",
+    "ans": "b"
+  },
+  {
+    "q": "When an inductor is placed in an AC circuit, what is the phase relationship between the current and the voltage?",
+    "a": "Current leads voltage by 90 degrees",
+    "b": "Current lags voltage by 90 degrees",
+    "c": "Current and voltage are in phase",
+    "d": "Current lags voltage by 180 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary reason for placing a ferromagnetic core inside an inductor?",
+    "a": "To decrease the physical weight of the coil",
+    "b": "To increase the inductance of the coil",
+    "c": "To eliminate eddy currents completely",
+    "d": "To reduce the coil resistance",
+    "ans": "b"
+  },
+  {
+    "q": "What is a major advantage of a toroidal core over a solenoidal core in inductor design?",
+    "a": "The toroid core is much cheaper to wind",
+    "b": "The toroid confines and concentrates the magnetic flux within its core",
+    "c": "The toroid allows for a larger air gap",
+    "d": "The toroid eliminates all copper losses",
+    "ans": "b"
+  },
+  {
+    "q": "Which parameter can vary with an alternating current (AC) signal but remains non-existent or constant for a direct current (DC) signal?",
+    "a": "Amplitude",
+    "b": "Frequency",
+    "c": "Voltage level",
+    "d": "Power dissipation",
+    "ans": "b"
+  },
+  {
+    "q": "The length of time required for an AC waveform to complete one full cycle of variation is defined as the:",
+    "a": "Frequency",
+    "b": "Period",
+    "c": "Wavelength",
+    "d": "Phase angle",
+    "ans": "b"
+  },
+  {
+    "q": "How would a pure AC signal containing exactly one single frequency component appear on a spectrum analyzer?",
+    "a": "As a flat horizontal line across the screen",
+    "b": "As a single vertical line or pip",
+    "c": "As a series of decaying harmonic peaks",
+    "d": "As a broad bell-shaped curve",
+    "ans": "b"
+  },
+  {
+    "q": "Which statement is true regarding a balanced three-phase AC power system?",
+    "a": "It consists of three waves of different frequencies",
+    "b": "It has three waves of the same magnitude separated by 120 phase degrees",
+    "c": "It requires only a single wire to transmit power",
+    "d": "The phase difference between any two waves is 90 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "If two AC waves have the same frequency and the same amplitude but are in opposite phase (180 degrees out of phase), their composite wave is:",
+    "a": "Twice the amplitude of the original waves",
+    "b": "Zero amplitude",
+    "c": "Half the amplitude of the original waves",
+    "d": "An unsymmetrical square wave",
+    "ans": "b"
+  },
+  {
+    "q": "If two AC waves have the exact same frequency and are in phase, their composite wave:",
+    "a": "Is zero due to cancellation",
+    "b": "Has an amplitude equal to the sum of the two original amplitudes",
+    "c": "Has a frequency equal to twice the original frequency",
+    "d": "Has a phase shift of 90 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following physical parameters does NOT affect the self-inductance of a coil?",
+    "a": "The number of turns in the coil",
+    "b": "The diameter of the wire used to wind the coil",
+    "c": "The core material permeability",
+    "d": "The length of the coil",
+    "ans": "b"
+  },
+  {
+    "q": "How do inductors combine when connected in series, assuming there is no mutual electromagnetic coupling between them?",
+    "a": "Inversely, like parallel resistors",
+    "b": "Additively, like resistors in series",
+    "c": "They cancel each other out completely",
+    "d": "The total inductance equals the average of the individual inductances",
+    "ans": "b"
+  },
+  {
+    "q": "What is a major physical advantage of using a pot-core winding for an inductor?",
+    "a": "It completely eliminates copper winding resistance",
+    "b": "It provides a very large inductance in a small physical volume",
+    "c": "It allows the core to operate at high temperatures without expanding",
+    "d": "It can only be used with high-power AC lines",
+    "ans": "b"
+  },
+  {
+    "q": "At a low frequency of 400 Hz, what is the most likely physical form for an inductor?",
+    "a": "Air-core inductor",
+    "b": "Toroidal iron-core inductor",
+    "c": "Silicon chip integrated inductor",
+    "d": "Microstrip transmission line",
+    "ans": "b"
+  },
+  {
+    "q": "At a very high radio frequency of 95 MHz, what is the best physical form for an inductor to minimize losses?",
+    "a": "Laminated iron-core inductor",
+    "b": "Air-core inductor",
+    "c": "Ferrite pot-core inductor",
+    "d": "Toroidal steel-core inductor",
+    "ans": "b"
+  },
+  {
+    "q": "As the physical plate area of a parallel-plate capacitor increases, all other factors remaining equal:",
+    "a": "The capacitance decreases",
+    "b": "The capacitance increases",
+    "c": "The capacitance remains completely unchanged",
+    "d": "The working voltage of the capacitor increases",
+    "ans": "b"
+  },
+  {
+    "q": "As the spacing between the plates of a parallel-plate capacitor is made smaller, all other factors remaining equal:",
+    "a": "The capacitance decreases",
+    "b": "The capacitance increases",
+    "c": "The dielectric strength increases",
+    "d": "The leakage current drops to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is NOT a general characteristic of an alternating current (AC) wave?",
+    "a": "The wave shape is identical for each successive cycle",
+    "b": "The electrons always flow in the same physical direction",
+    "c": "The polarity of the voltage reverses periodically",
+    "d": "There is a definite, measurable frequency",
+    "ans": "b"
+  },
+  {
+    "q": "Two sine waves are in phase opposition. If Wave X has a peak amplitude of 4 Volts and Wave Y has a peak amplitude of 8 Volts, the resultant composite wave has:",
+    "a": "A peak amplitude of 12 Volts, in phase with Wave Y",
+    "b": "A peak amplitude of 4 Volts, in phase with Wave Y",
+    "c": "A peak amplitude of 4 Volts, in phase with Wave X",
+    "d": "A peak amplitude of zero Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If Wave X leads Wave Y by 45 degrees of phase, this is equivalent to saying that:",
+    "a": "Wave Y is 1/4 cycle ahead of Wave X",
+    "b": "Wave Y is 1/8 cycle behind Wave X",
+    "c": "Wave Y is in phase opposition to Wave X",
+    "d": "Wave Y leads Wave X by 315 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "If Wave X lags Wave Y by 1/3 of a cycle, this is equivalent to saying that:",
+    "a": "Wave Y is 60 degrees earlier than Wave X",
+    "b": "Wave Y is 120 degrees earlier than Wave X",
+    "c": "Wave Y is 120 degrees later than Wave X",
+    "d": "Wave Y is in phase opposition to Wave X",
+    "ans": "b"
+  },
+  {
+    "q": "What will eventually happen to the current in an inductive AC circuit if the number of turns in the coil is continually increased?",
+    "a": "The current will increase to infinity",
+    "b": "The current will decrease to near zero",
+    "c": "The current will oscillate at a high frequency",
+    "d": "The current will remain completely constant",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following coordinates systems is most commonly used for the visual and mathematical representation of phase angles in AC analysis?",
+    "a": "Cartesian coordinate system",
+    "b": "Polar coordinate system",
+    "c": "Spherical coordinate system",
+    "d": "Cylindrical coordinate system",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term used to describe a short circuit that exhibits virtually zero resistance and is considered highly dangerous?",
+    "a": "Soft short",
+    "b": "Dead short",
+    "c": "Bypass short",
+    "d": "Leakage short",
+    "ans": "b"
+  },
+  {
+    "q": "A hot-wire ammeter is an instrument that can measure:",
+    "a": "DC current only",
+    "b": "Both AC and DC currents",
+    "c": "AC current only",
+    "d": "Electrostatic voltage only",
+    "ans": "b"
+  },
+  {
+    "q": "The term used to describe current pulses that flow in the same physical direction but vary in amplitude is:",
+    "a": "Pure direct current",
+    "b": "Pulsating direct current",
+    "c": "Alternating current",
+    "d": "Harmonic current",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the RMS value of an AC wave to its mean average value is defined as the:",
+    "a": "Crest factor",
+    "b": "Form factor",
+    "c": "Peak factor",
+    "d": "Power factor",
+    "ans": "b"
+  },
+  {
+    "q": "Which circuit theorem is based on the concept of 'summing the individual effects of each voltage or current source considered one at a time'?",
+    "a": "Thevenin's Theorem",
+    "b": "Superposition Theorem",
+    "c": "Norton's Theorem",
+    "d": "Millman's Theorem",
+    "ans": "b"
+  },
+  {
+    "q": "In a series-parallel network, which electrical parameter is always identical for components connected directly in parallel?",
+    "a": "Current",
+    "b": "Voltage",
+    "c": "Resistance",
+    "d": "Power",
+    "ans": "b"
+  },
+  {
+    "q": "A converter designed to change high AC voltage to a lower regulated DC voltage is commonly referred to as a:",
+    "a": "Inverter",
+    "b": "DC power supply",
+    "c": "DC-DC converter",
+    "d": "Cycloconverter",
+    "ans": "b"
+  },
+  {
+    "q": "What type of insulation is typically specified for medium-to-low voltage electrical power lines?",
+    "a": "Ceramic insulation",
+    "b": "Plastic insulation",
+    "c": "Glass insulation",
+    "d": "Mica insulation",
+    "ans": "b"
+  },
+  {
+    "q": "The peak-to-peak amplitude of a perfect sinusoidal wave is mathematically equal to:",
+    "a": "The RMS amplitude",
+    "b": "Twice the peak amplitude",
+    "c": "The average amplitude",
+    "d": "The square root of the peak amplitude",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following dielectric materials is most commonly used inside a household electric flat iron?",
+    "a": "Paper",
+    "b": "Mica",
+    "c": "Ceramic",
+    "d": "Teflon",
+    "ans": "b"
+  },
+  {
+    "q": "For a capacitor with a negative temperature coefficient, how does its capacitance behave as the temperature rises?",
+    "a": "The capacitance increases",
+    "b": "The capacitance decreases",
+    "c": "The capacitance remains constant",
+    "d": "The capacitance drops immediately to zero",
+    "ans": "b"
+  },
+  {
+    "q": "Which theorem uses the concept of 'replacing a parallel network of active branches with a single equivalent voltage source and parallel internal conductance'?",
+    "a": "Thevenin's Theorem",
+    "b": "Millman's Theorem",
+    "c": "Norton's Theorem",
+    "d": "Superposition Theorem",
+    "ans": "b"
+  },
+  {
+    "q": "On an RL plane, a complex impedance represented as R + jXL corresponds to:",
+    "a": "A line along the vertical imaginary axis",
+    "b": "A unique point in the complex impedance plane",
+    "c": "A circle centered at the origin",
+    "d": "A line along the horizontal real axis",
+    "ans": "b"
+  },
+  {
+    "q": "A wave winding on a DC armature must go at least how many times around the armature before it closes back where it started?",
+    "a": "Once",
+    "b": "Twice",
+    "c": "Three times",
+    "d": "Four times",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary reason for making the coil span of a DC armature winding exactly equal to a pole pitch?",
+    "a": "To reduce copper winding resistance",
+    "b": "To distribute the winding uniformly under different poles",
+    "c": "To eliminate the need for a commutator",
+    "d": "To reduce the physical weight of the armature",
+    "ans": "b"
+  },
+  {
+    "q": "The sole functional purpose of a commutator in a DC generator is to:",
+    "a": "Increase the generated voltage level",
+    "b": "Convert the internally induced AC voltage to a DC output",
+    "c": "Limit the maximum output current",
+    "d": "Provide field excitation to the poles",
+    "ans": "b"
+  },
+  {
+    "q": "In a linear analog meter movement, a half-scale deflection of the pointer occurs when there is what percentage of rated current through its coil?",
+    "a": "25 percent",
+    "b": "50 percent",
+    "c": "70.7 percent",
+    "d": "100 percent",
+    "ans": "b"
+  },
+  {
+    "q": "The DC armature winding in which the coil sides are exactly a pole pitch apart is defined as a:",
+    "a": "Fractional-pitch winding",
+    "b": "Full-pitch winding",
+    "c": "Short-pitch winding",
+    "d": "Split-phase winding",
+    "ans": "b"
+  },
+  {
+    "q": "For making the coil span equal to a pole pitch in the armature winding of a DC generator, the back pitch of the winding must equal:",
+    "a": "The number of slots in the stator",
+    "b": "The number of commutator bars per pole",
+    "c": "The total number of poles in the machine",
+    "d": "Twice the number of armature conductors",
+    "ans": "b"
+  },
+  {
+    "q": "What is the term used to describe a transformer in a power supply that has a very large core size and operates at standard utility power frequencies?",
+    "a": "Converter transformer",
+    "b": "Mains transformer",
+    "c": "RF transformer",
+    "d": "Autotransformer",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is NOT a standard, commercially common working voltage for electronic capacitors?",
+    "a": "5 Volts",
+    "b": "15 Volts",
+    "c": "50 Volts",
+    "d": "100 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "What is the approximate mathematical value of the smoothing factor of a standard capacitor-input power supply filter?",
+    "a": "1 / (2 * pi * f * R * C)",
+    "b": "6.28 * f * R * C",
+    "c": "f * R * C",
+    "d": "1 / (f * R * C)",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of connecting lead material is preferred in high-current, high-temperature military power supplies?",
+    "a": "Copper",
+    "b": "Silver",
+    "c": "Aluminum",
+    "d": "Nickel",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of solder alloy has a high melting temperature, reaching up to 200 degrees Celsius?",
+    "a": "Lead-silver alloy",
+    "b": "Tin-lead alloy",
+    "c": "Bismuth-tin alloy",
+    "d": "Zinc-aluminum alloy",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary power loss mechanism in a magnetic circuit core due to alternating magnetic fields?",
+    "a": "Copper loss",
+    "b": "Hysteresis and eddy current losses",
+    "c": "Friction loss",
+    "d": "Radiation loss",
+    "ans": "b"
+  },
+  {
+    "q": "Admittance is a complex electrical quantity that expresses which of the following?",
+    "a": "The total opposition to alternating current",
+    "b": "The ease with which an AC circuit passes current",
+    "c": "The electrostatic charge storing capability of a circuit",
+    "d": "The ratio of reactive power to true power",
+    "ans": "b"
+  },
+  {
+    "q": "If one lamp socket in a parallel-connected group of household light bulbs totally shorts out, what will occur?",
+    "a": "Only the shorted bulb will go dark",
+    "b": "The fuse or circuit breaker will open, protecting the circuit",
+    "c": "All other bulbs will burn much brighter",
+    "d": "The circuit voltage will double",
+    "ans": "b"
+  },
+  {
+    "q": "The power factor (pf) of a pure, lossless series LC circuit at any non-resonant frequency is:",
+    "a": "0.5",
+    "b": "0",
+    "c": "1.0",
+    "d": "0.707",
+    "ans": "b"
+  },
+  {
+    "q": "When a parallel AC circuit is at resonance, the overall network behaves as if it were:",
+    "a": "Purely inductive",
+    "b": "Purely resistive",
+    "c": "Purely capacitive",
+    "d": "An open circuit with infinite current",
+    "ans": "b"
+  },
+  {
+    "q": "If the line frequency applied to a parallel AC circuit is increased above its resonant frequency, the circuit becomes:",
+    "a": "More inductive",
+    "b": "More capacitive",
+    "c": "Purely resistive",
+    "d": "Extremely unstable",
+    "ans": "b"
+  },
+  {
+    "q": "If the line frequency applied to a series AC circuit is increased above its resonant frequency, the circuit becomes:",
+    "a": "More capacitive",
+    "b": "More inductive",
+    "c": "Purely resistive",
+    "d": "An open circuit",
+    "ans": "b"
+  },
+  {
+    "q": "In a series RL circuit, as the resistance value is made extremely small compared to the inductive reactance, the phase angle of lag approaches:",
+    "a": "0 degrees",
+    "b": "90 degrees",
+    "c": "45 degrees",
+    "d": "180 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ideal DC output voltage of a capacitor-input filter connected to an AC rectifier output?",
+    "a": "The average value of the rectified voltage",
+    "b": "The peak value of the rectified voltage",
+    "c": "The RMS value of the rectified voltage",
+    "d": "Exactly half of the peak rectified voltage",
+    "ans": "b"
+  },
+  {
+    "q": "In an RLC parallel network, what parameter represents the reciprocal of resistance?",
+    "a": "Susceptance",
+    "b": "Conductance",
+    "c": "Admittance",
+    "d": "Impedance",
+    "ans": "b"
+  },
+  {
+    "q": "In an RLC parallel network, what parameter represents the imaginary part of admittance?",
+    "a": "Conductance",
+    "b": "Susceptance",
+    "c": "Impedance",
+    "d": "Resistance",
+    "ans": "b"
+  },
+  {
+    "q": "What value will result by squaring all instantaneous values of an AC wave, finding their average, and taking the square root of that average?",
+    "a": "Peak value",
+    "b": "Effective (RMS) value",
+    "c": "Average value",
+    "d": "Crest value",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of bridge circuit is most commonly used for comparing the capacitances of air-dielectric capacitors?",
+    "a": "Maxwell bridge",
+    "b": "De Sauty bridge",
+    "c": "Wien bridge",
+    "d": "Kelvin double bridge",
+    "ans": "b"
+  },
+  {
+    "q": "What is the phase difference between two AC waveforms of the same frequency that are 1/10 of a cycle apart?",
+    "a": "18 degrees",
+    "b": "36 degrees",
+    "c": "72 degrees",
+    "d": "90 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the angular frequency (omega) of a 60-Hz AC source?",
+    "a": "120 rad/s",
+    "b": "377 rad/s",
+    "c": "314 rad/s",
+    "d": "180 rad/s",
+    "ans": "b"
+  },
+  {
+    "q": "In a series RLC circuit operating below its resonant frequency, how does the circuit behave?",
+    "a": "Purely resistive",
+    "b": "Capacitive",
+    "c": "Inductive",
+    "d": "As an open circuit",
+    "ans": "b"
+  },
+  {
+    "q": "Which theorem states that any linear, active, bilateral two-terminal network can be replaced by an equivalent current source in parallel with an equivalent resistor?",
+    "a": "Thevenin's Theorem",
+    "b": "Norton's Theorem",
+    "c": "Millman's Theorem",
+    "d": "Superposition Theorem",
+    "ans": "b"
+  },
+  {
+    "q": "Under maximum power transfer conditions, what is the efficiency of power transfer from the source to the load?",
+    "a": "100 percent",
+    "b": "50 percent",
+    "c": "25 percent",
+    "d": "70.7 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the total resistance of a parallel circuit as more parallel branches are added to the network?",
+    "a": "The total resistance increases",
+    "b": "The total resistance decreases",
+    "c": "The total resistance remains constant",
+    "d": "The total resistance drops to zero immediately",
+    "ans": "b"
+  },
+  {
+    "q": "What is the power factor of a purely resistive AC circuit?",
+    "a": "Zero",
+    "b": "Unity (1.0)",
+    "c": "0.707 leading",
+    "d": "0.5 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "The reciprocal of admittance is defined as:",
+    "a": "Conductance",
+    "b": "Impedance",
+    "c": "Reactance",
+    "d": "Susceptance",
+    "ans": "b"
+  },
+  {
+    "q": "A circuit contains a 10 Ohm resistor connected in series with a 15 Ohm resistor across a 50-Volt DC source. Calculate the total current flowing in the circuit.",
+    "a": "5.00 Amperes",
+    "b": "2.00 Amperes",
+    "c": "3.33 Amperes",
+    "d": "1.67 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the series circuit in the previous question (10 Ohms and 15 Ohms across 50 Volts), calculate the voltage drop across the 15 Ohm resistor.",
+    "a": "20.0 Volts",
+    "b": "30.0 Volts",
+    "c": "15.0 Volts",
+    "d": "25.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total power dissipated by the series circuit in the previous questions (10 Ohms and 15 Ohms across 50 Volts).",
+    "a": "50.0 Watts",
+    "b": "100.0 Watts",
+    "c": "150.0 Watts",
+    "d": "75.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Two resistors, with values of 20 Ohms and 30 Ohms, are connected in parallel across an unregulated DC source. If the current through the 20 Ohm resistor is 3 Amperes, find the source voltage.",
+    "a": "100 Volts",
+    "b": "60 Volts",
+    "c": "50 Volts",
+    "d": "120 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the parallel resistor network in the previous question (20 Ohms and 30 Ohms in parallel, source voltage = 60 Volts), calculate the current flowing through the 30 Ohm branch.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "1.5 Amperes",
+    "d": "3.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total equivalent resistance of the parallel combination of 20 Ohms and 30 Ohms.",
+    "a": "50.0 Ohms",
+    "b": "12.0 Ohms",
+    "c": "10.0 Ohms",
+    "d": "25.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Three resistors, R1 = 10 Ohms, R2 = 20 Ohms, and R3 = 30 Ohms, are connected in series across a 120-Volt DC power supply. Find the total resistance of this network.",
+    "a": "5.45 Ohms",
+    "b": "60.00 Ohms",
+    "c": "30.00 Ohms",
+    "d": "15.00 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the series network in the previous question (10, 20, and 30 Ohms across 120 Volts), find the voltage drop across R2.",
+    "a": "20.0 Volts",
+    "b": "40.0 Volts",
+    "c": "60.0 Volts",
+    "d": "10.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the same three resistors (10, 20, and 30 Ohms) are connected in parallel across the 120-Volt DC source, calculate the total current supplied by the source.",
+    "a": "2.0 Amperes",
+    "b": "22.0 Amperes",
+    "c": "11.0 Amperes",
+    "d": "6.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the equivalent resistance of a parallel network containing three resistors of values 4 Ohms, 6 Ohms, and 12 Ohms.",
+    "a": "22.0 Ohms",
+    "b": "2.0 Ohms",
+    "c": "4.0 Ohms",
+    "d": "1.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A delta network consists of three equal resistors of 90 Ohms each. If this network is converted to an equivalent star (Y) configuration, what is the value of each star resistor?",
+    "a": "270.0 Ohms",
+    "b": "30.0 Ohms",
+    "c": "45.0 Ohms",
+    "d": "15.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A star (Y) network consists of three equal resistors of 15 Ohms each. If this network is converted to an equivalent delta configuration, what is the value of each delta resistor?",
+    "a": "5.0 Ohms",
+    "b": "45.0 Ohms",
+    "c": "30.0 Ohms",
+    "d": "15.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Three resistors, R1 = 60 Ohms, R2 = 80 Ohms, and R3 = 100 Ohms, are connected in delta. If transformed into star, what would be the value of the resistor opposite to R2?",
+    "a": "33.3 Ohms",
+    "b": "25.0 Ohms",
+    "c": "45.0 Ohms",
+    "d": "56.7 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A simple electrical circuit consists of a real voltage source of 24 Volts with an internal resistance of 2 Ohms connected to a variable load resistor RL. Calculate the maximum power that can be delivered to RL.",
+    "a": "144.0 Watts",
+    "b": "72.0 Watts",
+    "c": "288.0 Watts",
+    "d": "36.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Find the load resistance RL required to draw maximum power from the source described in the previous question (source voltage = 24 Volts, internal resistance = 2 Ohms).",
+    "a": "4.0 Ohms",
+    "b": "2.0 Ohms",
+    "c": "1.0 Ohm",
+    "d": "8.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A circuit contains two parallel branches connected across a constant DC voltage. Branch 1 has a resistor of 10 Ohms, and Branch 2 has a resistor of 15 Ohms. If the total line current is 10 Amperes, calculate the current in Branch 1.",
+    "a": "4.0 Amperes",
+    "b": "6.0 Amperes",
+    "c": "5.0 Amperes",
+    "d": "3.3 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the DC voltage applied to the parallel circuit described in the previous question (total current = 10 Amperes, parallel branches of 10 Ohms and 15 Ohms).",
+    "a": "150.0 Volts",
+    "b": "60.0 Volts",
+    "c": "100.0 Volts",
+    "d": "75.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A Wheatstone bridge has four resistive arms: AB = 100 Ohms, BC = 1000 Ohms, CD = 4000 Ohms, and DA is an unknown resistor Rx. If the bridge is perfectly balanced when connected across a battery, calculate Rx.",
+    "a": "40.0 Ohms",
+    "b": "400.0 Ohms",
+    "c": "4.0k Ohms",
+    "d": "10.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A circuit loop contains a 10-Volt battery and two series resistors of 2 Ohms and 3 Ohms. Calculate the loop current using Kirchhoff's Voltage Law.",
+    "a": "5.0 Amperes",
+    "b": "2.0 Amperes",
+    "c": "3.3 Amperes",
+    "d": "1.0 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "An active two-terminal network has an open-circuit voltage of 15 Volts. When a short circuit is placed across its terminals, the current is measured to be 3 Amperes. Find the Thevenin equivalent resistance of the network.",
+    "a": "45.0 Ohms",
+    "b": "5.0 Ohms",
+    "c": "0.2 Ohms",
+    "d": "15.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the network described in the previous question (open-circuit voltage = 15 Volts, short-circuit current = 3 Amperes), write down its Norton equivalent circuit parameters.",
+    "a": "IN = 15 A, RN = 5 Ohms",
+    "b": "IN = 3 A, RN = 5 Ohms",
+    "c": "IN = 3 A, RN = 15 Ohms",
+    "d": "IN = 5 A, RN = 3 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Three parallel active branches are connected together. Branch 1 has a voltage of 12 Volts and a series resistance of 2 Ohms. Branch 2 has a voltage of 18 Volts and a series resistance of 3 Ohms. Branch 3 has a voltage of 24 Volts and a series resistance of 6 Ohms. Calculate the common voltage across the parallel combination using Millman's Theorem.",
+    "a": "18.0 Volts",
+    "b": "16.0 Volts",
+    "c": "20.0 Volts",
+    "d": "14.4 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform has a peak value of 170 Volts. Calculate its effective (RMS) value.",
+    "a": "108.1 Volts",
+    "b": "120.2 Volts",
+    "c": "85.0 Volts",
+    "d": "150.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform has an effective (RMS) value of 120 Volts. Calculate its peak value.",
+    "a": "84.8 Volts",
+    "b": "169.7 Volts",
+    "c": "150.0 Volts",
+    "d": "240.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the average value of a sinusoidal voltage wave that has a peak value of 100 Volts.",
+    "a": "70.7 Volts",
+    "b": "63.6 Volts",
+    "c": "50.0 Volts",
+    "d": "90.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform has a peak-to-peak value of 340 Volts. Find its effective (RMS) value.",
+    "a": "240.4 Volts",
+    "b": "120.2 Volts",
+    "c": "170.0 Volts",
+    "d": "85.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the RMS value of the voltage of an AC waveform is 12.4 Volts, calculate its average value. (Compute Emax first).",
+    "a": "8.0 Volts",
+    "b": "11.1 Volts",
+    "c": "15.2 Volts",
+    "d": "18.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the effective (RMS) value of an AC current is 3.25 Amperes, calculate its peak value.",
+    "a": "2.3 Amperes",
+    "b": "4.6 Amperes",
+    "c": "2.1 Amperes",
+    "d": "1.6 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A sinusoidal AC voltage waveform is supplied to a circuit, and its average voltage is measured to be 62 Volts AC. Calculate the maximum (peak) voltage.",
+    "a": "14.6 Volts",
+    "b": "97.4 Volts",
+    "c": "87.7 Volts",
+    "d": "43.8 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "If the average voltage of the AC supply described in the previous question is raised to 120 Volts, calculate its effective (RMS) value.",
+    "a": "11.5 Volts",
+    "b": "133.3 Volts",
+    "c": "170.0 Volts",
+    "d": "84.8 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An AC wave has a period of 4 milliseconds. Calculate its frequency.",
+    "a": "400 Hz",
+    "b": "250 Hz",
+    "c": "500 Hz",
+    "d": "1000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An AC signal has a frequency of 50 Hz. Calculate the time required to complete one full cycle (period).",
+    "a": "0.10 seconds",
+    "b": "0.02 seconds",
+    "c": "0.05 seconds",
+    "d": "0.01 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "An AC signal has a frequency of 10 kHz. Calculate its angular frequency (omega) in radians per second.",
+    "a": "31,416 rad/s",
+    "b": "62,832 rad/s",
+    "c": "10,000 rad/s",
+    "d": "6,283 rad/s",
+    "ans": "b"
+  },
+  {
+    "q": "An AC generator rotating at 1800 rpm has 4 poles. Calculate the frequency of the generated voltage.",
+    "a": "120 Hz",
+    "b": "60 Hz",
+    "c": "50 Hz",
+    "d": "400 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A 6-pole AC generator rotates at 1000 rpm. Calculate the frequency of the generated output.",
+    "a": "60 Hz",
+    "b": "50 Hz",
+    "c": "100 Hz",
+    "d": "400 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A certain coil has an inductance of 0.2 Henries. Calculate its inductive reactance at a utility line frequency of 60 Hz.",
+    "a": "37.7 Ohms",
+    "b": "75.4 Ohms",
+    "c": "150.8 Ohms",
+    "d": "18.8 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the inductive reactance of a 10 milli-Henry choke coil at an operating frequency of 100 kHz.",
+    "a": "314 Ohms",
+    "b": "628 Ohms",
+    "c": "62.8 Ohms",
+    "d": "1256 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the capacitance required to produce a capacitive reactance of 100 Ohms at a frequency of 50 Hz.",
+    "a": "15.9 uF",
+    "b": "31.8 uF",
+    "c": "63.6 uF",
+    "d": "7.9 uF",
+    "ans": "b"
+  },
+  {
+    "q": "What is the capacitive reactance of a 0.1 micro-Farad capacitor at a radio frequency of 1 MHz?",
+    "a": "3.18 Ohms",
+    "b": "1.59 Ohms",
+    "c": "15.90 Ohms",
+    "d": "0.79 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A series circuit consists of a 40 Ohm resistor and an inductor with an inductive reactance of 30 Ohms connected across an AC supply. Calculate the total impedance.",
+    "a": "70.0 Ohms",
+    "b": "50.0 Ohms",
+    "c": "10.0 Ohms",
+    "d": "35.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) between the voltage and current for the series RL circuit described in the previous question (R = 40 Ohms, XL = 30 Ohms).",
+    "a": "53.13 degrees, current leading",
+    "b": "36.87 degrees, current lagging",
+    "c": "53.13 degrees, current lagging",
+    "d": "36.87 degrees, current leading",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor (pf) of the series RL circuit described in the previous questions (R = 40 Ohms, XL = 30 Ohms).",
+    "a": "0.60 lagging",
+    "b": "0.80 lagging",
+    "c": "0.80 leading",
+    "d": "0.60 leading",
+    "ans": "b"
+  },
+  {
+    "q": "If the series RL circuit (R = 40 Ohms, XL = 30 Ohms) is connected across a 100-Volt AC source, calculate the current flowing in the circuit.",
+    "a": "1.43 Amperes",
+    "b": "2.00 Amperes",
+    "c": "2.50 Amperes",
+    "d": "1.00 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the active (true) power dissipated by the series RL circuit carrying 2.0 Amperes from a 100-Volt AC source (R = 40 Ohms).",
+    "a": "200.0 Watts",
+    "b": "160.0 Watts",
+    "c": "120.0 Watts",
+    "d": "80.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) of the series RL circuit carrying 2.0 Amperes (XL = 30 Ohms).",
+    "a": "200.0 VAR",
+    "b": "120.0 VAR",
+    "c": "160.0 VAR",
+    "d": "80.0 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the apparent power (S) of the series RL circuit connected to a 100-Volt AC source carrying 2.0 Amperes.",
+    "a": "160.0 VA",
+    "b": "200.0 VA",
+    "c": "120.0 VA",
+    "d": "100.0 VA",
+    "ans": "b"
+  },
+  {
+    "q": "A series RC circuit consists of a 100 Ohm resistor and a capacitor with a capacitive reactance of 50 Ohms. Calculate the phase angle by which the current leads the voltage.",
+    "a": "13.28 degrees",
+    "b": "26.56 degrees",
+    "c": "31.72 degrees",
+    "d": "63.44 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total impedance of the series RC circuit described in the previous question (R = 100 Ohms, XC = 50 Ohms).",
+    "a": "150.0 Ohms",
+    "b": "111.8 Ohms",
+    "c": "125.0 Ohms",
+    "d": "86.6 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A series RC network is supplied with a voltage v = Vmsin(120*pi*t). If the circuit has a power factor pf = 0.5, what is the current equation?",
+    "a": "i = Imax*sin(120*pi*t - 60)",
+    "b": "i = Imax*sin(120*pi*t + 60)",
+    "c": "i = Imax*sin(120*pi*t + 30)",
+    "d": "i = Imax*sin(120*pi*t - 30)",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit consists of a 10 Ohm resistor, a 0.1 Henry inductor, and a 100 micro-Farad capacitor connected in series. Calculate the resonant frequency (fr) of this circuit.",
+    "a": "25.2 Hz",
+    "b": "50.3 Hz",
+    "c": "15.9 Hz",
+    "d": "100.6 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "For the series RLC circuit in the previous question (R = 10 Ohms, L = 0.1 H, C = 100 uF), calculate the inductive reactance (XL) at the resonant frequency (approx. 50.3 Hz).",
+    "a": "15.9 Ohms",
+    "b": "31.6 Ohms",
+    "c": "63.2 Ohms",
+    "d": "8.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of the series RLC circuit at resonance (R = 10 Ohms, L = 0.1 H, C = 100 uF).",
+    "a": "1.58",
+    "b": "3.16",
+    "c": "0.32",
+    "d": "6.32",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bandwidth (BW) of the series RLC resonant circuit described in the previous questions (resonant frequency = 50.3 Hz, Q = 3.16).",
+    "a": "10.0 Hz",
+    "b": "15.9 Hz",
+    "c": "5.0 Hz",
+    "d": "31.8 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Using the resonant frequency (50.3 Hz) and bandwidth (15.9 Hz) from the previous questions, calculate the lower cut-off frequency (f1) of the circuit.",
+    "a": "34.4 Hz",
+    "b": "42.4 Hz",
+    "c": "25.2 Hz",
+    "d": "45.1 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the upper cut-off frequency (f2) of the resonant circuit described in the previous questions (fr = 50.3 Hz, BW = 15.9 Hz).",
+    "a": "66.2 Hz",
+    "b": "58.3 Hz",
+    "c": "75.4 Hz",
+    "d": "54.1 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An LC circuit resonates at 2000 kHz and has a Q-factor of 100. Find the lower and upper cut-off frequencies.",
+    "a": "1950 kHz and 2050 kHz",
+    "b": "1990 kHz and 2010 kHz",
+    "c": "1900 kHz and 2100 kHz",
+    "d": "1990 kHz and 2005 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel RLC circuit has branch currents: IR = 4 Amperes, IL = 6 Amperes, and IC = 3 Amperes. Calculate the total line current.",
+    "a": "13.0 Amperes",
+    "b": "5.0 Amperes",
+    "c": "7.0 Amperes",
+    "d": "9.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the overall power factor of the parallel RLC circuit described in the previous question (IR = 4 A, IL = 6 A, IC = 3 A).",
+    "a": "0.60 leading",
+    "b": "0.80 lagging",
+    "c": "0.80 leading",
+    "d": "0.60 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "If the parallel RLC circuit (IR = 4 A, IL = 6 A, IC = 3 A) is supplied by a 120-Volt AC source, calculate the total impedance of the network.",
+    "a": "12.0 Ohms",
+    "b": "24.0 Ohms",
+    "c": "15.0 Ohms",
+    "d": "30.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel LC circuit is connected across a variable frequency AC source. If the line frequency is set higher than the resonant frequency, the overall circuit behaves as:",
+    "a": "A pure resistor",
+    "b": "A capacitor",
+    "c": "An inductor",
+    "d": "An open circuit",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel LC circuit is connected across a variable frequency AC source. If the line frequency is set lower than the resonant frequency, the overall circuit behaves as:",
+    "a": "A capacitor",
+    "b": "An inductor",
+    "c": "A resistor",
+    "d": "A short circuit",
+    "ans": "b"
+  },
+  {
+    "q": "A series RL circuit has R = 30 Ohms and XL = 40 Ohms connected across a 100-Volt peak-to-peak AC source. Calculate the peak-to-peak current in the circuit.",
+    "a": "2.83 Amperes",
+    "b": "2.00 Amperes",
+    "c": "1.41 Amperes",
+    "d": "4.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A series RL circuit has a time constant (tau) of 0.05 seconds. If the resistance R is 10 Ohms, calculate the inductance L of the coil.",
+    "a": "2.0 Henries",
+    "b": "0.5 Henries",
+    "c": "1.0 Henry",
+    "d": "0.2 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "An RC circuit has a time constant of 2 seconds. If a 10 micro-Farad capacitor is used, calculate the required resistance R.",
+    "a": "100k Ohms",
+    "b": "200k Ohms",
+    "c": "50k Ohms",
+    "d": "500k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A 100 micro-Farad capacitor is connected to a 10-Volt DC source through a 50k Ohm resistor. Calculate the initial current at the instant the switch is closed.",
+    "a": "0.00 mA",
+    "b": "0.20 mA",
+    "c": "0.10 mA",
+    "d": "0.50 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the RC charging circuit in the previous question (C = 100 uF, R = 50k Ohms, V = 10 V), calculate the voltage across the capacitor exactly 5.0 seconds after the switch is closed.",
+    "a": "3.68 Volts",
+    "b": "6.32 Volts",
+    "c": "5.00 Volts",
+    "d": "8.65 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An inductor of 2 Henries is connected to a 12-Volt battery through a 4 Ohm resistor. Calculate the circuit current exactly one time constant after closing the switch.",
+    "a": "1.10 Amperes",
+    "b": "1.90 Amperes",
+    "c": "3.00 Amperes",
+    "d": "0.63 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the RL charging circuit in the previous question (L = 2 H, R = 4 Ohms, V = 12 V), calculate the steady-state current after a long time.",
+    "a": "1.5 Amperes",
+    "b": "3.0 Amperes",
+    "c": "6.0 Amperes",
+    "d": "0.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line has a line impedance of 100 + j50 Ohms. Calculate the absolute magnitude of the line impedance.",
+    "a": "150.0 Ohms",
+    "b": "111.8 Ohms",
+    "c": "125.0 Ohms",
+    "d": "86.6 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A transmission line carrying a current of 3.5 Amperes AC has a voltage drop of 150 Volts AC. If the current lags the voltage by 30 degrees, calculate the true power in the line.",
+    "a": "525.0 Watts",
+    "b": "454.7 Watts",
+    "c": "262.5 Watts",
+    "d": "52.5 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) in the transmission line described in the previous question (I = 3.5 A, V = 150 V, phase lag = 30 degrees).",
+    "a": "454.7 VAR",
+    "b": "262.5 VAR",
+    "c": "525.0 VAR",
+    "d": "131.3 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the apparent power (S) in the transmission line described in the previous questions.",
+    "a": "454.7 VA",
+    "b": "525.0 VA",
+    "c": "262.5 VA",
+    "d": "150.0 VA",
+    "ans": "b"
+  },
+  {
+    "q": "A coil consists of 500 turns. When a current of 2 Amperes flows through it, a magnetic flux of 4 milli-Webers is produced. Calculate the self-inductance of the coil.",
+    "a": "2.0 Henries",
+    "b": "1.0 Henry",
+    "c": "0.5 Henries",
+    "d": "4.0 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform is represented by v = 141.4*sin(377*t). Calculate the RMS voltage value.",
+    "a": "141.4 Volts",
+    "b": "100.0 Volts",
+    "c": "70.7 Volts",
+    "d": "120.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the frequency of the AC voltage waveform represented by v = 141.4*sin(377*t) in the previous question.",
+    "a": "50 Hz",
+    "b": "60 Hz",
+    "c": "100 Hz",
+    "d": "120 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit has R = 20 Ohms, XL = 80 Ohms, and XC = 60 Ohms connected across a 100-Volt AC supply. Calculate the total current flowing in the circuit.",
+    "a": "5.00 Amperes",
+    "b": "3.54 Amperes",
+    "c": "2.50 Amperes",
+    "d": "1.41 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RLC circuit described in the previous question (R = 20 Ohms, XL = 80 Ohms, XC = 60 Ohms).",
+    "a": "53.13 degrees, current leading",
+    "b": "45.00 degrees, current lagging",
+    "c": "45.00 degrees, current leading",
+    "d": "53.13 degrees, current lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor (pf) of the series RLC circuit described in the previous questions (R = 20 Ohms, XL = 80 Ohms, XC = 60 Ohms).",
+    "a": "0.50 lagging",
+    "b": "0.707 lagging",
+    "c": "0.707 leading",
+    "d": "0.80 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the voltage drop across the inductor (VL) in the series RLC circuit carrying 3.54 Amperes (XL = 80 Ohms).",
+    "a": "200.0 Volts",
+    "b": "283.2 Volts",
+    "c": "141.4 Volts",
+    "d": "100.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the voltage drop across the capacitor (VC) in the series RLC circuit carrying 3.54 Amperes (XC = 60 Ohms).",
+    "a": "100.0 Volts",
+    "b": "212.4 Volts",
+    "c": "141.4 Volts",
+    "d": "283.2 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the net reactive voltage drop (VL - VC) in the series RLC circuit carrying 3.54 Amperes.",
+    "a": "141.4 Volts",
+    "b": "70.8 Volts",
+    "c": "100.0 Volts",
+    "d": "283.2 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the voltage drop across the resistor (VR) in the series RLC circuit carrying 3.54 Amperes (R = 20 Ohms).",
+    "a": "100.0 Volts",
+    "b": "70.8 Volts",
+    "c": "141.4 Volts",
+    "d": "50.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A circuit contains three parallel resistors of values 10 Ohms, 20 Ohms, and 20 Ohms. Calculate the equivalent parallel resistance.",
+    "a": "50.0 Ohms",
+    "b": "5.0 Ohms",
+    "c": "10.0 Ohms",
+    "d": "2.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the parallel combination described in the previous question (equivalent resistance = 5 Ohms) is connected in series with a 15 Ohm resistor across a 40-Volt DC source, calculate the total current.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "2.67 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the series-parallel circuit in the previous question, calculate the voltage drop across the parallel combination.",
+    "a": "30.0 Volts",
+    "b": "10.0 Volts",
+    "c": "20.0 Volts",
+    "d": "5.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Find the current flowing through the 10 Ohm resistor inside the parallel branch under the conditions in the previous questions.",
+    "a": "0.5 Amperes",
+    "b": "1.0 Ampere",
+    "c": "2.0 Amperes",
+    "d": "0.25 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the current flowing through one of the 20 Ohm resistors inside the parallel branch.",
+    "a": "1.0 Ampere",
+    "b": "0.5 Amperes",
+    "c": "0.25 Amperes",
+    "d": "2.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "An AC circuit has a branch admittance Y = 0.04 - j0.03 Siemens. Calculate the absolute magnitude of the admittance.",
+    "a": "0.07 Siemens",
+    "b": "0.05 Siemens",
+    "c": "0.01 Siemens",
+    "d": "0.035 Siemens",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the impedance Z corresponding to the admittance Y = 0.04 - j0.03 Siemens in the previous question.",
+    "a": "14.3 + j10.7 Ohms",
+    "b": "16.0 + j12.0 Ohms",
+    "c": "20.0 + j15.0 Ohms",
+    "d": "10.0 + j7.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power factor (pf) of a parallel branch that has an admittance Y = 0.04 - j0.03 Siemens.",
+    "a": "0.60 lagging",
+    "b": "0.80 lagging",
+    "c": "0.80 leading",
+    "d": "0.60 leading",
+    "ans": "b"
+  },
+  {
+    "q": "An AC load draws 10 Amperes from a 230-Volt AC line. If the power factor of the load is 0.8 lagging, calculate the active (true) power consumed.",
+    "a": "2300 Watts",
+    "b": "1840 Watts",
+    "c": "1380 Watts",
+    "d": "1150 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) drawn by the AC load described in the previous question (I = 10 A, V = 230 V, pf = 0.8 lagging).",
+    "a": "1840 VAR",
+    "b": "1380 VAR",
+    "c": "2300 VAR",
+    "d": "1150 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the apparent power (S) drawn by the AC load described in the previous questions.",
+    "a": "1840 VA",
+    "b": "2300 VA",
+    "c": "1380 VA",
+    "d": "1150 VA",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit has a bandwidth of 50 Hz and a resonant frequency of 1000 Hz. Calculate its Q-factor.",
+    "a": "5.0",
+    "b": "20.0",
+    "c": "10.0",
+    "d": "50.0",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage source with an RMS value of 100 Volts is connected across a series combination of a 30 Ohm resistor and a 40 Ohm capacitive reactance. Calculate the total current.",
+    "a": "1.43 Amperes",
+    "b": "2.00 Amperes",
+    "c": "2.50 Amperes",
+    "d": "1.00 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RC circuit described in the previous question (R = 30 Ohms, XC = 40 Ohms).",
+    "a": "36.87 degrees, current leading",
+    "b": "53.13 degrees, current leading",
+    "c": "53.13 degrees, current lagging",
+    "d": "36.87 degrees, current lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor of the series RC circuit described in the previous questions.",
+    "a": "0.80 lagging",
+    "b": "0.60 leading",
+    "c": "0.60 lagging",
+    "d": "0.80 leading",
+    "ans": "b"
+  },
+  {
+    "q": "A certain air-core coil has an inductance of 5 milli-Henries. Find its inductive reactance at a frequency of 100 kHz.",
+    "a": "1570 Ohms",
+    "b": "3142 Ohms",
+    "c": "6284 Ohms",
+    "d": "785 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A certain capacitor has a capacitive reactance of 200 Ohms at a frequency of 1000 Hz. Calculate its capacitance.",
+    "a": "1.59 uF",
+    "b": "0.796 uF",
+    "c": "3.18 uF",
+    "d": "0.398 uF",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent resistance of three parallel resistors of values 30 Ohms, 60 Ohms, and 60 Ohms?",
+    "a": "150.0 Ohms",
+    "b": "12.0 Ohms",
+    "c": "15.0 Ohms",
+    "d": "10.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "If the parallel network (equivalent resistance = 15 Ohms) is connected in series with a 5 Ohm resistor across a 60-Volt DC source, calculate the total current.",
+    "a": "4.00 Amperes",
+    "b": "3.00 Amperes",
+    "c": "2.00 Amperes",
+    "d": "1.50 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the series-parallel circuit described in the previous question, calculate the voltage drop across the parallel combination.",
+    "a": "15.0 Volts",
+    "b": "45.0 Volts",
+    "c": "30.0 Volts",
+    "d": "10.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Find the current flowing through the 30 Ohm branch inside the parallel network.",
+    "a": "0.50 Amperes",
+    "b": "1.50 Amperes",
+    "c": "1.00 Ampere",
+    "d": "2.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the current flowing through one of the 60 Ohm branches inside the parallel network.",
+    "a": "1.50 Amperes",
+    "b": "0.75 Amperes",
+    "c": "0.50 Amperes",
+    "d": "1.00 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform has a peak value of 311 Volts. Calculate its effective (RMS) value.",
+    "a": "110 Volts",
+    "b": "220 Volts",
+    "c": "155 Volts",
+    "d": "380 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Find the peak-to-peak voltage value for the AC wave described in the previous question (peak value = 311 Volts).",
+    "a": "155.5 Volts",
+    "b": "622.0 Volts",
+    "c": "440.0 Volts",
+    "d": "311.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An AC circuit consists of a 10 Ohm resistor connected across a voltage source represented by v = 100*sin(314*t). Calculate the instantaneous current at t = 5 milliseconds.",
+    "a": "5.0 Amperes",
+    "b": "10.0 Amperes",
+    "c": "7.07 Amperes",
+    "d": "0.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A series RL circuit consists of a 15 Ohm resistor and a coil with inductive reactance of 20 Ohms connected across a 100-Volt AC supply. Calculate the circuit impedance.",
+    "a": "35.0 Ohms",
+    "b": "25.0 Ohms",
+    "c": "17.5 Ohms",
+    "d": "12.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the series RL circuit in the previous question (R = 15 Ohms, XL = 20 Ohms, V = 100 V), calculate the current flowing in the circuit.",
+    "a": "2.86 Amperes",
+    "b": "4.00 Amperes",
+    "c": "5.71 Amperes",
+    "d": "8.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RL circuit described in the previous questions.",
+    "a": "36.87 degrees, current lagging",
+    "b": "53.13 degrees, current lagging",
+    "c": "53.13 degrees, current leading",
+    "d": "36.87 degrees, current leading",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the active (true) power consumed by the series RL circuit described in the previous questions (current = 4.0 Amperes, R = 15 Ohms).",
+    "a": "160.0 Watts",
+    "b": "240.0 Watts",
+    "c": "320.0 Watts",
+    "d": "120.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) for the series RL circuit carrying 4.0 Amperes (XL = 20 Ohms).",
+    "a": "240.0 VAR",
+    "b": "320.0 VAR",
+    "c": "160.0 VAR",
+    "d": "120.0 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the apparent power (S) for the series RL circuit carrying 4.0 Amperes connected to a 100-Volt source.",
+    "a": "240.0 VA",
+    "b": "400.0 VA",
+    "c": "320.0 VA",
+    "d": "200.0 VA",
+    "ans": "b"
+  },
+  {
+    "q": "A series RC circuit consists of a 50 Ohm resistor and a capacitor with a capacitive reactance of 50 Ohms connected across a 100-Volt AC source. Calculate the total circuit impedance.",
+    "a": "100.0 Ohms",
+    "b": "70.7 Ohms",
+    "c": "50.0 Ohms",
+    "d": "35.4 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the series RC circuit in the previous question (R = 50 Ohms, XC = 50 Ohms, V = 100 V), calculate the current flowing in the circuit.",
+    "a": "1.00 Ampere",
+    "b": "1.41 Amperes",
+    "c": "2.00 Amperes",
+    "d": "0.71 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RC circuit carrying 1.41 Amperes.",
+    "a": "30.0 degrees, current leading",
+    "b": "45.0 degrees, current leading",
+    "c": "45.0 degrees, current lagging",
+    "d": "60.0 degrees, current leading",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel RLC circuit has branch currents: IR = 6 Amperes, IL = 12 Amperes, and IC = 4 Amperes. Calculate the total line current.",
+    "a": "22.0 Amperes",
+    "b": "10.0 Amperes",
+    "c": "14.0 Amperes",
+    "d": "8.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the overall power factor of the parallel RLC circuit described in the previous question (IR = 6 A, IL = 12 A, IC = 4 A).",
+    "a": "0.50 lagging",
+    "b": "0.60 lagging",
+    "c": "0.60 leading",
+    "d": "0.80 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "If the parallel RLC circuit (IR = 6 A, IL = 12 A, IC = 4 A) is supplied by a 120-Volt AC source, calculate the total impedance of the network.",
+    "a": "6.0 Ohms",
+    "b": "12.0 Ohms",
+    "c": "10.0 Ohms",
+    "d": "8.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit has R = 5 Ohms, L = 50 milli-Henries, and C = 20 micro-Farads. Calculate the resonant frequency (fr) of this circuit.",
+    "a": "79.6 Hz",
+    "b": "159.2 Hz",
+    "c": "50.3 Hz",
+    "d": "250.0 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the Q-factor of the series RLC circuit described in the previous question (R = 5 Ohms, L = 50 mH, C = 20 uF).",
+    "a": "5.0",
+    "b": "10.0",
+    "c": "2.5",
+    "d": "20.0",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bandwidth (BW) of the series RLC resonant circuit described in the previous questions (resonant frequency = 159.2 Hz, Q = 10.0).",
+    "a": "7.96 Hz",
+    "b": "15.92 Hz",
+    "c": "31.84 Hz",
+    "d": "5.00 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Using the resonant frequency (159.2 Hz) and bandwidth (15.92 Hz) from the previous questions, calculate the lower cut-off frequency (f1) of the circuit.",
+    "a": "135.3 Hz",
+    "b": "151.2 Hz",
+    "c": "143.3 Hz",
+    "d": "125.0 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the upper cut-off frequency (f2) of the resonant circuit described in the previous questions (fr = 159.2 Hz, BW = 15.92 Hz).",
+    "a": "180.2 Hz",
+    "b": "167.2 Hz",
+    "c": "175.1 Hz",
+    "d": "195.0 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel plate capacitor consists of two plates of area 0.05 square meters separated by 2 millimeters of air. Calculate its capacitance.",
+    "a": "110.7 pF",
+    "b": "221.4 pF",
+    "c": "442.7 pF",
+    "d": "88.5 pF",
+    "ans": "b"
+  },
+  {
+    "q": "If the capacitor in the previous question is connected across a 100-Volt DC source, find the energy stored.",
+    "a": "0.55 micro-Joules",
+    "b": "1.11 micro-Joules",
+    "c": "2.22 micro-Joules",
+    "d": "0.28 micro-Joules",
+    "ans": "b"
+  },
+  {
+    "q": "What is the charge stored on the plates of the capacitor described in the previous questions?",
+    "a": "11.1 nano-Coulombs",
+    "b": "22.1 nano-Coulombs",
+    "c": "44.3 nano-Coulombs",
+    "d": "5.5 nano-Coulombs",
+    "ans": "b"
+  },
+  {
+    "q": "A certain coil has 400 turns wound on a core. If a current of 3 Amperes produces a magnetic flux of 6 milli-Webers, calculate the self-inductance.",
+    "a": "0.4 Henries",
+    "b": "0.8 Henries",
+    "c": "1.6 Henries",
+    "d": "0.2 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 3 Amperes.",
+    "a": "1.8 Joules",
+    "b": "3.6 Joules",
+    "c": "7.2 Joules",
+    "d": "0.9 Joules",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the mutual inductance between two coupled coils if their self-inductances are 10 mH and 40 mH respectively, and the coupling coefficient is 0.8.",
+    "a": "8.0 milli-Henries",
+    "b": "16.0 milli-Henries",
+    "c": "32.0 milli-Henries",
+    "d": "4.0 milli-Henries",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent inductance of two coupled coils of self-inductances L1 = 12 mH and L2 = 18 mH connected in series aiding with a mutual inductance of 5 mH?",
+    "a": "30.0 milli-Henries",
+    "b": "40.0 milli-Henries",
+    "c": "20.0 milli-Henries",
+    "d": "35.0 milli-Henries",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent inductance of the same two coils (12 mH and 18 mH, mutual 5 mH) connected in series opposing?",
+    "a": "10.0 milli-Henries",
+    "b": "20.0 milli-Henries",
+    "c": "30.0 milli-Henries",
+    "d": "15.0 milli-Henries",
+    "ans": "b"
+  },
+  {
+    "q": "A certain capacitor of value 10 uF is charged to 100 Volts and then disconnected. It is connected in parallel with an uncharged 10 uF capacitor. Calculate the final voltage across each.",
+    "a": "100 Volts",
+    "b": "50 Volts",
+    "c": "25 Volts",
+    "d": "75 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total electrostatic energy stored in the two capacitors after connection in the previous question.",
+    "a": "0.05 Joules",
+    "b": "0.025 Joules",
+    "c": "0.0125 Joules",
+    "d": "0.10 Joules",
+    "ans": "b"
+  },
+  {
+    "q": "An RC series circuit consists of a 100k Ohm resistor and a 5 uF capacitor. What is the time constant of this RC circuit?",
+    "a": "0.2 seconds",
+    "b": "0.5 seconds",
+    "c": "1.0 second",
+    "d": "2.0 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "If the RC circuit in the previous question is connected to a 10-Volt DC supply, calculate the circuit current exactly 0.5 seconds after closing the switch.",
+    "a": "0.100 milli-Amperes",
+    "b": "0.037 milli-Amperes",
+    "c": "0.063 milli-Amperes",
+    "d": "0.050 milli-Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "An RL series circuit consists of a 10 milli-Henry inductor and a 10 Ohm resistor. Find the time constant of this RL circuit.",
+    "a": "1.0 micro-second",
+    "b": "1.0 milli-second",
+    "c": "10.0 milli-seconds",
+    "d": "0.1 milli-seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A transformer has a primary-to-secondary turns ratio of 10:1. If the primary voltage is 120 Volts AC, calculate the secondary voltage.",
+    "a": "1200 Volts",
+    "b": "12 Volts",
+    "c": "1.2 Volts",
+    "d": "120 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the transformer in the previous question (turns ratio 10:1, secondary voltage = 12 V), a load of 6 Ohms is connected across the secondary winding. Calculate the secondary current.",
+    "a": "20.0 Amperes",
+    "b": "2.0 Amperes",
+    "c": "0.2 Amperes",
+    "d": "1.0 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the primary current of the transformer described in the previous questions (turns ratio 10:1, secondary current = 2.0 Amperes).",
+    "a": "2.0 Amperes",
+    "b": "0.2 Amperes",
+    "c": "20.0 Amperes",
+    "d": "0.1 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "A three-phase delta-connected load is connected across a balanced 440-Volt, three-phase supply. If the current in each phase of the load is 10 Amperes, calculate the line current.",
+    "a": "10.0 Amperes",
+    "b": "17.3 Amperes",
+    "c": "5.8 Amperes",
+    "d": "30.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A three-phase star-connected (Y) generator has a phase voltage of 230 Volts. Calculate the line-to-line voltage.",
+    "a": "230 Volts",
+    "b": "398 Volts",
+    "c": "115 Volts",
+    "d": "460 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A single-phase motor drawing 10 Amperes from a 230-Volt AC line is operating at a power factor of 0.707 lagging. Calculate the apparent power of the motor.",
+    "a": "1626 VA",
+    "b": "2300 VA",
+    "c": "3250 VA",
+    "d": "1150 VA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the active (true) power consumed by the motor described in the previous question (S = 2300 VA, pf = 0.707).",
+    "a": "2300 Watts",
+    "b": "1626 Watts",
+    "c": "1150 Watts",
+    "d": "813 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) of the motor described in the previous questions.",
+    "a": "2300 VAR",
+    "b": "1626 VAR",
+    "c": "1150 VAR",
+    "d": "813 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the capacitance required in parallel with the motor to improve the power factor to unity (1.0) if the operating frequency is 60 Hz (Q = 1626 VAR).",
+    "a": "16.2 uF",
+    "b": "81.5 uF",
+    "c": "40.8 uF",
+    "d": "120.0 uF",
+    "ans": "b"
+  },
+  {
+    "q": "A resistance of 6 Ohms, an inductive reactance of 20 Ohms, and a capacitive reactance of 12 Ohms are connected in series across an AC supply. Calculate the total impedance.",
+    "a": "38.0 Ohms",
+    "b": "10.0 Ohms",
+    "c": "14.0 Ohms",
+    "d": "8.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor of the series RLC circuit described in the previous question (R = 6 Ohms, XL = 20 Ohms, XC = 12 Ohms).",
+    "a": "0.80 leading",
+    "b": "0.60 lagging",
+    "c": "0.60 leading",
+    "d": "0.80 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage waveform has a frequency of 1 kHz. Find the period of this waveform.",
+    "a": "10.0 milliseconds",
+    "b": "1.0 millisecond",
+    "c": "0.1 milliseconds",
+    "d": "2.0 milliseconds",
+    "ans": "b"
+  },
+  {
+    "q": "A DC source is connected to a series combination of a 10 Ohm resistor, a 15 Ohm resistor, and a 25 Ohm resistor. If the voltage across the 15 Ohm resistor is 30 Volts, calculate the total source voltage.",
+    "a": "60 Volts",
+    "b": "100 Volts",
+    "c": "50 Volts",
+    "d": "120 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the series circuit in the previous question, calculate the total current flowing in the circuit.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "3.0 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power dissipated by the 25 Ohm resistor under the conditions in the previous questions (current = 2.0 Amperes).",
+    "a": "50 Watts",
+    "b": "100 Watts",
+    "c": "25 Watts",
+    "d": "200 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel circuit consists of two resistors of values 12 Ohms and 18 Ohms connected across a DC voltage source. If the total line current is 5 Amperes, calculate the current in the 12 Ohm resistor.",
+    "a": "2.0 Amperes",
+    "b": "3.0 Amperes",
+    "c": "2.5 Amperes",
+    "d": "1.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the source voltage applied to the parallel circuit described in the previous question (current in 12 Ohm branch = 3 Amperes).",
+    "a": "24 Volts",
+    "b": "36 Volts",
+    "c": "30 Volts",
+    "d": "45 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the total power consumed by the parallel circuit described in the previous questions (source voltage = 36 Volts, total current = 5 Amperes).",
+    "a": "90 Watts",
+    "b": "180 Watts",
+    "c": "150 Watts",
+    "d": "120 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Three resistors, R1 = 15 Ohms, R2 = 30 Ohms, and R3 = 45 Ohms, are connected in series across a 180-Volt DC supply. Calculate the total current in the circuit.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "3.0 Amperes",
+    "d": "4.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "For the series circuit in the previous question (total resistance = 90 Ohms, total current = 2.0 Amperes), calculate the voltage drop across R3.",
+    "a": "30.0 Volts",
+    "b": "90.0 Volts",
+    "c": "60.0 Volts",
+    "d": "15.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power dissipated by R2 in the series circuit described in the previous questions.",
+    "a": "60 Watts",
+    "b": "120 Watts",
+    "c": "90 Watts",
+    "d": "180 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Three resistors, R1 = 10 Ohms, R2 = 15 Ohms, and R3 = 30 Ohms, are connected in parallel across a 120-Volt DC source. Find the equivalent resistance of this parallel combination.",
+    "a": "10.0 Ohms",
+    "b": "5.0 Ohms",
+    "c": "15.0 Ohms",
+    "d": "7.5 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the parallel resistor network in the previous question (equivalent resistance = 5 Ohms, source voltage = 120 Volts), find the total current supplied by the source.",
+    "a": "12.0 Amperes",
+    "b": "24.0 Amperes",
+    "c": "8.0 Amperes",
+    "d": "16.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the current flowing through R3 in the parallel network described in the previous questions.",
+    "a": "8.0 Amperes",
+    "b": "4.0 Amperes",
+    "c": "12.0 Amperes",
+    "d": "2.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A certain network is to be simplified using Thevenin's Theorem. If open-circuit voltage is 12 Volts and short-circuit current is 4 Amperes, calculate the Thevenin equivalent resistance.",
+    "a": "48.0 Ohms",
+    "b": "3.0 Ohms",
+    "c": "0.3 Ohms",
+    "d": "12.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the network described in the previous question, if a load resistor of 1 Ohm is connected across the terminals, calculate the load current.",
+    "a": "4.0 Amperes",
+    "b": "3.0 Amperes",
+    "c": "2.0 Amperes",
+    "d": "1.0 Ampere",
+    "ans": "b"
+  },
+  {
+    "q": "A Wheatstone bridge consists of resistors: AB = 200 Ohms, BC = 2000 Ohms, CD = 8000 Ohms, and DA is Rx. Find Rx under balanced conditions.",
+    "a": "400.0 Ohms",
+    "b": "800.0 Ohms",
+    "c": "8.0k Ohms",
+    "d": "2.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the frequency of an AC voltage wave that has a period of 10 milliseconds.",
+    "a": "50 Hz",
+    "b": "100 Hz",
+    "c": "200 Hz",
+    "d": "1000 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the angular frequency (omega) of a 50-Hz AC source in radians per second.",
+    "a": "157 rad/s",
+    "b": "314 rad/s",
+    "c": "377 rad/s",
+    "d": "628 rad/s",
+    "ans": "b"
+  },
+  {
+    "q": "An AC waveform is represented by v = 282.8*sin(314*t). Calculate its peak value.",
+    "a": "141.4 Volts",
+    "b": "282.8 Volts",
+    "c": "200.0 Volts",
+    "d": "400.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the AC waveform represented by v = 282.8*sin(314*t) in the previous question, calculate its effective (RMS) value.",
+    "a": "141.4 Volts",
+    "b": "200.0 Volts",
+    "c": "282.8 Volts",
+    "d": "100.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the frequency of the AC waveform represented by v = 282.8*sin(314*t) in the previous questions.",
+    "a": "60 Hz",
+    "b": "50 Hz",
+    "c": "100 Hz",
+    "d": "314 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the inductive reactance of a 20 milli-Henry inductor at a utility line frequency of 60 Hz.",
+    "a": "3.77 Ohms",
+    "b": "7.54 Ohms",
+    "c": "15.08 Ohms",
+    "d": "1.88 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Find the capacitive reactance of a 10 micro-Farad capacitor at a frequency of 50 Hz.",
+    "a": "159.2 Ohms",
+    "b": "318.3 Ohms",
+    "c": "636.6 Ohms",
+    "d": "79.6 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A series RL circuit consists of a 30 Ohm resistor and an inductor with an inductive reactance of 40 Ohms. Calculate the total circuit impedance.",
+    "a": "70.0 Ohms",
+    "b": "50.0 Ohms",
+    "c": "10.0 Ohms",
+    "d": "25.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RL circuit described in the previous question (R = 30 Ohms, XL = 40 Ohms).",
+    "a": "36.87 degrees, current leading",
+    "b": "53.13 degrees, current lagging",
+    "c": "53.13 degrees, current leading",
+    "d": "36.87 degrees, current lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor (pf) of the series RL circuit described in the previous questions.",
+    "a": "0.80 lagging",
+    "b": "0.60 lagging",
+    "c": "0.60 leading",
+    "d": "0.80 leading",
+    "ans": "b"
+  },
+  {
+    "q": "A series RC circuit consists of an 80 Ohm resistor and a capacitor with a capacitive reactance of 60 Ohms connected across a 100-Volt AC supply. Calculate the total circuit impedance.",
+    "a": "140.0 Ohms",
+    "b": "100.0 Ohms",
+    "c": "20.0 Ohms",
+    "d": "50.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the series RC circuit in the previous question (R = 80 Ohms, XC = 60 Ohms, V = 100 V), calculate the current flowing in the circuit.",
+    "a": "0.71 Amperes",
+    "b": "1.00 Ampere",
+    "c": "1.41 Amperes",
+    "d": "2.00 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the phase angle (theta) for the series RC circuit described in the previous questions.",
+    "a": "53.13 degrees, current leading",
+    "b": "36.87 degrees, current leading",
+    "c": "36.87 degrees, current lagging",
+    "d": "53.13 degrees, current lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor (pf) of the series RC circuit described in the previous questions.",
+    "a": "0.60 leading",
+    "b": "0.80 leading",
+    "c": "0.80 lagging",
+    "d": "0.60 lagging",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit consists of a 12 Ohm resistor, an inductive reactance of 25 Ohms, and a capacitive reactance of 16 Ohms. Calculate the total circuit impedance.",
+    "a": "53.0 Ohms",
+    "b": "15.0 Ohms",
+    "c": "20.0 Ohms",
+    "d": "25.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the series RLC circuit in the previous question (R = 12 Ohms, XL = 25 Ohms, XC = 16 Ohms), calculate the phase angle (theta).",
+    "a": "53.13 degrees, current leading",
+    "b": "36.87 degrees, current lagging",
+    "c": "36.87 degrees, current leading",
+    "d": "53.13 degrees, current lagging",
+    "ans": "b"
+  },
+  {
+    "q": "Find the power factor (pf) of the series RLC circuit described in the previous questions.",
+    "a": "0.60 lagging",
+    "b": "0.80 lagging",
+    "c": "0.80 leading",
+    "d": "0.60 leading",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit has a resonant frequency of 400 Hz and a Q-factor of 50. Calculate its bandwidth (BW).",
+    "a": "4.0 Hz",
+    "b": "8.0 Hz",
+    "c": "12.0 Hz",
+    "d": "16.0 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel RLC circuit has branch currents: IR = 8 Amperes, IL = 15 Amperes, and IC = 9 Amperes. Calculate the total line current.",
+    "a": "32.0 Amperes",
+    "b": "10.0 Amperes",
+    "c": "14.0 Amperes",
+    "d": "12.0 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Find the overall power factor of the parallel RLC circuit described in the previous question (IR = 8 A, IL = 15 A, IC = 9 A).",
+    "a": "0.60 lagging",
+    "b": "0.80 lagging",
+    "c": "0.80 leading",
+    "d": "0.60 leading",
+    "ans": "b"
+  },
+  {
+    "q": "A 50 micro-Farad capacitor is connected to a 20-Volt DC source through a 20k Ohm resistor. What is the time constant of this charging RC circuit?",
+    "a": "0.5 seconds",
+    "b": "1.0 second",
+    "c": "2.0 seconds",
+    "d": "5.0 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the voltage across the capacitor exactly 2.0 seconds after the switch is closed in the RC circuit described in the previous question (time constant = 1.0 second, V = 20 V).",
+    "a": "12.64 Volts",
+    "b": "17.29 Volts",
+    "c": "18.65 Volts",
+    "d": "7.36 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An RL series circuit has a time constant of 0.1 seconds. If the inductance L is 1 Henry, calculate the resistance R.",
+    "a": "5.0 Ohms",
+    "b": "10.0 Ohms",
+    "c": "20.0 Ohms",
+    "d": "1.0 Ohm",
+    "ans": "b"
+  },
+  {
+    "q": "A coil consists of 1000 turns wound on an iron core. If a current of 5 Amperes produces a magnetic flux of 10 milli-Webers, calculate the self-inductance of the coil.",
+    "a": "1.0 Henry",
+    "b": "2.0 Henries",
+    "c": "4.0 Henries",
+    "d": "0.5 Henries",
+    "ans": "b"
+  },
+  {
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 5 Amperes.",
+    "a": "12.5 Joules",
+    "b": "25.0 Joules",
+    "c": "50.0 Joules",
+    "d": "6.25 Joules",
+    "ans": "b"
+  },
+  {
+    "q": "A transformer has a primary winding with 500 turns and a secondary winding with 50 turns. If the primary voltage is 220 Volts AC, calculate the secondary voltage.",
+    "a": "2200 Volts",
+    "b": "22 Volts",
+    "c": "110 Volts",
+    "d": "44 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the transformer described in the previous question, a load of 11 Ohms is connected across the secondary winding. Calculate the secondary current.",
+    "a": "1.0 Ampere",
+    "b": "2.0 Amperes",
+    "c": "4.0 Amperes",
+    "d": "0.5 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the primary current of the transformer described in the previous questions (turns ratio 10:1, secondary current = 2.0 Amperes).",
+    "a": "2.0 Amperes",
+    "b": "0.2 Amperes",
+    "c": "0.1 Amperes",
+    "d": "0.4 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A three-phase star-connected (Y) generator has a phase voltage of 120 Volts. Calculate the line-to-line voltage.",
+    "a": "120 Volts",
+    "b": "208 Volts",
+    "c": "240 Volts",
+    "d": "360 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A three-phase delta-connected load is connected across a balanced 208-Volt, three-phase supply. If the current in each phase of the load is 5 Amperes, calculate the line current.",
+    "a": "5.00 Amperes",
+    "b": "8.66 Amperes",
+    "c": "15.00 Amperes",
+    "d": "2.89 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "An AC voltage source with an RMS value of 120 Volts is connected across an AC load drawing 5 Amperes. If the phase angle between the voltage and current is 60 degrees, calculate the true power consumed.",
+    "a": "600 Watts",
+    "b": "300 Watts",
+    "c": "520 Watts",
+    "d": "150 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the apparent power (S) for the AC circuit described in the previous question (I = 5 A, V = 120 V).",
+    "a": "300 VA",
+    "b": "600 VA",
+    "c": "520 VA",
+    "d": "150 VA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the reactive power (Q) for the AC circuit described in the previous questions.",
+    "a": "300 VAR",
+    "b": "520 VAR",
+    "c": "600 VAR",
+    "d": "150 VAR",
+    "ans": "b"
+  },
+  {
+    "q": "A branch in an AC circuit has an admittance Y = 0.03 + j0.04 Siemens. Find the impedance Z of this branch.",
+    "a": "25.0 Ohms",
+    "b": "12.0 - j16.0 Ohms",
+    "c": "15.0 - j20.0 Ohms",
+    "d": "8.0 - j10.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel LC circuit resonates at 1000 kHz and has a Q-factor of 80. Calculate its bandwidth.",
+    "a": "25.0 kHz",
+    "b": "12.5 kHz",
+    "c": "8.0 kHz",
+    "d": "16.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An inductor of value 0.5 Henries has a current changing at a constant rate. If the induced back EMF across the coil is 20 Volts, calculate the rate of change of current.",
+    "a": "10 Amperes/second",
+    "b": "40 Amperes/second",
+    "c": "20 Amperes/second",
+    "d": "5 Amperes/second",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel plate capacitor of plate area 0.1 m^2 separated by 1 mm of a paper dielectric (relative permittivity = 3.0) is connected across a 50-Volt DC source. Calculate the stored charge.",
+    "a": "13.3 micro-Coulombs",
+    "b": "13.3 nano-Coulombs",
+    "c": "26.5 nano-Coulombs",
+    "d": "6.6 nano-Coulombs",
+    "ans": "b"
+  }
+]

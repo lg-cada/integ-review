@@ -1,0 +1,2010 @@
+[
+  {
+    "q": "What is the maximum theoretical efficiency of a half-wave rectifier circuit without any filtering components?",
+    "a": "25.0 percent",
+    "b": "40.6 percent",
+    "c": "50.0 percent",
+    "d": "81.2 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum theoretical efficiency of a center-tapped full-wave rectifier circuit?",
+    "a": "40.6 percent",
+    "b": "50.0 percent",
+    "c": "81.2 percent",
+    "d": "100.0 percent",
+    "ans": "c"
+  },
+  {
+    "q": "What is the numerical value of the ripple factor for an unfiltered half-wave rectifier?",
+    "a": "0.48",
+    "b": "1.21",
+    "c": "1.11",
+    "d": "0.707",
+    "ans": "b"
+  },
+  {
+    "q": "What is the numerical value of the ripple factor for an unfiltered full-wave rectifier?",
+    "a": "1.21",
+    "b": "0.48",
+    "c": "0.38",
+    "d": "0.707",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical transformer utilization factor (TUF) of a half-wave rectifier?",
+    "a": "0.287",
+    "b": "0.574",
+    "c": "0.693",
+    "d": "0.812",
+    "ans": "a"
+  },
+  {
+    "q": "The Peak Inverse Voltage (PIV) rating of each diode in a center-tapped full-wave rectifier must be at least:",
+    "a": "V_m",
+    "b": "2 * V_m",
+    "c": "V_m / 2",
+    "d": "V_m * sqrt(2)",
+    "ans": "b"
+  },
+  {
+    "q": "The Peak Inverse Voltage (PIV) rating of each diode in a bridge-type full-wave rectifier is:",
+    "a": "2 * V_m",
+    "b": "V_m",
+    "c": "V_m / 2",
+    "d": "V_m * sqrt(2)",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of electronic circuit is designed to shift an AC signal either entirely above or entirely below a specified DC reference level?",
+    "a": "Clipper",
+    "b": "Clamper",
+    "c": "Voltage doubler",
+    "d": "Passive filter",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a diode clipping circuit?",
+    "a": "To introduce a DC offset to an AC signal",
+    "b": "To remove a portion of a waveform above or below a certain limit",
+    "c": "To amplify the high-frequency components of a signal",
+    "d": "To regulate the output DC voltage under varying loads",
+    "ans": "b"
+  },
+  {
+    "q": "Which BJT biasing configuration offers the highest degree of Q-point stability against changes in temperature and transistor beta?",
+    "a": "Fixed-bias circuit",
+    "b": "Voltage-divider bias circuit",
+    "c": "Emitter-stabilized bias circuit",
+    "d": "Collector-feedback bias circuit",
+    "ans": "b"
+  },
+  {
+    "q": "The stability factor S of a transistor bias circuit indicates the rate of change of collector current with respect to which parameter?",
+    "a": "Base current",
+    "b": "Collector leakage current",
+    "c": "Emitter current",
+    "d": "Base-to-emitter voltage",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical input-to-output phase shift of a standard common-emitter BJT amplifier operating in the midband region?",
+    "a": "0 degrees",
+    "b": "180 degrees",
+    "c": "90 degrees",
+    "d": "270 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical input-to-output phase shift of a common-collector (emitter follower) BJT amplifier?",
+    "a": "180 degrees",
+    "b": "0 degrees",
+    "c": "90 degrees",
+    "d": "45 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "Which BJT amplifier configuration is characterized by a voltage gain slightly less than unity, high input impedance, and extremely low output impedance?",
+    "a": "Common-emitter",
+    "b": "Common-collector",
+    "c": "Common-base",
+    "d": "Cascade",
+    "ans": "b"
+  },
+  {
+    "q": "Which BJT amplifier configuration is most suitable for high-frequency applications because it eliminates the Miller effect capacitance?",
+    "a": "Common-emitter",
+    "b": "Common-base",
+    "c": "Common-collector",
+    "d": "Darlington pair",
+    "ans": "b"
+  },
+  {
+    "q": "In a Junction Field-Effect Transistor (JFET) amplifier, the common-drain configuration is also widely known as a:",
+    "a": "Gate follower",
+    "b": "Source follower",
+    "c": "Drain follower",
+    "d": "Active follower",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary objective of cascading multiple amplifier stages in an electronic system?",
+    "a": "To increase the system bandwidth",
+    "b": "To achieve a higher overall voltage gain",
+    "c": "To reduce the power consumption of the circuit",
+    "d": "To eliminate the need for biasing resistors",
+    "ans": "b"
+  },
+  {
+    "q": "What happens to the overall bandwidth of a multi-stage cascaded amplifier compared to the bandwidth of an individual stage?",
+    "a": "It increases significantly",
+    "b": "It decreases",
+    "c": "It remains exactly the same",
+    "d": "It shifts to higher frequencies",
+    "ans": "b"
+  },
+  {
+    "q": "What is the conduction angle of a Class A power amplifier?",
+    "a": "180 degrees",
+    "b": "360 degrees",
+    "c": "Less than 180 degrees",
+    "d": "Between 180 and 360 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the conduction angle of a Class B power amplifier?",
+    "a": "360 degrees",
+    "b": "180 degrees",
+    "c": "Less than 180 degrees",
+    "d": "Between 180 and 360 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the conduction angle of a Class C power amplifier?",
+    "a": "180 degrees",
+    "b": "Less than 180 degrees",
+    "c": "360 degrees",
+    "d": "Exactly 270 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum theoretical efficiency of a series-fed Class A power amplifier?",
+    "a": "50 percent",
+    "b": "25 percent",
+    "c": "78.5 percent",
+    "d": "100 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum theoretical efficiency of a transformer-coupled Class A power amplifier?",
+    "a": "25 percent",
+    "b": "50 percent",
+    "c": "78.5 percent",
+    "d": "90 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum theoretical efficiency of a Class B push-pull power amplifier?",
+    "a": "50 percent",
+    "b": "78.5 percent",
+    "c": "25 percent",
+    "d": "100 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Crossover distortion in Class B power amplifiers is primarily caused by which of the following?",
+    "a": "The base-emitter turn-on voltage (V_BE drop) of the transistors",
+    "b": "The high operating frequency of the input signal",
+    "c": "The use of asymmetrical power supplies",
+    "d": "The saturation of the output transformer core",
+    "ans": "a"
+  },
+  {
+    "q": "Which class of power amplifier provides the highest theoretical efficiency but suffers from extreme harmonic distortion?",
+    "a": "Class A",
+    "b": "Class C",
+    "c": "Class B",
+    "d": "Class AB",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is NOT an advantage of introducing negative feedback in an electronic amplifier?",
+    "a": "Stabilization of voltage gain",
+    "b": "Increase in overall voltage gain",
+    "c": "Reduction of non-linear distortion",
+    "d": "Increase in circuit bandwidth",
+    "ans": "b"
+  },
+  {
+    "q": "How does series-shunt negative feedback affect the input and output impedances of an amplifier respectively?",
+    "a": "Decreases input impedance, increases output impedance",
+    "b": "Increases input impedance, decreases output impedance",
+    "c": "Increases input impedance, increases output impedance",
+    "d": "Decreases input impedance, decreases output impedance",
+    "ans": "b"
+  },
+  {
+    "q": "How does shunt-series negative feedback affect the input and output impedances of an amplifier respectively?",
+    "a": "Increases input impedance, decreases output impedance",
+    "b": "Decreases input impedance, increases output impedance",
+    "c": "Decreases input impedance, decreases output impedance",
+    "d": "Increases input impedance, increases output impedance",
+    "ans": "b"
+  },
+  {
+    "q": "According to the Barkhausen criterion, what is the required loop gain (A * beta) magnitude and phase shift to maintain sustained oscillations?",
+    "a": "Magnitude greater than 1, phase shift of 90 degrees",
+    "b": "Magnitude exactly equal to 1, phase shift of 0 or 360 degrees",
+    "c": "Magnitude less than 1, phase shift of 180 degrees",
+    "d": "Magnitude exactly equal to 0, phase shift of 0 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "A Colpitts oscillator uses which configuration in its feedback tank circuit to determine the frequency of oscillation?",
+    "a": "Two inductors and one capacitor",
+    "b": "Two capacitors and one inductor",
+    "c": "A bridge of four resistors and two capacitors",
+    "d": "A series-parallel combination of three inductors",
+    "ans": "b"
+  },
+  {
+    "q": "A Hartley oscillator uses which configuration in its feedback tank circuit to determine the frequency of oscillation?",
+    "a": "Two capacitors and one inductor",
+    "b": "Two inductors and one capacitor",
+    "c": "An RC phase-shift network",
+    "d": "A quartz crystal in series with a capacitor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary structural modification in a Clapp oscillator compared to a standard Colpitts oscillator?",
+    "a": "An additional inductor is connected in parallel with the tank circuit",
+    "b": "An additional small-value capacitor is connected in series with the tank inductor",
+    "c": "The transistor active device is replaced with an operational amplifier",
+    "d": "The feedback network is made purely resistive",
+    "ans": "b"
+  },
+  {
+    "q": "Why do crystal-controlled oscillators offer vastly superior frequency stability compared to LC tank oscillators?",
+    "a": "Because crystals have an extremely high Q-factor",
+    "b": "Because crystals can operate at much higher DC voltages",
+    "c": "Because crystals completely eliminate thermal noise",
+    "d": "Because crystals have no internal capacitance",
+    "ans": "a"
+  },
+  {
+    "q": "A Wien-bridge oscillator circuit utilizes which structural feedback arrangement?",
+    "a": "Purely positive feedback through a multi-stage LC ladder",
+    "b": "Symmetrical positive and negative feedback paths",
+    "c": "A single negative feedback loop with a series crystal",
+    "d": "No feedback loop, relying entirely on the active device saturation",
+    "ans": "b"
+  },
+  {
+    "q": "In a standard three-stage RC phase-shift oscillator, what is the minimum phase shift required from each individual RC network?",
+    "a": "45 degrees",
+    "b": "60 degrees",
+    "c": "90 degrees",
+    "d": "120 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ideal value of input impedance for a standard operational amplifier?",
+    "a": "Zero",
+    "b": "Infinite",
+    "c": "50 Ohms",
+    "d": "10k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ideal value of output impedance for an operational amplifier?",
+    "a": "Infinite",
+    "b": "Zero",
+    "c": "100 Ohms",
+    "d": "1k Ohm",
+    "ans": "b"
+  },
+  {
+    "q": "What is the ideal value of open-loop voltage gain for an operational amplifier?",
+    "a": "Unity (1.0)",
+    "b": "Infinite",
+    "c": "100,000",
+    "d": "Zero",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal operational amplifier has a Common Mode Rejection Ratio (CMRR) of:",
+    "a": "Zero",
+    "b": "Infinite",
+    "c": "100 dB",
+    "d": "1.0",
+    "ans": "b"
+  },
+  {
+    "q": "What does the parameter 'slew rate' of an operational amplifier define?",
+    "a": "The maximum input voltage the op-amp can handle without clipping",
+    "b": "The maximum rate of change of the output voltage per unit time",
+    "c": "The frequency at which the open-loop gain drops to unity",
+    "d": "The input offset current drift with temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The concept of a 'virtual ground' in an op-amp circuit is valid only under which condition?",
+    "a": "When the op-amp is operated in open-loop mode",
+    "b": "When negative feedback is applied to the circuit",
+    "c": "When positive feedback is applied to the circuit",
+    "d": "When the input offset voltage is exactly zero",
+    "ans": "b"
+  },
+  {
+    "q": "What is the frequency roll-off rate of a first-order passive low-pass filter in the stopband?",
+    "a": "10 dB/decade",
+    "b": "20 dB/decade",
+    "c": "40 dB/decade",
+    "d": "6 dB/decade",
+    "ans": "b"
+  },
+  {
+    "q": "Which active filter response type exhibits a maximally flat magnitude response in the passband?",
+    "a": "Chebyshev response",
+    "b": "Butterworth response",
+    "c": "Bessel response",
+    "d": "Elliptic response",
+    "ans": "b"
+  },
+  {
+    "q": "Which active filter response type features a steep roll-off rate but suffers from passband ripple?",
+    "a": "Butterworth response",
+    "b": "Chebyshev response",
+    "c": "Bessel response",
+    "d": "All-pass response",
+    "ans": "b"
+  },
+  {
+    "q": "Which active filter type is optimized for linear phase response and constant group delay, minimizing pulse distortion?",
+    "a": "Butterworth filter",
+    "b": "Bessel filter",
+    "c": "Chebyshev filter",
+    "d": "Elliptic filter",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary purpose of a bleeder resistor connected across the output filter capacitor in a high-voltage power supply?",
+    "a": "To increase the peak output voltage",
+    "b": "To provide a safe discharge path for the capacitor and improve voltage regulation",
+    "c": "To filter out remaining high-frequency ripple components",
+    "d": "To limit the forward current of the rectifier diodes",
+    "ans": "b"
+  },
+  {
+    "q": "How does the power conversion efficiency of a switching regulator compare to a standard linear regulator?",
+    "a": "Linear regulators are significantly more efficient",
+    "b": "Switching regulators are significantly more efficient",
+    "c": "They have identical power efficiencies",
+    "d": "It depends on the operating frequency of the input transformer",
+    "ans": "b"
+  },
+  {
+    "q": "Thermal runaway in a bipolar junction transistor is fundamentally caused by which of the following?",
+    "a": "The reduction of base current due to high input voltage",
+    "b": "The positive temperature coefficient of collector leakage current (I_CBO)",
+    "c": "The increase of base-emitter forward voltage with temperature",
+    "d": "The saturation of the collector-base depletion region",
+    "ans": "b"
+  },
+  {
+    "q": "In a Class AB push-pull amplifier, the output transistors are biased slightly above cutoff in order to:",
+    "a": "Increase the maximum voltage gain of the amplifier",
+    "b": "Eliminate crossover distortion",
+    "c": "Prevent thermal runaway under heavy load",
+    "d": "Reduce the total harmonic distortion of the power supply",
+    "ans": "b"
+  },
+  {
+    "q": "In an op-amp circuit, a virtual short circuit between the inverting and non-inverting terminals implies that:",
+    "a": "The two terminals are physically wired together",
+    "b": "The differential input voltage between the terminals is zero",
+    "c": "The input current flowing into both terminals is infinite",
+    "d": "The open-loop gain of the amplifier has dropped to zero",
+    "ans": "b"
+  },
+  {
+    "q": "The collector efficiency of an electronic power amplifier is defined as the ratio of:",
+    "a": "DC input power to AC output power",
+    "b": "AC output power to DC input power",
+    "c": "Total power dissipation to AC output power",
+    "d": "DC input power to total power dissipation",
+    "ans": "b"
+  },
+  {
+    "q": "The shunt-shunt feedback topology in an active amplifier leads to which of the following impedance modifications?",
+    "a": "Increases input impedance, decreases output impedance",
+    "b": "Decreases input impedance, decreases output impedance",
+    "c": "Increases input impedance, increases output impedance",
+    "d": "Decreases input impedance, increases output impedance",
+    "ans": "b"
+  },
+  {
+    "q": "The series-series feedback topology in an active amplifier leads to which of the following impedance modifications?",
+    "a": "Decreases input impedance, increases output impedance",
+    "b": "Increases input impedance, increases output impedance",
+    "c": "Decreases input impedance, decreases output impedance",
+    "d": "Increases input impedance, decreases output impedance",
+    "ans": "b"
+  },
+  {
+    "q": "The input impedance of a common-base amplifier is typically classified as:",
+    "a": "Extremely high",
+    "b": "Very low",
+    "c": "Moderately high",
+    "d": "Completely infinite",
+    "ans": "b"
+  },
+  {
+    "q": "The output impedance of a common-collector amplifier is typically classified as:",
+    "a": "Extremely high",
+    "b": "Very low",
+    "c": "Moderately high",
+    "d": "Infinite",
+    "ans": "b"
+  },
+  {
+    "q": "The frequency of oscillation of a piezo-electric quartz crystal is primarily determined by:",
+    "a": "The magnitude of the DC bias voltage applied",
+    "b": "The physical dimensions and thickness of the cut crystal",
+    "c": "The input impedance of the active transistor",
+    "d": "The value of the series resonant load resistance",
+    "ans": "b"
+  },
+  {
+    "q": "What is the roll-off rate of a third-order active low-pass filter in the stopband?",
+    "a": "40 dB/decade",
+    "b": "60 dB/decade",
+    "c": "20 dB/decade",
+    "d": "80 dB/decade",
+    "ans": "b"
+  },
+  {
+    "q": "The Common Mode Rejection Ratio (CMRR) of an operational amplifier is mathematically defined as:",
+    "a": "The ratio of common-mode gain to differential gain",
+    "b": "The ratio of differential gain to common-mode gain",
+    "c": "The product of differential gain and common-mode gain",
+    "d": "The difference between differential gain and common-mode gain",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary function of a swamping resistor connected in the emitter path of a common-emitter BJT amplifier?",
+    "a": "To maximize the voltage gain of the stage",
+    "b": "To stabilize the voltage gain against thermal variations and increase input impedance",
+    "c": "To reduce the overall input impedance of the stage",
+    "d": "To act as a high-frequency bypass path for noise",
+    "ans": "b"
+  },
+  {
+    "q": "A basic diode clamping circuit must include which minimum set of structural components?",
+    "a": "An inductor, a resistor, and a diode",
+    "b": "A capacitor, a diode, and a resistor",
+    "c": "Two diodes, a capacitor, and an inductor",
+    "d": "A Zener diode, a transistor, and a resistor",
+    "ans": "b"
+  },
+  {
+    "q": "What is the primary disadvantage of a Zener diode shunt voltage regulator circuit?",
+    "a": "Extremely high output impedance",
+    "b": "Poor efficiency under light load conditions due to continuous Zener dissipation",
+    "c": "High sensitivity to input frequency variations",
+    "d": "Inability to regulate positive DC voltages",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical value of the drop-out voltage for standard three-terminal linear voltage regulators like the LM7805?",
+    "a": "0.1 to 0.2 Volts",
+    "b": "1.5 to 2.0 Volts",
+    "c": "5.0 to 7.0 Volts",
+    "d": "0.7 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Which feedback topology is also referred to as voltage-series feedback?",
+    "a": "Shunt-series feedback",
+    "b": "Series-shunt feedback",
+    "c": "Series-series feedback",
+    "d": "Shunt-shunt feedback",
+    "ans": "b"
+  },
+  {
+    "q": "Which feedback topology is also referred to as current-series feedback?",
+    "a": "Series-shunt feedback",
+    "b": "Series-series feedback",
+    "c": "Shunt-series feedback",
+    "d": "Shunt-shunt feedback",
+    "ans": "b"
+  },
+  {
+    "q": "What coupling mechanism is used in an Armstrong oscillator to achieve feedback?",
+    "a": "A capacitive voltage divider network",
+    "b": "A transformer or inductive tickler coil coupling",
+    "c": "A three-stage RC ladder network",
+    "d": "A direct wire connection with no coupling components",
+    "ans": "b"
+  },
+  {
+    "q": "At the resonant frequency, the phase angle of the loop gain in a Wien-bridge oscillator is exactly:",
+    "a": "180 degrees",
+    "b": "0 degrees",
+    "c": "90 degrees",
+    "d": "-90 degrees",
+    "ans": "b"
+  },
+  {
+    "q": "What is the theoretical maximum efficiency of a Class D switching power amplifier?",
+    "a": "50 percent",
+    "b": "100 percent (approaching near 100 percent in practice)",
+    "c": "78.5 percent",
+    "d": "25 percent",
+    "ans": "b"
+  },
+  {
+    "q": "What is the roll-off rate of a fourth-order low-pass active filter?",
+    "a": "40 dB/decade",
+    "b": "80 dB/decade",
+    "c": "20 dB/decade",
+    "d": "120 dB/decade",
+    "ans": "b"
+  },
+  {
+    "q": "What is the purpose of a bypass capacitor in a common-emitter BJT amplifier?",
+    "a": "To introduce a low-frequency cut-off point",
+    "b": "To provide an AC path to ground, preventing gain reduction due to the emitter resistor",
+    "c": "To filter out DC noise from the input signal",
+    "d": "To decouple the collector from the load resistor",
+    "ans": "b"
+  },
+  {
+    "q": "Which coupling method in multi-stage amplifiers provides the best low-frequency response, down to 0 Hz (DC)?",
+    "a": "Capacitive coupling",
+    "b": "Direct coupling",
+    "c": "Transformer coupling",
+    "d": "Optical coupling",
+    "ans": "b"
+  },
+  {
+    "q": "Transformer coupling in multi-stage power amplifiers is used primarily to provide:",
+    "a": "Very wide bandwidth",
+    "b": "Excellent impedance matching to low-impedance loads",
+    "c": "High input resistance",
+    "d": "Zero phase shift across stages",
+    "ans": "b"
+  },
+  {
+    "q": "What is the voltage gain of an ideal emitter follower (common-collector) amplifier?",
+    "a": "Infinite",
+    "b": "Slightly less than unity (1.0)",
+    "c": "Exactly zero",
+    "d": "Exactly 100",
+    "ans": "b"
+  },
+  {
+    "q": "What is the output waveform of an operational amplifier differentiator when the input is a linear ramp voltage?",
+    "a": "A constant ramp voltage",
+    "b": "A constant DC voltage",
+    "c": "A sinusoidal wave",
+    "d": "A series of sharp exponential spikes",
+    "ans": "b"
+  },
+  {
+    "q": "What is the output waveform of an operational amplifier integrator when the input is a constant DC voltage?",
+    "a": "A square wave",
+    "b": "A linear ramp voltage",
+    "c": "A constant DC voltage",
+    "d": "An exponential decay wave",
+    "ans": "b"
+  },
+  {
+    "q": "Which type of active filter passes all frequencies without altering the magnitude but introduces a controlled phase shift?",
+    "a": "Band-pass filter",
+    "b": "All-pass filter",
+    "c": "High-pass filter",
+    "d": "Notch filter",
+    "ans": "b"
+  },
+  {
+    "q": "The dynamic junction resistance (r_e) of a forward-biased PN junction diode decreases when:",
+    "a": "The DC bias current is decreased",
+    "b": "The DC bias current is increased",
+    "c": "The reverse leakage current increases",
+    "d": "The operating frequency is reduced",
+    "ans": "b"
+  },
+  {
+    "q": "In an uncompensated common-emitter BJT amplifier, what happens to the Q-point when the ambient temperature rises?",
+    "a": "It shifts toward the cutoff region",
+    "b": "It shifts toward the saturation region",
+    "c": "It remains perfectly stable",
+    "d": "It moves completely off the load line",
+    "ans": "b"
+  },
+  {
+    "q": "The ripple factor of a power supply filter is mathematically defined as:",
+    "a": "The ratio of DC output voltage to RMS ripple voltage",
+    "b": "The ratio of RMS ripple voltage to DC output voltage",
+    "c": "The product of RMS ripple voltage and DC output voltage",
+    "d": "The peak-to-peak ripple voltage divided by the RMS input voltage",
+    "ans": "b"
+  },
+  {
+    "q": "Why are switching regulators highly preferred over linear regulators in battery-operated mobile electronic systems?",
+    "a": "They require no external capacitors",
+    "b": "They have minimal power dissipation, leading to high electrical efficiency",
+    "c": "They are completely free of high-frequency electromagnetic noise",
+    "d": "They have a much simpler design configuration",
+    "ans": "b"
+  },
+  {
+    "q": "A half-wave rectifier is supplied with an AC voltage of 120 Volts RMS. Neglecting the diode forward voltage drop, calculate the peak DC output voltage across the load.",
+    "a": "120.0 Volts",
+    "b": "169.7 Volts",
+    "c": "54.0 Volts",
+    "d": "84.8 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same half-wave rectifier (120 V RMS input), calculate the average (DC) output voltage across the load.",
+    "a": "169.7 Volts",
+    "b": "54.0 Volts",
+    "c": "108.0 Volts",
+    "d": "60.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A center-tapped full-wave rectifier uses a transformer with a secondary rating of 24V-0-24V RMS. Find the peak inverse voltage (PIV) across either diode.",
+    "a": "33.9 Volts",
+    "b": "67.9 Volts",
+    "c": "24.0 Volts",
+    "d": "48.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A bridge rectifier is connected to a 230-Volt RMS AC source. Calculate the peak DC voltage across the load if each silicon diode has a forward voltage drop of 0.7 Volts.",
+    "a": "325.3 Volts",
+    "b": "323.9 Volts",
+    "c": "324.6 Volts",
+    "d": "228.6 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same bridge rectifier (230 V RMS input, 0.7 V diode drops), find the average (DC) load voltage.",
+    "a": "207.0 Volts",
+    "b": "206.2 Volts",
+    "c": "323.9 Volts",
+    "d": "103.1 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A full-wave rectifier is connected to a 50-Hz supply. The filter capacitor has a value of 100 uF and the load current is 100 mA. Calculate the peak-to-peak ripple voltage.",
+    "a": "5.0 Volts",
+    "b": "10.0 Volts",
+    "c": "2.5 Volts",
+    "d": "20.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the DC output voltage of the filtered full-wave rectifier in the previous question if the peak rectified voltage is 15 Volts.",
+    "a": "12.5 Volts",
+    "b": "10.0 Volts",
+    "c": "5.0 Volts",
+    "d": "14.5 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A Zener shunt voltage regulator consists of a 15-Volt unregulated DC source, a 100 Ohm series resistor, and a 6.2-Volt Zener diode. If there is no load connected, calculate the Zener current.",
+    "a": "150 mA",
+    "b": "88 mA",
+    "c": "62 mA",
+    "d": "212 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the Zener regulator in the previous question, a load resistor of 150 Ohms is connected across the Zener. Calculate the current flowing through the load.",
+    "a": "88.0 mA",
+    "b": "41.3 mA",
+    "c": "62.0 mA",
+    "d": "46.7 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Using the data from the previous loaded Zener regulator questions, calculate the remaining current flowing through the Zener diode.",
+    "a": "88.0 mA",
+    "b": "46.7 mA",
+    "c": "41.3 mA",
+    "d": "5.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "An unregulated power supply has a no-load DC output voltage of 24 Volts and a full-load DC voltage of 20 Volts. Calculate the percent load regulation.",
+    "a": "16.7 percent",
+    "b": "20.0 percent",
+    "c": "83.3 percent",
+    "d": "4.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "A certain voltage regulator has a line regulation of 0.05 percent per Volt. If the input voltage changes by 4 Volts, calculate the percentage change in the output voltage.",
+    "a": "0.05 percent",
+    "b": "0.20 percent",
+    "c": "0.10 percent",
+    "d": "0.40 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An series diode clipping circuit has a bias voltage of +3.0 Volts in series with the diode (pointing upward). If the input is a sine wave of 10 Volts peak, what is the maximum positive output voltage? (Assume ideal diode).",
+    "a": "10.0 Volts",
+    "b": "3.0 Volts",
+    "c": "7.0 Volts",
+    "d": "-10.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same clipper circuit in the previous question (+3 V positive bias, 10 V peak input), what is the maximum negative output voltage?",
+    "a": "-3.0 Volts",
+    "b": "-10.0 Volts",
+    "c": "0.0 Volts",
+    "d": "-7.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A BJT voltage-divider bias circuit is designed with: V_CC = 12 V, R1 = 10k Ohms, R2 = 5k Ohms. Calculate the base voltage V_B. (Neglect base loading).",
+    "a": "8.0 Volts",
+    "b": "4.0 Volts",
+    "c": "6.0 Volts",
+    "d": "2.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same voltage-divider circuit (V_B = 4.0 V), if the emitter resistor R_E is 1k Ohm and V_BE is 0.7 Volts, calculate the emitter current I_E.",
+    "a": "4.0 mA",
+    "b": "3.3 mA",
+    "c": "4.7 mA",
+    "d": "3.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Using the emitter current I_E = 3.3 mA from the previous question, if the collector resistor R_C is 1.5k Ohms and the transistor is in active region, calculate the collector-emitter voltage V_CE. (Assume I_C = I_E).",
+    "a": "7.05 Volts",
+    "b": "3.75 Volts",
+    "c": "12.00 Volts",
+    "d": "5.40 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A BJT has a beta of 100 and collector current I_C = 2 mA. Calculate the dynamic emitter junction resistance (r_e) at room temperature (V_T = 26 mV).",
+    "a": "100.0 Ohms",
+    "b": "13.0 Ohms",
+    "c": "26.0 Ohms",
+    "d": "52.0 Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter BJT amplifier has a collector resistance R_C = 2.2k Ohms, load resistance R_L = 10k Ohms, and r_e = 13 Ohms. Calculate the AC voltage gain (A_v) of the amplifier (neglecting bypass capacitor series effects).",
+    "a": "169",
+    "b": "138",
+    "c": "115",
+    "d": "220",
+    "ans": "b"
+  },
+  {
+    "q": "An emitter follower circuit has R_E = 1k Ohm, load R_L = 1k Ohm, and r_e = 10 Ohms. Calculate the exact voltage gain.",
+    "a": "1.00",
+    "b": "0.98",
+    "c": "0.95",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "A common-gate JFET amplifier has transconductance g_m = 4 mS and load resistance R_D = 2k Ohms. Calculate the voltage gain.",
+    "a": "4.0",
+    "b": "8.0",
+    "c": "2.0",
+    "d": "16.0",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET voltage-divider bias has V_DD = 20 V, R1 = 1M Ohm, R2 = 1M Ohm. Calculate the gate voltage V_G.",
+    "a": "20.0 Volts",
+    "b": "10.0 Volts",
+    "c": "5.0 Volts",
+    "d": "15.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "Using the gate voltage V_G = 10 V from the previous question, if the source resistor R_S is 2k Ohms and the measured V_GS is -2 Volts, find the drain current I_D.",
+    "a": "5.0 mA",
+    "b": "6.0 mA",
+    "c": "4.0 mA",
+    "d": "3.0 mA",
+    "ans": "b"
+  },
+  {
+    "q": "For the same JFET circuit (I_D = 6 mA), if R_D is 1k Ohm, calculate the drain-to-source voltage V_DS.",
+    "a": "14.0 Volts",
+    "b": "2.0 Volts",
+    "c": "8.0 Volts",
+    "d": "12.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A two-stage cascaded BJT amplifier has a first-stage voltage gain A_v1 = -50 and second-stage voltage gain A_v2 = -80. Calculate the total voltage gain as a ratio.",
+    "a": "-130",
+    "b": "4000",
+    "c": "-4000",
+    "d": "2600",
+    "ans": "b"
+  },
+  {
+    "q": "Convert the total voltage gain of 4000 from the previous question into decibels (dB).",
+    "a": "36.0 dB",
+    "b": "72.0 dB",
+    "c": "54.0 dB",
+    "d": "64.0 dB",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier has a midband voltage gain of 60 dB. If the gain drops by 3 dB at the cut-off frequencies, calculate the gain at the cut-off points in dB.",
+    "a": "30 dB",
+    "b": "57 dB",
+    "c": "40 dB",
+    "d": "20 dB",
+    "ans": "b"
+  },
+  {
+    "q": "What is the corresponding voltage gain ratio of the amplifier at the 3 dB cut-off points if the midband gain ratio was 1000?",
+    "a": "500.0",
+    "b": "707.0",
+    "c": "333.3",
+    "d": "100.0",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter BJT stage has a Miller input capacitance. If the feedback capacitance between collector and base C_bc is 5 pF and the voltage gain A_v is -49, calculate the total input Miller capacitance C_Mi.",
+    "a": "5 pF",
+    "b": "250 pF",
+    "c": "245 pF",
+    "d": "125 pF",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier with an open-loop gain A = 1000 has a negative feedback factor beta = 0.009. Calculate the closed-loop gain with feedback (A_f).",
+    "a": "100.0",
+    "b": "100.0 (approximated)",
+    "c": "10.0",
+    "d": "90.9",
+    "ans": "a"
+  },
+  {
+    "q": "If the open-loop gain in the previous question drops by 10 percent (A becomes 900), find the new closed-loop gain A_f.",
+    "a": "100.0",
+    "b": "98.9",
+    "c": "90.0",
+    "d": "81.8",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier has an open-loop gain of 100 and non-linear distortion of 10 percent. If negative feedback with beta = 0.09 is applied, calculate the new distortion level.",
+    "a": "5.0 percent",
+    "b": "1.0 percent",
+    "c": "2.0 percent",
+    "d": "0.5 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier has an open-loop bandwidth of 20 kHz and an open-loop gain of 100. If negative feedback is applied to reduce the gain to 10, calculate the new closed-loop bandwidth.",
+    "a": "2.0 kHz",
+    "b": "200.0 kHz",
+    "c": "100.0 kHz",
+    "d": "20.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A series-shunt feedback amplifier has an open-loop input resistance R_i = 10k Ohms, open-loop gain A = 100, and feedback factor beta = 0.1. Calculate the closed-loop input resistance R_if.",
+    "a": "1.0k Ohms",
+    "b": "110.0k Ohms",
+    "c": "100.0k Ohms",
+    "d": "10.1k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "For the same series-shunt feedback amplifier, if the open-loop output resistance R_o is 1k Ohm, calculate the closed-loop output resistance R_of.",
+    "a": "11.0k Ohms",
+    "b": "90.9 Ohms",
+    "c": "100.0 Ohms",
+    "d": "1.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A Colpitts oscillator has tank circuit capacitors C1 = 0.1 uF and C2 = 0.1 uF, and inductor L = 10 mH. Calculate the equivalent tank capacitance C_eq.",
+    "a": "0.20 uF",
+    "b": "0.05 uF",
+    "c": "0.10 uF",
+    "d": "0.15 uF",
+    "ans": "b"
+  },
+  {
+    "q": "Using the equivalent tank capacitance C_eq = 0.05 uF from the previous question, calculate the frequency of oscillation.",
+    "a": "15.9 kHz",
+    "b": "7.1 kHz",
+    "c": "22.5 kHz",
+    "d": "5.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Hartley oscillator uses two series-connected tank inductors of L1 = 2 mH and L2 = 2 mH (no mutual coupling), and tank capacitor C = 0.1 uF. Calculate the frequency of oscillation.",
+    "a": "7.96 kHz",
+    "b": "3.56 kHz",
+    "c": "11.25 kHz",
+    "d": "15.91 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A Wien-bridge oscillator uses a lead-lag bridge with components R = 10k Ohms and C = 1.59 nF. Calculate the frequency of oscillation.",
+    "a": "10.0 kHz",
+    "b": "10.0 kHz (approximated)",
+    "c": "5.0 kHz",
+    "d": "20.0 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC phase-shift oscillator uses three identical RC stages with R = 10k Ohms and C = 0.01 uF. Calculate the frequency of oscillation.",
+    "a": "1.59 kHz",
+    "b": "649.7 Hz",
+    "c": "377.0 Hz",
+    "d": "1.30 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "An inverting op-amp amplifier has input resistor R_i = 10k Ohms and feedback resistor R_f = 100k Ohms. Calculate the closed-loop voltage gain.",
+    "a": "10",
+    "b": "-10",
+    "c": "11",
+    "d": "-11",
+    "ans": "b"
+  },
+  {
+    "q": "For the same inverting amplifier (gain = -10), if the input voltage v_in is 0.5 Volts DC, calculate the output voltage v_out.",
+    "a": "5.0 Volts",
+    "b": "-5.0 Volts",
+    "c": "5.5 Volts",
+    "d": "-5.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A non-inverting op-amp amplifier has feedback resistor R_f = 30k Ohms and ground resistor R_1 = 10k Ohms. Calculate the closed-loop voltage gain.",
+    "a": "3",
+    "b": "4",
+    "c": "1.33",
+    "d": "2.5",
+    "ans": "b"
+  },
+  {
+    "q": "For the same non-inverting amplifier (gain = 4), if the input voltage is 1.5 Volts DC, find the output voltage.",
+    "a": "4.5 Volts",
+    "b": "6.0 Volts",
+    "c": "3.0 Volts",
+    "d": "1.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A summing amplifier has three inputs: V1 = 1V, V2 = 2V, V3 = 3V. If all input resistors are 10k Ohms and the feedback resistor is 10k Ohms, find the output voltage.",
+    "a": "6.0 Volts",
+    "b": "-6.0 Volts",
+    "c": "3.0 Volts",
+    "d": "-3.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp differentiator has a feedback resistor R_f = 10k Ohms and input capacitor C = 0.1 uF. If the input voltage changes at a rate of 2.5 Volts/millisecond, calculate the output voltage.",
+    "a": "-2.5 Volts",
+    "b": "-2.5 Volts (approximated)",
+    "c": "2.5 Volts",
+    "d": "-25.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp integrator has input resistor R = 100k Ohms and feedback capacitor C = 1.0 uF. If a constant input of 2.0 Volts DC is applied, find the rate of change of the output voltage.",
+    "a": "-20 V/s",
+    "b": "-20 V/s (approximated)",
+    "c": "20 V/s",
+    "d": "-2.0 V/s",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has an open-loop gain of 100,000 and a Common Mode Rejection Ratio of 80 dB. If the differential gain is 100,000, calculate the common-mode gain.",
+    "a": "10",
+    "b": "10 (approximated)",
+    "c": "1.0",
+    "d": "0.1",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has a slew rate of 0.5 Volts/microsecond. Find the maximum frequency of a 10-Volt peak sinusoidal output wave that can be produced without slew-rate distortion.",
+    "a": "7.96 kHz",
+    "b": "7.96 kHz (approximated)",
+    "c": "15.9 kHz",
+    "d": "50.0 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A passive low-pass filter consists of a 10k Ohm resistor and a 15.9 nF capacitor. Calculate its cut-off frequency.",
+    "a": "1.0 kHz",
+    "b": "1.0 kHz (approximated)",
+    "c": "2.0 kHz",
+    "d": "500 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A Class B power amplifier delivers 10 Watts of AC power to a load. If the DC input power supplied is 15 Watts, calculate the collector efficiency.",
+    "a": "50.0 percent",
+    "b": "66.7 percent",
+    "c": "78.5 percent",
+    "d": "33.3 percent",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the power dissipation in each transistor of the Class B push-pull pair in the previous question (AC power out = 10 W, DC power in = 15 W).",
+    "a": "5.0 Watts",
+    "b": "2.5 Watts",
+    "c": "1.25 Watts",
+    "d": "10.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "A Class A series-fed power amplifier draws 2.0 Amperes of DC current from a 12-Volt power supply. Under maximum signal conditions, it delivers 4.0 Watts of AC power to the load. Calculate its collector efficiency.",
+    "a": "25.0 percent",
+    "b": "16.7 percent",
+    "c": "33.3 percent",
+    "d": "50.0 percent",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 16 mA and V_P = -4 V. Find the value of transconductance g_m0 when V_GS = 0 Volts.",
+    "a": "4.0 mS",
+    "b": "8.0 mS",
+    "c": "2.0 mS",
+    "d": "16.0 mS",
+    "ans": "b"
+  },
+  {
+    "q": "Using the value g_m0 = 8.0 mS from the previous question, calculate the transconductance g_m when V_GS is set to -1.5 Volts.",
+    "a": "4.0 mS",
+    "b": "5.0 mS",
+    "c": "3.0 mS",
+    "d": "2.0 mS",
+    "ans": "b"
+  },
+  {
+    "q": "A certain transformer-coupled Class A amplifier delivers a peak AC load voltage of 10 Volts across an 8 Ohm loudspeaker. Calculate the AC output power.",
+    "a": "12.5 Watts",
+    "b": "6.25 Watts",
+    "c": "3.12 Watts",
+    "d": "25.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier stage has a low cut-off frequency f_L1 = 50 Hz and another stage has f_L2 = 30 Hz. Calculate the approximate lower cut-off frequency of the cascaded system.",
+    "a": "80.0 Hz",
+    "b": "58.3 Hz",
+    "c": "40.0 Hz",
+    "d": "20.0 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier stage has a high cut-off frequency f_H1 = 100 kHz and another has f_H2 = 150 kHz. Calculate the approximate upper cut-off frequency of the cascaded system.",
+    "a": "250.0 kHz",
+    "b": "83.2 kHz",
+    "c": "120.0 kHz",
+    "d": "50.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A certain bridge rectifier has a transformer secondary of 12V RMS. If the silicon diodes have forward voltage drops of 0.7V, calculate the peak load voltage.",
+    "a": "16.97 Volts",
+    "b": "15.57 Volts",
+    "c": "16.27 Volts",
+    "d": "10.60 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "For the same bridge rectifier (12V RMS transformer secondary, 0.7V diode drops), calculate the average load voltage.",
+    "a": "10.80 Volts",
+    "b": "9.92 Volts",
+    "c": "5.40 Volts",
+    "d": "7.78 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A full-wave center-tapped rectifier operates from a 60-Hz supply. What is the fundamental frequency of the output ripple?",
+    "a": "60 Hz",
+    "b": "120 Hz",
+    "c": "30 Hz",
+    "d": "240 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A half-wave rectifier operates from a 60-Hz supply. What is the fundamental frequency of the output ripple?",
+    "a": "120 Hz",
+    "b": "60 Hz",
+    "c": "30 Hz",
+    "d": "240 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "An unfiltered full-wave rectifier delivers an average DC load current of 2.0 Amperes. Find the RMS value of the AC current components.",
+    "a": "1.00 Ampere",
+    "b": "0.96 Amperes",
+    "c": "2.00 Amperes",
+    "d": "1.41 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "An unfiltered half-wave rectifier delivers an average DC load current of 1.0 Ampere. Find the RMS value of the AC current components.",
+    "a": "1.00 Ampere",
+    "b": "1.21 Amperes",
+    "c": "0.50 Amperes",
+    "d": "0.71 Amperes",
+    "ans": "b"
+  },
+  {
+    "q": "A capacitor-filter is used with a full-wave rectifier. The load resistance is 100 Ohms, filter capacitor is 470 uF, and the operating frequency is 50 Hz. Find the ripple factor.",
+    "a": "0.045",
+    "b": "0.021",
+    "c": "0.010",
+    "d": "0.082",
+    "ans": "b"
+  },
+  {
+    "q": "A shunt Zener regulator has V_in = 12 V, R_S = 150 Ohms, and V_Z = 5.6 V. If the minimum Zener current is 5 mA, calculate the maximum load current that can be drawn.",
+    "a": "42.7 mA",
+    "b": "37.7 mA",
+    "c": "32.7 mA",
+    "d": "47.7 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions.",
+    "a": "239 mW",
+    "b": "239 mW (approximated)",
+    "c": "400 mW",
+    "d": "150 mW",
+    "ans": "a"
+  },
+  {
+    "q": "A certain biased clipper has an input of 8V peak. The clipping level is set by a +4V positive bias supply. Calculate the peak-to-peak output voltage.",
+    "a": "8.0 Volts",
+    "b": "12.0 Volts",
+    "c": "4.0 Volts",
+    "d": "16.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An NPN BJT fixed-bias circuit has V_CC = 10 V, R_B = 470k Ohms, R_C = 2.2k Ohms, and beta = 150. Calculate the base current I_B.",
+    "a": "10.0 uA",
+    "b": "19.8 uA",
+    "c": "31.2 uA",
+    "d": "5.0 uA",
+    "ans": "b"
+  },
+  {
+    "q": "Using the base current I_B = 19.8 uA from the previous question, calculate the collector current I_C.",
+    "a": "1.98 mA",
+    "b": "2.97 mA",
+    "c": "4.50 mA",
+    "d": "1.00 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the collector-emitter voltage V_CE under the conditions described in the previous fixed-bias questions.",
+    "a": "5.64 Volts",
+    "b": "3.47 Volts",
+    "c": "10.00 Volts",
+    "d": "7.82 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A collector-feedback bias circuit has V_CC = 15 V, R_C = 3k Ohms, R_B = 100k Ohms, and beta = 100. Calculate the collector current I_C. (Neglect forward drop).",
+    "a": "2.5 mA",
+    "b": "3.75 mA",
+    "c": "5.0 mA",
+    "d": "1.25 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter stage has a collector resistor R_C = 4.7k Ohms and load R_L = 10k Ohms. If the dynamic resistance r_e is 25 Ohms, calculate the voltage gain without load connection.",
+    "a": "188",
+    "b": "188 (approximated)",
+    "c": "94",
+    "d": "376",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the loaded voltage gain of the common-emitter stage described in the previous question (R_C = 4.7k Ohms, R_L = 10k Ohms, r_e = 25 Ohms).",
+    "a": "188",
+    "b": "128",
+    "c": "64",
+    "d": "256",
+    "ans": "b"
+  },
+  {
+    "q": "A Darlington pair consists of two BJTs with beta1 = 50 and beta2 = 80. Calculate the overall current gain of the pair.",
+    "a": "130",
+    "b": "4000",
+    "c": "2000",
+    "d": "80",
+    "ans": "b"
+  },
+  {
+    "q": "An emitter follower has a BJT with beta = 100 and emitter resistor R_E = 2.2k Ohms. Calculate the approximate input impedance of the stage. (Assume r_e = 10 Ohms).",
+    "a": "2.2k Ohms",
+    "b": "222.2k Ohms",
+    "c": "111.1k Ohms",
+    "d": "50.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A common-source JFET amplifier has transconductance g_m = 3 mS, drain resistor R_D = 3.3k Ohms, and load R_L = 10k Ohms. Calculate the loaded voltage gain.",
+    "a": "9.9",
+    "b": "7.4",
+    "c": "4.9",
+    "d": "14.8",
+    "ans": "b"
+  },
+  {
+    "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 2 kHz. If the resistor in the RC network is 8.2k Ohms, calculate the required capacitor value.",
+    "a": "9.7 nF",
+    "b": "9.7 nF (approximated)",
+    "c": "4.8 nF",
+    "d": "15.9 nF",
+    "ans": "a"
+  },
+  {
+    "q": "A certain negative feedback amplifier has an open-loop gain A = 100. If 4 percent negative feedback is applied, calculate the closed-loop gain.",
+    "a": "25.0",
+    "b": "20.0",
+    "c": "10.0",
+    "d": "50.0",
+    "ans": "b"
+  },
+  {
+    "q": "A Colpitts oscillator has tank parameters: L = 50 uH, C1 = 1 nF, C2 = 1 nF. Calculate the frequency of oscillation.",
+    "a": "1.0 MHz",
+    "b": "1.0 MHz (approximated)",
+    "c": "2.0 MHz",
+    "d": "500 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Hartley oscillator tank circuit has inductors L1 = 100 uH, L2 = 100 uH, and mutual inductance M = 20 uH. If the tank capacitor C is 200 pF, calculate the total equivalent inductance L_eq (aiding connection).",
+    "a": "200 uH",
+    "b": "240 uH",
+    "c": "160 uH",
+    "d": "100 uH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total equivalent inductance L_eq = 240 uH from the previous question, calculate the frequency of oscillation.",
+    "a": "726 kHz",
+    "b": "726 kHz (approximated)",
+    "c": "1.45 MHz",
+    "d": "363 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC phase-shift oscillator has feedback resistors R = 10k Ohms and capacitors C = 1.0 nF. Calculate the frequency of oscillation.",
+    "a": "1.59 kHz",
+    "b": "6.5 kHz",
+    "c": "3.2 kHz",
+    "d": "13.0 kHz",
+    "ans": "b"
+  },
+  {
+    "q": "A non-inverting amplifier has feedback resistor R_f = 24k Ohms and ground resistor R_1 = 3k Ohms. If the input is a 1-Volt peak sine wave, calculate the output peak voltage.",
+    "a": "8.0 Volts",
+    "b": "9.0 Volts",
+    "c": "7.0 Volts",
+    "d": "24.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An inverting summing amplifier has input resistors R1 = 10k Ohms, R2 = 20k Ohms, and feedback resistor R_f = 100k Ohms. If V1 = 0.5V and V2 = 1.0V, find the output voltage.",
+    "a": "-15.0 Volts",
+    "b": "-10.0 Volts",
+    "c": "-5.0 Volts",
+    "d": "-7.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp integrator with R = 10k Ohms and C = 0.1 uF is supplied with a step input of 1.0 Volt DC. Calculate the output voltage after 1.0 millisecond. (Assume initial charge is zero).",
+    "a": "1.0 Volt",
+    "b": "-1.0 Volt",
+    "c": "0.5 Volts",
+    "d": "-0.5 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp differentiator has input capacitor C = 10 nF and feedback resistor R = 100k Ohms. If the input is v_in = 2 * sin(1000 * t), find the output voltage expression.",
+    "a": "v_out = -2 * cos(1000 * t)",
+    "b": "v_out = -2 * cos(1000 * t) (approximated)",
+    "c": "v_out = 2 * cos(1000 * t)",
+    "d": "v_out = -0.2 * cos(1000 * t)",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has an open-loop gain of 200,000 and a Common Mode Rejection Ratio of 100 dB. Calculate the common-mode gain.",
+    "a": "2.0",
+    "b": "2.0 (approximated)",
+    "c": "1.0",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has a slew rate of 1.0 Volt/microsecond. Find the maximum peak value of a 20-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
+    "a": "7.96 Volts",
+    "b": "7.96 Volts (approximated)",
+    "c": "15.92 Volts",
+    "d": "3.98 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A passive low-pass filter consists of R = 4.7k Ohms and C = 10 nF. Calculate its cut-off frequency.",
+    "a": "3.38 kHz",
+    "b": "3.38 kHz (approximated)",
+    "c": "1.69 kHz",
+    "d": "6.76 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Class B power amplifier delivers 5 Watts of AC power to a load of 8 Ohms. Calculate the peak AC output voltage.",
+    "a": "8.94 Volts",
+    "b": "8.94 Volts (approximated)",
+    "c": "4.47 Volts",
+    "d": "12.65 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A Class A power amplifier has a collector efficiency of 20 percent. If the DC input power is 25 Watts, calculate the heat power dissipated by the transistor.",
+    "a": "5.0 Watts",
+    "b": "20.0 Watts",
+    "c": "15.0 Watts",
+    "d": "10.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 12 mA and V_P = -3 V. Find the value of transconductance g_m when V_GS is set to -1.0 Volt.",
+    "a": "5.33 mS",
+    "b": "5.33 mS (approximated)",
+    "c": "2.67 mS",
+    "d": "8.00 mS",
+    "ans": "a"
+  },
+  {
+    "q": "A common-emitter BJT amplifier has a collector resistance R_C = 1.5k Ohms, load resistance R_L = 3k Ohms, and r_e = 10 Ohms. Calculate the AC voltage gain (A_v) of the amplifier.",
+    "a": "150",
+    "b": "100",
+    "c": "50",
+    "d": "200",
+    "ans": "b"
+  },
+  {
+    "q": "An emitter follower circuit has R_E = 2.2k Ohms, load R_L = 2.2k Ohms, and r_e = 11 Ohms. Calculate the voltage gain.",
+    "a": "1.00",
+    "b": "0.99",
+    "c": "0.95",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 5 kHz. If the resistor in the RC network is 10k Ohms, calculate the required capacitor value.",
+    "a": "3.18 nF",
+    "b": "3.18 nF (approximated)",
+    "c": "1.59 nF",
+    "d": "6.36 nF",
+    "ans": "a"
+  },
+  {
+    "q": "A certain negative feedback amplifier has an open-loop gain A = 200. If 5 percent negative feedback is applied, calculate the closed-loop gain.",
+    "a": "18.2",
+    "b": "18.2 (approximated)",
+    "c": "9.1",
+    "d": "36.4",
+    "ans": "a"
+  },
+  {
+    "q": "A Colpitts oscillator has tank parameters: L = 100 uH, C1 = 2.2 nF, C2 = 2.2 nF. Calculate the frequency of oscillation.",
+    "a": "480 kHz",
+    "b": "480 kHz (approximated)",
+    "c": "960 kHz",
+    "d": "240 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).",
+    "a": "100 uH",
+    "b": "120 uH",
+    "c": "80 uH",
+    "d": "50 uH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation.",
+    "a": "1.45 MHz",
+    "b": "1.45 MHz (approximated)",
+    "c": "2.90 MHz",
+    "d": "725 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC phase-shift oscillator has feedback resistors R = 22k Ohms and capacitors C = 2.2 nF. Calculate the frequency of oscillation.",
+    "a": "1.35 kHz",
+    "b": "1.35 kHz (approximated)",
+    "c": "2.70 kHz",
+    "d": "675 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A non-inverting amplifier has feedback resistor R_f = 18k Ohms and ground resistor R_1 = 2k Ohms. If the input is a 1.5-Volt peak sine wave, calculate the output peak voltage.",
+    "a": "13.5 Volts",
+    "b": "15.0 Volts",
+    "c": "12.0 Volts",
+    "d": "18.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An inverting summing amplifier has input resistors R1 = 5k Ohms, R2 = 10k Ohms, and feedback resistor R_f = 50k Ohms. If V1 = 0.2V and V2 = 0.5V, find the output voltage.",
+    "a": "-4.5 Volts",
+    "b": "-4.5 Volts (approximated)",
+    "c": "-2.5 Volts",
+    "d": "-1.5 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp integrator with R = 22k Ohms and C = 0.22 uF is supplied with a step input of 2.0 Volts DC. Calculate the output voltage after 2.0 milliseconds. (Assume initial charge is zero).",
+    "a": "0.83 Volts",
+    "b": "-0.83 Volts",
+    "c": "-0.41 Volts",
+    "d": "-1.66 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp differentiator has input capacitor C = 22 nF and feedback resistor R = 47k Ohms. If the input is v_in = 1.5 * sin(2000 * t), find the output voltage expression.",
+    "a": "-3.10 * cos(2000 * t)",
+    "b": "-3.10 * cos(2000 * t) (approximated)",
+    "c": "3.10 * cos(2000 * t)",
+    "d": "-0.31 * cos(2000 * t)",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has an open-loop gain of 150,000 and a Common Mode Rejection Ratio of 90 dB. Calculate the common-mode gain.",
+    "a": "4.74",
+    "b": "4.74 (approximated)",
+    "c": "2.37",
+    "d": "9.48",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has a slew rate of 2.0 Volts/microsecond. Find the maximum peak value of a 50-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
+    "a": "5.3 Volts",
+    "b": "5.3 Volts (approximated)",
+    "c": "10.6 Volts",
+    "d": "2.65 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A passive low-pass filter consists of R = 1.5k Ohms and C = 4.7 nF. Calculate its cut-off frequency.",
+    "a": "22.57 kHz",
+    "b": "22.57 kHz (approximated)",
+    "c": "11.28 kHz",
+    "d": "45.14 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Class B power amplifier delivers 8 Watts of AC power to a load of 4 Ohms. Calculate the peak AC output voltage.",
+    "a": "8.0 Volts",
+    "b": "8.0 Volts (approximated)",
+    "c": "4.0 Volts",
+    "d": "16.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A Class A power amplifier has a collector efficiency of 15 percent. If the DC input power is 40 Watts, calculate the heat power dissipated by the active transistor.",
+    "a": "6.0 Watts",
+    "b": "34.0 Watts",
+    "c": "20.0 Watts",
+    "d": "15.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 10 mA and V_P = -2.5 V. Find the value of transconductance g_m when V_GS is set to -1.0 Volt.",
+    "a": "4.8 mS",
+    "b": "4.8 mS (approximated)",
+    "c": "2.4 mS",
+    "d": "8.0 mS",
+    "ans": "a"
+  },
+  {
+    "q": "A common-emitter BJT amplifier has a collector resistance R_C = 3.3k Ohms, load resistance R_L = 10k Ohms, and r_e = 12 Ohms. Calculate the AC voltage gain (A_v) of the amplifier.",
+    "a": "200",
+    "b": "206",
+    "c": "103",
+    "d": "275",
+    "ans": "b"
+  },
+  {
+    "q": "An emitter follower circuit has R_E = 3.3k Ohms, load R_L = 3.3k Ohms, and r_e = 15 Ohms. Calculate the voltage gain.",
+    "a": "1.00",
+    "b": "0.99",
+    "c": "0.95",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 10 kHz. If the resistor in the template is 15k Ohms, calculate the required capacitance value.",
+    "a": "1.06 nF",
+    "b": "1.06 pF",
+    "c": "1.06 uF",
+    "d": "10.6 nF",
+    "ans": "a"
+  },
+  {
+    "q": "A certain negative feedback amplifier has an open-loop gain A = 500. If 2 percent negative feedback is applied, calculate the closed-loop gain.",
+    "a": "19.2",
+    "b": "19.2 (approximated)",
+    "c": "9.6",
+    "d": "38.4",
+    "ans": "a"
+  },
+  {
+    "q": "A Colpitts oscillator has tank parameters: L = 220 uH, C1 = 1 nF, C2 = 1 nF. Calculate the frequency of oscillation.",
+    "a": "480 kHz",
+    "b": "480 kHz (approximated)",
+    "c": "960 kHz",
+    "d": "240 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Hartley oscillator tank circuit has inductors L1 = 150 uH, L2 = 150 uH, and mutual inductance M = 30 uH. If the tank capacitor C is 50 pF, calculate the total equivalent inductance L_eq (aiding connection).",
+    "a": "300 uH",
+    "b": "360 uH",
+    "c": "240 uH",
+    "d": "150 uH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total equivalent inductance L_eq = 360 uH from the previous question, calculate the frequency of oscillation.",
+    "a": "1.18 MHz",
+    "b": "1.18 MHz (approximated)",
+    "c": "2.36 MHz",
+    "d": "590 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC phase-shift oscillator has feedback resistors R = 33k Ohms and capacitors C = 3.3 nF. Calculate the frequency of oscillation.",
+    "a": "590 Hz",
+    "b": "590 Hz (approximated)",
+    "c": "1.18 kHz",
+    "d": "295 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "A non-inverting amplifier has feedback resistor R_f = 27k Ohms and ground resistor R_1 = 3k Ohms. If the input is a 2.0-Volt peak sine wave, calculate the output peak voltage.",
+    "a": "18.0 Volts",
+    "b": "20.0 Volts",
+    "c": "16.0 Volts",
+    "d": "27.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An inverting summing amplifier has input resistors R1 = 2k Ohms, R2 = 4k Ohms, and feedback resistor R_f = 20k Ohms. If V1 = 0.1V and V2 = 0.2V, find the output voltage.",
+    "a": "-2.0 Volts",
+    "b": "-2.0 Volts (approximated)",
+    "c": "-1.0 Volt",
+    "d": "-0.5 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp integrator with R = 47k Ohms and C = 0.47 uF is supplied with a step input of 3.0 Volts DC. Calculate the output voltage after 10 milliseconds. (Assume initial charge is zero).",
+    "a": "1.36 Volts",
+    "b": "-1.36 Volts",
+    "c": "-0.68 Volts",
+    "d": "-2.72 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp differentiator has input capacitor C = 47 nF and feedback resistor R = 100k Ohms. If the input is v_in = 1.0 * sin(500 * t), find the output voltage expression.",
+    "a": "-2.35 * cos(500 * t)",
+    "b": "-2.35 * cos(500 * t) (approximated)",
+    "c": "2.35 * cos(500 * t)",
+    "d": "-0.235 * cos(500 * t)",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has an open-loop gain of 250,000 and a Common Mode Rejection Ratio of 110 dB. Calculate the common-mode gain.",
+    "a": "0.79",
+    "b": "0.79 (approximated)",
+    "c": "0.39",
+    "d": "1.58",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has a slew rate of 5.0 Volts/microsecond. Find the maximum peak value of a 100-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
+    "a": "7.96 Volts",
+    "b": "7.96 Volts (approximated)",
+    "c": "15.92 Volts",
+    "d": "3.98 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A passive low-pass filter consists of R = 2.2k Ohms and C = 2.2 nF. Calculate its cut-off frequency.",
+    "a": "32.89 kHz",
+    "b": "32.89 kHz (approximated)",
+    "c": "16.44 kHz",
+    "d": "65.78 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Class B power amplifier delivers 12 Watts of AC power to a load of 6 Ohms. Calculate the peak AC output voltage.",
+    "a": "12.0 Volts",
+    "b": "12.0 Volts (approximated)",
+    "c": "6.0 Volts",
+    "d": "24.0 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A Class A power amplifier has a collector efficiency of 12 percent. If the DC input power is 50 Watts, calculate the heat power dissipated by the active transistor.",
+    "a": "6.0 Watts",
+    "b": "44.0 Watts",
+    "c": "25.0 Watts",
+    "d": "15.0 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An N-channel JFET has IDSS = 15 mA and V_P = -3.5 V. Find the value of transconductance g_m when V_GS is set to -1.5 V.",
+    "a": "4.9 mS",
+    "b": "4.9 mS (approximated)",
+    "c": "2.45 mS",
+    "d": "9.8 mS",
+    "ans": "a"
+  },
+  {
+    "q": "A common-emitter BJT amplifier has a collector resistance R_C = 2.7k Ohms, load resistance R_L = 8.2k Ohms, and r_e = 15 Ohms. Calculate the AC voltage gain (A_v) of the amplifier.",
+    "a": "135",
+    "b": "135 (approximated)",
+    "c": "67",
+    "d": "270",
+    "ans": "a"
+  },
+  {
+    "q": "An emitter follower circuit has R_E = 1.5k Ohms, load R_L = 1.5k Ohms, and r_e = 10 Ohms. Calculate the voltage gain.",
+    "a": "1.00",
+    "b": "0.99",
+    "c": "0.95",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 5 kHz. If the resistor in the RC network is 4.7k Ohms, calculate the required capacitor value.",
+    "a": "9.7 nF",
+    "b": "9.7 nF (approximated)",
+    "c": "4.8 nF",
+    "d": "15.9 nF",
+    "ans": "a"
+  },
+  {
+    "q": "A certain negative feedback amplifier has an open-loop gain A = 200. If 2 percent negative feedback is applied, calculate the closed-loop gain.",
+    "a": "40.0",
+    "b": "40.0 (approximated)",
+    "c": "20.0",
+    "d": "10.0",
+    "ans": "a"
+  },
+  {
+    "q": "A Colpitts oscillator has tank parameters: L = 10 uH, C1 = 2 nF, C2 = 2 nF. Calculate the frequency of oscillation.",
+    "a": "1.0 MHz",
+    "b": "1.0 MHz (approximated)",
+    "c": "2.0 MHz",
+    "d": "500 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).",
+    "a": "100 uH",
+    "b": "120 uH",
+    "c": "80 uH",
+    "d": "50 uH",
+    "ans": "b"
+  },
+  {
+    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation.",
+    "a": "726 kHz",
+    "b": "726 kHz (approximated)",
+    "c": "1.45 MHz",
+    "d": "363 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC phase-shift oscillator has feedback resistors R = 22k Ohms and capacitors C = 2.2 nF. Calculate the frequency of oscillation.",
+    "a": "2.90 kHz",
+    "b": "2.90 kHz (approximated)",
+    "c": "1.45 kHz",
+    "d": "5.80 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A non-inverting amplifier has feedback resistor R_f = 12k Ohms and ground resistor R_1 = 1.5k Ohms. If the input is a 2.5-Volt peak sine wave, calculate the output peak voltage.",
+    "a": "20.0 Volts",
+    "b": "22.5 Volts",
+    "c": "18.0 Volts",
+    "d": "27.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An inverting summing amplifier has input resistors R1 = 1k Ohm, R2 = 2k Ohms, and feedback resistor R_f = 10k Ohms. If V1 = 0.05V and V2 = 0.1V, find the output voltage.",
+    "a": "-1.0 Volt",
+    "b": "-1.0 Volt (approximated)",
+    "c": "-0.5 Volts",
+    "d": "-0.25 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp integrator with R = 10k Ohms and C = 0.1 uF is supplied with a step input of 5.0 Volts DC. Calculate the output voltage after 0.5 milliseconds. (Assume initial charge is zero).",
+    "a": "2.5 Volts",
+    "b": "-2.5 Volts",
+    "c": "1.25 Volts",
+    "d": "-1.25 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An op-amp differentiator has input capacitor C = 10 nF and feedback resistor R = 10k Ohms. If the input is v_in = 5.0 * sin(5000 * t), find the output voltage expression.",
+    "a": "-2.5 * cos(5000 * t)",
+    "b": "-2.5 * cos(5000 * t) (approximated)",
+    "c": "2.5 * cos(5000 * t)",
+    "d": "-0.25 * cos(5000 * t)",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has an open-loop gain of 100,000 and a Common Mode Rejection Ratio of 110 dB. Calculate the common-mode gain.",
+    "a": "0.316",
+    "b": "0.316 (approximated)",
+    "c": "0.158",
+    "d": "0.632",
+    "ans": "a"
+  },
+  {
+    "q": "An op-amp has a slew rate of 10.0 Volts/microsecond. Find the maximum peak value of a 200-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
+    "a": "7.96 Volts",
+    "b": "7.96 Volts (approximated)",
+    "c": "15.92 Volts",
+    "d": "3.98 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A passive low-pass filter consists of R = 1.0k Ohm and C = 1.0 nF. Calculate its cut-off frequency.",
+    "a": "159.15 kHz",
+    "b": "159.15 kHz (approximated)",
+    "c": "79.58 kHz",
+    "d": "318.30 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "A Class B power amplifier delivers 15 Watts of AC power to a load of 6 Ohms. Calculate the peak AC output voltage.",
+    "a": "13.42 Volts",
+    "b": "13.42 Volts (approximated)",
+    "c": "6.71 Volts",
+    "d": "26.84 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "A certain transformer-coupled Class A amplifier delivers a peak load voltage of 10 Volts across an 8 Ohm load. Calculate the AC output power.",
+    "a": "6.25 Watts",
+    "b": "12.50 Watts",
+    "c": "25.00 Watts",
+    "d": "3.12 Watts",
+    "ans": "b"
+  },
+  {
+    "q": "An amplifier has a midband gain of 80 dB. If negative feedback reduces the gain by 20 dB, calculate the closed-loop gain in dB.",
+    "a": "100 dB",
+    "b": "60 dB",
+    "c": "40 dB",
+    "d": "20 dB",
+    "ans": "b"
+  },
+  {
+    "q": "A series RLC circuit has L = 10 mH, C = 100 nF, and R = 5 Ohms. Calculate its resonant frequency.",
+    "a": "5.03 kHz",
+    "b": "5.03 kHz (approximated)",
+    "c": "10.06 kHz",
+    "d": "2.51 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the Q-factor of the resonant circuit described in the previous question (L = 10 mH, C = 100 nF, R = 5 Ohms).",
+    "a": "63.2",
+    "b": "63.2 (approximated)",
+    "c": "31.6",
+    "d": "126.4",
+    "ans": "a"
+  },
+  {
+    "q": "Using the resonant frequency = 5.03 kHz and Q = 63.2 from the previous questions, calculate the bandwidth of the resonant circuit.",
+    "a": "79.6 Hz",
+    "b": "79.6 Hz (approximated)",
+    "c": "159.2 Hz",
+    "d": "39.8 Hz",
+    "ans": "a"
+  },
+  {
+    "q": "An RC high-pass filter has R = 2.2k Ohms and C = 4.7 nF. Calculate its cut-off frequency.",
+    "a": "15.39 kHz",
+    "b": "15.39 kHz (approximated)",
+    "c": "7.69 kHz",
+    "d": "30.78 kHz",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the impedance of a parallel RC filter branch at the cut-off frequency of 15.39 kHz (R = 2.2k Ohms, C = 4.7 nF).",
+    "a": "1.56k Ohms",
+    "b": "1.56k Ohms (approximated)",
+    "c": "3.12k Ohms",
+    "d": "780 Ohms",
+    "ans": "a"
+  },
+  {
+    "q": "A certain bridge rectifier operates from a 50-Hz supply line. If a capacitor filter is added, find the frequency of the ripple voltage.",
+    "a": "50 Hz",
+    "b": "100 Hz",
+    "c": "25 Hz",
+    "d": "200 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "If a half-wave rectifier operates from a 50-Hz supply line, find the ripple frequency.",
+    "a": "100 Hz",
+    "b": "50 Hz",
+    "c": "25 Hz",
+    "d": "200 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A certain center-tapped full-wave rectifier has a peak secondary voltage of 20 Volts across each half. If the silicon diode drop is 0.7V, calculate the peak load voltage.",
+    "a": "19.3 Volts",
+    "b": "18.6 Volts",
+    "c": "19.6 Volts",
+    "d": "38.6 Volts",
+    "ans": "a"
+  },
+  {
+    "q": "An unfiltered full-wave rectifier delivers a peak DC load voltage of 30 Volts. Find the average DC load voltage.",
+    "a": "15.00 Volts",
+    "b": "19.10 Volts",
+    "c": "27.00 Volts",
+    "d": "9.55 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An unfiltered half-wave rectifier delivers a peak DC load voltage of 30 Volts. Find the average DC load voltage.",
+    "a": "15.00 Volts",
+    "b": "9.55 Volts",
+    "c": "19.10 Volts",
+    "d": "4.78 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A full-wave rectifier filter capacitor has a ripple voltage of 2V RMS. If the average DC output voltage is 12V, calculate the ripple factor.",
+    "a": "16.7 percent",
+    "b": "16.7 percent (approximated)",
+    "c": "8.3 percent",
+    "d": "33.3 percent",
+    "ans": "a"
+  },
+  {
+    "q": "A shunt Zener regulator has V_in = 18 V, R_S = 120 Ohms, and V_Z = 6.8 V. If the minimum Zener current is 10 mA, calculate the maximum load current that can be drawn.",
+    "a": "83.3 mA",
+    "b": "83.3 mA (approximated)",
+    "c": "41.6 mA",
+    "d": "166.6 mA",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions.",
+    "a": "635 mW",
+    "b": "635 mW (approximated)",
+    "c": "400 mW",
+    "d": "150 mW",
+    "ans": "a"
+  },
+  {
+    "q": "A certain biased clipper has an input of 10V peak. The clipping level is set by a -5V negative bias supply. Calculate the peak-to-peak output voltage.",
+    "a": "10.0 Volts",
+    "b": "15.0 Volts",
+    "c": "5.0 Volts",
+    "d": "20.0 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "An NPN BJT fixed-bias circuit has V_CC = 15 V, R_B = 680k Ohms, R_C = 3.3k Ohms, and beta = 120. Calculate the base current I_B.",
+    "a": "15.0 uA",
+    "b": "21.0 uA",
+    "c": "31.2 uA",
+    "d": "5.0 uA",
+    "ans": "b"
+  },
+  {
+    "q": "Using the base current I_B = 21.0 uA from the previous question, calculate the collector current I_C.",
+    "a": "2.10 mA",
+    "b": "2.52 mA",
+    "c": "4.50 mA",
+    "d": "1.00 mA",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the collector-emitter voltage V_CE under the conditions described in the previous fixed-bias questions.",
+    "a": "8.06 Volts",
+    "b": "6.68 Volts",
+    "c": "15.00 Volts",
+    "d": "7.82 Volts",
+    "ans": "b"
+  },
+  {
+    "q": "A collector-feedback bias circuit has V_CC = 12 V, R_C = 2.2k Ohms, R_B = 82k Ohms, and beta = 150. Calculate the collector current I_C. (Neglect forward drop).",
+    "a": "2.5 mA",
+    "b": "4.38 mA",
+    "c": "5.0 mA",
+    "d": "1.25 mA",
+    "ans": "b"
+  },
+  {
+    "q": "A common-emitter stage has a collector resistor R_C = 3.3k Ohms and load R_L = 8.2k Ohms. If the dynamic resistance r_e is 15 Ohms, calculate the voltage gain without load connection.",
+    "a": "220",
+    "b": "220 (approximated)",
+    "c": "110",
+    "d": "440",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the loaded voltage gain of the common-emitter stage described in the previous question (R_C = 3.3k Ohms, R_L = 8.2k Ohms, r_e = 15 Ohms).",
+    "a": "220",
+    "b": "156",
+    "c": "78",
+    "d": "312",
+    "ans": "b"
+  },
+  {
+    "q": "A Darlington pair consists of two BJTs with beta1 = 60 and beta2 = 100. Calculate the overall current gain of the pair.",
+    "a": "160",
+    "b": "6000",
+    "c": "3000",
+    "d": "100",
+    "ans": "b"
+  },
+  {
+    "q": "An emitter follower has a BJT with beta = 120 and emitter resistor R_E = 1.5k Ohms. Calculate the approximate input impedance of the stage. (Assume r_e = 12 Ohms).",
+    "a": "1.5k Ohms",
+    "b": "181.4k Ohms",
+    "c": "90.7k Ohms",
+    "d": "50.0k Ohms",
+    "ans": "b"
+  },
+  {
+    "q": "A common-source JFET amplifier has transconductance g_m = 2.5 mS, drain resistor R_D = 2.2k Ohms, and load R_L = 8.2k Ohms. Calculate the loaded voltage gain.",
+    "a": "5.5",
+    "b": "4.3",
+    "c": "2.15",
+    "d": "8.6",
+    "ans": "b"
+  },
+  {
+    "q": "A JFET self-bias circuit operates with R_S = 1k Ohm. If the measured gate-source voltage V_GS is -2.5 Volts, calculate the drain current I_D.",
+    "a": "2.5 mA",
+    "b": "2.5 mA (approximated)",
+    "c": "1.25 mA",
+    "d": "5.0 mA",
+    "ans": "a"
+  }
+]

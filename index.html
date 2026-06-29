@@ -528,7 +528,7 @@ body {
     <div style="width: 100%;">
       <h1 id="setup-title" style="margin-bottom: 1.5rem; text-align: center; text-transform: uppercase; letter-spacing: 0.05em;">Reviewer</h1>
       
-      <!-- Subject Selector (4 columns) -->
+      <!-- Subject Selector -->
       <div class="subject-selector" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; margin-bottom: 1.5rem;">
         <button class="subj-btn active" data-subject="ELEX">ELEX</button>
         <button class="subj-btn" data-subject="ESAT">ESAT</button>
@@ -607,7 +607,7 @@ body {
       </div>
     </div>
     
-    <!-- Score Banner (shown post-submit or running in immediate feedback mode) -->
+    <!-- Score Banner -->
     <div id="exam-score-banner" class="hidden" style="background: var(--muted); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; text-align: center; margin-bottom: 1.5rem;">
       <h2 style="font-size: 1.15rem; font-weight: 600;">Exam Score: <span id="exam-score-val">0</span> / <span id="exam-total-val">0</span></h2>
       <p style="font-size: 0.825rem; color: var(--muted-foreground); margin-top: 0.25rem;">Scroll down to review your answers.</p>
@@ -638,7 +638,7 @@ body {
 </div>
 
 <script>
-// Cookie Storage Helper with LocalStorage Synchronization (Writes to both; fallback read from LocalStorage)
+// Cookie Storage Helper with LocalStorage Synchronization
 const storage = {
   set(name, value, days = 7) {
     try {
@@ -1065,6 +1065,18 @@ async function init() {
       // Load questions pool for activeQuiz.subtopics
       const success = await loadQuestionsPoolForSubtopics(activeQuiz.subject, activeQuiz.subtopics);
       if (success) {
+        // Fallback for older activeQuiz cookie states that lack shuffledChoices
+        if (!activeQuiz.shuffledChoices) {
+          activeQuiz.shuffledChoices = {};
+          activeQuiz.questions.forEach(qIndex => {
+            const q = quizData[qIndex];
+            const options = ['a', 'b', 'c', 'd'].filter(opt => q[opt] !== undefined);
+            shuffle(options);
+            activeQuiz.shuffledChoices[qIndex] = options;
+          });
+          saveActiveQuiz();
+        }
+        
         if (activeQuiz.mode === 'flashcard') {
           if (activeQuiz.currentIndex < activeQuiz.questions.length) {
             showScreen('quiz');
@@ -1078,7 +1090,7 @@ async function init() {
           showScreen('exam');
           renderExam();
         }
-        return; // Initialize successfully and resume
+        return;
       }
     } catch (e) {
       console.error("Failed to restore quiz session:", e);
@@ -1086,7 +1098,7 @@ async function init() {
     }
   }
   
-  // Default fresh load (no active quiz to restore)
+  // Default fresh load
   const savedSubject = storage.get('active_subject_review_app');
   if (savedSubject && SUBJECT_CONFIG[savedSubject]) {
     activeSubject = savedSubject;
@@ -1150,11 +1162,21 @@ el.startBtn.addEventListener('click', async () => {
     mode: activeMode,
     feedbackStyle: activeMode === 'exam' ? activeFeedbackStyle : 'immediate',
     questions: generateQuiz(num),
+    shuffledChoices: {},
     currentIndex: 0,
     score: 0,
     userAnswers: {},
     submitted: false
   };
+
+  // Generate randomized choices order for each selected question
+  activeQuiz.questions.forEach(qIndex => {
+    const q = quizData[qIndex];
+    const options = ['a', 'b', 'c', 'd'].filter(opt => q[opt] !== undefined);
+    shuffle(options);
+    activeQuiz.shuffledChoices[qIndex] = options;
+  });
+
   saveActiveQuiz();
   
   if (activeMode === 'flashcard') {
@@ -1188,24 +1210,26 @@ function renderQuestion() {
   el.skipBtn.style.display = 'block';
   el.nextBtn.style.display = 'none';
 
-  ['a', 'b', 'c', 'd'].forEach(opt => {
-    if (q[opt]) {
-      const btn = document.createElement('button');
-      btn.className = 'choice-btn';
-      
-      const prefix = document.createElement('span');
-      prefix.className = 'prefix';
-      prefix.textContent = opt;
-      
-      const text = document.createElement('span');
-      text.textContent = q[opt];
-      
-      btn.appendChild(prefix);
-      btn.appendChild(text);
-      
-      btn.onclick = () => handleAnswer(opt, btn, qIndex);
-      el.choices.appendChild(btn);
-    }
+  // Get shuffled options order
+  const optionKeys = (activeQuiz.shuffledChoices && activeQuiz.shuffledChoices[qIndex]) || ['a', 'b', 'c', 'd'].filter(opt => q[opt] !== undefined);
+
+  optionKeys.forEach((opt, optIdx) => {
+    const btn = document.createElement('button');
+    btn.className = 'choice-btn';
+    btn.dataset.opt = opt; // original key (a, b, c, d)
+    
+    const prefix = document.createElement('span');
+    prefix.className = 'prefix';
+    prefix.textContent = ['A', 'B', 'C', 'D'][optIdx];
+    
+    const text = document.createElement('span');
+    text.textContent = q[opt];
+    
+    btn.appendChild(prefix);
+    btn.appendChild(text);
+    
+    btn.onclick = () => handleAnswer(opt, btn, qIndex);
+    el.choices.appendChild(btn);
   });
 }
 
@@ -1220,7 +1244,7 @@ function handleAnswer(selected, btn, qIndex) {
   const buttons = el.choices.querySelectorAll('.choice-btn');
   buttons.forEach(b => {
     b.disabled = true;
-    const p = b.querySelector('.prefix').textContent.toLowerCase();
+    const p = b.dataset.opt; // original key (a, b, c, d)
     if (p === correct) {
       b.classList.add('correct');
     } else if (p === selected) {
@@ -1299,50 +1323,49 @@ function renderExam() {
     const choicesDiv = document.createElement('div');
     choicesDiv.className = 'exam-choices';
 
-    // In immediate feedback mode, if the question has been answered, lock it
     const isQuestionGraded = activeQuiz.submitted || (activeQuiz.feedbackStyle === 'immediate' && userAns !== undefined);
 
-    ['a', 'b', 'c', 'd'].forEach(opt => {
-      if (q[opt]) {
-        const label = document.createElement('label');
-        label.className = 'exam-choice-label';
+    // Get shuffled options order
+    const optionKeys = (activeQuiz.shuffledChoices && activeQuiz.shuffledChoices[qIndex]) || ['a', 'b', 'c', 'd'].filter(opt => q[opt] !== undefined);
 
-        const radio = document.createElement('input');
-        radio.type = 'radio';
-        radio.name = `exam_q_${qIndex}`;
-        radio.value = opt;
-        radio.className = 'exam-radio';
-        radio.checked = (userAns === opt);
-        
-        if (isQuestionGraded) {
-          radio.disabled = true;
-          if (opt === correctAns) {
-            label.classList.add('correct-choice');
-          } else if (userAns === opt && opt !== correctAns) {
-            label.classList.add('incorrect-choice');
-          } else if (opt === correctAns && userAns !== opt) {
-            // Draw a dashed border on the correct answer if the user missed it
-            label.classList.add('unselected-correct-choice');
-          }
-        } else {
-          radio.addEventListener('change', () => {
-            activeQuiz.userAnswers[qIndex] = opt;
-            saveActiveQuiz();
-            
-            // If immediate feedback style is active, re-render immediately to show grade
-            if (activeQuiz.feedbackStyle === 'immediate') {
-              renderExam();
-            }
-          });
+    optionKeys.forEach((opt, optIdx) => {
+      const label = document.createElement('label');
+      label.className = 'exam-choice-label';
+
+      const radio = document.createElement('input');
+      radio.type = 'radio';
+      radio.name = `exam_q_${qIndex}`;
+      radio.value = opt; // store original key
+      radio.className = 'exam-radio';
+      radio.checked = (userAns === opt);
+      
+      if (isQuestionGraded) {
+        radio.disabled = true;
+        if (opt === correctAns) {
+          label.classList.add('correct-choice');
+        } else if (userAns === opt && opt !== correctAns) {
+          label.classList.add('incorrect-choice');
+        } else if (opt === correctAns && userAns !== opt) {
+          label.classList.add('unselected-correct-choice');
         }
-
-        const textSpan = document.createElement('span');
-        textSpan.textContent = `${opt.toUpperCase()}. ${q[opt]}`;
-
-        label.appendChild(radio);
-        label.appendChild(textSpan);
-        choicesDiv.appendChild(label);
+      } else {
+        radio.addEventListener('change', () => {
+          activeQuiz.userAnswers[qIndex] = opt;
+          saveActiveQuiz();
+          
+          if (activeQuiz.feedbackStyle === 'immediate') {
+            renderExam();
+          }
+        });
       }
+
+      const displayLetter = ['A', 'B', 'C', 'D'][optIdx];
+      const textSpan = document.createElement('span');
+      textSpan.textContent = `${displayLetter}. ${q[opt]}`;
+
+      label.appendChild(radio);
+      label.appendChild(textSpan);
+      choicesDiv.appendChild(label);
     });
 
     card.appendChild(choicesDiv);
@@ -1418,8 +1441,6 @@ el.examSubmitBtn.addEventListener('click', () => {
   saveActiveQuiz();
 
   renderExam();
-  
-  // Scroll to top to show score banner
   el.examQuestionsContainer.scrollTop = 0;
 });
 
@@ -1467,12 +1488,14 @@ function triggerPrint(questionsToPrint) {
     const choicesList = document.createElement('div');
     choicesList.className = 'print-choices';
     
-    ['a', 'b', 'c', 'd'].forEach(opt => {
-      if (q[opt]) {
-        const choiceItem = document.createElement('div');
-        choiceItem.textContent = `${opt.toUpperCase()}. ${q[opt]}`;
-        choicesList.appendChild(choiceItem);
-      }
+    // Get shuffled options order
+    const optionKeys = (activeQuiz.shuffledChoices && activeQuiz.shuffledChoices[qIndex]) || ['a', 'b', 'c', 'd'].filter(opt => q[opt] !== undefined);
+    
+    optionKeys.forEach((opt, optIdx) => {
+      const displayLetter = ['A', 'B', 'C', 'D'][optIdx];
+      const choiceItem = document.createElement('div');
+      choiceItem.textContent = `${displayLetter}. ${q[opt]}`;
+      choicesList.appendChild(choiceItem);
     });
     
     card.appendChild(choicesList);

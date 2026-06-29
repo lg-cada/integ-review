@@ -1002,7 +1002,7 @@
   {
     "q": "A candidate takes the Board Exam and scores the following: Mathematics: 72%, GEAS: 75%, Electronics: 70%, ESAT: 68%. What is the candidate's general average, and did they pass?",
     "a": "71.25%, Passed",
-    "b": "71.25%, Failed (because ESAT is below 70%)",
+    "b": "71.25%, Failed",
     "c": "70.50%, Passed",
     "d": "70.50%, Failed",
     "ans": "b"

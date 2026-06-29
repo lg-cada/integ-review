@@ -1865,10 +1865,10 @@
   },
   {
     "q": "A helical antenna operating in axial mode has 20 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
-    "a": "75.0 (which is 18.75 dBi)",
-    "b": "37.5 (which is 15.74 dBi)",
-    "c": "150.0 (which is 21.76 dBi)",
-    "d": "30.0 (which is 14.77 dBi)",
+    "a": "75.0",
+    "b": "37.5",
+    "c": "150.0",
+    "d": "30.0",
     "ans": "a"
   },
   {
@@ -1953,10 +1953,10 @@
   },
   {
     "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 4.5 meters, frequency = 6 GHz, wavelength = 5 cm) using the formula G = 6 * (D / lambda)^2.",
-    "a": "48,600 (which is 46.87 dBi)",
-    "b": "24,300 (which is 43.86 dBi)",
-    "c": "97,200 (which is 49.88 dBi)",
-    "d": "12,150 (which is 40.85 dBi)",
+    "a": "48,600",
+    "b": "24,300",
+    "c": "97,200",
+    "d": "12,150",
     "ans": "a"
   },
   {

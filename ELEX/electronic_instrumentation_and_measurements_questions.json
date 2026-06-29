@@ -1250,7 +1250,7 @@
   {
     "q": "A digital frequency counter registers 15,000 counts over a gating time interval of 0.5 seconds. Calculate the frequency of the input signal.",
     "a": "30.0 kHz",
-    "b": "30.0 kHz (approximated)",
+    "b": "30.0 kHz",
     "c": "7.5 kHz",
     "d": "15.0 kHz",
     "ans": "b"

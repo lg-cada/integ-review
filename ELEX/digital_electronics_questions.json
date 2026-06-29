@@ -434,7 +434,7 @@
   {
     "q": "The simplification of Boolean expressions using Karnaugh maps relies on grouping adjacent cells that contain:",
     "a": "Binary 0s only",
-    "b": "Binary 1s (for SOP minimization)",
+    "b": "Binary 1s",
     "c": "Don't-care conditions only",
     "d": "Both 0s and 1s together",
     "ans": "b"
@@ -1058,7 +1058,7 @@
   {
     "q": "An astable multivibrator has timing resistors R1 = 10k Ohms, R2 = 47k Ohms, and capacitor C = 0.1 uF. Calculate the high-state pulse width (t_high) of the output.",
     "a": "3.95 ms",
-    "b": "3.95 ms (approximated)",
+    "b": "3.95 ms",
     "c": "1.98 ms",
     "d": "7.90 ms",
     "ans": "a"
@@ -1066,7 +1066,7 @@
   {
     "q": "Using the parameters from the previous question (R1 = 10k, R2 = 47k, C = 0.1 uF), calculate the low-state pulse width (t_low) of the output.",
     "a": "3.26 ms",
-    "b": "3.26 ms (approximated)",
+    "b": "3.26 ms",
     "c": "1.63 ms",
     "d": "6.52 ms",
     "ans": "a"
@@ -1074,7 +1074,7 @@
   {
     "q": "Calculate the frequency of oscillation for the astable multivibrator described in the previous questions. (Context from previous question: Using the parameters from the previous question (R1 = 10k, R2 = 47k, C = 0.1 uF), calculate the low-state pulse width (t_low) of the output. An astable multivibrator has timing resistors R1 = 10k Ohms, R2 = 47k Ohms, and capacitor C = 0.1 uF.)",
     "a": "138 Hz",
-    "b": "138 Hz (approximated)",
+    "b": "138 Hz",
     "c": "276 Hz",
     "d": "69 Hz",
     "ans": "a"
@@ -1338,7 +1338,7 @@
   {
     "q": "An astable multivibrator has R1 = 12k Ohms, R2 = 33k Ohms, and C = 0.012 uF. Calculate the frequency of oscillation.",
     "a": "1.54 kHz",
-    "b": "1.54 kHz (approximated)",
+    "b": "1.54 kHz",
     "c": "3.08 kHz",
     "d": "770 Hz",
     "ans": "a"

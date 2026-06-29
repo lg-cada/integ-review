@@ -474,7 +474,7 @@
   {
     "q": "Which parameter describes the thermal voltage (V_T) value at room temperature (300 Kelvin)?",
     "a": "0.7 Volts",
-    "b": "25.9 milli-Volts (approx. 26 mV)",
+    "b": "25.9 milli-Volts",
     "c": "1.1 Volts",
     "d": "1.5 Volts",
     "ans": "b"

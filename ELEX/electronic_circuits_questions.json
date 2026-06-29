@@ -874,7 +874,7 @@
   {
     "q": "An amplifier with an open-loop gain A = 1000 has a negative feedback factor beta = 0.009. Calculate the closed-loop gain with feedback (A_f).",
     "a": "100.0",
-    "b": "100.0 (approximated)",
+    "b": "100.0",
     "c": "10.0",
     "d": "90.9",
     "ans": "a"
@@ -946,7 +946,7 @@
   {
     "q": "A Wien-bridge oscillator uses a lead-lag bridge with components R = 10k Ohms and C = 1.59 nF. Calculate the frequency of oscillation.",
     "a": "10.0 kHz",
-    "b": "10.0 kHz (approximated)",
+    "b": "10.0 kHz",
     "c": "5.0 kHz",
     "d": "20.0 kHz",
     "ans": "a"
@@ -1002,7 +1002,7 @@
   {
     "q": "An op-amp differentiator has a feedback resistor R_f = 10k Ohms and input capacitor C = 0.1 uF. If the input voltage changes at a rate of 2.5 Volts/millisecond, calculate the output voltage.",
     "a": "-2.5 Volts",
-    "b": "-2.5 Volts (approximated)",
+    "b": "-2.5 Volts",
     "c": "2.5 Volts",
     "d": "-25.0 Volts",
     "ans": "a"
@@ -1010,7 +1010,7 @@
   {
     "q": "An op-amp integrator has input resistor R = 100k Ohms and feedback capacitor C = 1.0 uF. If a constant input of 2.0 Volts DC is applied, find the rate of change of the output voltage.",
     "a": "-20 V/s",
-    "b": "-20 V/s (approximated)",
+    "b": "-20 V/s",
     "c": "20 V/s",
     "d": "-2.0 V/s",
     "ans": "a"
@@ -1018,7 +1018,7 @@
   {
     "q": "An op-amp has an open-loop gain of 100,000 and a Common Mode Rejection Ratio of 80 dB. If the differential gain is 100,000, calculate the common-mode gain.",
     "a": "10",
-    "b": "10 (approximated)",
+    "b": "10",
     "c": "1.0",
     "d": "0.1",
     "ans": "a"
@@ -1026,7 +1026,7 @@
   {
     "q": "An op-amp has a slew rate of 0.5 Volts/microsecond. Find the maximum frequency of a 10-Volt peak sinusoidal output wave that can be produced without slew-rate distortion.",
     "a": "7.96 kHz",
-    "b": "7.96 kHz (approximated)",
+    "b": "7.96 kHz",
     "c": "15.9 kHz",
     "d": "50.0 kHz",
     "ans": "a"
@@ -1034,7 +1034,7 @@
   {
     "q": "A passive low-pass filter consists of a 10k Ohm resistor and a 15.9 nF capacitor. Calculate its cut-off frequency.",
     "a": "1.0 kHz",
-    "b": "1.0 kHz (approximated)",
+    "b": "1.0 kHz",
     "c": "2.0 kHz",
     "d": "500 Hz",
     "ans": "a"
@@ -1170,7 +1170,7 @@
   {
     "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions. (Context from previous question: A shunt Zener regulator has V_in = 12 V, R_S = 150 Ohms, and V_Z = 5.6 V. If the minimum Zener current is 5 mA, calculate the maximum load current that can be drawn.)",
     "a": "239 mW",
-    "b": "239 mW (approximated)",
+    "b": "239 mW",
     "c": "400 mW",
     "d": "150 mW",
     "ans": "a"
@@ -1218,7 +1218,7 @@
   {
     "q": "A common-emitter stage has a collector resistor R_C = 4.7k Ohms and load R_L = 10k Ohms. If the dynamic resistance r_e is 25 Ohms, calculate the voltage gain without load connection.",
     "a": "188",
-    "b": "188 (approximated)",
+    "b": "188",
     "c": "94",
     "d": "376",
     "ans": "a"
@@ -1258,7 +1258,7 @@
   {
     "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 2 kHz. If the resistor in the RC network is 8.2k Ohms, calculate the required capacitor value.",
     "a": "9.7 nF",
-    "b": "9.7 nF (approximated)",
+    "b": "9.7 nF",
     "c": "4.8 nF",
     "d": "15.9 nF",
     "ans": "a"
@@ -1274,7 +1274,7 @@
   {
     "q": "A Colpitts oscillator has tank parameters: L = 50 uH, C1 = 1 nF, C2 = 1 nF. Calculate the frequency of oscillation.",
     "a": "1.0 MHz",
-    "b": "1.0 MHz (approximated)",
+    "b": "1.0 MHz",
     "c": "2.0 MHz",
     "d": "500 kHz",
     "ans": "a"
@@ -1290,7 +1290,7 @@
   {
     "q": "Using the total equivalent inductance L_eq = 240 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 100 uH, L2 = 100 uH, and mutual inductance M = 20 uH. If the tank capacitor C is 200 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "726 kHz",
-    "b": "726 kHz (approximated)",
+    "b": "726 kHz",
     "c": "1.45 MHz",
     "d": "363 kHz",
     "ans": "a"
@@ -1330,7 +1330,7 @@
   {
     "q": "An op-amp differentiator has input capacitor C = 10 nF and feedback resistor R = 100k Ohms. If the input is v_in = 2 * sin(1000 * t), find the output voltage expression.",
     "a": "v_out = -2 * cos(1000 * t)",
-    "b": "v_out = -2 * cos(1000 * t) (approximated)",
+    "b": "v_out = -2 * cos(1000 * t)",
     "c": "v_out = 2 * cos(1000 * t)",
     "d": "v_out = -0.2 * cos(1000 * t)",
     "ans": "a"
@@ -1338,7 +1338,7 @@
   {
     "q": "An op-amp has an open-loop gain of 200,000 and a Common Mode Rejection Ratio of 100 dB. Calculate the common-mode gain.",
     "a": "2.0",
-    "b": "2.0 (approximated)",
+    "b": "2.0",
     "c": "1.0",
     "d": "0.5",
     "ans": "a"
@@ -1346,7 +1346,7 @@
   {
     "q": "An op-amp has a slew rate of 1.0 Volt/microsecond. Find the maximum peak value of a 20-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
     "a": "7.96 Volts",
-    "b": "7.96 Volts (approximated)",
+    "b": "7.96 Volts",
     "c": "15.92 Volts",
     "d": "3.98 Volts",
     "ans": "a"
@@ -1354,7 +1354,7 @@
   {
     "q": "A passive low-pass filter consists of R = 4.7k Ohms and C = 10 nF. Calculate its cut-off frequency.",
     "a": "3.38 kHz",
-    "b": "3.38 kHz (approximated)",
+    "b": "3.38 kHz",
     "c": "1.69 kHz",
     "d": "6.76 kHz",
     "ans": "a"
@@ -1362,7 +1362,7 @@
   {
     "q": "A Class B power amplifier delivers 5 Watts of AC power to a load of 8 Ohms. Calculate the peak AC output voltage.",
     "a": "8.94 Volts",
-    "b": "8.94 Volts (approximated)",
+    "b": "8.94 Volts",
     "c": "4.47 Volts",
     "d": "12.65 Volts",
     "ans": "a"
@@ -1378,7 +1378,7 @@
   {
     "q": "An N-channel JFET has IDSS = 12 mA and V_P = -3 V. Find the value of transconductance g_m when V_GS is set to -1.0 Volt.",
     "a": "5.33 mS",
-    "b": "5.33 mS (approximated)",
+    "b": "5.33 mS",
     "c": "2.67 mS",
     "d": "8.00 mS",
     "ans": "a"
@@ -1402,7 +1402,7 @@
   {
     "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 5 kHz. If the resistor in the RC network is 10k Ohms, calculate the required capacitor value.",
     "a": "3.18 nF",
-    "b": "3.18 nF (approximated)",
+    "b": "3.18 nF",
     "c": "1.59 nF",
     "d": "6.36 nF",
     "ans": "a"
@@ -1410,7 +1410,7 @@
   {
     "q": "A certain negative feedback amplifier has an open-loop gain A = 200. If 5 percent negative feedback is applied, calculate the closed-loop gain.",
     "a": "18.2",
-    "b": "18.2 (approximated)",
+    "b": "18.2",
     "c": "9.1",
     "d": "36.4",
     "ans": "a"
@@ -1418,7 +1418,7 @@
   {
     "q": "A Colpitts oscillator has tank parameters: L = 100 uH, C1 = 2.2 nF, C2 = 2.2 nF. Calculate the frequency of oscillation.",
     "a": "480 kHz",
-    "b": "480 kHz (approximated)",
+    "b": "480 kHz",
     "c": "960 kHz",
     "d": "240 kHz",
     "ans": "a"
@@ -1434,7 +1434,7 @@
   {
     "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "1.45 MHz",
-    "b": "1.45 MHz (approximated)",
+    "b": "1.45 MHz",
     "c": "2.90 MHz",
     "d": "725 kHz",
     "ans": "a"
@@ -1442,7 +1442,7 @@
   {
     "q": "An RC phase-shift oscillator has feedback resistors R = 22k Ohms and capacitors C = 2.2 nF. Calculate the frequency of oscillation.",
     "a": "1.35 kHz",
-    "b": "1.35 kHz (approximated)",
+    "b": "1.35 kHz",
     "c": "2.70 kHz",
     "d": "675 Hz",
     "ans": "a"
@@ -1458,7 +1458,7 @@
   {
     "q": "An inverting summing amplifier has input resistors R1 = 5k Ohms, R2 = 10k Ohms, and feedback resistor R_f = 50k Ohms. If V1 = 0.2V and V2 = 0.5V, find the output voltage.",
     "a": "-4.5 Volts",
-    "b": "-4.5 Volts (approximated)",
+    "b": "-4.5 Volts",
     "c": "-2.5 Volts",
     "d": "-1.5 Volts",
     "ans": "a"
@@ -1474,7 +1474,7 @@
   {
     "q": "An op-amp differentiator has input capacitor C = 22 nF and feedback resistor R = 47k Ohms. If the input is v_in = 1.5 * sin(2000 * t), find the output voltage expression.",
     "a": "-3.10 * cos(2000 * t)",
-    "b": "-3.10 * cos(2000 * t) (approximated)",
+    "b": "-3.10 * cos(2000 * t)",
     "c": "3.10 * cos(2000 * t)",
     "d": "-0.31 * cos(2000 * t)",
     "ans": "a"
@@ -1482,7 +1482,7 @@
   {
     "q": "An op-amp has an open-loop gain of 150,000 and a Common Mode Rejection Ratio of 90 dB. Calculate the common-mode gain.",
     "a": "4.74",
-    "b": "4.74 (approximated)",
+    "b": "4.74",
     "c": "2.37",
     "d": "9.48",
     "ans": "a"
@@ -1490,7 +1490,7 @@
   {
     "q": "An op-amp has a slew rate of 2.0 Volts/microsecond. Find the maximum peak value of a 50-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
     "a": "5.3 Volts",
-    "b": "5.3 Volts (approximated)",
+    "b": "5.3 Volts",
     "c": "10.6 Volts",
     "d": "2.65 Volts",
     "ans": "a"
@@ -1498,7 +1498,7 @@
   {
     "q": "A passive low-pass filter consists of R = 1.5k Ohms and C = 4.7 nF. Calculate its cut-off frequency.",
     "a": "22.57 kHz",
-    "b": "22.57 kHz (approximated)",
+    "b": "22.57 kHz",
     "c": "11.28 kHz",
     "d": "45.14 kHz",
     "ans": "a"
@@ -1506,7 +1506,7 @@
   {
     "q": "A Class B power amplifier delivers 8 Watts of AC power to a load of 4 Ohms. Calculate the peak AC output voltage.",
     "a": "8.0 Volts",
-    "b": "8.0 Volts (approximated)",
+    "b": "8.0 Volts",
     "c": "4.0 Volts",
     "d": "16.0 Volts",
     "ans": "a"
@@ -1522,7 +1522,7 @@
   {
     "q": "An N-channel JFET has IDSS = 10 mA and V_P = -2.5 V. Find the value of transconductance g_m when V_GS is set to -1.0 Volt.",
     "a": "4.8 mS",
-    "b": "4.8 mS (approximated)",
+    "b": "4.8 mS",
     "c": "2.4 mS",
     "d": "8.0 mS",
     "ans": "a"
@@ -1554,7 +1554,7 @@
   {
     "q": "A certain negative feedback amplifier has an open-loop gain A = 500. If 2 percent negative feedback is applied, calculate the closed-loop gain.",
     "a": "19.2",
-    "b": "19.2 (approximated)",
+    "b": "19.2",
     "c": "9.6",
     "d": "38.4",
     "ans": "a"
@@ -1562,7 +1562,7 @@
   {
     "q": "A Colpitts oscillator has tank parameters: L = 220 uH, C1 = 1 nF, C2 = 1 nF. Calculate the frequency of oscillation.",
     "a": "480 kHz",
-    "b": "480 kHz (approximated)",
+    "b": "480 kHz",
     "c": "960 kHz",
     "d": "240 kHz",
     "ans": "a"
@@ -1578,7 +1578,7 @@
   {
     "q": "Using the total equivalent inductance L_eq = 360 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 150 uH, L2 = 150 uH, and mutual inductance M = 30 uH. If the tank capacitor C is 50 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "1.18 MHz",
-    "b": "1.18 MHz (approximated)",
+    "b": "1.18 MHz",
     "c": "2.36 MHz",
     "d": "590 kHz",
     "ans": "a"
@@ -1586,7 +1586,7 @@
   {
     "q": "An RC phase-shift oscillator has feedback resistors R = 33k Ohms and capacitors C = 3.3 nF. Calculate the frequency of oscillation.",
     "a": "590 Hz",
-    "b": "590 Hz (approximated)",
+    "b": "590 Hz",
     "c": "1.18 kHz",
     "d": "295 Hz",
     "ans": "a"
@@ -1602,7 +1602,7 @@
   {
     "q": "An inverting summing amplifier has input resistors R1 = 2k Ohms, R2 = 4k Ohms, and feedback resistor R_f = 20k Ohms. If V1 = 0.1V and V2 = 0.2V, find the output voltage.",
     "a": "-2.0 Volts",
-    "b": "-2.0 Volts (approximated)",
+    "b": "-2.0 Volts",
     "c": "-1.0 Volt",
     "d": "-0.5 Volts",
     "ans": "a"
@@ -1618,7 +1618,7 @@
   {
     "q": "An op-amp differentiator has input capacitor C = 47 nF and feedback resistor R = 100k Ohms. If the input is v_in = 1.0 * sin(500 * t), find the output voltage expression.",
     "a": "-2.35 * cos(500 * t)",
-    "b": "-2.35 * cos(500 * t) (approximated)",
+    "b": "-2.35 * cos(500 * t)",
     "c": "2.35 * cos(500 * t)",
     "d": "-0.235 * cos(500 * t)",
     "ans": "a"
@@ -1626,7 +1626,7 @@
   {
     "q": "An op-amp has an open-loop gain of 250,000 and a Common Mode Rejection Ratio of 110 dB. Calculate the common-mode gain.",
     "a": "0.79",
-    "b": "0.79 (approximated)",
+    "b": "0.79",
     "c": "0.39",
     "d": "1.58",
     "ans": "a"
@@ -1634,7 +1634,7 @@
   {
     "q": "An op-amp has a slew rate of 5.0 Volts/microsecond. Find the maximum peak value of a 100-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
     "a": "7.96 Volts",
-    "b": "7.96 Volts (approximated)",
+    "b": "7.96 Volts",
     "c": "15.92 Volts",
     "d": "3.98 Volts",
     "ans": "a"
@@ -1642,7 +1642,7 @@
   {
     "q": "A passive low-pass filter consists of R = 2.2k Ohms and C = 2.2 nF. Calculate its cut-off frequency.",
     "a": "32.89 kHz",
-    "b": "32.89 kHz (approximated)",
+    "b": "32.89 kHz",
     "c": "16.44 kHz",
     "d": "65.78 kHz",
     "ans": "a"
@@ -1650,7 +1650,7 @@
   {
     "q": "A Class B power amplifier delivers 12 Watts of AC power to a load of 6 Ohms. Calculate the peak AC output voltage.",
     "a": "12.0 Volts",
-    "b": "12.0 Volts (approximated)",
+    "b": "12.0 Volts",
     "c": "6.0 Volts",
     "d": "24.0 Volts",
     "ans": "a"
@@ -1666,7 +1666,7 @@
   {
     "q": "An N-channel JFET has IDSS = 15 mA and V_P = -3.5 V. Find the value of transconductance g_m when V_GS is set to -1.5 V.",
     "a": "4.9 mS",
-    "b": "4.9 mS (approximated)",
+    "b": "4.9 mS",
     "c": "2.45 mS",
     "d": "9.8 mS",
     "ans": "a"
@@ -1674,7 +1674,7 @@
   {
     "q": "A common-emitter BJT amplifier has a collector resistance R_C = 2.7k Ohms, load resistance R_L = 8.2k Ohms, and r_e = 15 Ohms. Calculate the AC voltage gain (A_v) of the amplifier.",
     "a": "135",
-    "b": "135 (approximated)",
+    "b": "135",
     "c": "67",
     "d": "270",
     "ans": "a"
@@ -1690,7 +1690,7 @@
   {
     "q": "An active low-pass Butterworth filter is designed for a cut-off frequency of 5 kHz. If the resistor in the RC network is 4.7k Ohms, calculate the required capacitor value.",
     "a": "9.7 nF",
-    "b": "9.7 nF (approximated)",
+    "b": "9.7 nF",
     "c": "4.8 nF",
     "d": "15.9 nF",
     "ans": "a"
@@ -1698,7 +1698,7 @@
   {
     "q": "A certain negative feedback amplifier has an open-loop gain A = 200. If 2 percent negative feedback is applied, calculate the closed-loop gain.",
     "a": "40.0",
-    "b": "40.0 (approximated)",
+    "b": "40.0",
     "c": "20.0",
     "d": "10.0",
     "ans": "a"
@@ -1706,7 +1706,7 @@
   {
     "q": "A Colpitts oscillator has tank parameters: L = 10 uH, C1 = 2 nF, C2 = 2 nF. Calculate the frequency of oscillation.",
     "a": "1.0 MHz",
-    "b": "1.0 MHz (approximated)",
+    "b": "1.0 MHz",
     "c": "2.0 MHz",
     "d": "500 kHz",
     "ans": "a"
@@ -1722,7 +1722,7 @@
   {
     "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "726 kHz",
-    "b": "726 kHz (approximated)",
+    "b": "726 kHz",
     "c": "1.45 MHz",
     "d": "363 kHz",
     "ans": "a"
@@ -1730,7 +1730,7 @@
   {
     "q": "An RC phase-shift oscillator has feedback resistors R = 22k Ohms and capacitors C = 2.2 nF. Calculate the frequency of oscillation.",
     "a": "2.90 kHz",
-    "b": "2.90 kHz (approximated)",
+    "b": "2.90 kHz",
     "c": "1.45 kHz",
     "d": "5.80 kHz",
     "ans": "a"
@@ -1746,7 +1746,7 @@
   {
     "q": "An inverting summing amplifier has input resistors R1 = 1k Ohm, R2 = 2k Ohms, and feedback resistor R_f = 10k Ohms. If V1 = 0.05V and V2 = 0.1V, find the output voltage.",
     "a": "-1.0 Volt",
-    "b": "-1.0 Volt (approximated)",
+    "b": "-1.0 Volt",
     "c": "-0.5 Volts",
     "d": "-0.25 Volts",
     "ans": "a"
@@ -1762,7 +1762,7 @@
   {
     "q": "An op-amp differentiator has input capacitor C = 10 nF and feedback resistor R = 10k Ohms. If the input is v_in = 5.0 * sin(5000 * t), find the output voltage expression.",
     "a": "-2.5 * cos(5000 * t)",
-    "b": "-2.5 * cos(5000 * t) (approximated)",
+    "b": "-2.5 * cos(5000 * t)",
     "c": "2.5 * cos(5000 * t)",
     "d": "-0.25 * cos(5000 * t)",
     "ans": "a"
@@ -1770,7 +1770,7 @@
   {
     "q": "An op-amp has an open-loop gain of 100,000 and a Common Mode Rejection Ratio of 110 dB. Calculate the common-mode gain.",
     "a": "0.316",
-    "b": "0.316 (approximated)",
+    "b": "0.316",
     "c": "0.158",
     "d": "0.632",
     "ans": "a"
@@ -1778,7 +1778,7 @@
   {
     "q": "An op-amp has a slew rate of 10.0 Volts/microsecond. Find the maximum peak value of a 200-kHz sinusoidal output wave that can be produced without slew-rate distortion.",
     "a": "7.96 Volts",
-    "b": "7.96 Volts (approximated)",
+    "b": "7.96 Volts",
     "c": "15.92 Volts",
     "d": "3.98 Volts",
     "ans": "a"
@@ -1786,7 +1786,7 @@
   {
     "q": "A passive low-pass filter consists of R = 1.0k Ohm and C = 1.0 nF. Calculate its cut-off frequency.",
     "a": "159.15 kHz",
-    "b": "159.15 kHz (approximated)",
+    "b": "159.15 kHz",
     "c": "79.58 kHz",
     "d": "318.30 kHz",
     "ans": "a"
@@ -1794,7 +1794,7 @@
   {
     "q": "A Class B power amplifier delivers 15 Watts of AC power to a load of 6 Ohms. Calculate the peak AC output voltage.",
     "a": "13.42 Volts",
-    "b": "13.42 Volts (approximated)",
+    "b": "13.42 Volts",
     "c": "6.71 Volts",
     "d": "26.84 Volts",
     "ans": "a"
@@ -1818,7 +1818,7 @@
   {
     "q": "A series RLC circuit has L = 10 mH, C = 100 nF, and R = 5 Ohms. Calculate its resonant frequency.",
     "a": "5.03 kHz",
-    "b": "5.03 kHz (approximated)",
+    "b": "5.03 kHz",
     "c": "10.06 kHz",
     "d": "2.51 kHz",
     "ans": "a"
@@ -1826,7 +1826,7 @@
   {
     "q": "Calculate the Q-factor of the resonant circuit described in the previous question (L = 10 mH, C = 100 nF, R = 5 Ohms).",
     "a": "63.2",
-    "b": "63.2 (approximated)",
+    "b": "63.2",
     "c": "31.6",
     "d": "126.4",
     "ans": "a"
@@ -1834,7 +1834,7 @@
   {
     "q": "Using the resonant frequency = 5.03 kHz and Q = 63.2 from the previous questions, calculate the bandwidth of the resonant circuit. (Context from previous question: A series RLC circuit has L = 10 mH, C = 100 nF, and R = 5 Ohms.)",
     "a": "79.6 Hz",
-    "b": "79.6 Hz (approximated)",
+    "b": "79.6 Hz",
     "c": "159.2 Hz",
     "d": "39.8 Hz",
     "ans": "a"
@@ -1842,7 +1842,7 @@
   {
     "q": "An RC high-pass filter has R = 2.2k Ohms and C = 4.7 nF. Calculate its cut-off frequency.",
     "a": "15.39 kHz",
-    "b": "15.39 kHz (approximated)",
+    "b": "15.39 kHz",
     "c": "7.69 kHz",
     "d": "30.78 kHz",
     "ans": "a"
@@ -1850,7 +1850,7 @@
   {
     "q": "Calculate the impedance of a parallel RC filter branch at the cut-off frequency of 15.39 kHz (R = 2.2k Ohms, C = 4.7 nF).",
     "a": "1.56k Ohms",
-    "b": "1.56k Ohms (approximated)",
+    "b": "1.56k Ohms",
     "c": "3.12k Ohms",
     "d": "780 Ohms",
     "ans": "a"
@@ -1898,7 +1898,7 @@
   {
     "q": "A full-wave rectifier filter capacitor has a ripple voltage of 2V RMS. If the average DC output voltage is 12V, calculate the ripple factor.",
     "a": "16.7 percent",
-    "b": "16.7 percent (approximated)",
+    "b": "16.7 percent",
     "c": "8.3 percent",
     "d": "33.3 percent",
     "ans": "a"
@@ -1906,7 +1906,7 @@
   {
     "q": "A shunt Zener regulator has V_in = 18 V, R_S = 120 Ohms, and V_Z = 6.8 V. If the minimum Zener current is 10 mA, calculate the maximum load current that can be drawn.",
     "a": "83.3 mA",
-    "b": "83.3 mA (approximated)",
+    "b": "83.3 mA",
     "c": "41.6 mA",
     "d": "166.6 mA",
     "ans": "a"
@@ -1914,7 +1914,7 @@
   {
     "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions. (Context from previous question: A shunt Zener regulator has V_in = 18 V, R_S = 120 Ohms, and V_Z = 6.8 V. If the minimum Zener current is 10 mA, calculate the maximum load current that can be drawn.)",
     "a": "635 mW",
-    "b": "635 mW (approximated)",
+    "b": "635 mW",
     "c": "400 mW",
     "d": "150 mW",
     "ans": "a"
@@ -1962,7 +1962,7 @@
   {
     "q": "A common-emitter stage has a collector resistor R_C = 3.3k Ohms and load R_L = 8.2k Ohms. If the dynamic resistance r_e is 15 Ohms, calculate the voltage gain without load connection.",
     "a": "220",
-    "b": "220 (approximated)",
+    "b": "220",
     "c": "110",
     "d": "440",
     "ans": "a"
@@ -2002,7 +2002,7 @@
   {
     "q": "A JFET self-bias circuit operates with R_S = 1k Ohm. If the measured gate-source voltage V_GS is -2.5 Volts, calculate the drain current I_D.",
     "a": "2.5 mA",
-    "b": "2.5 mA (approximated)",
+    "b": "2.5 mA",
     "c": "1.25 mA",
     "d": "5.0 mA",
     "ans": "a"

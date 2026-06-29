@@ -442,7 +442,7 @@
   {
     "q": "What occurs to the thermal noise voltage of a resistor if its physical resistance value is halved, while keeping all other parameters constant?",
     "a": "It remains the same",
-    "b": "It is reduced to 70.7% of its original value (by a factor of sqrt(0.5))",
+    "b": "It is reduced to 70.7% of its original value",
     "c": "It is halved",
     "d": "It is doubled",
     "ans": "b"

@@ -618,7 +618,7 @@
   {
     "q": "What index of refraction represents a typical air medium?",
     "a": "1.50",
-    "b": "1.00 (approximately 1.0003)",
+    "b": "1.00",
     "c": "1.33",
     "d": "0.00",
     "ans": "b"

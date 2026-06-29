@@ -554,7 +554,7 @@
   {
     "q": "What is the most practical sky wave frequency selected to be slightly below the MUF to ensure reliable communications despite ionospheric variations?",
     "a": "Critical frequency",
-    "b": "Optimum Working Frequency (OWF or FOT)",
+    "b": "Optimum Working Frequency",
     "c": "Maximum usable frequency",
     "d": "Free-running frequency",
     "ans": "b"

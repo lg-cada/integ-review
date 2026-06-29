@@ -66,7 +66,7 @@
   {
     "q": "What is the typical value of the armature resistance in a standard, medium-power DC motor?",
     "a": "Very high, around 100 to 500 Ohms",
-    "b": "Very low, typically below 1 Ohm (e.g. 0.5 Ohm)",
+    "b": "Very low, typically below 1 Ohm",
     "c": "Exactly equal to the field winding resistance",
     "d": "Completely infinite",
     "ans": "b"

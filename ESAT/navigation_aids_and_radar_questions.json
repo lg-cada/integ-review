@@ -338,7 +338,7 @@
   {
     "q": "What GMDSS device is designed to float free from a sinking vessel and automatically transmit a distress alert containing coordinates to search-and-rescue satellites?",
     "a": "SART",
-    "b": "EPIRB (Emergency Position Indicating Radio Beacon)",
+    "b": "EPIRB",
     "c": "NAVTEX receiver",
     "d": "VHF DSC radio",
     "ans": "b"
@@ -1138,7 +1138,7 @@
   {
     "q": "Calculate the maximum range (R_max) of a radar if the peak power is increased by 81 times while keeping all other parameters constant.",
     "a": "The range increases by 81 times",
-    "b": "The range triples (increases by 3 times, since 81^(1/4) = 3)",
+    "b": "The range triples",
     "c": "The range increases by 9 times",
     "d": "The range remains the same",
     "ans": "b"
@@ -1522,7 +1522,7 @@
   {
     "q": "Calculate the maximum range (R_max) of a radar if the peak power is increased by 256 times while keeping all other parameters constant.",
     "a": "The range increases by 256 times",
-    "b": "The range quadruples (increases by 4 times, since 256^(1/4) = 4)",
+    "b": "The range quadruples",
     "c": "The range increases by 16 times",
     "d": "The range remains the same",
     "ans": "b"

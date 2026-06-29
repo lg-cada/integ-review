@@ -242,7 +242,7 @@
   {
     "q": "What is the primary function of an isolator in a microwave transmitter link?",
     "a": "To split the signal power equally between two antennas",
-    "b": "To protect the microwave source (such as a magnetron or solid-state oscillator) from damage caused by reflected power",
+    "b": "To protect the microwave source from damage caused by reflected power",
     "c": "To downconvert the high-frequency microwave signal",
     "d": "To modulate the baseband voice carrier",
     "ans": "b"
@@ -986,7 +986,7 @@
   {
     "q": "Using the Vigants-Barnett model, calculate the deep-fade probability (P_fade) for a microwave link operating over a 40 km path at 8 GHz, assuming a standard climate-terrain factor c = 1.0. Use P_fade = c * (f / 4) * d^3 * 10^-5.",
     "a": "0.0128",
-    "b": "1.2800 (which is 100% outage, indicating high-fade terrain or calculation ratio: 1.0 * (8 / 4) * 64000 * 10^-5 = 1.28)",
+    "b": "1.2800",
     "c": "1.28",
     "d": "0.128",
     "ans": "c"

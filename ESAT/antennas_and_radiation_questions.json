@@ -482,7 +482,7 @@
   {
     "q": "What is the polarization of a helical antenna operating in its normal (broadside) mode?",
     "a": "Circular",
-    "b": "Linear (vertical or horizontal depending on mounting)",
+    "b": "Linear",
     "c": "Elliptical",
     "d": "None",
     "ans": "b"
@@ -889,10 +889,10 @@
   },
   {
     "q": "A helical antenna operating in axial mode has 12 turns, a turn spacing of 0.24 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
-    "a": "43.2 (which is 16.35 dBi)",
-    "b": "12.5 (which is 10.97 dBi)",
-    "c": "86.4 (which is 19.37 dBi)",
-    "d": "21.6 (which is 13.34 dBi)",
+    "a": "43.2",
+    "b": "12.5",
+    "c": "86.4",
+    "d": "21.6",
     "ans": "a"
   },
   {
@@ -1249,10 +1249,10 @@
   },
   {
     "q": "A helical antenna operating in axial mode has 15 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.1 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
-    "a": "68.06 (which is 18.33 dBi)",
-    "b": "34.03 (which is 15.33 dBi)",
-    "c": "136.12 (which is 21.33 dBi)",
-    "d": "27.22 (which is 14.35 dBi)",
+    "a": "68.06",
+    "b": "34.03",
+    "c": "136.12",
+    "d": "27.22",
     "ans": "a"
   },
   {
@@ -1337,10 +1337,10 @@
   },
   {
     "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 2 meters, frequency = 15 GHz, wavelength = 2 cm) using the formula G = 6 * (D / lambda)^2.",
-    "a": "60,000 (which is 47.78 dBi)",
-    "b": "30,000 (which is 44.77 dBi)",
-    "c": "120,000 (which is 50.79 dBi)",
-    "d": "15,000 (which is 41.76 dBi)",
+    "a": "60,000",
+    "b": "30,000",
+    "c": "120,000",
+    "d": "15,000",
     "ans": "a"
   },
   {
@@ -1569,10 +1569,10 @@
   },
   {
     "q": "A helical antenna operating in axial mode has 20 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.0 wavelength. Calculate the absolute power gain using the formula G = 15 * N * S * C^2 / lambda^3.",
-    "a": "75.0 (which is 18.75 dBi)",
-    "b": "37.5 (which is 15.74 dBi)",
-    "c": "150.0 (which is 21.76 dBi)",
-    "d": "30.0 (which is 14.77 dBi)",
+    "a": "75.0",
+    "b": "37.5",
+    "c": "150.0",
+    "d": "30.0",
     "ans": "a"
   },
   {
@@ -1657,10 +1657,10 @@
   },
   {
     "q": "Calculate the approximate gain of the parabolic dish antenna described in the previous question (diameter = 4.5 meters, frequency = 6 GHz, wavelength = 5 cm) using the formula G = 6 * (D / lambda)^2.",
-    "a": "48,600 (which is 46.87 dBi)",
-    "b": "24,300 (which is 43.86 dBi)",
-    "c": "97,200 (which is 49.88 dBi)",
-    "d": "12,150 (which is 40.85 dBi)",
+    "a": "48,600",
+    "b": "24,300",
+    "c": "97,200",
+    "d": "12,150",
     "ans": "a"
   },
   {

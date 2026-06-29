@@ -586,7 +586,7 @@
   {
     "q": "In satellite communications, what does 'dual polarization' (frequency reuse) refer to?",
     "a": "Transmitting on both C-band and Ku-band simultaneously",
-    "b": "Using orthogonal polarizations (e.g., horizontal/vertical or LHCP/RHCP) to transmit two separate signals on the same frequency",
+    "b": "Using orthogonal polarizations to transmit two separate signals on the same frequency",
     "c": "Using space diversity at the Earth station",
     "d": "Demodulating the signal using both AM and FM detectors",
     "ans": "b"
@@ -626,7 +626,7 @@
   {
     "q": "The orbital slot position of a geostationary satellite is specified in terms of _____.",
     "a": "Latitude coordinates",
-    "b": "Degrees of Longitude (East or West)",
+    "b": "Degrees of Longitude",
     "c": "Altitude in nautical miles",
     "d": "Right ascension angles",
     "ans": "b"

@@ -600,7 +600,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the EIRP of 72 dBm from the previous question into Watts.",
+    "q": "Convert the EIRP of 72 dBm from the previous question into Watts. (Context from previous question: A microwave transmitter has a power output of 5 Watts (which is 37 dBm) and operates at 6 GHz. If it is connected to a parabolic dish antenna with a gain of 35 dBi, calculate the Effective Isotropic Radiated Power (EIRP) in dBm.)",
     "a": "1.58 kW",
     "b": "15.85 kW",
     "c": "158.50 kW",
@@ -624,7 +624,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the RSL of -34.52 dBm from the previous question into Watts.",
+    "q": "Convert the RSL of -34.52 dBm from the previous question into Watts. (Context from previous question: For the microwave link in the previous question (EIRP = 70 dBm, operating frequency = 8 GHz), the path distance is 40 km (FSPL = 142.52 dB). If the receiving dish gain is 40 dBi and the receiving feedline loss is 2 dB, calculate the Received Signal Level (RSL) at the receiver input.)",
     "a": "3.53 x 10^-6 Watts",
     "b": "3.53 x 10^-7 Watts",
     "c": "3.53 x 10^-5 Watts",
@@ -856,7 +856,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 73 dBm, FSPL = 142.79 dB), the receiving dish gain is 45 dBi and the receiving feedline loss is 3 dB. For the microwave link in the previous question (EIRP = 73 dBm, operating frequency = 11 GHz), the path distance is 30 km.)",
     "a": "45.21 dB",
     "b": "47.21 dB",
     "c": "49.21 dB",
@@ -1200,7 +1200,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -80 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -80 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 74 dBm, FSPL = 145.28 dB), the receiving dish gain is 40 dBi and the receiving feedline loss is 2 dB. For the microwave link in the previous question (EIRP = 74 dBm, operating frequency = 11 GHz), the path distance is 40 km.)",
     "a": "44.72 dB",
     "b": "46.72 dB",
     "c": "48.72 dB",
@@ -1368,7 +1368,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the EIRP of 78 dBm from the previous question into Watts.",
+    "q": "Convert the EIRP of 78 dBm from the previous question into Watts. (Context from previous question: A microwave transmitter has a power output of 10 Watts (which is 40 dBm) and operates at 8 GHz. If it is connected to a parabolic dish antenna with a gain of 38 dBi, calculate the EIRP in dBm.)",
     "a": "6.31 kW",
     "b": "63.10 kW",
     "c": "631.00 kW",
@@ -1400,7 +1400,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 75 dBm, FSPL = 145.50 dB), the receiving dish gain is 42 dBi and the receiving feedline loss is 3 dB. For the microwave link in the previous question (EIRP = 75 dBm, operating frequency = 15 GHz), the path distance is 30 km.)",
     "a": "43.50 dB",
     "b": "45.50 dB",
     "c": "47.50 dB",
@@ -1568,7 +1568,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the EIRP of 72 dBm from the previous question into Watts.",
+    "q": "Convert the EIRP of 72 dBm from the previous question into Watts. (Context from previous question: A microwave transmitter has a power output of 5 Watts (which is 37 dBm) and operates at 10 GHz. If it is connected to a parabolic dish antenna with a gain of 35 dBi, calculate the EIRP in dBm.)",
     "a": "1.58 kW",
     "b": "15.85 kW",
     "c": "158.50 kW",
@@ -1600,7 +1600,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -80 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -80 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 70 dBm, FSPL = 145.50 dB), the receiving dish gain is 40 dBi and the receiving feedline loss is 2 dB. For the microwave link in the previous question (EIRP = 70 dBm, operating frequency = 15 GHz), the path distance is 30 km.)",
     "a": "40.50 dB",
     "b": "42.50 dB",
     "c": "44.50 dB",
@@ -1792,7 +1792,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 77 dBm, FSPL = 148.02 dB), the receiving dish gain is 40 dBi and the receiving feedline loss is 2 dB. For the microwave link in the previous question (EIRP = 77 dBm, operating frequency = 15 GHz), the path distance is 40 km.)",
     "a": "39.98 dB",
     "b": "41.98 dB",
     "c": "43.98 dB",
@@ -1984,7 +1984,7 @@
     "ans": "b"
   },
   {
-    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link.",
+    "q": "If the receiver in the previous questions has a threshold sensitivity of -75 dBm, calculate the Fade Margin of this microwave link. (Context from previous question: For the system described in the previous questions (EIRP = 73 dBm, FSPL = 143.56 dB), the receiving dish gain is 40 dBi and the receiving feedline loss is 3 dB. For the microwave link in the previous question (EIRP = 73 dBm, operating frequency = 12 GHz), the path distance is 30 km.)",
     "a": "41.44 dB",
     "b": "43.44 dB",
     "c": "45.44 dB",

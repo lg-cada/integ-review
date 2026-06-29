@@ -648,7 +648,7 @@
     "ans": "b"
   },
   {
-    "q": "If the armature winding of the DC generator in the previous question is reconfigured to a lap winding (where the number of parallel paths A equals the number of poles P), calculate the new generated EMF.",
+    "q": "If the armature winding of the DC generator in the previous question is reconfigured to a lap winding (where the number of parallel paths A equals the number of poles P), calculate the new generated EMF. (Context from previous question: A 4-pole DC generator has a wave-wound armature containing 400 conductors. If the generator rotates at 1200 RPM and the magnetic flux per pole is 0.02 Webers, calculate the generated EMF.)",
     "a": "320 Volts",
     "b": "160 Volts",
     "c": "80 Volts",
@@ -672,7 +672,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the armature current of 52 Amperes and armature resistance of 0.1 Ohms from the previous questions, calculate the induced EMF (E_g) of the generator.",
+    "q": "Using the armature current of 52 Amperes and armature resistance of 0.1 Ohms from the previous questions, calculate the induced EMF (E_g) of the generator. (Context from previous question: Using the data from the previous question (load current = 50 A, field current = 2 A), calculate the total armature current of the generator. A DC shunt generator has an armature resistance of 0.1 Ohms and field resistance of 100 Ohms. If the generator delivers 50 Amperes of terminal current to a load at a terminal voltage of 200 Volts, calculate the shunt field current.)",
     "a": "200.0 Volts",
     "b": "205.2 Volts",
     "c": "194.8 Volts",
@@ -704,7 +704,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the armature current of 38 Amperes and armature resistance of 0.25 Ohms from the previous questions, calculate the back EMF (E_b) of the motor under full load.",
+    "q": "Using the armature current of 38 Amperes and armature resistance of 0.25 Ohms from the previous questions, calculate the back EMF (E_b) of the motor under full load. (Context from previous question: For the same DC shunt motor (line current = 40 A, field current = 2 A), calculate the full-load armature current.)",
     "a": "220.0 Volts",
     "b": "210.5 Volts",
     "c": "229.5 Volts",
@@ -728,7 +728,7 @@
     "ans": "b"
   },
   {
-    "q": "If the actual rotor speed of the induction motor described in the previous question is 1710 RPM under load, calculate the slip of the motor.",
+    "q": "If the actual rotor speed of the induction motor described in the previous question is 1710 RPM under load, calculate the slip of the motor. (Context from previous question: A 4-pole three-phase induction motor is connected to a 60-Hz supply line.)",
     "a": "2.5 percent",
     "b": "5.0 percent",
     "c": "10.0 percent",
@@ -848,7 +848,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total power loss of 250 Watts from the previous question, calculate the efficiency of the transformer at full load operating at unity power factor.",
+    "q": "Using the total power loss of 250 Watts from the previous question, calculate the efficiency of the transformer at full load operating at unity power factor. (Context from previous question: A 5-kVA transformer has core (iron) losses of 100 Watts and full-load copper losses of 150 Watts.)",
     "a": "98.0 percent",
     "b": "95.2 percent",
     "c": "92.4 percent",
@@ -952,7 +952,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the short-circuit current capacity of the 36-cell series solar panel described in the previous question?",
+    "q": "What is the short-circuit current capacity of the 36-cell series solar panel described in the previous question? (Context from previous question: A solar panel consists of 36 identical series-connected silicon solar cells. If each cell outputs a short-circuit current of 150 mA and open-circuit voltage of 0.55 Volts, calculate the open-circuit voltage of the panel.)",
     "a": "5.40 Amperes",
     "b": "0.15 Amperes",
     "c": "2.70 Amperes",
@@ -984,7 +984,7 @@
     "ans": "b"
   },
   {
-    "q": "If the fuel cell described in the previous question consumes 0.01 moles of hydrogen per second to deliver 40 Watts, and the theoretical energy available from 0.01 moles is 240 Watts, calculate the conversion efficiency.",
+    "q": "If the fuel cell described in the previous question consumes 0.01 moles of hydrogen per second to deliver 40 Watts, and the theoretical energy available from 0.01 moles is 240 Watts, calculate the conversion efficiency. (Context from previous question: A hydrogen-oxygen fuel cell operates at a terminal voltage of 0.8 Volts and delivers a current of 50 Amperes to a load.)",
     "a": "33.3 percent",
     "b": "16.7 percent",
     "c": "8.3 percent",
@@ -1088,7 +1088,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total power loss of 500 Watts from the previous question, calculate the full-load efficiency of the 20-kVA transformer at unity power factor.",
+    "q": "Using the total power loss of 500 Watts from the previous question, calculate the full-load efficiency of the 20-kVA transformer at unity power factor. (Context from previous question: A 20-kVA transformer has a core loss of 200 Watts and a full-load copper loss of 300 Watts.)",
     "a": "98.5 percent",
     "b": "97.6 percent",
     "c": "95.2 percent",
@@ -1192,7 +1192,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the short-circuit current capacity of the 40-cell series solar panel described in the previous question?",
+    "q": "What is the short-circuit current capacity of the 40-cell series solar panel described in the previous question? (Context from previous question: A solar panel consists of 40 series-connected cells. If each cell has a short-circuit current of 200 mA and open-circuit voltage of 0.50 Volts, calculate the open-circuit voltage of the panel.)",
     "a": "8.00 Amperes",
     "b": "0.20 Amperes",
     "c": "4.00 Amperes",
@@ -1224,7 +1224,7 @@
     "ans": "b"
   },
   {
-    "q": "If the fuel cell described in the previous question consumes 0.02 moles of hydrogen per second to deliver 60 Watts, and the theoretical energy available from 0.02 moles is 360 Watts, calculate the conversion efficiency.",
+    "q": "If the fuel cell described in the previous question consumes 0.02 moles of hydrogen per second to deliver 60 Watts, and the theoretical energy available from 0.02 moles is 360 Watts, calculate the conversion efficiency. (Context from previous question: A fuel cell operates at a terminal voltage of 0.75 Volts and delivers 80 Amperes to a load.)",
     "a": "33.3 percent",
     "b": "16.7 percent",
     "c": "8.3 percent",
@@ -1328,7 +1328,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total power loss of 400 Watts from the previous question, calculate the full-load efficiency of the 10-kVA transformer at unity power factor.",
+    "q": "Using the total power loss of 400 Watts from the previous question, calculate the full-load efficiency of the 10-kVA transformer at unity power factor. (Context from previous question: A 10-kVA transformer has a core loss of 150 Watts and a full-load copper loss of 250 Watts.)",
     "a": "98.0 percent",
     "b": "96.15 percent",
     "c": "94.28 percent",
@@ -1432,7 +1432,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the short-circuit current capacity of the 30-cell series solar panel described in the previous question?",
+    "q": "What is the short-circuit current capacity of the 30-cell series solar panel described in the previous question? (Context from previous question: A solar panel consists of 30 series-connected cells. If each cell has a short-circuit current of 250 mA and open-circuit voltage of 0.60 Volts, calculate the open-circuit voltage of the panel.)",
     "a": "7.50 Amperes",
     "b": "0.25 Amperes",
     "c": "3.75 Amperes",

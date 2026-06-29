@@ -1,0 +1,2258 @@
+[
+  {
+    "q": "What is the fundamental theorem of calculus part 1 often used to describe?",
+    "a": "The relationship between differentiation and integration as inverse processes",
+    "b": "The method of calculating arc length of any curve",
+    "c": "The approximation of areas using trapezoids",
+    "d": "The convergence of infinite power series",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the integration by parts formula derived from the product rule of differentiation?",
+    "a": "Integral of u dv = uv - Integral of v du",
+    "b": "Integral of u dv = uv + Integral of v du",
+    "c": "Integral of u dv = u'v - v'u",
+    "d": "Integral of u dv = (u/v) - Integral of v/u du",
+    "ans": "a"
+  },
+  {
+    "q": "What does the constant of integration 'C' physically represent in an indefinite integral?",
+    "a": "An arbitrary vertical shift of the antiderivative curve family",
+    "b": "An arbitrary horizontal shift of the antiderivative curve family",
+    "c": "The exact slope of the tangent line at the boundary",
+    "d": "The scale factor of the horizontal coordinate axis",
+    "ans": "a"
+  },
+  {
+    "q": "Under what condition is a definite integral from a to b of f(x) dx guaranteed to exist?",
+    "a": "The function f(x) is continuous on the closed interval [a, b]",
+    "b": "The function f(x) has at least one local maximum on [a, b]",
+    "c": "The function f(x) is strictly positive on the open interval (a, b)",
+    "d": "The boundary values a and b are both positive integers",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of (3x^2 - 4x + 5) dx.",
+    "a": "x^3 - 2x^2 + 5x + C",
+    "b": "3x^3 - 4x^2 + 5x + C",
+    "c": "x^3 - 4x^2 + 5x + C",
+    "d": "6x - 4 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 1 to 3 of (4x^3) dx.",
+    "a": "80",
+    "b": "40",
+    "c": "26",
+    "d": "104",
+    "ans": "a"
+  },
+  {
+    "q": "Using substitution, find the indefinite integral of: x * e^(x^2) dx.",
+    "a": "0.5 * e^(x^2) + C",
+    "b": "e^(x^2) + C",
+    "c": "2 * e^(x^2) + C",
+    "d": "x^2 * e^(x^2) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: sin(3x) dx.",
+    "a": "-1/3 * cos(3x) + C",
+    "b": "1/3 * cos(3x) + C",
+    "c": "-cos(3x) + C",
+    "d": "-3 * cos(3x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 1 / (x * ln(x)) dx?",
+    "a": "ln(ln(x)) + C",
+    "b": "ln(x) + C",
+    "c": "1 / ln(x) + C",
+    "d": "ln(x^2) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Using integration by parts, evaluate: Integral of x * ln(x) dx.",
+    "a": "0.5 * x^2 * ln(x) - 0.25 * x^2 + C",
+    "b": "0.5 * x^2 * ln(x) - 0.5 * x^2 + C",
+    "c": "x^2 * ln(x) - x^2 + C",
+    "d": "0.5 * x^2 * ln(x) + 0.25 * x^2 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Which basic integration formula corresponds to the indefinite integral of: 1 / (a^2 + x^2) dx?",
+    "a": "(1/a) * arctan(x/a) + C",
+    "b": "arctan(x/a) + C",
+    "c": "(1/a) * arcsin(x/a) + C",
+    "d": "arcsin(x/a) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Which basic integration formula corresponds to the indefinite integral of: 1 / sqrt(a^2 - x^2) dx?",
+    "a": "arcsin(x/a) + C",
+    "b": "(1/a) * arcsin(x/a) + C",
+    "c": "arccos(x/a) + C",
+    "d": "(1/a) * arctan(x/a) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: tan(x) dx.",
+    "a": "ln(sec(x)) + C",
+    "b": "-ln(sec(x)) + C",
+    "c": "ln(sin(x)) + C",
+    "d": "sec^2(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: sec(x) dx.",
+    "a": "ln(sec(x) + tan(x)) + C",
+    "b": "ln(sec(x) - tan(x)) + C",
+    "c": "sec(x)tan(x) + C",
+    "d": "ln(tan(x)) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral of: e^x * cos(x) dx.",
+    "a": "0.5 * e^x * (cos(x) + sin(x)) + C",
+    "b": "0.5 * e^x * (cos(x) - sin(x)) + C",
+    "c": "e^x * (cos(x) + sin(x)) + C",
+    "d": "2 * e^x * (cos(x) + sin(x)) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/2 of sin^2(x) dx.",
+    "a": "pi/4",
+    "b": "pi/2",
+    "c": "pi/8",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to 1 of 1 / (1 + x^2) dx.",
+    "a": "pi/4",
+    "b": "pi/2",
+    "c": "pi/3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 1 / (x^2 - a^2) dx?",
+    "a": "(1 / (2a)) * ln|(x-a)/(x+a)| + C",
+    "b": "(1 / a) * ln|(x-a)/(x+a)| + C",
+    "c": "(1 / (2a)) * ln|(x+a)/(x-a)| + C",
+    "d": "(1 / (2a)) * arctan(x/a) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to 4 of x / sqrt(x^2 + 9) dx.",
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "What integration technique is best suited for evaluating: Integral of x^2 * sin(x) dx?",
+    "a": "Integration by parts",
+    "b": "Trigonometric substitution",
+    "c": "Partial fraction decomposition",
+    "d": "Algebraic substitution",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of csc^2(5x) dx.",
+    "a": "-1/5 * cot(5x) + C",
+    "b": "1/5 * cot(5x) + C",
+    "c": "-cot(5x) + C",
+    "d": "-5 * cot(5x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to ln(2) of e^(3x) dx.",
+    "a": "7/3",
+    "b": "8/3",
+    "c": "2",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral: Integral of cos^3(x) dx.",
+    "a": "sin(x) - 1/3 * sin^3(x) + C",
+    "b": "sin(x) + 1/3 * sin^3(x) + C",
+    "c": "cos^2(x) + C",
+    "d": "1/3 * cos^4(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 1 to e of ln(x)/x dx.",
+    "a": "1/2",
+    "b": "1",
+    "c": "e/2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral: Integral of (x^2 + 2x) / (x + 1) dx.",
+    "a": "0.5 * x^2 + x - ln|x+1| + C",
+    "b": "0.5 * x^2 + x + ln|x+1| + C",
+    "c": "x^2 + 2x - ln|x+1| + C",
+    "d": "0.5 * x^2 + x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to 1 of x * (1 - x)^5 dx.",
+    "a": "1/42",
+    "b": "1/35",
+    "c": "1/30",
+    "d": "1/20",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 1 / (x * sqrt(x^2 - 1)) dx?",
+    "a": "arcsec(x) + C",
+    "b": "arcsin(x) + C",
+    "c": "arctan(x) + C",
+    "d": "ln|x + sqrt(x^2-1)| + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of cos(2x) * sin(2x) dx.",
+    "a": "1/4 * sin^2(2x) + C",
+    "b": "1/2 * sin^2(2x) + C",
+    "c": "1/4 * cos^2(2x) + C",
+    "d": "-1/4 * cos(4x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 0 to pi/4 of sec^2(x) dx.",
+    "a": "1",
+    "b": "0",
+    "c": "sqrt(2)",
+    "d": "pi/4",
+    "ans": "a"
+  },
+  {
+    "q": "What integration method is ideal for evaluating: Integral of (3x + 5) / (x^2 + x - 6) dx?",
+    "a": "Partial fractions",
+    "b": "Integration by parts",
+    "c": "Trigonometric substitution",
+    "d": "Weierstrass substitution",
+    "ans": "a"
+  },
+  {
+    "q": "How is the area bounded under the curve y = f(x) and the x-axis from x = a to x = b defined mathematically?",
+    "a": "The definite integral of f(x) from a to b, assuming f(x) >= 0",
+    "b": "The derivative of f(x) evaluated at b minus a",
+    "c": "The average value of f(x) multiplied by (b - a)",
+    "d": "The limit of the function as x approaches the midpoint of [a, b]",
+    "ans": "a"
+  },
+  {
+    "q": "If we want to find the area bounded by the curve x = g(y), the y-axis, and the horizontal lines y = c and y = d, what integral should be set up?",
+    "a": "Integral from c to d of g(y) dy",
+    "b": "Integral from c to d of g'(y) dy",
+    "c": "Integral from g(c) to g(d) of y dy",
+    "d": "Integral from c to d of pi * g(y)^2 dy",
+    "ans": "a"
+  },
+  {
+    "q": "To calculate the area bounded between two intersecting curves y = f(x) and y = g(x) where f(x) >= g(x) on [a, b], which integral is used?",
+    "a": "Integral from a to b of [f(x) - g(x)] dx",
+    "b": "Integral from a to b of [f(x) + g(x)] dx",
+    "c": "Integral from a to b of [f(x)^2 - g(x)^2] dx",
+    "d": "Integral from a to b of |f(x) * g(x)| dx",
+    "ans": "a"
+  },
+  {
+    "q": "What is the formula for finding the polar area bounded by a curve r = f(theta) between theta = alpha and theta = beta?",
+    "a": "0.5 * Integral from alpha to beta of r^2 d(theta)",
+    "b": "Integral from alpha to beta of r d(theta)",
+    "c": "Integral from alpha to beta of r^2 d(theta)",
+    "d": "pi * Integral from alpha to beta of r^2 d(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the parabola y = x^2, the x-axis, and the lines x = 1 and x = 3.",
+    "a": "26/3",
+    "b": "28/3",
+    "c": "8",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = 4 - x^2 and the x-axis.",
+    "a": "32/3",
+    "b": "16/3",
+    "c": "8",
+    "d": "24/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curves y = x^2 and y = x.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "1/12",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area bounded by the curve y = sin(x) and the x-axis from x = 0 to x = pi.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area bounded by the curve y = cos(x) and the x-axis from x = 0 to x = pi.",
+    "a": "2",
+    "b": "0",
+    "c": "1",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = e^x, the x-axis, the y-axis, and the line x = 2.",
+    "a": "e^2 - 1",
+    "b": "e^2",
+    "c": "e^2 + 1",
+    "d": "2e",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the parabola y^2 = 4x and its latus rectum (x = 1).",
+    "a": "8/3",
+    "b": "4/3",
+    "c": "16/3",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = 1/x, the x-axis, and the vertical lines x = 1 and x = e.",
+    "a": "1",
+    "b": "e - 1",
+    "c": "ln(e - 1)",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by the curves y = x^2 - 4x and y = 0.",
+    "a": "32/3",
+    "b": "16/3",
+    "c": "8",
+    "d": "24/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the intersecting parabolas y = x^2 and y^2 = x.",
+    "a": "1/3",
+    "b": "2/3",
+    "c": "1/6",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area of one loop of the polar rose curve r = cos(2*theta).",
+    "a": "pi/8",
+    "b": "pi/4",
+    "c": "pi/2",
+    "d": "pi/16",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area inside the cardioid r = 2 * (1 + cos(theta)).",
+    "a": "6 * pi",
+    "b": "3 * pi",
+    "c": "4 * pi",
+    "d": "2 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the area bounded by the ellipse x^2 / 9 + y^2 / 4 = 1.",
+    "a": "6 * pi",
+    "b": "12 * pi",
+    "c": "5 * pi",
+    "d": "13 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by y = x^3, the x-axis, x = -1, and x = 2.",
+    "a": "17/4",
+    "b": "15/4",
+    "c": "4",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curves y = x^2 - 1 and y = 1 - x^2.",
+    "a": "8/3",
+    "b": "4/3",
+    "c": "16/3",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area of the region bounded by y = arctan(x), the x-axis, and x = 1.",
+    "a": "pi/4 - 0.5 * ln(2)",
+    "b": "pi/4 + 0.5 * ln(2)",
+    "c": "pi/4 - ln(2)",
+    "d": "pi/2 - 1",
+    "ans": "a"
+  },
+  {
+    "q": "What is the disk method formula for finding the volume of revolution of y = f(x) about the x-axis from x = a to x = b?",
+    "a": "Integral from a to b of pi * f(x)^2 dx",
+    "b": "Integral from a to b of 2 * pi * x * f(x) dx",
+    "c": "Integral from a to b of pi * f(x) dx",
+    "d": "Integral from a to b of 2 * pi * f(x)^2 dx",
+    "ans": "a"
+  },
+  {
+    "q": "What is the washer method formula for the volume of revolution bounded by curves y_outer = f(x) and y_inner = g(x) about the x-axis?",
+    "a": "Integral from a to b of pi * [f(x)^2 - g(x)^2] dx",
+    "b": "Integral from a to b of pi * [f(x) - g(x)]^2 dx",
+    "c": "Integral from a to b of 2 * pi * x * [f(x) - g(x)] dx",
+    "d": "Integral from a to b of pi * [g(x)^2 - f(x)^2] dx",
+    "ans": "a"
+  },
+  {
+    "q": "What is the cylindrical shells method formula for revolving y = f(x) about the y-axis from x = a to x = b?",
+    "a": "Integral from a to b of 2 * pi * x * f(x) dx",
+    "b": "Integral from a to b of pi * f(x)^2 dx",
+    "c": "Integral from a to b of 2 * pi * f(x)^2 dx",
+    "d": "Integral from a to b of 2 * pi * x^2 * f(x) dx",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following represents the formula for the arc length S of a curve y = f(x) from x = a to x = b?",
+    "a": "Integral from a to b of sqrt(1 + (dy/dx)^2) dx",
+    "b": "Integral from a to b of sqrt(1 - (dy/dx)^2) dx",
+    "c": "Integral from a to b of (1 + (dy/dx)^2) dx",
+    "d": "Integral from a to b of sqrt(1 + dy/dx) dx",
+    "ans": "a"
+  },
+  {
+    "q": "What is the formula for the surface area generated by revolving the arc y = f(x) about the x-axis from x = a to x = b?",
+    "a": "Integral from a to b of 2 * pi * y * sqrt(1 + (dy/dx)^2) dx",
+    "b": "Integral from a to b of 2 * pi * x * sqrt(1 + (dy/dx)^2) dx",
+    "c": "Integral from a to b of pi * y^2 * sqrt(1 + (dy/dx)^2) dx",
+    "d": "Integral from a to b of 2 * pi * y * (1 + (dy/dx)^2) dx",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2, the x-axis, and x = 2 about the x-axis.",
+    "a": "32 * pi / 5",
+    "b": "16 * pi / 5",
+    "c": "8 * pi / 3",
+    "d": "4 * pi / 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = sqrt(x), the x-axis, and x = 4 about the x-axis.",
+    "a": "8 * pi",
+    "b": "16 * pi",
+    "c": "4 * pi",
+    "d": "12 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2 and y = 4 about the y-axis.",
+    "a": "8 * pi",
+    "b": "16 * pi",
+    "c": "4 * pi",
+    "d": "32 * pi / 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = e^x, the x-axis, x = 0, and x = 1 about the x-axis.",
+    "a": "0.5 * pi * (e^2 - 1)",
+    "b": "pi * (e^2 - 1)",
+    "c": "0.5 * pi * e^2",
+    "d": "pi * e^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the circle x^2 + y^2 = r^2 about the x-axis to form a sphere.",
+    "a": "4/3 * pi * r^3",
+    "b": "2/3 * pi * r^3",
+    "c": "pi * r^3",
+    "d": "8/3 * pi * r^3",
+    "ans": "a"
+  },
+  {
+    "q": "Using cylindrical shells, find the volume generated by revolving y = x^2 from x = 0 to x = 2 about the y-axis.",
+    "a": "8 * pi",
+    "b": "16 * pi",
+    "c": "4 * pi",
+    "d": "32 * pi / 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the torus generated by revolving the circle x^2 + (y - 3)^2 = 1 about the x-axis.",
+    "a": "6 * pi^2",
+    "b": "3 * pi^2",
+    "c": "12 * pi^2",
+    "d": "9 * pi^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the area of the first quadrant of the circle x^2 + y^2 = 25 about the line x = 5.",
+    "a": "355.31",
+    "b": "365.44",
+    "c": "368.33",
+    "d": "370.32",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the area bounded by the ellipse 9x^2 + 16y^2 = 144 in the first quadrant about the x-axis.",
+    "a": "16 * pi",
+    "b": "32 * pi",
+    "c": "8 * pi",
+    "d": "24 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the arc length of the line y = 2x from x = 0 to x = 3.",
+    "a": "3 * sqrt(5)",
+    "b": "3 * sqrt(3)",
+    "c": "6",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Find the arc length of the curve y = 2/3 * x^(3/2) from x = 0 to x = 3.",
+    "a": "14/3",
+    "b": "16/3",
+    "c": "4",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the surface area of the sphere formed by revolving the semicircle y = sqrt(4 - x^2) about the x-axis.",
+    "a": "16 * pi",
+    "b": "8 * pi",
+    "c": "32 * pi",
+    "d": "4 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the curve y = cos(x) from x = 0 to x = pi/2 about the x-axis.",
+    "a": "pi^2 / 4",
+    "b": "pi^2 / 2",
+    "c": "pi / 4",
+    "d": "pi^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the curve y = ln(x) from x = 1 to x = e about the y-axis.",
+    "a": "pi * (e^2 + 1) / 2",
+    "b": "pi * (e^2 - 1)",
+    "c": "pi * e^2",
+    "d": "2 * pi * e",
+    "ans": "a"
+  },
+  {
+    "q": "Find the surface area generated by revolving the line segment y = x from x = 0 to x = 1 about the x-axis.",
+    "a": "pi * sqrt(2)",
+    "b": "2 * pi * sqrt(2)",
+    "c": "0.5 * pi * sqrt(2)",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "What does a double integral of f(x, y) over a region R physically represent if f(x, y) is the height above R?",
+    "a": "The volume of the solid under the surface z = f(x, y) and above R",
+    "b": "The total surface area of the region R",
+    "c": "The centroid of the region R",
+    "d": "The average slope of the surface over the region R",
+    "ans": "a"
+  },
+  {
+    "q": "According to Fubini's Theorem, under what main condition can a double integral over a rectangular region be evaluated as an iterated integral in either order?",
+    "a": "The integrand f(x, y) is continuous on the region",
+    "b": "The boundary of the region is a set of straight lines",
+    "c": "The integrand f(x, y) is equal to zero at the origin",
+    "d": "The region is infinitely large",
+    "ans": "a"
+  },
+  {
+    "q": "When converting a double integral from Cartesian coordinates (x, y) to polar coordinates (r, theta), what is the area element dA replaced with?",
+    "a": "r dr d(theta)",
+    "b": "dr d(theta)",
+    "c": "r^2 dr d(theta)",
+    "d": "0.5 * r^2 dr d(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated double integral: Integral from 0 to 2 of Integral from 0 to 3 of (x * y) dy dx.",
+    "a": "9",
+    "b": "18",
+    "c": "6",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral: Integral from 0 to 1 of Integral from 0 to x of (y) dy dx.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "1/4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral: Integral from 0 to pi of Integral from 0 to sin(x) of (1) dy dx.",
+    "a": "2",
+    "b": "1",
+    "c": "pi",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the polar double integral: Integral from 0 to 2*pi of Integral from 0 to R of (r) dr d(theta).",
+    "a": "pi * R^2",
+    "b": "2 * pi * R",
+    "c": "0.5 * pi * R^2",
+    "d": "pi * R",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated triple integral: Integral from 0 to 1 of Integral from 0 to 2 of Integral from 0 to 3 of (1) dz dy dx.",
+    "a": "6",
+    "b": "5",
+    "c": "12",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the triple integral: Integral from 0 to 1 of Integral from 0 to 1 of Integral from 0 to 1 of (x + y + z) dz dy dx.",
+    "a": "1.5",
+    "b": "3.0",
+    "c": "2.0",
+    "d": "0.75",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Jacobian determinant J of the transformation from Cartesian coordinates (x, y) to polar coordinates (r, theta)?",
+    "a": "r",
+    "b": "r^2",
+    "c": "1",
+    "d": "sin(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the volume element dV in cylindrical coordinates (r, theta, z)?",
+    "a": "r dz dr d(theta)",
+    "b": "dz dr d(theta)",
+    "c": "r^2 dz dr d(theta)",
+    "d": "r * sin(theta) dz dr d(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the volume element dV in spherical coordinates (rho, theta, phi)?",
+    "a": "rho^2 * sin(phi) d(rho) d(theta) d(phi)",
+    "b": "rho * sin(phi) d(rho) d(theta) d(phi)",
+    "c": "rho^2 * d(rho) d(theta) d(phi)",
+    "d": "d(rho) d(theta) d(phi)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral: Integral from 0 to 2 of Integral from 0 to sqrt(4 - x^2) of (1) dy dx.",
+    "a": "pi",
+    "b": "2 * pi",
+    "c": "4 * pi",
+    "d": "0.5 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated double integral: Integral from 1 to 2 of Integral from 0 to ln(y) of (e^x) dx dy.",
+    "a": "0.5",
+    "b": "1.0",
+    "c": "1.5",
+    "d": "e - 1",
+    "ans": "a"
+  },
+  {
+    "q": "Using a double integral, find the volume of the solid in the first octant bounded by the coordinate planes and the plane x + y + z = 1.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "1/24",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the triple integral of z over the region bounded by x^2 + y^2 + z^2 <= 1 and z >= 0.",
+    "a": "pi/8",
+    "b": "pi/4",
+    "c": "pi/2",
+    "d": "pi/3",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the value of: Integral from 0 to 1 of Integral from 0 to 1 - x of (x * y) dy dx.",
+    "a": "1/24",
+    "b": "1/12",
+    "c": "1/6",
+    "d": "1/48",
+    "ans": "a"
+  },
+  {
+    "q": "Change the order of integration for: Integral from 0 to 1 of Integral from x to 1 of f(x, y) dy dx.",
+    "a": "Integral from 0 to 1 of Integral from 0 to y of f(x, y) dx dy",
+    "b": "Integral from 0 to 1 of Integral from y to 1 of f(x, y) dx dy",
+    "c": "Integral from 0 to 1 of Integral from 0 to 1 of f(x, y) dx dy",
+    "d": "Integral from x to 1 of Integral from 0 to 1 of f(x, y) dx dy",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated triple integral: Integral from 0 to pi of Integral from 0 to 1 of Integral from 0 to r of (r * z) dz dr d(theta).",
+    "a": "pi / 8",
+    "b": "pi / 4",
+    "c": "pi / 2",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the value of: Integral from 0 to 2*pi of Integral from 0 to pi of Integral from 0 to 1 of (rho^2 * sin(phi)) d(rho) d(phi) d(theta).",
+    "a": "4/3 * pi",
+    "b": "2/3 * pi",
+    "c": "pi",
+    "d": "2 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "How is the x-coordinate of the centroid (x_bar) of a plane area A defined?",
+    "a": "x_bar = (1/A) * Integral of x dA",
+    "b": "x_bar = (1/A) * Integral of y dA",
+    "c": "x_bar = (1/A) * Integral of x^2 dA",
+    "d": "x_bar = Integral of x dA",
+    "ans": "a"
+  },
+  {
+    "q": "How is the y-coordinate of the centroid (y_bar) of a plane area A bounded by y = f(x) and the x-axis from a to b defined?",
+    "a": "y_bar = (1/(2A)) * Integral of [f(x)]^2 dx",
+    "b": "y_bar = (1/A) * Integral of f(x) dx",
+    "c": "y_bar = (1/A) * Integral of x * f(x) dx",
+    "d": "y_bar = (1/(2A)) * Integral of f(x) dx",
+    "ans": "a"
+  },
+  {
+    "q": "What is the physical definition of the moment of inertia (I_y) of a plane area about the y-axis?",
+    "a": "I_y = Integral of x^2 dA",
+    "b": "I_y = Integral of y^2 dA",
+    "c": "I_y = Integral of x dA",
+    "d": "I_y = Integral of x*y dA",
+    "ans": "a"
+  },
+  {
+    "q": "According to the Parallel Axis Theorem, how is the moment of inertia I about any parallel axis related to the centroidal moment of inertia I_g?",
+    "a": "I = I_g + A * d^2",
+    "b": "I = I_g - A * d^2",
+    "c": "I = I_g + A * d",
+    "d": "I = I_g - A * d",
+    "ans": "a"
+  },
+  {
+    "q": "What is the polar moment of inertia J_0 of a plane area A?",
+    "a": "J_0 = I_x + I_y",
+    "b": "J_0 = I_x - I_y",
+    "c": "J_0 = sqrt(I_x^2 + I_y^2)",
+    "d": "J_0 = I_x * I_y",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid (x_bar, y_bar) of the region bounded by the coordinate axes and the line x/3 + y/4 = 1.",
+    "a": "(1, 4/3)",
+    "b": "(1, 2)",
+    "c": "(1.5, 2)",
+    "d": "(1, 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of the region bounded by the parabola y = 4 - x^2 and the x-axis.",
+    "a": "(0, 1.6)",
+    "b": "(0, 1.2)",
+    "c": "(0, 2.0)",
+    "d": "(1.0, 1.6)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the y-coordinate of the centroid of a semicircle of radius R centered at the origin, with its diameter along the x-axis.",
+    "a": "4R / (3 * pi)",
+    "b": "3R / (4 * pi)",
+    "c": "2R / pi",
+    "d": "R / 2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of the first-quadrant region of the circle x^2 + y^2 = R^2.",
+    "a": "(4R / (3 * pi), 4R / (3 * pi))",
+    "b": "(2R / pi, 2R / pi)",
+    "c": "(R/2, R/2)",
+    "d": "(3R / 8, 3R / 8)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia I_x of a rectangle of width b and height h about its base.",
+    "a": "b * h^3 / 3",
+    "b": "b * h^3 / 12",
+    "c": "b * h^3 / 36",
+    "d": "b^3 * h / 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroidal moment of inertia I_x_bar of a rectangle of width b and height h.",
+    "a": "b * h^3 / 12",
+    "b": "b * h^3 / 3",
+    "c": "b * h^3 / 36",
+    "d": "b^3 * h / 12",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia of a circle of radius R about its centroidal axis.",
+    "a": "pi * R^4 / 4",
+    "b": "pi * R^4 / 2",
+    "c": "pi * R^4 / 8",
+    "d": "pi * R^4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the polar moment of inertia of a circle of radius R about its center.",
+    "a": "pi * R^4 / 2",
+    "b": "pi * R^4 / 4",
+    "c": "pi * R^4",
+    "d": "2 * pi * R^4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroidal moment of inertia I_x_bar of a triangle with base b and height h.",
+    "a": "b * h^3 / 36",
+    "b": "b * h^3 / 12",
+    "c": "b * h^3 / 4",
+    "d": "b^3 * h / 36",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia of a triangle of base b and height h about its base.",
+    "a": "b * h^3 / 12",
+    "b": "b * h^3 / 36",
+    "c": "b * h^3 / 4",
+    "d": "b^3 * h / 12",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the moment of inertia of the region bounded by y^2 = 4x and x = 1 about the x-axis.",
+    "a": "2.13",
+    "b": "2.03",
+    "c": "2.33",
+    "d": "2.53",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid (x_bar, y_bar) of the region bounded by y = x^2 and y = x.",
+    "a": "(0.5, 0.4)",
+    "b": "(0.5, 0.5)",
+    "c": "(0.4, 0.5)",
+    "d": "(0.4, 0.4)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroid of a right triangle of base b and height h. Where is it located relative to the 90-degree corner?",
+    "a": "b/3 from the base, h/3 from the height",
+    "b": "b/2 from the base, h/2 from the height",
+    "c": "2b/3 from the base, 2h/3 from the height",
+    "d": "b/4 from the base, h/4 from the height",
+    "ans": "a"
+  },
+  {
+    "q": "What is the centroidal moment of inertia I_x_bar of a circle of diameter D?",
+    "a": "pi * D^4 / 64",
+    "b": "pi * D^4 / 32",
+    "c": "pi * D^4 / 12",
+    "d": "pi * D^4 / 4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia of a quadrant of a circle of radius R about its straight bounding edge.",
+    "a": "pi * R^4 / 16",
+    "b": "pi * R^4 / 8",
+    "c": "pi * R^4 / 4",
+    "d": "pi * R^4 / 32",
+    "ans": "a"
+  },
+  {
+    "q": "What physical principle states that Hooke's Law applies to the stretching of a spring such that the force F = k*x?",
+    "a": "Hooke's Law",
+    "b": "Newton's Second Law",
+    "c": "Pascal's Law",
+    "d": "Archimedes' Principle",
+    "ans": "a"
+  },
+  {
+    "q": "How is the work W done in stretching a spring from x = a to x = b defined?",
+    "a": "Integral from a to b of k * x dx",
+    "b": "Integral from a to b of k * x^2 dx",
+    "c": "k * (b - a)",
+    "d": "0.5 * k * (b^2 + a^2)",
+    "ans": "a"
+  },
+  {
+    "q": "According to hydrostatic principles, what is the fluid force F on a flat, submerged vertical surface of density w?",
+    "a": "F = w * Integral of h * w(h) dh",
+    "b": "F = w * Integral of h^2 * w(h) dh",
+    "c": "F = w * h_bar * A",
+    "d": "F = Integral of h dA",
+    "ans": "c"
+  },
+  {
+    "q": "A spring has a natural length of 10 cm. A force of 20 N is required to stretch it to 12 cm. Find the work done in stretching it from 12 cm to 15 cm.",
+    "a": "1.52 J",
+    "b": "2.25 J",
+    "c": "1.05 J",
+    "d": "0.50 J",
+    "ans": "a"
+  },
+  {
+    "q": "A force of 10 pounds is required to hold a spring stretched 2 inches beyond its natural length. How much work is done in stretching it from its natural length to 6 inches beyond?",
+    "a": "15 in-lb",
+    "b": "90 in-lb",
+    "c": "45 in-lb",
+    "d": "30 in-lb",
+    "ans": "b"
+  },
+  {
+    "q": "A cylindrical tank of radius 2 meters and height 5 meters is full of water. Find the work done in pumping all the water over the top edge of the tank. (Use water density = 9800 N/m^3).",
+    "a": "1.54 * 10^6 J",
+    "b": "3.08 * 10^6 J",
+    "c": "7.70 * 10^5 J",
+    "d": "1.96 * 10^6 J",
+    "ans": "a"
+  },
+  {
+    "q": "An inverted conical tank with height 6 meters and top radius 3 meters is filled with water to a depth of 4 meters. Find the work done in pumping all the water to the top of the tank.",
+    "a": "4.10 * 10^5 J",
+    "b": "2.05 * 10^5 J",
+    "c": "8.20 * 10^5 J",
+    "d": "1.03 * 10^5 J",
+    "ans": "a"
+  },
+  {
+    "q": "A heavy cable 100 feet long and weighing 2 lb/ft hangs over the side of a tall building. Find the work done in winding the entire cable to the top.",
+    "a": "10,000 ft-lb",
+    "b": "20,000 ft-lb",
+    "c": "5,000 ft-lb",
+    "d": "15,000 ft-lb",
+    "ans": "a"
+  },
+  {
+    "q": "A heavy chain 50 feet long weighs 4 lb/ft. Find the work done in winding up the first 25 feet of the chain.",
+    "a": "3,750 ft-lb",
+    "b": "2,500 ft-lb",
+    "c": "1,250 ft-lb",
+    "d": "5,000 ft-lb",
+    "ans": "a"
+  },
+  {
+    "q": "A vertical rectangular plate 2 meters wide and 3 meters high is submerged in water such that its top edge is level with the water surface. Find the total hydrostatic force on one side of the plate.",
+    "a": "88,200 N",
+    "b": "44,100 N",
+    "c": "176,400 N",
+    "d": "132,300 N",
+    "ans": "a"
+  },
+  {
+    "q": "A vertical triangular plate of base 4 meters and height 3 meters is submerged in water with its vertex pointing downwards and its base level with the surface. Find the hydrostatic force on the plate.",
+    "a": "58,800 N",
+    "b": "29,400 N",
+    "c": "117,600 N",
+    "d": "88,200 N",
+    "ans": "a"
+  },
+  {
+    "q": "A semi-circular plate of radius 2 meters is submerged vertically in water with its straight diameter at the water surface. Find the total fluid force on one face of the plate.",
+    "a": "52,267 N",
+    "b": "26,133 N",
+    "c": "104,533 N",
+    "d": "78,400 N",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to pump water out of a hemispherical bowl of radius 3 meters which is full of water, to a level 1 meter above the top of the bowl?",
+    "a": "1.36 * 10^6 J",
+    "b": "2.72 * 10^6 J",
+    "c": "6.80 * 10^5 J",
+    "d": "1.96 * 10^6 J",
+    "ans": "a"
+  },
+  {
+    "q": "A rectangular swimming pool is 10 feet wide, 20 feet long, and has a uniform depth of 6 feet. If it is full of water (density = 62.4 lb/ft^3), find the hydrostatic force on one of the 10x6 vertical walls.",
+    "a": "11,232 lb",
+    "b": "22,464 lb",
+    "c": "5,616 lb",
+    "d": "18,720 lb",
+    "ans": "a"
+  },
+  {
+    "q": "What is the hydrostatic force on a vertical circular gate of radius 1 meter submerged in water such that its center is 3 meters below the surface?",
+    "a": "92,363 N",
+    "b": "30,788 N",
+    "c": "61,575 N",
+    "d": "45,000 N",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of x * sin(x^2) dx.",
+    "a": "-0.5 * cos(x^2) + C",
+    "b": "0.5 * cos(x^2) + C",
+    "c": "-cos(x^2) + C",
+    "d": "-x * cos(x^2) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the value of: Integral from 0 to 1 of x^2 * e^x dx using integration by parts.",
+    "a": "e - 2",
+    "b": "e",
+    "c": "e + 2",
+    "d": "2e - 5",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area of the region bounded by the curves y = x^3 - x and the x-axis from x = -1 to x = 1.",
+    "a": "1/2",
+    "b": "1/4",
+    "c": "0",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = sec(x), the x-axis, x = 0, and x = pi/4 about the x-axis.",
+    "a": "pi",
+    "b": "pi / 2",
+    "c": "2 * pi",
+    "d": "pi / 4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of the arc of the circle x^2 + y^2 = R^2 in the first quadrant.",
+    "a": "(2R / pi, 2R / pi)",
+    "b": "(4R / (3 * pi), 4R / (3 * pi))",
+    "c": "(R/2, R/2)",
+    "d": "(3R/8, 3R/8)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral of: 1 / sqrt(4 - x^2) dx from x = 0 to x = 1.",
+    "a": "pi / 6",
+    "b": "pi / 3",
+    "c": "pi / 4",
+    "d": "pi / 12",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of the integral from 0 to x of sin(t^2) dt with respect to x?",
+    "a": "sin(x^2)",
+    "b": "2x * sin(x^2)",
+    "c": "cos(x^2)",
+    "d": "-cos(x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of the integral from 0 to x^2 of cos(t) dt with respect to x?",
+    "a": "2x * cos(x^2)",
+    "b": "cos(x^2)",
+    "c": "2x * sin(x^2)",
+    "d": "-2x * sin(x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit as n approaches infinity of the Riemann sum representation of the area under y = x^2 from x = 0 to x = 2.",
+    "a": "8/3",
+    "b": "4/3",
+    "c": "2",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Which theorem states that there exists a c in [a, b] such that f(c) = (1 / (b - a)) * Integral from a to b of f(x) dx?",
+    "a": "Mean Value Theorem for Integrals",
+    "b": "Fundamental Theorem of Calculus",
+    "c": "Intermediate Value Theorem",
+    "d": "Rolle's Theorem",
+    "ans": "a"
+  },
+  {
+    "q": "Find the average value of the function f(x) = x^2 on the interval [1, 4].",
+    "a": "7",
+    "b": "21",
+    "c": "5",
+    "d": "14/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the average value of f(x) = sin(x) on [0, pi].",
+    "a": "2 / pi",
+    "b": "1 / pi",
+    "c": "1 / 2",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Which function has an antiderivative of ln|x| + C?",
+    "a": "1/x",
+    "b": "-1/x^2",
+    "c": "e^x",
+    "d": "ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Which function has an antiderivative of e^(3x) / 3 + C?",
+    "a": "e^(3x)",
+    "b": "3 * e^(3x)",
+    "c": "e^x",
+    "d": "1/3 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of cos(x)?",
+    "a": "sin(x) + C",
+    "b": "-sin(x) + C",
+    "c": "cos(x) + C",
+    "d": "-cos(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of sin(x)?",
+    "a": "-cos(x) + C",
+    "b": "cos(x) + C",
+    "c": "-sin(x) + C",
+    "d": "sec^2(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral of: e^(-x) dx from x = 0 to infinity.",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of (2x + 3)^4 dx.",
+    "a": "0.1 * (2x + 3)^5 + C",
+    "b": "0.2 * (2x + 3)^5 + C",
+    "c": "0.5 * (2x + 3)^5 + C",
+    "d": "(2x + 3)^5 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: 1 / (1 + 4x^2) dx.",
+    "a": "0.5 * arctan(2x) + C",
+    "b": "arctan(2x) + C",
+    "c": "2 * arctan(2x) + C",
+    "d": "0.5 * arcsin(2x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to 1 of x^3 * sqrt(x^4 + 1) dx.",
+    "a": "(2*sqrt(2) - 1) / 6",
+    "b": "(2*sqrt(2) - 1) / 3",
+    "c": "2*sqrt(2) / 3",
+    "d": "1/3",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: csc(x) dx?",
+    "a": "ln|csc(x) - cot(x)| + C",
+    "b": "ln|csc(x) + cot(x)| + C",
+    "c": "-csc(x)cot(x) + C",
+    "d": "ln|sin(x)| + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: cot(x) dx?",
+    "a": "ln|sin(x)| + C",
+    "b": "ln|cos(x)| + C",
+    "c": "-csc^2(x) + C",
+    "d": "ln|sec(x)| + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from -1 to 1 of x^3 dx.",
+    "a": "0",
+    "b": "1/2",
+    "c": "1/4",
+    "d": "-1/2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the definite integral of an odd function f(x) on a symmetric interval [-a, a]?",
+    "a": "0",
+    "b": "2 * Integral from 0 to a of f(x) dx",
+    "c": "2 * f(a)",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "What is the definite integral of an even function f(x) on a symmetric interval [-a, a]?",
+    "a": "2 * Integral from 0 to a of f(x) dx",
+    "b": "0",
+    "c": "2 * f(a)",
+    "d": "Integral from 0 to a of f(x) dx",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: sec^2(x) * tan(x) dx.",
+    "a": "0.5 * tan^2(x) + C",
+    "b": "sec^2(x) + C",
+    "c": "0.5 * sec^2(x) * tan^2(x) + C",
+    "d": "tan(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of x / (x^2 + 1) dx.",
+    "a": "0.5 * ln(x^2 + 1) + C",
+    "b": "ln(x^2 + 1) + C",
+    "c": "arctan(x) + C",
+    "d": "0.5 * arctan(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi of sin(x) dx.",
+    "a": "2",
+    "b": "0",
+    "c": "1",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/4 of tan(x) dx.",
+    "a": "0.5 * ln(2)",
+    "b": "ln(2)",
+    "c": "pi/4",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral of: 1 / sqrt(9 - 4x^2) dx.",
+    "a": "0.5 * arcsin(2x / 3) + C",
+    "b": "arcsin(2x / 3) + C",
+    "c": "0.33 * arcsin(2x / 3) + C",
+    "d": "0.5 * arctan(2x / 3) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 1 to 2 of ln(x) dx.",
+    "a": "2 * ln(2) - 1",
+    "b": "2 * ln(2)",
+    "c": "ln(2) - 1",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (x^2 - 4) dx.",
+    "a": "0.25 * ln|(x-2)/(x+2)| + C",
+    "b": "0.5 * ln|(x-2)/(x+2)| + C",
+    "c": "0.25 * ln|(x+2)/(x-2)| + C",
+    "d": "0.5 * arctan(x/2) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: x * cos(x) dx.",
+    "a": "x * sin(x) + cos(x) + C",
+    "b": "x * sin(x) - cos(x) + C",
+    "c": "-x * sin(x) + cos(x) + C",
+    "d": "x * cos(x) + sin(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral of: Integral of x^3 * ln(x) dx.",
+    "a": "0.25 * x^4 * ln(x) - 1/16 * x^4 + C",
+    "b": "0.25 * x^4 * ln(x) - 0.25 * x^4 + C",
+    "c": "x^4 * ln(x) - x^4 + C",
+    "d": "0.25 * x^4 * ln(x) + 1/16 * x^4 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by y = x^2 - 2x and the x-axis.",
+    "a": "4/3",
+    "b": "2/3",
+    "c": "8/3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = sqrt(x) and the line y = x.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "2/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by y = x^2 and y = 4.",
+    "a": "32/3",
+    "b": "16/3",
+    "c": "8",
+    "d": "24/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by y = 2x - x^2 and the x-axis.",
+    "a": "4/3",
+    "b": "2/3",
+    "c": "1",
+    "d": "8/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = x^3, the x-axis, and the line x = 2.",
+    "a": "4",
+    "b": "2",
+    "c": "8",
+    "d": "16",
+    "ans": "a"
+  },
+  {
+    "q": "What is the area of the region bounded by y = 1/x^2, the x-axis, and the vertical lines x = 1 and x = 2?",
+    "a": "1/2",
+    "b": "1/4",
+    "c": "3/4",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by y = x^2 - 4 and y = 4 - x^2.",
+    "a": "64/3",
+    "b": "32/3",
+    "c": "16",
+    "d": "8",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the area inside the circle r = 2 * sin(theta).",
+    "a": "pi",
+    "b": "2 * pi",
+    "c": "4 * pi",
+    "d": "0.5 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by the curves y = x^4 and y = x.",
+    "a": "3/10",
+    "b": "1/5",
+    "c": "1/10",
+    "d": "2/5",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area of one loop of the polar rose curve r = sin(3*theta).",
+    "a": "pi/12",
+    "b": "pi/6",
+    "c": "pi/4",
+    "d": "pi/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve r = a * cos(theta) from theta = -pi/2 to pi/2.",
+    "a": "pi * a^2 / 4",
+    "b": "pi * a^2 / 2",
+    "c": "pi * a^2",
+    "d": "pi * a^2 / 8",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by y = sec^2(x), the x-axis, and the lines x = 0 and x = pi/4.",
+    "a": "1",
+    "b": "pi/4",
+    "c": "sqrt(2) - 1",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area bounded by the curves y = e^x, y = e^(-x), and the vertical line x = 1.",
+    "a": "e + e^(-1) - 2",
+    "b": "e - e^(-1)",
+    "c": "e + e^(-1)",
+    "d": "e - e^(-1) - 2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = cos(x) from x = -pi/2 to pi/2.",
+    "a": "2",
+    "b": "0",
+    "c": "1",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the area of the region in the first quadrant bounded by y^2 = x^3 and y = x.",
+    "a": "1/10",
+    "b": "1/5",
+    "c": "2/5",
+    "d": "3/10",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^3, the x-axis, and x = 1 about the x-axis.",
+    "a": "pi / 7",
+    "b": "pi / 6",
+    "c": "pi / 5",
+    "d": "pi / 4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = 1/x, the x-axis, from x = 1 to x = 2 about the x-axis.",
+    "a": "pi / 2",
+    "b": "pi",
+    "c": "pi * ln(2)",
+    "d": "0.5 * pi * ln(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Revolving the upper half of the ellipse x^2 / a^2 + y^2 / b^2 = 1 about the x-axis yields a solid of revolution called an ellipsoid. What is its volume?",
+    "a": "4/3 * pi * a * b^2",
+    "b": "4/3 * pi * a^2 * b",
+    "c": "2/3 * pi * a * b^2",
+    "d": "4/3 * pi * a^2 * b^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the shell method, find the volume generated by revolving the region bounded by y = sqrt(x), the x-axis, and x = 1 about the y-axis.",
+    "a": "4 * pi / 5",
+    "b": "2 * pi / 5",
+    "c": "pi / 5",
+    "d": "8 * pi / 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = e^(-x), the x-axis, from x = 0 to infinity about the x-axis.",
+    "a": "pi / 2",
+    "b": "pi",
+    "c": "2 * pi",
+    "d": "Infinity",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2 and y = x about the x-axis.",
+    "a": "2 * pi / 15",
+    "b": "pi / 5",
+    "c": "pi / 3",
+    "d": "4 * pi / 15",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the volume generated by revolving the region bounded by y = x^2 and y = x about the y-axis.",
+    "a": "pi / 6",
+    "b": "pi / 3",
+    "c": "pi / 12",
+    "d": "pi / 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the arc length of the curve y = 1 - x^2 from x = 0 to x = 1.",
+    "a": "1.479",
+    "b": "1.231",
+    "c": "1.524",
+    "d": "1.000",
+    "ans": "a"
+  },
+  {
+    "q": "Find the arc length of the catenary y = cosh(x) from x = 0 to x = ln(2).",
+    "a": "3/4",
+    "b": "5/4",
+    "c": "1",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the surface area generated by revolving the line segment y = 2x from x = 0 to x = 1 about the y-axis.",
+    "a": "pi * sqrt(5)",
+    "b": "2 * pi * sqrt(5)",
+    "c": "0.5 * pi * sqrt(5)",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the surface area generated by revolving the curve y = x^3 from x = 0 to x = 1 about the x-axis.",
+    "a": "pi / 27 * (10*sqrt(10) - 1)",
+    "b": "pi / 9 * (10*sqrt(10) - 1)",
+    "c": "pi / 27 * 10*sqrt(10)",
+    "d": "pi * (10*sqrt(10) - 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the solid generated by revolving the region bounded by y = sin(x), the x-axis, from x = 0 to x = pi about the x-axis.",
+    "a": "pi^2 / 2",
+    "b": "pi^2",
+    "c": "pi / 2",
+    "d": "2 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated double integral: Integral from 0 to 1 of Integral from 0 to 2 of (x^2 + y) dy dx.",
+    "a": "5/3",
+    "b": "4/3",
+    "c": "2",
+    "d": "8/3",
+    "ans": "d"
+  },
+  {
+    "q": "Evaluate the iterated double integral: Integral from 0 to pi of Integral from 0 to 1 of (r * sin(theta)) dr d(theta).",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the triple integral: Integral from 0 to 1 of Integral from 0 to x of Integral from 0 to x+y of (1) dz dy dx.",
+    "a": "1/2",
+    "b": "1/3",
+    "c": "1/4",
+    "d": "1/6",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral of x * y over the triangular region with vertices (0,0), (1,0), and (0,1).",
+    "a": "1/24",
+    "b": "1/12",
+    "c": "1/6",
+    "d": "1/48",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral of (x^2 + y^2) over the unit circle x^2 + y^2 <= 1 using polar coordinates.",
+    "a": "pi / 2",
+    "b": "pi / 4",
+    "c": "pi",
+    "d": "2 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the triple integral of 1 over the sphere x^2 + y^2 + z^2 <= 4.",
+    "a": "32 * pi / 3",
+    "b": "16 * pi / 3",
+    "c": "8 * pi / 3",
+    "d": "4 * pi / 3",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Jacobian determinant J of the coordinate transformation x = u + v, y = u - v?",
+    "a": "-2",
+    "b": "2",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the iterated double integral: Integral from 0 to ln(2) of Integral from 0 to ln(3) of e^(x+y) dy dx.",
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "Using a double integral, find the area of the region bounded by y = x^2 and y = 2x.",
+    "a": "4/3",
+    "b": "2/3",
+    "c": "8/3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid (x_bar, y_bar) of the region bounded by y = sqrt(x), the x-axis, and x = 4.",
+    "a": "(2.4, 0.75)",
+    "b": "(2.0, 0.75)",
+    "c": "(2.4, 1.0)",
+    "d": "(2.0, 1.0)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a quarter-circle region of radius R located in the first quadrant.",
+    "a": "(4R / (3 * pi), 4R / (3 * pi))",
+    "b": "(2R / pi, 2R / pi)",
+    "c": "(R/3, R/3)",
+    "d": "(3R/8, 3R/8)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the centroidal moment of inertia I_x_bar of a circle of radius R?",
+    "a": "pi * R^4 / 4",
+    "b": "pi * R^4 / 2",
+    "c": "pi * R^4",
+    "d": "2 * pi * R^4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia I_x of a rectangle of b = 3 and h = 4 about its centroidal axis parallel to the base.",
+    "a": "16",
+    "b": "12",
+    "c": "8",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid (x_bar, y_bar) of the region bounded by the coordinate axes and the line y = 6 - 2x.",
+    "a": "(1, 2)",
+    "b": "(1.5, 2)",
+    "c": "(1, 3)",
+    "d": "(1.5, 3)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the x-coordinate of the centroid of the region bounded by y = sin(x) and the x-axis on [0, pi].",
+    "a": "pi / 2",
+    "b": "pi / 4",
+    "c": "pi / 3",
+    "d": "2 * pi / 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroidal moment of inertia I_y_bar of a rectangle of width b and height h.",
+    "a": "b^3 * h / 12",
+    "b": "b * h^3 / 12",
+    "c": "b^3 * h / 3",
+    "d": "b * h^3 / 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia I_x of a triangle of base b and height h about its centroidal axis parallel to the base.",
+    "a": "b * h^3 / 36",
+    "b": "b * h^3 / 12",
+    "c": "b * h^3 / 4",
+    "d": "b^3 * h / 36",
+    "ans": "a"
+  },
+  {
+    "q": "A spring has a natural length of 20 cm. If a force of 10 N is required to stretch it to 25 cm, find the spring constant k.",
+    "a": "200 N/m",
+    "b": "2 N/cm",
+    "c": "2 N/m",
+    "d": "50 N/m",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to stretch a spring with spring constant k = 100 N/m from its natural length to 10 cm beyond?",
+    "a": "0.5 J",
+    "b": "5.0 J",
+    "c": "0.1 J",
+    "d": "1.0 J",
+    "ans": "a"
+  },
+  {
+    "q": "Find the work done in pumping the water out of a full cylindrical pool of radius 3 meters and depth 2 meters over the top edge. (Water density = 9800 N/m^3).",
+    "a": "277,088 J",
+    "b": "554,177 J",
+    "c": "138,544 J",
+    "d": "1,108,354 J",
+    "ans": "b"
+  },
+  {
+    "q": "What is the hydrostatic force on a vertical rectangular wall 5 meters wide and 4 meters deep submerged in water with its top edge at the water surface?",
+    "a": "392,000 N",
+    "b": "196,000 N",
+    "c": "784,000 N",
+    "d": "588,000 N",
+    "ans": "a"
+  },
+  {
+    "q": "A vertical circular disk of radius 2 meters is submerged in water such that its top edge is tangent to the surface. Find the hydrostatic force on one face of the disk.",
+    "a": "246,301 N",
+    "b": "123,150 N",
+    "c": "492,602 N",
+    "d": "369,451 N",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the work done in stretching a spring with k = 80 N/m from a stretch of 5 cm to a stretch of 15 cm.",
+    "a": "0.8 J",
+    "b": "0.4 J",
+    "c": "1.6 J",
+    "d": "0.2 J",
+    "ans": "a"
+  },
+  {
+    "q": "A vertical triangular gate with base 3 meters and height 2 meters is submerged in water with its vertex at the water surface and base parallel to it. Find the hydrostatic force on the gate.",
+    "a": "39,200 N",
+    "b": "19,600 N",
+    "c": "78,400 N",
+    "d": "58,800 N",
+    "ans": "a"
+  },
+  {
+    "q": "Find the work done in winding up a 50-foot hanging cable that weighs 3 lb/ft.",
+    "a": "3,750 ft-lb",
+    "b": "1,875 ft-lb",
+    "c": "7,500 ft-lb",
+    "d": "5,625 ft-lb",
+    "ans": "a"
+  },
+  {
+    "q": "What is the area bounded by the curve y = ln(x), the x-axis, and the vertical line x = e^2?",
+    "a": "e^2 + 1",
+    "b": "e^2 - 1",
+    "c": "2 * e^2",
+    "d": "e^2",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the area of the region bounded by y = x^2 - x - 2 and the x-axis.",
+    "a": "9/2",
+    "b": "9/4",
+    "c": "9/8",
+    "d": "9/6",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = sin(x) from x = 0 to pi/2 about the y-axis.",
+    "a": "2 * pi",
+    "b": "pi",
+    "c": "pi / 2",
+    "d": "4 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the double integral: Integral from 0 to 1 of Integral from 0 to 1 of (x^2 * y) dy dx.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "1/12",
+    "ans": "a"
+  },
+  {
+    "q": "Find the average value of f(x) = e^x on [0, 1].",
+    "a": "e - 1",
+    "b": "e",
+    "c": "1",
+    "d": "0.5 * e",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of x / sqrt(x^2 + 1) dx.",
+    "a": "sqrt(x^2 + 1) + C",
+    "b": "2 * sqrt(x^2 + 1) + C",
+    "c": "0.5 * sqrt(x^2 + 1) + C",
+    "d": "ln(x^2 + 1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to 1 of 1 / sqrt(1 - x^2) dx.",
+    "a": "pi/2",
+    "b": "pi",
+    "c": "pi/4",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the indefinite integral: Integral of tan^2(x) dx.",
+    "a": "tan(x) - x + C",
+    "b": "tan(x) + x + C",
+    "c": "sec(x) + C",
+    "d": "sec^2(x) - x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = cos(x) and the x-axis on [0, pi/2].",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "pi/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a right circular cone of radius R and height H using integration.",
+    "a": "1/3 * pi * R^2 * H",
+    "b": "pi * R^2 * H",
+    "c": "1/2 * pi * R^2 * H",
+    "d": "2/3 * pi * R^2 * H",
+    "ans": "a"
+  },
+  {
+    "q": "Find the moment of inertia of a square of side s about its base.",
+    "a": "s^4 / 3",
+    "b": "s^4 / 12",
+    "c": "s^4 / 36",
+    "d": "s^4",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is done in stretching a spring with k = 200 N/m from a stretch of 10 cm to a stretch of 20 cm?",
+    "a": "3 J",
+    "b": "1.5 J",
+    "c": "6 J",
+    "d": "4 J",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: e^(5x) dx?",
+    "a": "0.2 * e^(5x) + C",
+    "b": "e^(5x) + C",
+    "c": "5 * e^(5x) + C",
+    "d": "e^(5x-1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of sec(x) * tan(x)?",
+    "a": "sec(x) + C",
+    "b": "tan(x) + C",
+    "c": "sec^2(x) + C",
+    "d": "sec(x)tan(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 1 to 4 of (2x + 1) dx.",
+    "a": "18",
+    "b": "15",
+    "c": "12",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the region bounded by y = e^x, the x-axis, and the vertical lines x = 0 and x = 1.",
+    "a": "e - 1",
+    "b": "e",
+    "c": "1",
+    "d": "e + 1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2, the x-axis, and x = 1 about the x-axis.",
+    "a": "pi / 5",
+    "b": "pi / 3",
+    "c": "pi / 2",
+    "d": "pi / 15",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a rectangle of width b and height h. Where is it located relative to its bottom-left corner?",
+    "a": "(b/2, h/2)",
+    "b": "(b/3, h/3)",
+    "c": "(b/2, h/3)",
+    "d": "(b/4, h/4)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroidal moment of inertia I_x_bar of a circle of diameter D.",
+    "a": "pi * D^4 / 64",
+    "b": "pi * D^4 / 32",
+    "c": "pi * D^4 / 12",
+    "d": "pi * D^4 / 4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (x + 3) dx.",
+    "a": "ln|x + 3| + C",
+    "b": "1 / (x + 3)^2 + C",
+    "c": "ln(x) + C",
+    "d": "-1 / (x + 3)^2 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/4 of cos(2x) dx.",
+    "a": "1/2",
+    "b": "1",
+    "c": "0",
+    "d": "sqrt(2)/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = x^2 and the line y = 1.",
+    "a": "4/3",
+    "b": "2/3",
+    "c": "1/3",
+    "d": "8/3",
+    "ans": "a"
+  },
+  {
+    "q": "What is the polar moment of inertia of a circle of diameter D about its center?",
+    "a": "pi * D^4 / 32",
+    "b": "pi * D^4 / 64",
+    "c": "pi * D^4 / 16",
+    "d": "pi * D^4 / 12",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to stretch a spring with k = 150 N/m from its natural length to 20 cm beyond?",
+    "a": "3.0 J",
+    "b": "1.5 J",
+    "c": "6.0 J",
+    "d": "4.5 J",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 5^x dx?",
+    "a": "5^x / ln(5) + C",
+    "b": "5^x * ln(5) + C",
+    "c": "5^x + C",
+    "d": "x * 5^(x-1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of csc^2(x)?",
+    "a": "-cot(x) + C",
+    "b": "cot(x) + C",
+    "c": "-csc(x) + C",
+    "d": "-csc(x)cot(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 0 to 2 of (3x^2) dx.",
+    "a": "8",
+    "b": "4",
+    "c": "12",
+    "d": "16",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = e^(-x), the x-axis, and the vertical lines x = 0 and x = 1.",
+    "a": "1 - e^(-1)",
+    "b": "e^(-1)",
+    "c": "1",
+    "d": "1 + e^(-1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^3, the x-axis, and x = 1 about the y-axis.",
+    "a": "2 * pi / 5",
+    "b": "pi / 5",
+    "c": "pi / 3",
+    "d": "4 * pi / 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a triangle with vertices at (0,0), (6,0), and (0,3).",
+    "a": "(2, 1)",
+    "b": "(3, 1)",
+    "c": "(2, 1.5)",
+    "d": "(3, 1.5)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroidal moment of inertia I_x_bar of a square of side s.",
+    "a": "s^4 / 12",
+    "b": "s^4 / 3",
+    "c": "s^4 / 36",
+    "d": "s^4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (2x + 1) dx.",
+    "a": "0.5 * ln|2x + 1| + C",
+    "b": "ln|2x + 1| + C",
+    "c": "1 / (2x + 1)^2 + C",
+    "d": "0.5 * arctan(2x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/6 of cos(3x) dx.",
+    "a": "1/3",
+    "b": "1",
+    "c": "0",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = sqrt(x) and the line y = 1 from x = 0 to x = 1.",
+    "a": "1/3",
+    "b": "2/3",
+    "c": "1/2",
+    "d": "1/6",
+    "ans": "a"
+  },
+  {
+    "q": "What is the centroidal polar moment of inertia of a square of side s?",
+    "a": "s^4 / 6",
+    "b": "s^4 / 12",
+    "c": "s^4 / 3",
+    "d": "s^4 / 2",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to stretch a spring with k = 300 N/m from its natural length to 10 cm beyond?",
+    "a": "1.5 J",
+    "b": "3.0 J",
+    "c": "0.75 J",
+    "d": "15.0 J",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 2^x dx?",
+    "a": "2^x / ln(2) + C",
+    "b": "2^x * ln(2) + C",
+    "c": "2^x + C",
+    "d": "x * 2^(x-1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of sec^2(x)?",
+    "a": "tan(x) + C",
+    "b": "-tan(x) + C",
+    "c": "sec(x) + C",
+    "d": "sec(x)tan(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 0 to 3 of (2x) dx.",
+    "a": "9",
+    "b": "6",
+    "c": "12",
+    "d": "18",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = 1/x, the x-axis, and the vertical lines x = 1 and x = 2.",
+    "a": "ln(2)",
+    "b": "2",
+    "c": "0.5",
+    "d": "ln(0.5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2, the x-axis, and x = 2 about the y-axis.",
+    "a": "8 * pi",
+    "b": "16 * pi",
+    "c": "4 * pi",
+    "d": "32 * pi / 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a triangle with vertices at (0,0), (3,0), and (3,4).",
+    "a": "(2, 4/3)",
+    "b": "(1.5, 2)",
+    "c": "(2, 1.5)",
+    "d": "(1.5, 4/3)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroidal moment of inertia I_x_bar of a circle of radius R.",
+    "a": "pi * R^4 / 4",
+    "b": "pi * R^4 / 2",
+    "c": "pi * R^4",
+    "d": "pi * R^4 / 8",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (3x + 2) dx.",
+    "a": "1/3 * ln|3x + 2| + C",
+    "b": "ln|3x + 2| + C",
+    "c": "1 / (3x + 2)^2 + C",
+    "d": "0.33 * arctan(3x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/2 of cos(x) dx.",
+    "a": "1",
+    "b": "0",
+    "c": "pi/2",
+    "d": "sqrt(2)/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = x^3 and the line y = x in the first quadrant.",
+    "a": "1/4",
+    "b": "1/2",
+    "c": "1/3",
+    "d": "1/6",
+    "ans": "a"
+  },
+  {
+    "q": "What is the centroidal polar moment of inertia of a circle of radius R?",
+    "a": "pi * R^4 / 2",
+    "b": "pi * R^4 / 4",
+    "c": "pi * R^4",
+    "d": "2 * pi * R^4",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to stretch a spring with k = 400 N/m from its natural length to 5 cm beyond?",
+    "a": "0.5 J",
+    "b": "1.0 J",
+    "c": "0.25 J",
+    "d": "2.0 J",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 3^x dx?",
+    "a": "3^x / ln(3) + C",
+    "b": "3^x * ln(3) + C",
+    "c": "3^x + C",
+    "d": "x * 3^(x-1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of csc(x) * cot(x)?",
+    "a": "-csc(x) + C",
+    "b": "csc(x) + C",
+    "c": "-csc^2(x) + C",
+    "d": "-csc(x)cot(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 0 to 4 of (x) dx.",
+    "a": "8",
+    "b": "4",
+    "c": "16",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = 1/x^3, the x-axis, and the vertical lines x = 1 and x = 2.",
+    "a": "3/8",
+    "b": "1/4",
+    "c": "1/2",
+    "d": "3/4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x, the x-axis, and x = 3 about the y-axis.",
+    "a": "18 * pi",
+    "b": "9 * pi",
+    "c": "27 * pi",
+    "d": "36 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a triangle with vertices at (0,0), (4,0), and (4,3).",
+    "a": "(8/3, 1)",
+    "b": "(2, 1.5)",
+    "c": "(8/3, 1.5)",
+    "d": "(2, 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroidal moment of inertia I_y_bar of a square of side s.",
+    "a": "s^4 / 12",
+    "b": "s^4 / 3",
+    "c": "s^4 / 36",
+    "d": "s^4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (4x + 3) dx.",
+    "a": "1/4 * ln|4x + 3| + C",
+    "b": "ln|4x + 3| + C",
+    "c": "1 / (4x + 3)^2 + C",
+    "d": "0.25 * arctan(4x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/4 of sin(2x) dx.",
+    "a": "1/2",
+    "b": "1",
+    "c": "0",
+    "d": "sqrt(2)/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = x^4 and the line y = 1.",
+    "a": "8/5",
+    "b": "4/5",
+    "c": "2/5",
+    "d": "16/5",
+    "ans": "a"
+  },
+  {
+    "q": "What is the polar moment of inertia of a square of side s about its centroid?",
+    "a": "s^4 / 6",
+    "b": "s^4 / 12",
+    "c": "s^4 / 3",
+    "d": "s^4 / 2",
+    "ans": "a"
+  },
+  {
+    "q": "How much work is required to stretch a spring with k = 500 N/m from its natural length to 4 cm beyond?",
+    "a": "0.4 J",
+    "b": "0.8 J",
+    "c": "0.2 J",
+    "d": "1.6 J",
+    "ans": "a"
+  },
+  {
+    "q": "What is the indefinite integral of: 10^x dx?",
+    "a": "10^x / ln(10) + C",
+    "b": "10^x * ln(10) + C",
+    "c": "10^x + C",
+    "d": "x * 10^(x-1) + C",
+    "ans": "a"
+  },
+  {
+    "q": "What is the antiderivative of cosh(x)?",
+    "a": "sinh(x) + C",
+    "b": "-sinh(x) + C",
+    "c": "cosh(x) + C",
+    "d": "-cosh(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the definite integral: Integral from 1 to 3 of (4x) dx.",
+    "a": "16",
+    "b": "12",
+    "c": "8",
+    "d": "24",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = 1/x^2, the x-axis, and the vertical lines x = 1 and x = 3.",
+    "a": "2/3",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "3/4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume generated by revolving the region bounded by y = x^2, the x-axis, and x = 1 about the y-axis.",
+    "a": "pi / 2",
+    "b": "pi",
+    "c": "pi / 4",
+    "d": "2 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the centroid of a triangle with vertices at (0,0), (2,0), and (0,4).",
+    "a": "(2/3, 4/3)",
+    "b": "(1, 2)",
+    "c": "(2/3, 2)",
+    "d": "(1, 4/3)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the centroidal moment of inertia I_x_bar of a circle of diameter D.",
+    "a": "pi * D^4 / 64",
+    "b": "pi * D^4 / 32",
+    "c": "pi * D^4 / 12",
+    "d": "pi * D^4 / 4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the indefinite integral: Integral of 1 / (5x + 4) dx.",
+    "a": "1/5 * ln|5x + 4| + C",
+    "b": "ln|5x + 4| + C",
+    "c": "1 / (5x + 4)^2 + C",
+    "d": "0.20 * arctan(5x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the definite integral: Integral from 0 to pi/8 of cos(4x) dx.",
+    "a": "1/4",
+    "b": "1",
+    "c": "0",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area bounded by the curve y = x^2 and the line y = x.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "1/12",
+    "ans": "a"
+  },
+  {
+    "q": "What is the centroidal polar moment of inertia of a rectangle of width b and height h?",
+    "a": "b * h * (b^2 + h^2) / 12",
+    "b": "b * h * (b^2 + h^2) / 3",
+    "c": "b * h * (b^2 + h^2) / 36",
+    "d": "(b^3 * h + b * h^3) / 12",
+    "ans": "a"
+  }
+]

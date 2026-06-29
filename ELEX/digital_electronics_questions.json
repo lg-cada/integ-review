@@ -808,7 +808,7 @@
     "ans": "a"
   },
   {
-    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH).",
+    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH). (Context from previous question: A logic gate dissipates 15 mW of power and has an average propagation delay of 8 ns.)",
     "a": "0.4 Volts",
     "b": "0.4 Volts",
     "c": "0.8 Volts",
@@ -904,7 +904,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter.",
+    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter. (Context from previous question: A Ring counter consists of 5 flip-flops.)",
     "a": "66.7 MHz",
     "b": "16.7 MHz",
     "c": "33.3 MHz",
@@ -1072,7 +1072,7 @@
     "ans": "a"
   },
   {
-    "q": "Calculate the frequency of oscillation for the astable multivibrator described in the previous questions.",
+    "q": "Calculate the frequency of oscillation for the astable multivibrator described in the previous questions. (Context from previous question: Using the parameters from the previous question (R1 = 10k, R2 = 47k, C = 0.1 uF), calculate the low-state pulse width (t_low) of the output. An astable multivibrator has timing resistors R1 = 10k Ohms, R2 = 47k Ohms, and capacitor C = 0.1 uF.)",
     "a": "138 Hz",
     "b": "138 Hz (approximated)",
     "c": "276 Hz",
@@ -1304,7 +1304,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency.",
+    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency. (Context from previous question: A 12-bit shift register is loaded with parallel data.)",
     "a": "33.3 MHz",
     "b": "16.7 MHz",
     "c": "8.3 MHz",
@@ -1504,7 +1504,7 @@
     "ans": "a"
   },
   {
-    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH).",
+    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH). (Context from previous question: A logic gate dissipates 20 mW of power and has an average propagation delay of 5 ns.)",
     "a": "0.4 Volts",
     "b": "0.6 Volts",
     "c": "0.8 Volts",
@@ -1568,7 +1568,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter.",
+    "q": "Using the total propagation delay of 60 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter. (Context from previous question: A Ring counter consists of 6 flip-flops.)",
     "a": "66.7 MHz",
     "b": "16.7 MHz",
     "c": "33.3 MHz",
@@ -1656,7 +1656,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total propagation delay of 80 ns from the previous question, calculate the maximum operating clock frequency.",
+    "q": "Using the total propagation delay of 80 ns from the previous question, calculate the maximum operating clock frequency. (Context from previous question: A 16-bit shift register is loaded with parallel data.)",
     "a": "25.0 MHz",
     "b": "12.5 MHz",
     "c": "6.25 MHz",
@@ -1816,7 +1816,7 @@
     "ans": "a"
   },
   {
-    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH).",
+    "q": "Using the specifications in the previous question, calculate the high-level noise margin (V_NH). (Context from previous question: A logic gate dissipates 25 mW of power and has an average propagation delay of 4 ns.)",
     "a": "0.4 Volts",
     "b": "0.8 Volts",
     "c": "0.6 Volts",
@@ -1880,7 +1880,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total propagation delay of 96 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter.",
+    "q": "Using the total propagation delay of 96 ns from the previous question, calculate the maximum operating clock frequency (f_max) of the ripple counter. (Context from previous question: A Ring counter consists of 8 flip-flops.)",
     "a": "20.8 MHz",
     "b": "10.4 MHz",
     "c": "5.2 MHz",

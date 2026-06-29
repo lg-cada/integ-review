@@ -760,7 +760,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts.",
+    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts. (Context from previous question: A satellite earth station transmitter has a power output of 100 Watts (20 dBW). If it is connected to a parabolic dish antenna with a gain of 50 dBi, and the waveguide feeder loss is 2 dB, calculate the uplink EIRP in dBW.)",
     "a": "6.31 kW",
     "b": "6.31 MW",
     "c": "63.10 kW",
@@ -776,7 +776,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the Received Signal Level of -103.57 dBW from the previous question into decibel-milliwatts (dBm).",
+    "q": "Convert the Received Signal Level of -103.57 dBW from the previous question into decibel-milliwatts (dBm). (Context from previous question: A satellite transponder has a downlink EIRP of 45 dBW. If the slant range path distance to the Earth station is 38,000 km (FSPL = 196.07 dB at 4 GHz) and atmospheric absorption loss is 0.5 dB, calculate the Received Signal Level (RSL) at the Earth station receiving antenna with a gain of 48 dBi.)",
     "a": "-133.57 dBm",
     "b": "-73.57 dBm",
     "c": "-103.57 dBm",
@@ -920,7 +920,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts.",
+    "q": "Convert the uplink EIRP of 68 dBW from the previous question into Watts. (Context from previous question: A satellite earth station operates with an uplink antenna gain of 52 dBi and an amplifier output power of 50 Watts (17 dBW). If the waveguide loss is 1 dB, calculate the uplink EIRP in dBW.)",
     "a": "63.1 kW",
     "b": "6.31 MW",
     "c": "631.0 kW",

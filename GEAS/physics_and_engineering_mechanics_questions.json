@@ -1,0 +1,1610 @@
+[
+  {
+    "q": "What is the branch of mechanics that deals with bodies at rest or moving with constant velocity under balanced forces?",
+    "a": "Dynamics",
+    "b": "Statics",
+    "c": "Kinematics",
+    "d": "Kinetics",
+    "ans": "b"
+  },
+  {
+    "q": "What is the branch of mechanics that deals with the accelerated motion of rigid bodies?",
+    "a": "Statics",
+    "b": "Dynamics",
+    "c": "Kinetics",
+    "d": "Statics and Dynamics",
+    "ans": "b"
+  },
+  {
+    "q": "The study of the geometry of motion without reference to the forces causing that motion is called:",
+    "a": "Kinetics",
+    "b": "Statics",
+    "c": "Kinematics",
+    "d": "Dynamics",
+    "ans": "c"
+  },
+  {
+    "q": "The study of motion that relates the forces acting on a body to its mass and acceleration is called:",
+    "a": "Kinematics",
+    "b": "Statics",
+    "c": "Kinetics",
+    "d": "Fluid Mechanics",
+    "ans": "c"
+  },
+  {
+    "q": "A definite amount of matter, all parts of which are fixed in position relative to each other, is defined as a:",
+    "a": "Force system",
+    "b": "Rigid body",
+    "c": "Deformed body",
+    "d": "Dynamic particle",
+    "ans": "b"
+  },
+  {
+    "q": "The physical property of a body that serves as a quantitative measure of its inertia is its:",
+    "a": "Weight",
+    "b": "Mass",
+    "c": "Volume",
+    "d": "Density",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as any interaction or action that tends to change the state of rest or motion of a body?",
+    "a": "Impulse",
+    "b": "Momentum",
+    "c": "Force",
+    "d": "Work",
+    "ans": "c"
+  },
+  {
+    "q": "Newton's First Law of Motion is also commonly referred to as the Law of:",
+    "a": "Acceleration",
+    "b": "Inertia",
+    "c": "Action and Reaction",
+    "d": "Universal Gravitation",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the acceleration of a body is directly proportional to the net force acting on it and inversely proportional to its mass?",
+    "a": "Newton's First Law",
+    "b": "Newton's Second Law",
+    "c": "Newton's Third Law",
+    "d": "Law of Conservation of Momentum",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that for every action, there is an equal and opposite reaction?",
+    "a": "Newton's First Law",
+    "b": "Newton's Second Law",
+    "c": "Newton's Third Law",
+    "d": "Hooke's Law",
+    "ans": "c"
+  },
+  {
+    "q": "Which principle states that the external effect of a force on a rigid body remains unchanged regardless of where along its line of action the force is applied?",
+    "a": "Principle of Transmissibility",
+    "b": "Principle of Superposition",
+    "c": "D'Alembert's Principle",
+    "d": "Archimedes' Principle",
+    "ans": "a"
+  },
+  {
+    "q": "A single force that can replace a system of forces and produce the exact same external effect is called the:",
+    "a": "Equilibrant force",
+    "b": "Resultant force",
+    "c": "Normal force",
+    "d": "Coupled force",
+    "ans": "b"
+  },
+  {
+    "q": "A single force that balances a system of forces, being equal in magnitude but opposite in direction to their resultant, is called the:",
+    "a": "Resultant force",
+    "b": "Equilibrant force",
+    "c": "Concurrent force",
+    "d": "Coplanar force",
+    "ans": "b"
+  },
+  {
+    "q": "A system of forces whose lines of action all pass through a single, common point is described as:",
+    "a": "Coplanar forces",
+    "b": "Concurrent forces",
+    "c": "Parallel forces",
+    "d": "Collinear forces",
+    "ans": "b"
+  },
+  {
+    "q": "A system of forces whose lines of action all lie within the same two-dimensional plane is described as:",
+    "a": "Concurrent forces",
+    "b": "Coplanar forces",
+    "c": "Collinear forces",
+    "d": "Non-coplanar forces",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as the measure of the tendency of a force to rotate a body about a specific point or axis?",
+    "a": "Moment of a force",
+    "b": "Momentum",
+    "c": "Impulse",
+    "d": "Coupled rotation",
+    "ans": "a"
+  },
+  {
+    "q": "Two equal, opposite, and parallel forces acting on a rigid body whose lines of action do not coincide produce a:",
+    "a": "Moment of inertia",
+    "b": "Resultant force",
+    "c": "Couple",
+    "d": "Normal reaction",
+    "ans": "c"
+  },
+  {
+    "q": "The moment of a couple is mathematically equal to the product of one of the forces and the:",
+    "a": "Total mass of the body",
+    "b": "Perpendicular distance between their lines of action",
+    "c": "Angular acceleration",
+    "d": "Radius of curvature",
+    "ans": "b"
+  },
+  {
+    "q": "For a rigid body to remain in complete static equilibrium, what conditions must be met?",
+    "a": "Only the sum of all forces must be zero",
+    "b": "Only the sum of all moments must be zero",
+    "c": "Both the sum of all forces and the sum of all moments must be zero",
+    "d": "The total momentum must equal the total impulse",
+    "ans": "c"
+  },
+  {
+    "q": "The center of gravity of a body is the unique point through which the resultant of its ______ forces acts.",
+    "a": "Centrifugal",
+    "b": "Frictional",
+    "c": "Gravitational",
+    "d": "Applied",
+    "ans": "c"
+  },
+  {
+    "q": "What physical property of a rigid body is a measure of its resistance to angular acceleration about a given axis?",
+    "a": "Mass",
+    "b": "Torsion",
+    "c": "Moment of inertia",
+    "d": "Polar modulus",
+    "ans": "c"
+  },
+  {
+    "q": "What is the standard SI unit for mass moment of inertia?",
+    "a": "kg-m",
+    "b": "kg-m^2",
+    "c": "kg/m^2",
+    "d": "N-m",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard SI unit for area moment of inertia?",
+    "a": "m^2",
+    "b": "m^3",
+    "c": "m^4",
+    "d": "kg-m^2",
+    "ans": "c"
+  },
+  {
+    "q": "Which theorem is used to find the moment of inertia of a body about a parallel axis when its moment of inertia about a centroidal axis is known?",
+    "a": "Lami's Theorem",
+    "b": "Varignon's Theorem",
+    "c": "Parallel Axis Theorem",
+    "d": "Huygens' wavelet principle",
+    "ans": "c"
+  },
+  {
+    "q": "The motion of a translating body moving along a straight line path is called:",
+    "a": "Curvilinear translation",
+    "b": "Rectilinear translation",
+    "c": "Rotational translation",
+    "d": "Projected motion",
+    "ans": "b"
+  },
+  {
+    "q": "If the path of a translating body is curved, its motion is referred to as:",
+    "a": "Rectilinear translation",
+    "b": "Curvilinear translation",
+    "c": "Rotational motion",
+    "d": "Parallel translation",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as the rate of change of displacement with respect to time?",
+    "a": "Speed",
+    "b": "Velocity",
+    "c": "Acceleration",
+    "d": "Momentum",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as the rate of change of velocity with respect to time?",
+    "a": "Displacement",
+    "b": "Speed",
+    "c": "Acceleration",
+    "d": "Momentum",
+    "ans": "c"
+  },
+  {
+    "q": "The area under a velocity-time (v-t) curve represents the change in:",
+    "a": "Acceleration",
+    "b": "Velocity",
+    "c": "Displacement",
+    "d": "Force",
+    "ans": "c"
+  },
+  {
+    "q": "The area under an acceleration-time (a-t) curve represents the change in:",
+    "a": "Acceleration",
+    "b": "Displacement",
+    "c": "Velocity",
+    "d": "Force",
+    "ans": "c"
+  },
+  {
+    "q": "Any object that is given an initial velocity and subsequently follows a path determined solely by gravity and atmospheric resistance is a:",
+    "a": "Satellite",
+    "b": "Projectile",
+    "c": "Dynamic particle",
+    "d": "Orbiting body",
+    "ans": "b"
+  },
+  {
+    "q": "What is the path followed by a projectile during its flight through space called?",
+    "a": "Orbit",
+    "b": "Trajectory",
+    "c": "Asymptote",
+    "d": "Vector path",
+    "ans": "b"
+  },
+  {
+    "q": "In a vacuum, what geometric shape is followed by a projectile's trajectory?",
+    "a": "Circle",
+    "b": "Ellipse",
+    "c": "Parabola",
+    "d": "Hyperbola",
+    "ans": "c"
+  },
+  {
+    "q": "At the highest peak of a projectile's parabolic path, its vertical velocity component is equal to:",
+    "a": "Its initial velocity",
+    "b": "Its horizontal velocity component",
+    "c": "Zero",
+    "d": "Acceleration due to gravity",
+    "ans": "c"
+  },
+  {
+    "q": "The normal (centripetal) component of acceleration for a particle moving in a circular path of radius r with speed v is represented by:",
+    "a": "v^2/r",
+    "b": "v/r",
+    "c": "v*r",
+    "d": "dv/dt",
+    "ans": "a"
+  },
+  {
+    "q": "The tangential component of acceleration for a particle moving in a curved path represents the rate of change of:",
+    "a": "Direction of motion",
+    "b": "Speed",
+    "c": "Radius of curvature",
+    "d": "Angular position",
+    "ans": "b"
+  },
+  {
+    "q": "What physical quantity is defined as the product of the mass and velocity of an object?",
+    "a": "Force",
+    "b": "Work",
+    "c": "Impulse",
+    "d": "Momentum",
+    "ans": "d"
+  },
+  {
+    "q": "What physical quantity is defined as the product of an applied force and the time interval over which it acts?",
+    "a": "Momentum",
+    "b": "Work",
+    "c": "Impulse",
+    "d": "Kinetic Energy",
+    "ans": "c"
+  },
+  {
+    "q": "The principle stating that the impulse of a force acting on a body equals the corresponding change in its momentum is the:",
+    "a": "Work-Energy Principle",
+    "b": "Impulse-Momentum Principle",
+    "c": "D'Alembert's Principle",
+    "d": "Conservation of Energy Principle",
+    "ans": "b"
+  },
+  {
+    "q": "What type of collision occurs when the total kinetic energy of the colliding bodies is completely conserved?",
+    "a": "Perfectly inelastic collision",
+    "b": "Perfectly elastic collision",
+    "c": "Plastic collision",
+    "d": "Transient collision",
+    "ans": "b"
+  },
+  {
+    "q": "What parameter is defined as the ratio of the relative velocity of separation to the relative velocity of approach of colliding bodies?",
+    "a": "Coefficient of friction",
+    "b": "Coefficient of restitution",
+    "c": "Elastic modulus",
+    "d": "Impact factor",
+    "ans": "b"
+  },
+  {
+    "q": "If two colliding bodies stick together and move as a single unit after impact, the coefficient of restitution is:",
+    "a": "1.0",
+    "b": "0.5",
+    "c": "0",
+    "d": "Infinity",
+    "ans": "c"
+  },
+  {
+    "q": "For a perfectly elastic collision, the coefficient of restitution has a value of:",
+    "a": "0",
+    "b": "0.5",
+    "c": "1.0",
+    "d": "10.0",
+    "ans": "c"
+  },
+  {
+    "q": "The work done on a body by a constant force is defined as the product of the force and the displacement in the:",
+    "a": "Direction perpendicular to the force",
+    "b": "Direction of the force",
+    "c": "Opposite direction of motion",
+    "d": "Direction of gravity",
+    "ans": "b"
+  },
+  {
+    "q": "What is defined as the rate at which work is performed over time?",
+    "a": "Energy",
+    "b": "Force",
+    "c": "Power",
+    "d": "Torque",
+    "ans": "c"
+  },
+  {
+    "q": "What is the base SI unit for power?",
+    "a": "Joule",
+    "b": "Newton",
+    "c": "Watt",
+    "d": "Horsepower",
+    "ans": "c"
+  },
+  {
+    "q": "One horsepower (hp) in the US customary system is equivalent to how many watts?",
+    "a": "550 W",
+    "b": "746 W",
+    "c": "1000 W",
+    "d": "32.2 W",
+    "ans": "b"
+  },
+  {
+    "q": "Which theorem states that the net work done on a body by all acting forces equals the change in its kinetic energy?",
+    "a": "Impulse-Momentum Theorem",
+    "b": "Work-Energy Theorem",
+    "c": "Conservation of Momentum",
+    "d": "D'Alembert's Theorem",
+    "ans": "b"
+  },
+  {
+    "q": "The mutual force of attraction between any two point masses in the universe is formulated by Newton's Law of:",
+    "a": "Inertia",
+    "b": "Universal Gravitation",
+    "c": "Electrostatic Attraction",
+    "d": "Action-Reaction",
+    "ans": "b"
+  },
+  {
+    "q": "The universal gravitational constant G has an approximate numerical value of:",
+    "a": "9.81 x 10^-11 N-m^2/kg^2",
+    "b": "1.60 x 10^-19 N-m^2/kg^2",
+    "c": "6.67 x 10^-11 N-m^2/kg^2",
+    "d": "8.99 x 10^9 N-m^2/kg^2",
+    "ans": "c"
+  },
+  {
+    "q": "The ratio of the maximum limiting force of friction to the normal force between two contact surfaces is the:",
+    "a": "Angle of repose",
+    "b": "Coefficient of friction",
+    "c": "Friction threshold",
+    "d": "Contact resistance",
+    "ans": "b"
+  },
+  {
+    "q": "The friction force that opposes the initiation of relative motion between two contact surfaces at rest is:",
+    "a": "Kinetic friction",
+    "b": "Static friction",
+    "c": "Rolling friction",
+    "d": "Fluid friction",
+    "ans": "b"
+  },
+  {
+    "q": "The friction force that opposes the relative sliding motion of two contact surfaces in motion is:",
+    "a": "Static friction",
+    "b": "Kinetic friction",
+    "c": "Rolling friction",
+    "d": "Viscous drag",
+    "ans": "b"
+  },
+  {
+    "q": "For any given pair of dry solid surfaces, the coefficient of kinetic friction is typically:",
+    "a": "Greater than the coefficient of static friction",
+    "b": "Less than the coefficient of static friction",
+    "c": "Equal to the coefficient of static friction",
+    "d": "Double the coefficient of static friction",
+    "ans": "b"
+  },
+  {
+    "q": "The maximum angle of inclination at which a body on an inclined plane remains at rest under gravity without sliding is the:",
+    "a": "Angle of friction",
+    "b": "Angle of repose",
+    "c": "Critical bank angle",
+    "d": "Refraction angle",
+    "ans": "b"
+  },
+  {
+    "q": "What physical phenomenon occurs when a sound source travels through a medium at a speed exceeding the speed of sound in that medium?",
+    "a": "Acoustic resonance",
+    "b": "Shockwave",
+    "c": "Ultrasonic wave",
+    "d": "Infrasonic wave",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the velocity of an object to the velocity of sound in the surrounding medium is defined as the:",
+    "a": "Reynolds number",
+    "b": "Mach number",
+    "c": "Prandtl number",
+    "d": "Weber number",
+    "ans": "b"
+  },
+  {
+    "q": "Sound intensity levels are measured and expressed using what logarithmic unit?",
+    "a": "Phon",
+    "b": "Decibel",
+    "c": "Sone",
+    "d": "Hertz",
+    "ans": "b"
+  },
+  {
+    "q": "What is the shift in the observed frequency of a wave caused by the relative motion between the wave source and the observer?",
+    "a": "Tyndall Effect",
+    "b": "Doppler Effect",
+    "c": "Zeeman Effect",
+    "d": "Photoelectric Effect",
+    "ans": "b"
+  },
+  {
+    "q": "Which principle states that every point on an advancing wavefront can be considered as a secondary source of spherical wavelets?",
+    "a": "Fermat's Principle",
+    "b": "Huygens' Principle",
+    "c": "Snell's Law",
+    "d": "Brewster's Law",
+    "ans": "b"
+  },
+  {
+    "q": "The bending of light as it passes obliquely from one medium to another of different optical density is called:",
+    "a": "Reflection",
+    "b": "Refraction",
+    "c": "Diffraction",
+    "d": "Dispersion",
+    "ans": "b"
+  },
+  {
+    "q": "What law mathematically relates the angles of incidence and refraction to the refractive indices of the media?",
+    "a": "Huygens' Law",
+    "b": "Snell's Law",
+    "c": "Fermat's Law",
+    "d": "Coulomb's Law",
+    "ans": "b"
+  },
+  {
+    "q": "What phenomenon occurs when light traveling in a denser medium hits a boundary with a less dense medium at an angle greater than the critical angle?",
+    "a": "Total internal reflection",
+    "b": "Double refraction",
+    "c": "Polarization",
+    "d": "Dispersion",
+    "ans": "a"
+  },
+  {
+    "q": "The separation of white light into its constituent spectral colors when passing through a prism is known as:",
+    "a": "Diffraction",
+    "b": "Refraction",
+    "c": "Dispersion",
+    "d": "Interference",
+    "ans": "c"
+  },
+  {
+    "q": "The emission of electrons from the surface of a metal when light of a sufficiently high frequency shines upon it is the:",
+    "a": "Tyndall effect",
+    "b": "Photoelectric effect",
+    "c": "Compton effect",
+    "d": "Zeeman effect",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the electrostatic force between two point charges is proportional to the product of charges and inversely proportional to the square of distance?",
+    "a": "Gauss's Law",
+    "b": "Coulomb's Law",
+    "c": "Faraday's Law",
+    "d": "Ohm's Law",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard SI unit of electrical charge?",
+    "a": "Ampere",
+    "b": "Coulomb",
+    "c": "Volt",
+    "d": "Farad",
+    "ans": "b"
+  },
+  {
+    "q": "The electrostatic force per unit charge experienced by a small positive test charge placed at a point in space is the definition of:",
+    "a": "Electric potential",
+    "b": "Electric field intensity",
+    "c": "Electric flux",
+    "d": "Capacitance",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the net electric flux passing through any closed surface is proportional to the net charge enclosed inside?",
+    "a": "Coulomb's Law",
+    "b": "Gauss's Law",
+    "c": "Faraday's Law",
+    "d": "Lenz's Law",
+    "ans": "b"
+  },
+  {
+    "q": "A passive electronic component consisting of two conducting plates separated by an insulating dielectric layer used to store charge is a:",
+    "a": "Resistor",
+    "b": "Capacitor",
+    "c": "Inductor",
+    "d": "Diode",
+    "ans": "b"
+  },
+  {
+    "q": "What is the property defined as the ratio of the electric charge stored on a conductor to its corresponding change in potential difference?",
+    "a": "Inductance",
+    "b": "Capacitance",
+    "c": "Resistance",
+    "d": "Conductance",
+    "ans": "b"
+  },
+  {
+    "q": "What is the standard SI unit of electrical capacitance?",
+    "a": "Ohm",
+    "b": "Farad",
+    "c": "Henry",
+    "d": "Tesla",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the magnitude of an induced electromotive force in a closed circuit is proportional to the rate of change of magnetic flux?",
+    "a": "Gauss's Law",
+    "b": "Faraday's Law of Induction",
+    "c": "Ampere's Law",
+    "d": "Ohm's Law",
+    "ans": "b"
+  },
+  {
+    "q": "Which law states that the direction of an induced current is such that it opposes the change in magnetic flux that created it?",
+    "a": "Faraday's Law",
+    "b": "Lenz's Law",
+    "c": "Coulomb's Law",
+    "d": "Maxwell's Law",
+    "ans": "b"
+  },
+  {
+    "q": "Electromagnetic waves with wavelengths ranging from 1 mm to 1 m, commonly generated by electronic devices for radar and communication, are:",
+    "a": "Radio waves",
+    "b": "Microwaves",
+    "c": "Infrared waves",
+    "d": "X-rays",
+    "ans": "b"
+  },
+  {
+    "q": "High-energy, short-wavelength electromagnetic waves commonly used in medical diagnostics to image bone structures are:",
+    "a": "Microwaves",
+    "b": "X-rays",
+    "c": "Radio waves",
+    "d": "Infrared waves",
+    "ans": "b"
+  },
+  {
+    "q": "The distance from the center of a thin lens or spherical mirror to its focal point is defined as the:",
+    "a": "Aperture",
+    "b": "Radius of curvature",
+    "c": "Focal length",
+    "d": "Optical axis",
+    "ans": "c"
+  },
+  {
+    "q": "The specific point where parallel rays of light converge or from which they appear to diverge after refraction or reflection is the:",
+    "a": "Center of curvature",
+    "b": "Principal focus",
+    "c": "Optical center",
+    "d": "Vertex",
+    "ans": "b"
+  },
+  {
+    "q": "What type of spherical mirror can produce both real (inverted) and virtual (upright) images depending on object position?",
+    "a": "Plane mirror",
+    "b": "Convex mirror",
+    "c": "Concave mirror",
+    "d": "Cylindrical mirror",
+    "ans": "c"
+  },
+  {
+    "q": "What type of lens is thinner in the middle than at its edges, causing parallel light rays passing through it to spread out?",
+    "a": "Convex lens",
+    "b": "Concave lens",
+    "c": "Plano-convex lens",
+    "d": "Double convex lens",
+    "ans": "b"
+  },
+  {
+    "q": "What physical property of a wave is defined as the linear distance between two consecutive points that are in phase?",
+    "a": "Period",
+    "b": "Amplitude",
+    "c": "Wavelength",
+    "d": "Frequency",
+    "ans": "c"
+  },
+  {
+    "q": "A car accelerates uniformly from rest to a speed of 100 meters in exactly 5.0 seconds. Find the magnitude of the constant acceleration.",
+    "a": "6.0 m/s^2",
+    "b": "7.0 m/s^2",
+    "c": "8.0 m/s^2",
+    "d": "9.0 m/s^2",
+    "ans": "c"
+  },
+  {
+    "q": "A high-speed train starts from rest and accelerates uniformly at 3.0 m/s^2 for 10.0 seconds. How far does the train travel during this time interval?",
+    "a": "120 m",
+    "b": "150 m",
+    "c": "180 m",
+    "d": "200 m",
+    "ans": "b"
+  },
+  {
+    "q": "A sounding rocket is fired vertically upward with an initial velocity of 100 m/s. How many seconds does it take to reach its highest peak?",
+    "a": "5.1 seconds",
+    "b": "10.2 seconds",
+    "c": "15.3 seconds",
+    "d": "20.4 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "An object was dropped from a height of 50 m. At the same instant, another object was fired vertically from the ground at an initial velocity of 20 m/s. When will the two objects be at the same level?",
+    "a": "1.5 seconds",
+    "b": "2.0 seconds",
+    "c": "2.5 seconds",
+    "d": "3.5 seconds",
+    "ans": "c"
+  },
+  {
+    "q": "A body fired from the ground at an inclination of 30° with the horizontal attained a maximum height of 500 m. The body stayed in the air for how many seconds? (g = 9.81 m/s^2)",
+    "a": "15.4 seconds",
+    "b": "20.2 seconds",
+    "c": "25.4 seconds",
+    "d": "30.5 seconds",
+    "ans": "b"
+  },
+  {
+    "q": "A stone is thrown horizontally from the top of a cliff 80.0 m high with an initial velocity of 30.0 m/s. How far from the base of the cliff does it strike the ground? (g = 9.81 m/s^2)",
+    "a": "101.4 m",
+    "b": "110.2 m",
+    "c": "121.2 m",
+    "d": "131.5 m",
+    "ans": "c"
+  },
+  {
+    "q": "A block of mass 10.0 kg is pulled along a horizontal floor with a force of 50.0 N. If the coefficient of kinetic friction is 0.30, what is the acceleration of the block? (g = 9.81 m/s^2)",
+    "a": "1.54 m/s^2",
+    "b": "2.06 m/s^2",
+    "c": "2.58 m/s^2",
+    "d": "3.12 m/s^2",
+    "ans": "b"
+  },
+  {
+    "q": "The driver of a car traveling at 25.0 m/s decelerates uniformly to 16.0 m/s to round a curve. If the deceleration has a magnitude of 6.0 m/s^2, how far does it travel while reducing speed?",
+    "a": "25.50 m",
+    "b": "28.25 m",
+    "c": "30.75 m",
+    "d": "35.50 m",
+    "ans": "c"
+  },
+  {
+    "q": "A projectile leaves with a velocity of 100 m/s at an angle of 45° with the horizontal. Find the total range of the projectile on a horizontal plane. (g = 9.81 m/s^2)",
+    "a": "882.8 m",
+    "b": "912.4 m",
+    "c": "1019.4 m",
+    "d": "1125.6 m",
+    "ans": "c"
+  },
+  {
+    "q": "A baseball is thrown from a horizontal plane following a parabolic path with an initial velocity of 100 m/s at an angle of 30° above the horizontal. How far from the throwing point will the ball attain its original level? (g = 9.81 m/s^2)",
+    "a": "825.0 m",
+    "b": "850.5 m",
+    "c": "882.8 m",
+    "d": "912.4 m",
+    "ans": "c"
+  },
+  {
+    "q": "What is the speed of a jet plane traveling at Mach number 2.0 if the speed of sound in the surrounding air is 340 m/s?",
+    "a": "510 m/s",
+    "b": "640 m/s",
+    "c": "680 m/s",
+    "d": "720 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A projectile is fired upward at an angle of 20° with the horizontal from the top of a tower 30 m high. If it hits the level ground after 20.20 seconds, what is its horizontal range?",
+    "a": "5386.30 m",
+    "b": "5415.37 m",
+    "c": "5642.22 m",
+    "d": "6329.33 m",
+    "ans": "b"
+  },
+  {
+    "q": "A stone is dropped into a deep well. The sound of the splash is heard 5.0 seconds later. If the speed of sound is 340 m/s, how deep is the well? (g = 9.81 m/s^2)",
+    "a": "95.5 m",
+    "b": "107.8 m",
+    "c": "122.5 m",
+    "d": "135.2 m",
+    "ans": "b"
+  },
+  {
+    "q": "A car accelerates from rest at a rate of 2.0 m/s^2 for 5.0 seconds, then travels at constant velocity for 10.0 seconds, and finally decelerates to rest in 4.0 seconds. Find the total distance traveled.",
+    "a": "125 m",
+    "b": "135 m",
+    "c": "145 m",
+    "d": "155 m",
+    "ans": "c"
+  },
+  {
+    "q": "A train starting from rest travels 360 meters with constant acceleration. If its final speed is 24.0 m/s, calculate its acceleration.",
+    "a": "0.50 m/s^2",
+    "b": "0.65 m/s^2",
+    "c": "0.80 m/s^2",
+    "d": "1.20 m/s^2",
+    "ans": "c"
+  },
+  {
+    "q": "A block slides down a 30° inclined plane with constant velocity. Find the coefficient of kinetic friction between the block and the plane.",
+    "a": "0.450",
+    "b": "0.500",
+    "c": "0.577",
+    "d": "0.707",
+    "ans": "c"
+  },
+  {
+    "q": "An object is released from a height of 64 ft and is given an initial horizontal velocity of 20 ft/s. When the object strikes the ground, how far has it traveled in a horizontal direction?",
+    "a": "28.5 ft",
+    "b": "35.2 ft",
+    "c": "39.9 ft",
+    "d": "45.3 ft",
+    "ans": "c"
+  },
+  {
+    "q": "A flywheel of radius 0.50 m rotates at 300 rpm. What is its angular velocity in radians per second?",
+    "a": "15.7 rad/s",
+    "b": "20.5 rad/s",
+    "c": "31.4 rad/s",
+    "d": "42.8 rad/s",
+    "ans": "c"
+  },
+  {
+    "q": "A wheel starting from rest accelerates uniformly to an angular velocity of 60.0 rad/s in 12.0 seconds. Find its angular acceleration.",
+    "a": "3.0 rad/s^2",
+    "b": "4.0 rad/s^2",
+    "c": "5.0 rad/s^2",
+    "d": "6.0 rad/s^2",
+    "ans": "c"
+  },
+  {
+    "q": "A particle moves in a circular path of radius 5.0 m with a constant speed of 10.0 m/s. What is the magnitude of its normal (centripetal) acceleration?",
+    "a": "10.0 m/s^2",
+    "b": "15.0 m/s^2",
+    "c": "20.0 m/s^2",
+    "d": "25.0 m/s^2",
+    "ans": "c"
+  },
+  {
+    "q": "A constant force of 100 N is applied to a body of mass 20 kg for 4.0 seconds. Find the change in velocity of the body.",
+    "a": "10 m/s",
+    "b": "15 m/s",
+    "c": "20 m/s",
+    "d": "25 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A 1500 kg car traveling at 20 m/s collides with a wall and comes to a stop in 0.15 seconds. Find the average force exerted on the car during impact.",
+    "a": "-100 kN",
+    "b": "-150 kN",
+    "c": "-200 kN",
+    "d": "-250 kN",
+    "ans": "c"
+  },
+  {
+    "q": "Two bodies of masses 3.0 kg and 5.0 kg move toward each other with speeds of 4.0 m/s and 2.0 m/s, respectively. If they collide in a perfectly inelastic collision (stick together), find their final common velocity.",
+    "a": "0.15 m/s",
+    "b": "0.25 m/s",
+    "c": "0.50 m/s",
+    "d": "0.75 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A 0.10 kg baseball traveling at 30 m/s is hit by a bat, reversing its direction so that it travels at 40 m/s. If the contact time is 0.0050 seconds, find the average force exerted on the ball.",
+    "a": "1000 N",
+    "b": "1200 N",
+    "c": "1400 N",
+    "d": "1600 N",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done in lifting a 50 kg crate vertically through a height of 8.0 meters. (g = 9.81 m/s^2)",
+    "a": "3120 J",
+    "b": "3540 J",
+    "c": "3924 J",
+    "d": "4310 J",
+    "ans": "c"
+  },
+  {
+    "q": "A 2.0 hp motor is used to lift a load at a constant speed of 1.5 m/s. Find the maximum mass of the load that the motor can lift. (1 hp = 746 W, g = 9.81 m/s^2)",
+    "a": "85.5 kg",
+    "b": "94.2 kg",
+    "c": "101.4 kg",
+    "d": "115.6 kg",
+    "ans": "c"
+  },
+  {
+    "q": "A 1000 kg car traveling at 10.0 m/s accelerates to 20.0 m/s. Calculate the net work done on the car.",
+    "a": "100 kJ",
+    "b": "125 kJ",
+    "c": "150 kJ",
+    "d": "175 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A stone is thrown from the top of a building 40.0 m high with an initial upward velocity of 15.0 m/s. Find its speed when it hits the ground, neglecting air resistance. (g = 9.81 m/s^2)",
+    "a": "25.4 m/s",
+    "b": "28.5 m/s",
+    "c": "31.8 m/s",
+    "d": "35.2 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "What is the gravitational force of attraction between two spheres of masses 50.0 kg and 100.0 kg whose centers are separated by 2.0 meters? (G = 6.67 x 10^-11 N-m^2/kg^2)",
+    "a": "4.17 x 10^-8 N",
+    "b": "6.25 x 10^-8 N",
+    "c": "8.34 x 10^-8 N",
+    "d": "1.25 x 10^-7 N",
+    "ans": "c"
+  },
+  {
+    "q": "A block of mass 5.0 kg is placed on a rough horizontal surface. If a horizontal force of 20.0 N is required to just start the block moving, find the coefficient of static friction. (g = 9.81 m/s^2)",
+    "a": "0.312",
+    "b": "0.354",
+    "c": "0.408",
+    "d": "0.450",
+    "ans": "c"
+  },
+  {
+    "q": "A block of mass 8.0 kg is on a 25° inclined plane. If the coefficient of static friction is 0.40, find the maximum friction force preventing it from sliding down.",
+    "a": "18.5 N",
+    "b": "22.4 N",
+    "c": "28.5 N",
+    "d": "33.2 N",
+    "ans": "c"
+  },
+  {
+    "q": "Sound waves travel in air at 340 m/s. What is the wavelength of a sound wave with a frequency of 20,000 Hz?",
+    "a": "1.7 mm",
+    "b": "1.7 cm",
+    "c": "1.7 dm",
+    "d": "1.7 m",
+    "ans": "b"
+  },
+  {
+    "q": "Find the sound intensity level in decibels for a sound of intensity 1.0 x 10^-8 W/m^2. (I0 = 1.0 x 10^-12 W/m^2)",
+    "a": "20 dB",
+    "b": "30 dB",
+    "c": "40 dB",
+    "d": "50 dB",
+    "ans": "c"
+  },
+  {
+    "q": "A police siren emits sound at a frequency of 1000 Hz. If the police car is moving toward a stationary observer at 30.0 m/s, what frequency is heard by the observer? (Speed of sound = 340 m/s)",
+    "a": "912.5 Hz",
+    "b": "1000.0 Hz",
+    "c": "1096.8 Hz",
+    "d": "1150.2 Hz",
+    "ans": "c"
+  },
+  {
+    "q": "A ray of light in air (n1 = 1.00) strikes a glass plate (n2 = 1.50) at an angle of incidence of 30.0°. Find the angle of refraction in the glass.",
+    "a": "15.51°",
+    "b": "19.47°",
+    "c": "22.12°",
+    "d": "25.54°",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the critical angle for total internal reflection for light passing from water (n1 = 1.33) to air (n2 = 1.00).",
+    "a": "38.51°",
+    "b": "41.25°",
+    "c": "48.75°",
+    "d": "53.12°",
+    "ans": "c"
+  },
+  {
+    "q": "Two positive point charges of 3.0 microcoulombs and 5.0 microcoulombs are separated by a distance of 0.20 meters in a vacuum. What is the magnitude of the electrostatic force between them? (k = 8.99 x 10^9 N-m^2/C^2)",
+    "a": "1.12 N",
+    "b": "2.25 N",
+    "c": "3.37 N",
+    "d": "4.50 N",
+    "ans": "c"
+  },
+  {
+    "q": "A capacitor of capacitance 20.0 microfarads is connected to a 12.0 V battery. Find the electric charge stored on the plates.",
+    "a": "120 microcoulombs",
+    "b": "180 microcoulombs",
+    "c": "240 microcoulombs",
+    "d": "300 microcoulombs",
+    "ans": "c"
+  },
+  {
+    "q": "Two capacitors of capacitances 10.0 microfarads and 15.0 microfarads are connected in series. Find the equivalent capacitance of the combination.",
+    "a": "4.0 microfarads",
+    "b": "6.0 microfarads",
+    "c": "8.0 microfarads",
+    "d": "12.0 microfarads",
+    "ans": "b"
+  },
+  {
+    "q": "Two capacitors of capacitances 10.0 microfarads and 15.0 microfarads are connected in parallel. Find the equivalent capacitance of the combination.",
+    "a": "15.0 microfarads",
+    "b": "20.0 microfarads",
+    "c": "25.0 microfarads",
+    "d": "30.0 microfarads",
+    "ans": "c"
+  },
+  {
+    "q": "An electrostatic field of intensity 500 N/C exists between two parallel plates separated by 0.020 meters. Find the potential difference between the plates.",
+    "a": "5.0 V",
+    "b": "7.5 V",
+    "c": "10.0 V",
+    "d": "15.0 V",
+    "ans": "c"
+  },
+  {
+    "q": "A wire loop of area 0.10 m^2 is placed perpendicular to a magnetic field. If the magnetic field increases from 0.20 T to 0.80 T in 0.50 seconds, find the magnitude of the average induced electromotive force.",
+    "a": "0.06 V",
+    "b": "0.12 V",
+    "c": "0.18 V",
+    "d": "0.24 V",
+    "ans": "b"
+  },
+  {
+    "q": "Find the focal length of a spherical concave mirror that has a radius of curvature of 30.0 cm.",
+    "a": "7.5 cm",
+    "b": "10.0 cm",
+    "c": "15.0 cm",
+    "d": "30.0 cm",
+    "ans": "c"
+  },
+  {
+    "q": "An object is placed 20.0 cm in front of a concave mirror of focal length 15.0 cm. Find the position of the image formed.",
+    "a": "30.0 cm",
+    "b": "45.0 cm",
+    "c": "60.0 cm",
+    "d": "75.0 cm",
+    "ans": "c"
+  },
+  {
+    "q": "A double convex lens has a focal length of 10.0 cm. If an object is placed 15.0 cm in front of the lens, find the position of the image formed.",
+    "a": "15.0 cm",
+    "b": "20.0 cm",
+    "c": "25.0 cm",
+    "d": "30.0 cm",
+    "ans": "c"
+  },
+  {
+    "q": "A simple pendulum has a length of 1.00 m. Find its period of oscillation. (g = 9.81 m/s^2)",
+    "a": "1.50 seconds",
+    "b": "1.80 seconds",
+    "c": "2.01 seconds",
+    "d": "2.50 seconds",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the speed of light in water if the index of refraction of water is 1.33. (c = 3.00 x 10^8 m/s)",
+    "a": "1.85 x 10^8 m/s",
+    "b": "2.00 x 10^8 m/s",
+    "c": "2.26 x 10^8 m/s",
+    "d": "2.50 x 10^8 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "Two perpendicular vectors are given in terms of their components by U = Ux*i - 4j + 6k and V = 3i + 2j - 3k. Determine the component Ux.",
+    "a": "8.67",
+    "b": "7.67",
+    "c": "6.67",
+    "d": "5.67",
+    "ans": "a"
+  },
+  {
+    "q": "A stone is dropped from a bridge. If it takes 3.00 seconds to hit the water, find the height of the bridge. (g = 9.81 m/s^2)",
+    "a": "29.4 m",
+    "b": "35.2 m",
+    "c": "44.1 m",
+    "d": "55.4 m",
+    "ans": "c"
+  },
+  {
+    "q": "A ball is thrown vertically upward with a speed of 25.0 m/s. What is the maximum height attained? (g = 9.81 m/s^2)",
+    "a": "25.4 m",
+    "b": "28.5 m",
+    "c": "31.9 m",
+    "d": "35.2 m",
+    "ans": "c"
+  },
+  {
+    "q": "A car traveling at 15.0 m/s accelerates at 2.0 m/s^2 for 6.0 seconds. Find its final speed.",
+    "a": "22.0 m/s",
+    "b": "25.0 m/s",
+    "c": "27.0 m/s",
+    "d": "30.0 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "Find the magnitude of the force required to accelerate a 1200 kg car from 10.0 m/s to 20.0 m/s in 5.0 seconds.",
+    "a": "1200 N",
+    "b": "1800 N",
+    "c": "2400 N",
+    "d": "3000 N",
+    "ans": "c"
+  },
+  {
+    "q": "A block of mass 15.0 kg is suspended by a rope. If the block is accelerated upward at 2.0 m/s^2, find the tension in the rope. (g = 9.81 m/s^2)",
+    "a": "117.2 N",
+    "b": "147.2 N",
+    "c": "177.2 N",
+    "d": "207.2 N",
+    "ans": "c"
+  },
+  {
+    "q": "A mass of 4.0 kg is attached to a spring of force constant k = 100 N/m. Find the frequency of simple harmonic motion.",
+    "a": "0.40 Hz",
+    "b": "0.80 Hz",
+    "c": "1.20 Hz",
+    "d": "1.60 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "Find the kinetic energy of a 1500 kg car traveling at a speed of 90 km/h (25 m/s) in kilojoules.",
+    "a": "150.8 kJ",
+    "b": "187.5 kJ",
+    "c": "212.4 kJ",
+    "d": "250.0 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Compute the gravitational force of attraction between two spheres, each of mass 100 kg, placed 1.0 m apart. (G = 6.67 x 10^-11 N-m^2/kg^2)",
+    "a": "3.34 x 10^-9 N",
+    "b": "6.67 x 10^-9 N",
+    "c": "1.33 x 10^-8 N",
+    "d": "2.67 x 10^-8 N",
+    "ans": "b"
+  },
+  {
+    "q": "A torque of 50.0 N-m is applied to a wheel of moment of inertia 10.0 kg-m^2. Find the angular acceleration of the wheel.",
+    "a": "2.5 rad/s^2",
+    "b": "5.0 rad/s^2",
+    "c": "7.5 rad/s^2",
+    "d": "10.0 rad/s^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the potential energy of a 2.0 kg block placed on a shelf 3.0 m above the ground. (g = 9.81 m/s^2)",
+    "a": "45.2 J",
+    "b": "51.5 J",
+    "c": "58.9 J",
+    "d": "65.4 J",
+    "ans": "c"
+  },
+  {
+    "q": "A horizontal force of 30 N pulls a 10 kg block across a rough surface. If the acceleration is 1.5 m/s^2, find the magnitude of the friction force acting on the block.",
+    "a": "10 N",
+    "b": "15 N",
+    "c": "20 N",
+    "d": "25 N",
+    "ans": "b"
+  },
+  {
+    "q": "A force of 200 N is applied at an angle of 30° to the horizontal to pull a crate along a floor. Find the horizontal component of the force.",
+    "a": "100.0 N",
+    "b": "150.0 N",
+    "c": "173.2 N",
+    "d": "200.0 N",
+    "ans": "c"
+  },
+  {
+    "q": "Find the distance traveled by a car while decelerating uniformly from 30.0 m/s to 10.0 m/s in 4.0 seconds.",
+    "a": "60.0 m",
+    "b": "70.0 m",
+    "c": "80.0 m",
+    "d": "90.0 m",
+    "ans": "c"
+  },
+  {
+    "q": "A ball is dropped from a cliff. Find its velocity after falling for 4.00 seconds, neglecting air resistance. (g = 9.81 m/s^2)",
+    "a": "29.43 m/s",
+    "b": "35.21 m/s",
+    "c": "39.24 m/s",
+    "d": "44.12 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A box is pulled up a 20° incline at a constant speed by a force parallel to the incline. If the box weighs 150 N and friction is negligible, find the pulling force.",
+    "a": "35.2 N",
+    "b": "45.4 N",
+    "c": "51.3 N",
+    "d": "61.2 N",
+    "ans": "c"
+  },
+  {
+    "q": "Find the magnitude of the momentum of a 0.15 kg hockey puck sliding at 40 m/s.",
+    "a": "3.0 kg-m/s",
+    "b": "4.5 kg-m/s",
+    "c": "6.0 kg-m/s",
+    "d": "7.5 kg-m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A 50.0 kg swimmer jumps off a 3.0 m high diving board. What is her kinetic energy just before hitting the water?",
+    "a": "1125 J",
+    "b": "1350 J",
+    "c": "1471.5 J",
+    "d": "1600 J",
+    "ans": "c"
+  },
+  {
+    "q": "Find the speed of a sound wave in a steel rod if its frequency is 500 Hz and wavelength is 10.2 meters.",
+    "a": "3400 m/s",
+    "b": "4200 m/s",
+    "c": "5100 m/s",
+    "d": "5900 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A wave of frequency 5.0 Hz travels with a speed of 20.0 m/s. Find the distance between two consecutive wave crests.",
+    "a": "2.0 m",
+    "b": "3.0 m",
+    "c": "4.0 m",
+    "d": "5.0 m",
+    "ans": "c"
+  },
+  {
+    "q": "Two point charges are placed on the x-axis: Q1 = 4.0 microcoulombs is located at x = 0.20 m, and Q2 = 5.0 microcoulombs is located at x = -0.30 m. What is the magnitude of the total force exerted by these charges on a negative point charge Q3 = -6.0 microcoulombs located at the origin? (k = 8.99 x 10^9 N-m^2/C^2)",
+    "a": "1.2 N",
+    "b": "2.4 N",
+    "c": "3.6 N",
+    "d": "4.8 N",
+    "ans": "b"
+  },
+  {
+    "q": "A 60.0 kg pilot pulls out of a dive in a circular arc of radius 150 m at a speed of 50.0 m/s. What is the apparent weight of the pilot at the lowest point of the arc? (g = 9.81 m/s^2)",
+    "a": "588.6 N",
+    "b": "1000.0 N",
+    "c": "1588.8 N",
+    "d": "1980.5 N",
+    "ans": "c"
+  },
+  {
+    "q": "A block passes a point 4.0 m from the edge of a table with a velocity of 5.0 m/s. It slides off the edge of the table, which is 5.0 m high, and strikes the floor 3.0 m horizontally from the edge of the table. What was the coefficient of friction between the block and the table? (g = 9.81 m/s^2)",
+    "a": "0.11",
+    "b": "0.21",
+    "c": "0.65",
+    "d": "1.04",
+    "ans": "b"
+  },
+  {
+    "q": "A stone is thrown upward at an angle of 60° with the horizontal and a resultant vertical speed of 100.0 m/s. If gravity decelerates the vertical speed at 9.80 m/s^2, what is the actual speed of the stone 10.0 seconds later? (g = 9.80 m/s^2)",
+    "a": "57.77 m/s",
+    "b": "60.35 m/s",
+    "c": "64.22 m/s",
+    "d": "67.23 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "A ball is shot at ground level at an angle of 60° with the horizontal with an initial velocity of 100 m/s. Determine the height of the ball after 2.0 seconds. (g = 9.81 m/s^2)",
+    "a": "153.59 m",
+    "b": "162.46 m",
+    "c": "175.48 m",
+    "d": "186.42 m",
+    "ans": "a"
+  },
+  {
+    "q": "A ball is shot at an average speed of 200 m/s at an angle of 20° with the horizontal. What would be the magnitude of the velocity of the ball after 8.0 seconds? (g = 9.81 m/s^2)",
+    "a": "154.34 m/s",
+    "b": "188.21 m/s",
+    "c": "215.53 m/s",
+    "d": "224.23 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A stone is thrown vertically upward from the top of a 100 ft building. At the same instant, a second stone is thrown vertically upward from the ground. The initial velocity of the first stone is 50 ft/s and the second stone is 75 ft/s. Where will the two stones meet (measured from the ground)? (g = 32.2 ft/s^2)",
+    "a": "35.2 ft",
+    "b": "42.4 ft",
+    "c": "57.6 ft",
+    "d": "65.4 ft",
+    "ans": "b"
+  },
+  {
+    "q": "A spring deflects 0.20 inches under a 10.0 lb force. If a 10.0 lb weight is attached to the spring and set in motion, what will be the natural frequency of oscillation of the system? (g = 386 in/s^2)",
+    "a": "5.5 Hz",
+    "b": "7.0 Hz",
+    "c": "8.5 Hz",
+    "d": "10.2 Hz",
+    "ans": "b"
+  },
+  {
+    "q": "A ray of light hits the surface of a flat mirror with an angle of reflection of 10° from the normal. What is the angle of incidence?",
+    "a": "10°",
+    "b": "20°",
+    "c": "40°",
+    "d": "80°",
+    "ans": "a"
+  },
+  {
+    "q": "A conical pendulum consists of a 10 ft string and a bob of mass 0.50 slugs. If the pendulum is rotated at 0.50 revolutions per second (0.50 rev/s), find the angle that the string makes with the vertical. (g = 32.2 ft/s^2)",
+    "a": "45°",
+    "b": "60°",
+    "c": "71°",
+    "d": "75°",
+    "ans": "c"
+  },
+  {
+    "q": "A curve in a road has a radius of 150 ft. If the roadbend is 30 ft wide and the outer edge of the road is 4.0 ft higher than the inner edge, what is the ideal velocity for which the road is banked? (g = 32.2 ft/s^2)",
+    "a": "18.5 ft/s",
+    "b": "22.4 ft/s",
+    "c": "25.4 ft/s",
+    "d": "29.5 ft/s",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the polar moment of inertia (J) of a solid circular shaft of diameter 50.0 mm.",
+    "a": "412,500 mm^4",
+    "b": "525,400 mm^4",
+    "c": "613,592 mm^4",
+    "d": "712,100 mm^4",
+    "ans": "c"
+  },
+  {
+    "q": "A 50 mm diameter solid circular shaft is stressed by 40 MPa while transmitting power at 1200 rpm. Calculate the transmitted horsepower.",
+    "a": "156.50 hp",
+    "b": "165.36 hp",
+    "c": "175.25 hp",
+    "d": "185.60 hp",
+    "ans": "b"
+  },
+  {
+    "q": "A projectile has an initial velocity of 200 m/s acting at an angle of 20° with the horizontal. How long will it take for the projectile to hit the level ground surface? (g = 9.81 m/s^2)",
+    "a": "10.11 s",
+    "b": "13.95 s",
+    "c": "15.75 s",
+    "d": "24.23 s",
+    "ans": "b"
+  },
+  {
+    "q": "A stone is thrown horizontally from a height of 20.0 m with an initial speed of 15.0 m/s. How long does it take to strike the ground? (g = 9.81 m/s^2)",
+    "a": "1.43 s",
+    "b": "2.02 s",
+    "c": "2.54 s",
+    "d": "3.12 s",
+    "ans": "b"
+  },
+  {
+    "q": "A force of 80.0 N acts on a body of mass 10.0 kg. If the body starts from rest, find its kinetic energy after 5.0 seconds.",
+    "a": "4.0 kJ",
+    "b": "6.0 kJ",
+    "c": "8.0 kJ",
+    "d": "10.0 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the frequency of a sound wave whose wavelength is 0.50 m in a medium where the speed of sound is 1500 m/s.",
+    "a": "1.5 kHz",
+    "b": "2.0 kHz",
+    "c": "3.0 kHz",
+    "d": "4.5 kHz",
+    "ans": "c"
+  },
+  {
+    "q": "A 2.0 microfarad capacitor is charged to 100 V. Calculate the potential energy stored in its electric field.",
+    "a": "0.005 J",
+    "b": "0.010 J",
+    "c": "0.020 J",
+    "d": "0.050 J",
+    "ans": "b"
+  },
+  {
+    "q": "A parallel-plate capacitor with plate area of 0.10 m^2 and plate separation of 0.0050 m is filled with a dielectric of relative permittivity K = 5.00. Find its capacitance. (epsilon0 = 8.85 x 10^-12 F/m)",
+    "a": "442 pF",
+    "b": "625 pF",
+    "c": "885 pF",
+    "d": "1120 pF",
+    "ans": "c"
+  },
+  {
+    "q": "An object of weight 200 N is pulled along a horizontal floor by a force of 60 N acting horizontally. If the object moves at a constant speed, find the coefficient of kinetic friction.",
+    "a": "0.20",
+    "b": "0.25",
+    "c": "0.30",
+    "d": "0.40",
+    "ans": "c"
+  },
+  {
+    "q": "A 50.0 kg crate is pushed up a 30° inclined plane. If the coefficient of kinetic friction is 0.25, find the friction force acting on the crate. (g = 9.81 m/s^2)",
+    "a": "85.5 N",
+    "b": "106.2 N",
+    "c": "122.4 N",
+    "d": "145.2 N",
+    "ans": "b"
+  },
+  {
+    "q": "What is the sound level in decibels of a sound wave whose intensity is 1.0 x 10^-4 W/m^2? (I0 = 1.0 x 10^-12 W/m^2)",
+    "a": "60 dB",
+    "b": "70 dB",
+    "c": "80 dB",
+    "d": "90 dB",
+    "ans": "c"
+  },
+  {
+    "q": "A jet plane flies at Mach 2.5 in air where the speed of sound is 330 m/s. Find the speed of the plane.",
+    "a": "660 m/s",
+    "b": "725 m/s",
+    "c": "825 m/s",
+    "d": "915 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A ray of light is refracted at a glass-water interface. If the angle of incidence in glass (n1 = 1.50) is 25.0°, find the angle of refraction in water (n2 = 1.33).",
+    "a": "22.12°",
+    "b": "25.50°",
+    "c": "28.46°",
+    "d": "31.12°",
+    "ans": "c"
+  },
+  {
+    "q": "A positive point charge Q1 = 2.0 microcoulombs is separated by 0.10 m from a negative point charge Q2 = -3.0 microcoulombs. Find the magnitude of the attractive force between them. (k = 8.99 x 10^9 N-m^2/C^2)",
+    "a": "2.12 N",
+    "b": "3.54 N",
+    "c": "5.39 N",
+    "d": "7.25 N",
+    "ans": "c"
+  },
+  {
+    "q": "A uniform beam of length 4.0 m and mass 50.0 kg is supported at both ends. If a 100.0 kg man stands 1.0 m from the left end, find the support reaction at the left end. (g = 9.81 m/s^2)",
+    "a": "490.5 N",
+    "b": "735.8 N",
+    "c": "981.0 N",
+    "d": "1226.3 N",
+    "ans": "c"
+  },
+  {
+    "q": "A torque of 80 N-m is required to accelerate a rotor at 4.0 rad/s^2. Calculate the moment of inertia of the rotor.",
+    "a": "10.0 kg-m^2",
+    "b": "15.0 kg-m^2",
+    "c": "20.0 kg-m^2",
+    "d": "25.0 kg-m^2",
+    "ans": "c"
+  },
+  {
+    "q": "Find the escape velocity from the surface of the Earth. (Mass of Earth = 5.97 x 10^24 kg, Radius of Earth = 6.37 x 10^6 m, G = 6.67 x 10^-11 N-m^2/kg^2)",
+    "a": "8.5 km/s",
+    "b": "11.2 km/s",
+    "c": "14.3 km/s",
+    "d": "16.7 km/s",
+    "ans": "b"
+  },
+  {
+    "q": "A 2.0 kg block is dropped from a height of 5.0 m onto a vertical spring of force constant k = 2000 N/m. Find the maximum compression of the spring. (g = 9.81 m/s^2)",
+    "a": "22.4 cm",
+    "b": "28.5 cm",
+    "c": "32.3 cm",
+    "d": "38.2 cm",
+    "ans": "c"
+  },
+  {
+    "q": "A car travels around a flat circular track of radius 100 m. If the coefficient of static friction between the tires and the track is 0.50, find the maximum speed the car can attain without sliding. (g = 9.81 m/s^2)",
+    "a": "15.5 m/s",
+    "b": "18.2 m/s",
+    "c": "22.1 m/s",
+    "d": "25.4 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A simple harmonic oscillator has an amplitude of 0.20 m and a period of 2.0 seconds. Find the maximum speed of the oscillator.",
+    "a": "0.314 m/s",
+    "b": "0.450 m/s",
+    "c": "0.628 m/s",
+    "d": "0.850 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "Two wires support a 100 kg load. If each wire makes an angle of 45° with the horizontal, find the tension in each wire. (g = 9.81 m/s^2)",
+    "a": "490.5 N",
+    "b": "565.4 N",
+    "c": "693.8 N",
+    "d": "981.0 N",
+    "ans": "c"
+  },
+  {
+    "q": "A stone is projected at an angle of 30° with the horizontal from the ground. If its initial velocity is 40.0 m/s, find its height (y) 1.50 seconds later. (g = 9.81 m/s^2)",
+    "a": "12.45 m",
+    "b": "15.52 m",
+    "c": "18.96 m",
+    "d": "22.12 m",
+    "ans": "c"
+  },
+  {
+    "q": "Find the magnitude of the vector sum of two forces: F1 = 30.0 N acting East, and F2 = 40.0 N acting North.",
+    "a": "35.0 N",
+    "b": "45.0 N",
+    "c": "50.0 N",
+    "d": "70.0 N",
+    "ans": "c"
+  },
+  {
+    "q": "A 10.0 kg sled is pulled 20.0 m across a horizontal snow surface by a constant force of 30.0 N acting at an angle of 25° to the horizontal. If friction is negligible, find the work done.",
+    "a": "412.5 J",
+    "b": "485.4 J",
+    "c": "543.8 J",
+    "d": "600.0 J",
+    "ans": "c"
+  },
+  {
+    "q": "Compute the speed of a transverse wave in a string of length 2.0 m and mass 0.040 kg if it is stretched with a tension of 80 N.",
+    "a": "44.7 m/s",
+    "b": "53.2 m/s",
+    "c": "63.2 m/s",
+    "d": "71.4 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A converging lens of focal length 12.0 cm forms a real image that is twice the size of the object. Find the object distance.",
+    "a": "12.0 cm",
+    "b": "15.0 cm",
+    "c": "18.0 cm",
+    "d": "24.0 cm",
+    "ans": "c"
+  },
+  {
+    "q": "A 3.0 microfarad capacitor and a 6.0 microfarad capacitor are connected in parallel across a 12.0 V battery. Find the total electric energy stored.",
+    "a": "0.324 mJ",
+    "b": "0.486 mJ",
+    "c": "0.648 mJ",
+    "d": "0.812 mJ",
+    "ans": "c"
+  },
+  {
+    "q": "A step-up transformer has 100 turns on its primary coil and 500 turns on its secondary coil. If the primary voltage is 120 V, find the secondary voltage.",
+    "a": "240 V",
+    "b": "480 V",
+    "c": "600 V",
+    "d": "720 V",
+    "ans": "c"
+  },
+  {
+    "q": "A 2.0 kg block is dropped from a height of 20.0 m. How much time does it take to reach the ground? (g = 9.81 m/s^2)",
+    "a": "1.43 s",
+    "b": "2.02 s",
+    "c": "2.54 s",
+    "d": "3.12 s",
+    "ans": "b"
+  },
+  {
+    "q": "Find the maximum height reached by a stone thrown vertically upward with an initial speed of 18.0 m/s. (g = 9.81 m/s^2)",
+    "a": "12.45 m",
+    "b": "14.12 m",
+    "c": "16.51 m",
+    "d": "18.22 m",
+    "ans": "c"
+  },
+  {
+    "q": "A car increases its speed from 10.0 m/s to 25.0 m/s in 5.0 seconds. Find the distance traveled during this time, assuming constant acceleration.",
+    "a": "75.0 m",
+    "b": "82.5 m",
+    "c": "87.5 m",
+    "d": "92.5 m",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the magnitude of the force required to bring a 1000 kg car traveling at 24.0 m/s to a stop in a distance of 60.0 meters.",
+    "a": "3600 N",
+    "b": "4200 N",
+    "c": "4800 N",
+    "d": "5400 N",
+    "ans": "c"
+  },
+  {
+    "q": "A 5.0 kg package is on a 20° inclined plane. Find the component of the gravitational force acting parallel to the incline. (g = 9.81 m/s^2)",
+    "a": "12.45 N",
+    "b": "14.52 N",
+    "c": "16.80 N",
+    "d": "18.52 N",
+    "ans": "c"
+  },
+  {
+    "q": "A 2.0 kg block is pulled along a horizontal table by a constant force of 12.0 N. If the block accelerates at 4.0 m/s^2, find the kinetic friction force acting on the block.",
+    "a": "2.0 N",
+    "b": "3.0 N",
+    "c": "4.0 N",
+    "d": "5.0 N",
+    "ans": "c"
+  },
+  {
+    "q": "Compute the angular momentum of a particle of mass 2.0 kg moving in a circle of radius 1.5 m with a constant speed of 4.0 m/s.",
+    "a": "6.0 kg-m^2/s",
+    "b": "8.0 kg-m^2/s",
+    "c": "12.0 kg-m^2/s",
+    "d": "16.0 kg-m^2/s",
+    "ans": "c"
+  },
+  {
+    "q": "Find the kinetic energy of a 0.50 kg ball rolled with a speed of 6.0 m/s.",
+    "a": "4.5 J",
+    "b": "6.0 J",
+    "c": "9.0 J",
+    "d": "12.0 J",
+    "ans": "c"
+  },
+  {
+    "q": "A sound source moves away from a stationary observer at a speed of 25.0 m/s. If the source emits sound at a frequency of 800 Hz, find the frequency heard by the observer. (Speed of sound = 340 m/s)",
+    "a": "685.4 Hz",
+    "b": "712.5 Hz",
+    "c": "745.2 Hz",
+    "d": "800.0 Hz",
+    "ans": "c"
+  },
+  {
+    "q": "A light ray in glass (n1 = 1.50) strikes the boundary with water (n2 = 1.33) at an angle of incidence of 45.0°. Find the angle of refraction in water.",
+    "a": "45.50°",
+    "b": "48.12°",
+    "c": "52.89°",
+    "d": "58.12°",
+    "ans": "c"
+  },
+  {
+    "q": "Two positive charges Q1 = 3.0 microcoulombs and Q2 = 12.0 microcoulombs are placed 0.30 m apart. Find the electrostatic force of repulsion between them. (k = 8.99 x 10^9 N-m^2/C^2)",
+    "a": "1.20 N",
+    "b": "2.40 N",
+    "c": "3.60 N",
+    "d": "4.80 N",
+    "ans": "c"
+  },
+  {
+    "q": "Find the charge stored in a 5.0 microfarad capacitor connected across a 50.0 V power supply.",
+    "a": "100 microcoulombs",
+    "b": "150 microcoulombs",
+    "c": "200 microcoulombs",
+    "d": "250 microcoulombs",
+    "ans": "d"
+  },
+  {
+    "q": "Two capacitors of capacitances 4.0 microfarads and 12.0 microfarads are connected in series. Find the equivalent capacitance.",
+    "a": "2.0 microfarads",
+    "b": "3.0 microfarads",
+    "c": "4.0 microfarads",
+    "d": "6.0 microfarads",
+    "ans": "b"
+  },
+  {
+    "q": "Find the potential energy stored in a 10.0 microfarad capacitor charged to a potential difference of 200 V.",
+    "a": "0.10 J",
+    "b": "0.15 J",
+    "c": "0.20 J",
+    "d": "0.25 J",
+    "ans": "c"
+  }
+]

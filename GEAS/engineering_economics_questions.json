@@ -1,0 +1,1674 @@
+[
+  {
+    "q": "What is defined as the capacity of a commodity or service to satisfy human wants?",
+    "a": "Necessity",
+    "b": "Luxury",
+    "c": "Utility",
+    "d": "Value",
+    "ans": "c"
+  },
+  {
+    "q": "What represents the amount of money paid for the use of borrowed capital or the gain from an investment?",
+    "a": "Principal",
+    "b": "Interest",
+    "c": "Rate of Return",
+    "d": "Annuity",
+    "ans": "b"
+  },
+  {
+    "q": "An interest computed directly on the original principal for the entire duration of the loan transaction is called:",
+    "a": "Simple Interest",
+    "b": "Compound Interest",
+    "c": "Effective Interest",
+    "d": "Nominal Interest",
+    "ans": "a"
+  },
+  {
+    "q": "An interest calculated on both the original principal and the accumulated unpaid interest from previous periods is:",
+    "a": "Simple Interest",
+    "b": "Compound Interest",
+    "c": "Amortized Interest",
+    "d": "Effective Interest",
+    "ans": "b"
+  },
+  {
+    "q": "What is the basic rate of interest per compounding period, usually expressed on an annual basis?",
+    "a": "Nominal rate of interest",
+    "b": "Effective rate of interest",
+    "c": "Simple rate of interest",
+    "d": "Actual rate of interest",
+    "ans": "a"
+  },
+  {
+    "q": "The actual or exact rate of interest earned on the principal in one year when compounding occurs more than once a year is the:",
+    "a": "Nominal interest rate",
+    "b": "Effective interest rate",
+    "c": "Real interest rate",
+    "d": "Continuous interest rate",
+    "ans": "b"
+  },
+  {
+    "q": "A series of equal payments made at equal intervals of time is defined as a(n):",
+    "a": "Amortization",
+    "b": "Sinking Fund",
+    "c": "Annuity",
+    "d": "Perpetuity",
+    "ans": "c"
+  },
+  {
+    "q": "An annuity where the payments are made at the end of each interest-paying period is called a(n):",
+    "a": "Annuity Due",
+    "b": "Ordinary Annuity",
+    "c": "Deferred Annuity",
+    "d": "Perpetuity",
+    "ans": "b"
+  },
+  {
+    "q": "An annuity where the payments are made at the beginning of each interest-paying period is called a(n):",
+    "a": "Ordinary Annuity",
+    "b": "Annuity Due",
+    "c": "Deferred Annuity",
+    "d": "Perpetuity",
+    "ans": "b"
+  },
+  {
+    "q": "An annuity in which the first payment is delayed or postponed for a specified number of periods is a(n):",
+    "a": "Ordinary Annuity",
+    "b": "Annuity Due",
+    "c": "Deferred Annuity",
+    "d": "Perpetuity",
+    "ans": "c"
+  },
+  {
+    "q": "An annuity in which the periodic payments continue indefinitely or forever is called a:",
+    "a": "Ordinary Annuity",
+    "b": "Deferred Annuity",
+    "c": "Perpetuity",
+    "d": "Amortization",
+    "ans": "c"
+  },
+  {
+    "q": "What is defined as the present worth of all costs of an asset (purchase, operation, and replacement) over an infinite time horizon?",
+    "a": "Salvage Cost",
+    "b": "Depreciated Cost",
+    "c": "Capitalized Cost",
+    "d": "Sunk Cost",
+    "ans": "c"
+  },
+  {
+    "q": "The gradual reduction in the value of a physical asset over its useful life due to wear and tear, passage of time, or obsolescence is:",
+    "a": "Depreciation",
+    "b": "Depletion",
+    "c": "Amortization",
+    "d": "Salvage",
+    "ans": "a"
+  },
+  {
+    "q": "The estimated value of an asset at the end of its useful economic life is its:",
+    "a": "Book Value",
+    "b": "Market Value",
+    "c": "Salvage Value",
+    "d": "Face Value",
+    "ans": "c"
+  },
+  {
+    "q": "The remaining value of an asset recorded on the accounting balance sheet, equal to initial cost minus accumulated depreciation, is the:",
+    "a": "Market Value",
+    "b": "Salvage Value",
+    "c": "Book Value",
+    "d": "Replacement Value",
+    "ans": "c"
+  },
+  {
+    "q": "A depreciation method where the annual depreciation charge is constant throughout the useful life of the asset is the:",
+    "a": "Sinking Fund Method",
+    "b": "Declining Balance Method",
+    "c": "Straight Line Method",
+    "d": "Sum-of-the-Years-Digits Method",
+    "ans": "c"
+  },
+  {
+    "q": "A depreciation method that assumes an imaginary fund is established with equal annual deposits compounding to equal the total depreciation is the:",
+    "a": "Straight Line Method",
+    "b": "Sinking Fund Method",
+    "c": "Declining Balance Method",
+    "d": "Double Declining Balance Method",
+    "ans": "b"
+  },
+  {
+    "q": "Which depreciation method is also referred to as the Matheson Method?",
+    "a": "Straight Line Method",
+    "b": "Sinking Fund Method",
+    "c": "Declining Balance Method",
+    "d": "Double Declining Balance Method",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is a cost that has already been incurred in the past and cannot be recovered regardless of future decisions?",
+    "a": "Opportunity Cost",
+    "b": "Sunk Cost",
+    "c": "Capitalized Cost",
+    "d": "Incremental Cost",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the benefit or revenue foregone by choosing one alternative course of action over another?",
+    "a": "Sunk Cost",
+    "b": "Marginal Cost",
+    "c": "Opportunity Cost",
+    "d": "Fixed Cost",
+    "ans": "c"
+  },
+  {
+    "q": "A market condition in which there are many independent buyers and sellers, such that no single participant can influence the market price, is:",
+    "a": "Oligopoly",
+    "b": "Monopoly",
+    "c": "Perfect Competition",
+    "d": "Monopsony",
+    "ans": "c"
+  },
+  {
+    "q": "A market condition where there is only one single seller of a unique product or service with no close substitutes is a:",
+    "a": "Monopoly",
+    "b": "Oligopoly",
+    "c": "Duopoly",
+    "d": "Monopsony",
+    "ans": "a"
+  },
+  {
+    "q": "A market condition characterized by a small number of large sellers who are highly mutually interdependent is a(n):",
+    "a": "Monopoly",
+    "b": "Oligopoly",
+    "c": "Duopoly",
+    "d": "Monopsony",
+    "ans": "b"
+  },
+  {
+    "q": "A market condition in which there is only one single buyer for a product or service is classified as a:",
+    "a": "Monopoly",
+    "b": "Oligopoly",
+    "c": "Monopsony",
+    "d": "Duopoly",
+    "ans": "c"
+  },
+  {
+    "q": "What economic law states that, other things being equal, as the price of a good increases, the quantity demanded decreases?",
+    "a": "Law of Supply",
+    "b": "Law of Demand",
+    "c": "Law of Diminishing Returns",
+    "d": "Law of Substitution",
+    "ans": "b"
+  },
+  {
+    "q": "What economic law states that, other things being equal, as the price of a good increases, the quantity supplied increases?",
+    "a": "Law of Demand",
+    "b": "Law of Supply",
+    "c": "Law of Diminishing Returns",
+    "d": "Law of Utility",
+    "ans": "b"
+  },
+  {
+    "q": "A sustained increase in the general price level of goods and services over time, reducing the purchasing power of money, is:",
+    "a": "Deflation",
+    "b": "Inflation",
+    "c": "Stagflation",
+    "d": "Reflation",
+    "ans": "b"
+  },
+  {
+    "q": "A sustained decrease in the general price level of goods and services is defined as:",
+    "a": "Inflation",
+    "b": "Deflation",
+    "c": "Stagflation",
+    "d": "Reflation",
+    "ans": "b"
+  },
+  {
+    "q": "The economic phenomenon of simultaneous slow economic growth, high unemployment, and high inflation is called:",
+    "a": "Stagflation",
+    "b": "Hyperinflation",
+    "c": "Deflation",
+    "d": "Reflation",
+    "ans": "a"
+  },
+  {
+    "q": "What refers to the simultaneous purchase and sale of an asset in different markets to profit from a difference in its price?",
+    "a": "Hedging",
+    "b": "Arbitrage",
+    "c": "Speculation",
+    "d": "Leverage",
+    "ans": "b"
+  },
+  {
+    "q": "The level of production or sales at which total revenues exactly equal total costs, resulting in zero profit, is the:",
+    "a": "Profit Limit",
+    "b": "Breakeven Point",
+    "c": "Yield Limit",
+    "d": "Sunk Limit",
+    "ans": "b"
+  },
+  {
+    "q": "The time required for the net cash inflows of a project to equal the initial capital investment is the:",
+    "a": "Depreciation Period",
+    "b": "Useful Life",
+    "c": "Payback Period",
+    "d": "Capital Recovery",
+    "ans": "c"
+  },
+  {
+    "q": "The discount rate that makes the net present value (NPV) of all cash flows from a particular project equal to zero is the:",
+    "a": "Minimum Attractive Rate of Return",
+    "b": "Internal Rate of Return",
+    "c": "Nominal Interest Rate",
+    "d": "Effective Interest Rate",
+    "ans": "b"
+  },
+  {
+    "q": "The interest rate that represents the minimum acceptable yield for a company to invest in a project is the:",
+    "a": "Internal Rate of Return",
+    "b": "Minimum Attractive Rate of Return",
+    "c": "Capital Recovery Rate",
+    "d": "Sinking Fund Rate",
+    "ans": "b"
+  },
+  {
+    "q": "What term refers to the decrease in the value of natural resources (such as minerals, timber, or oil) as they are extracted or harvested?",
+    "a": "Depreciation",
+    "b": "Depletion",
+    "c": "Amortization",
+    "d": "Salvage",
+    "ans": "b"
+  },
+  {
+    "q": "The allocation of the cost of an intangible asset (such as patents, copyrights, or franchises) over its useful life is:",
+    "a": "Depreciation",
+    "b": "Depletion",
+    "c": "Amortization",
+    "d": "Salvage",
+    "ans": "c"
+  },
+  {
+    "q": "A bond that is secured by a lien on specific physical assets of the issuing corporation is a:",
+    "a": "Debenture Bond",
+    "b": "Mortgage Bond",
+    "c": "Collateral Trust Bond",
+    "d": "Municipal Bond",
+    "ans": "b"
+  },
+  {
+    "q": "An unsecured bond backed only by the general credit and reputation of the issuing corporation is a:",
+    "a": "Mortgage Bond",
+    "b": "Debenture Bond",
+    "c": "Collateral Trust Bond",
+    "d": "Municipal Bond",
+    "ans": "b"
+  },
+  {
+    "q": "A financial contract representing an ownership share in a corporation, which may pay variable dividends, is:",
+    "a": "Bond",
+    "b": "Common Stock",
+    "c": "Preferred Stock",
+    "d": "Debenture",
+    "ans": "b"
+  },
+  {
+    "q": "What represents a form of stock that has a prior claim on dividends and assets over common stock, usually with a fixed dividend rate?",
+    "a": "Common Stock",
+    "b": "Preferred Stock",
+    "c": "Debenture",
+    "d": "Collateral",
+    "ans": "b"
+  },
+  {
+    "q": "The legal right of a creditor to hold or sell a debtor's property as security or payment for a debt is a:",
+    "a": "Lien",
+    "b": "Bond",
+    "c": "Mortgage",
+    "d": "Collateral",
+    "ans": "a"
+  },
+  {
+    "q": "What refers to the interest rate on a loan or investment that does not account for the effects of inflation?",
+    "a": "Nominal Interest Rate",
+    "b": "Real Interest Rate",
+    "c": "Simple Interest Rate",
+    "d": "Effective Interest Rate",
+    "ans": "a"
+  },
+  {
+    "q": "An interest rate that has been adjusted to remove the effects of inflation to reflect the real change in purchasing power is the:",
+    "a": "Nominal Interest Rate",
+    "b": "Real Interest Rate",
+    "c": "Effective Interest Rate",
+    "d": "Compound Interest Rate",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the worth of an asset as determined by its current selling price in a competitive open market?",
+    "a": "Book Value",
+    "b": "Salvage Value",
+    "c": "Market Value",
+    "d": "Face Value",
+    "ans": "c"
+  },
+  {
+    "q": "The value printed on the face of a stock certificate or bond, indicating its principal or par value, is the:",
+    "a": "Book Value",
+    "b": "Market Value",
+    "c": "Face Value",
+    "d": "Salvage Value",
+    "ans": "c"
+  },
+  {
+    "q": "What refers to the estimated cost to construct or acquire an identical asset to replace an existing one?",
+    "a": "Book Value",
+    "b": "Replacement Value",
+    "c": "Salvage Value",
+    "d": "Sunk Value",
+    "ans": "b"
+  },
+  {
+    "q": "A bond issue that has a single, specified maturity date on which all the bonds are paid off is a:",
+    "a": "Serial Bond",
+    "b": "Term Bond",
+    "c": "Debenture Bond",
+    "d": "Mortgage Bond",
+    "ans": "b"
+  },
+  {
+    "q": "A bond issue where portions of the total principal mature and are paid off at different periodic intervals is a:",
+    "a": "Term Bond",
+    "b": "Serial Bond",
+    "c": "Registered Bond",
+    "d": "Coupon Bond",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following cost categories do not vary with changes in the level of production or activity?",
+    "a": "Variable Costs",
+    "b": "Fixed Costs",
+    "c": "Marginal Costs",
+    "d": "Incremental Costs",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following cost categories vary directly in proportion to changes in the level of production or activity?",
+    "a": "Fixed Costs",
+    "b": "Variable Costs",
+    "c": "Sunk Costs",
+    "d": "Opportunity Costs",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the cost of producing one additional unit of a product or service?",
+    "a": "Average Cost",
+    "b": "Marginal Cost",
+    "c": "Fixed Cost",
+    "d": "Opportunity Cost",
+    "ans": "b"
+  },
+  {
+    "q": "The increase in total cost resulting from choosing one specific alternative over another is the:",
+    "a": "Sunk Cost",
+    "b": "Incremental Cost",
+    "c": "Fixed Cost",
+    "d": "Opportunity Cost",
+    "ans": "b"
+  },
+  {
+    "q": "An asset that has no physical substance but has value based on legal rights or privileges is categorized as a:",
+    "a": "Tangible Asset",
+    "b": "Intangible Asset",
+    "c": "Fixed Asset",
+    "d": "Current Asset",
+    "ans": "b"
+  },
+  {
+    "q": "An asset that has a physical, material presence (such as land, buildings, or machinery) is a:",
+    "a": "Tangible Asset",
+    "b": "Intangible Asset",
+    "c": "Current Asset",
+    "d": "Liquid Asset",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of all costs (both initial and recurring) associated with an asset throughout its entire useful life is its:",
+    "a": "Sunk Cost",
+    "b": "Life-Cycle Cost",
+    "c": "Capitalized Cost",
+    "d": "Variable Cost",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the percentage of tax applied to each additional peso of taxable income earned?",
+    "a": "Average Tax Rate",
+    "b": "Marginal Tax Rate",
+    "c": "Effective Tax Rate",
+    "d": "Flat Tax Rate",
+    "ans": "b"
+  },
+  {
+    "q": "A market structure where there are only two major, dominating sellers of a product or service is a:",
+    "a": "Monopoly",
+    "b": "Duopoly",
+    "c": "Oligopoly",
+    "d": "Perfect Competition",
+    "ans": "b"
+  },
+  {
+    "q": "What index represents a statistical measure of the changes in prices of goods and services over time?",
+    "a": "Gini Coefficient",
+    "b": "Price Index",
+    "c": "Lafer Index",
+    "d": "Arbitrage Factor",
+    "ans": "b"
+  },
+  {
+    "q": "The index most commonly used to measure the average change in prices paid by consumers for a basket of goods is the:",
+    "a": "Producer Price Index (PPI)",
+    "b": "Consumer Price Index (CPI)",
+    "c": "GDP Deflator",
+    "d": "Standard Index",
+    "ans": "b"
+  },
+  {
+    "q": "The price index that measures price changes from the perspective of the seller or manufacturer is the:",
+    "a": "Consumer Price Index (CPI)",
+    "b": "Producer Price Index (PPI)",
+    "c": "GDP Deflator",
+    "d": "Wholesale Index",
+    "ans": "b"
+  },
+  {
+    "q": "The interest rate that is printed or specified on a bond certificate, determining the periodic coupon payments, is the:",
+    "a": "Yield to Maturity",
+    "b": "Coupon Rate",
+    "c": "Effective Rate",
+    "d": "Real Rate",
+    "ans": "b"
+  },
+  {
+    "q": "The actual total rate of return earned on a bond if it is held until its final maturity date is the:",
+    "a": "Coupon Rate",
+    "b": "Yield to Maturity",
+    "c": "Nominal Yield",
+    "d": "Simple Yield",
+    "ans": "b"
+  },
+  {
+    "q": "A period of time during which an annuity payment is not made, postponing the start of payments, is the:",
+    "a": "Deferment Period",
+    "b": "Grace Period",
+    "c": "Amortization Period",
+    "d": "Interest Period",
+    "ans": "a"
+  },
+  {
+    "q": "What depreciation method uses a fixed rate of depreciation applied to the declining book value of the asset each year?",
+    "a": "Straight Line Method",
+    "b": "Declining Balance Method",
+    "c": "Sinking Fund Method",
+    "d": "Sum-of-the-Years-Digits Method",
+    "ans": "b"
+  },
+  {
+    "q": "A depreciation method where the depreciation rate is twice the straight-line rate applied to the declining book value is the:",
+    "a": "Declining Balance Method",
+    "b": "Double Declining Balance Method",
+    "c": "Sinking Fund Method",
+    "d": "Sum-of-the-Years-Digits Method",
+    "ans": "b"
+  },
+  {
+    "q": "Which depreciation method uses a decreasing fraction applied to the constant depreciable cost (initial cost minus salvage value)?",
+    "a": "Straight Line Method",
+    "b": "Sinking Fund Method",
+    "c": "Declining Balance Method",
+    "d": "Sum-of-the-Years-Digits Method",
+    "ans": "d"
+  },
+  {
+    "q": "The total amount of depreciation that accumulates over the years during the ownership of an asset is the:",
+    "a": "Annual Depreciation",
+    "b": "Accumulated Depreciation",
+    "c": "Book Value",
+    "d": "Salvage Value",
+    "ans": "b"
+  },
+  {
+    "q": "A mathematical factor used to convert a single future sum of money into its equivalent present worth is the:",
+    "a": "Present Worth Factor",
+    "b": "Capital Recovery Factor",
+    "c": "Sinking Fund Factor",
+    "d": "Compound Amount Factor",
+    "ans": "a"
+  },
+  {
+    "q": "A mathematical factor used to find the equivalent future value of a series of equal periodic payments is the:",
+    "a": "Sinking Fund Factor",
+    "b": "Series Compound Amount Factor",
+    "c": "Capital Recovery Factor",
+    "d": "Present Worth Factor",
+    "ans": "b"
+  },
+  {
+    "q": "A mathematical factor used to find the equal periodic payment required to accumulate a specified future sum is the:",
+    "a": "Series Present Worth Factor",
+    "b": "Sinking Fund Factor",
+    "c": "Capital Recovery Factor",
+    "d": "Compound Amount Factor",
+    "ans": "b"
+  },
+  {
+    "q": "A mathematical factor used to find the equal periodic payment required to amortize or recover a specified present sum is the:",
+    "a": "Sinking Fund Factor",
+    "b": "Capital Recovery Factor",
+    "c": "Series Present Worth Factor",
+    "d": "Compound Amount Factor",
+    "ans": "b"
+  },
+  {
+    "q": "A decrease in the purchasing power of a currency due to an increase in the general price level is a consequence of:",
+    "a": "Deflation",
+    "b": "Inflation",
+    "c": "Arbitrage",
+    "d": "Stagflation",
+    "ans": "b"
+  },
+  {
+    "q": "The concept that a peso today is worth more than a peso in the future due to its earning potential is known as the:",
+    "a": "Value of Money Concept",
+    "b": "Time Value of Money",
+    "c": "Inflation Factor",
+    "d": "Opportunity Concept",
+    "ans": "b"
+  },
+  {
+    "q": "The specific interest rate used to convert cash flows occurring at different times to a common time point is the:",
+    "a": "Nominal Rate",
+    "b": "Discount Rate",
+    "c": "Simple Rate",
+    "d": "Marginal Rate",
+    "ans": "b"
+  },
+  {
+    "q": "A bond that is registered in the name of the owner on the books of the issuing corporation is a:",
+    "a": "Coupon Bond",
+    "b": "Registered Bond",
+    "c": "Bearer Bond",
+    "d": "Debenture",
+    "ans": "b"
+  },
+  {
+    "q": "A bond that is not registered and is payable to whoever holds or bears the bond is a:",
+    "a": "Registered Bond",
+    "b": "Bearer Bond",
+    "c": "Debenture",
+    "d": "Mortgage Bond",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the net profit to the total capital invested in a project is its:",
+    "a": "Benefit-Cost Ratio",
+    "b": "Rate of Return",
+    "c": "Payback Margin",
+    "d": "Capital Index",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the present worth of benefits to the present worth of costs for a project is the:",
+    "a": "Rate of Return",
+    "b": "Benefit-Cost Ratio",
+    "c": "Payback Ratio",
+    "d": "Capitalized Ratio",
+    "ans": "b"
+  },
+  {
+    "q": "What term describes the system of providing equal periodic payments to completely pay off a debt (principal and interest) over time?",
+    "a": "Sinking Fund",
+    "b": "Amortization",
+    "c": "Perpetuity",
+    "d": "Capitalization",
+    "ans": "b"
+  },
+  {
+    "q": "The estimated value of a property or asset when it is no longer usable and is broken up or sold as scrap metal is its:",
+    "a": "Book Value",
+    "b": "Scrap Value",
+    "c": "Market Value",
+    "d": "Face Value",
+    "ans": "b"
+  },
+  {
+    "q": "If Php 10,000 is invested today at a simple interest rate of 8% per annum, what will be the total amount accumulated after 5 years?",
+    "a": "Php 13,500",
+    "b": "Php 14,000",
+    "c": "Php 14,500",
+    "d": "Php 15,000",
+    "ans": "b"
+  },
+  {
+    "q": "What is the simple interest earned on a loan of Php 25,000 at an annual interest rate of 12% for a period of 9 months?",
+    "a": "Php 1,850",
+    "b": "Php 2,250",
+    "c": "Php 2,500",
+    "d": "Php 2,850",
+    "ans": "b"
+  },
+  {
+    "q": "Find the simple interest rate required for Php 15,000 to earn Php 3,600 in interest over a period of 3 years.",
+    "a": "6.0%",
+    "b": "8.0%",
+    "c": "10.0%",
+    "d": "12.0%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for a principal of Php 20,000 to double in value at a simple interest rate of 10% per annum?",
+    "a": "8 years",
+    "b": "10 years",
+    "c": "12 years",
+    "d": "15 years",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the compound amount of Php 50,000 invested at 6% per annum compounded annually for 8 years.",
+    "a": "Php 75,450",
+    "b": "Php 79,692",
+    "c": "Php 83,410",
+    "d": "Php 88,320",
+    "ans": "b"
+  },
+  {
+    "q": "If Php 30,000 is deposited in an account earning 8% annual interest compounded semi-annually, find the total amount in the account after 10 years.",
+    "a": "Php 62,540",
+    "b": "Php 65,734",
+    "c": "Php 69,120",
+    "d": "Php 72,430",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of Php 100,000 due in 5 years if money is worth 10% nominal interest compounded quarterly.",
+    "a": "Php 58,450",
+    "b": "Php 61,027",
+    "c": "Php 63,850",
+    "d": "Php 65,120",
+    "ans": "b"
+  },
+  {
+    "q": "A debt of Php 80,000 is to be paid in 3 years with interest at 12% compounded monthly. Find the total payment due.",
+    "a": "Php 109,240",
+    "b": "Php 114,460",
+    "c": "Php 119,650",
+    "d": "Php 122,100",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the effective rate corresponding to a nominal interest rate of 12% compounded quarterly.",
+    "a": "12.12%",
+    "b": "12.55%",
+    "c": "12.68%",
+    "d": "13.12%",
+    "ans": "b"
+  },
+  {
+    "q": "Find the effective interest rate of a loan with 16% nominal interest compounded monthly.",
+    "a": "16.64%",
+    "b": "17.23%",
+    "c": "17.84%",
+    "d": "18.12%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the effective interest rate corresponding to a nominal interest rate of 16% compounded daily, assuming a 360-day year?",
+    "a": "16.78%",
+    "b": "17.35%",
+    "c": "17.84%",
+    "d": "18.12%",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the accumulated value of Php 20,000 after 6 years if interest is earned at 8% compounded continuously.",
+    "a": "Php 30,540",
+    "b": "Php 32,321",
+    "c": "Php 34,850",
+    "d": "Php 36,412",
+    "ans": "b"
+  },
+  {
+    "q": "Find the effective interest rate for an account that compounding continuously at a nominal rate of 10%.",
+    "a": "10.25%",
+    "b": "10.52%",
+    "c": "11.12%",
+    "d": "11.52%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for an investment of Php 10,000 to triple in value if interest is compounded continuously at 12%?",
+    "a": "8.52 years",
+    "b": "9.16 years",
+    "c": "10.24 years",
+    "d": "11.12 years",
+    "ans": "b"
+  },
+  {
+    "q": "What is the future value of an ordinary annuity consisting of 10 annual payments of Php 15,000 each, if the interest rate is 8% compounded annually?",
+    "a": "Php 205,450",
+    "b": "Php 217,300",
+    "c": "Php 224,120",
+    "d": "Php 231,500",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of an ordinary annuity of Php 20,000 per year for 15 years if the discount rate is 10% compounded annually.",
+    "a": "Php 135,240",
+    "b": "Php 152,122",
+    "c": "Php 165,300",
+    "d": "Php 172,120",
+    "ans": "b"
+  },
+  {
+    "q": "If you deposit Php 5,000 at the end of each month into an account earning 6% nominal interest compounded monthly, how much will you accumulate after 5 years?",
+    "a": "Php 335,450",
+    "b": "Php 348,850",
+    "c": "Php 362,100",
+    "d": "Php 372,400",
+    "ans": "b"
+  },
+  {
+    "q": "A company wants to buy a machine worth Php 500,000 in 6 years. What equal year-end deposit must be made into a sinking fund earning 8% compounded annually?",
+    "a": "Php 62,540",
+    "b": "Php 68,154",
+    "c": "Php 73,420",
+    "d": "Php 81,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the present worth of an annuity due of Php 12,000 per year for 10 years at an interest rate of 8% compounded annually.",
+    "a": "Php 81,120",
+    "b": "Php 87,027",
+    "c": "Php 94,120",
+    "d": "Php 101,250",
+    "ans": "b"
+  },
+  {
+    "q": "What is the future value of an annuity due of Php 8,000 made at the beginning of each semi-annual period for 5 years if money is worth 10% compounded semi-annually?",
+    "a": "Php 101,450",
+    "b": "Php 105,650",
+    "c": "Php 110,120",
+    "d": "Php 115,400",
+    "ans": "c"
+  },
+  {
+    "q": "A man wishes to provide Php 50,000 annually forever to a charity starting one year from today. If the fund earns 5% compounded annually, what single donation must he make today?",
+    "a": "Php 800,000",
+    "b": "Php 900,000",
+    "c": "Php 1,000,000",
+    "d": "Php 1,200,000",
+    "ans": "c"
+  },
+  {
+    "q": "Find the capitalized cost of a building that has an initial cost of Php 10,000,000 and requires Php 500,000 in annual maintenance starting one year from today. The interest rate is 8% compounded annually.",
+    "a": "Php 14,500,000",
+    "b": "Php 15,250,000",
+    "c": "Php 16,250,000",
+    "d": "Php 17,500,000",
+    "ans": "c"
+  },
+  {
+    "q": "An asset with an initial cost of Php 150,000 has an estimated salvage value of Php 20,000 at the end of its 10-year useful life. Find the annual depreciation using the Straight Line Method.",
+    "a": "Php 11,500",
+    "b": "Php 13,000",
+    "c": "Php 14,500",
+    "d": "Php 15,000",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 4 using the Straight Line Method. (Context from previous question: An asset with an initial cost of Php 150,000 has an estimated salvage value of Php 20,000 at the end of its 10-year useful life.)",
+    "a": "Php 85,000",
+    "b": "Php 98,000",
+    "c": "Php 102,000",
+    "d": "Php 112,000",
+    "ans": "b"
+  },
+  {
+    "q": "An industrial machine costs Php 200,000 and has a salvage value of Php 30,000 after 8 years. If interest is 6% per annum, find the annual depreciation charge using the Sinking Fund Method.",
+    "a": "Php 15,420",
+    "b": "Php 17,176",
+    "c": "Php 19,250",
+    "d": "Php 21,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the constant annual depreciation rate (k) for an equipment costing Php 80,000 with a salvage value of Php 10,000 after 5 years, using the Declining Balance Method.",
+    "a": "28.5%",
+    "b": "34.1%",
+    "c": "37.5%",
+    "d": "41.2%",
+    "ans": "b"
+  },
+  {
+    "q": "For the equipment in the previous question, find the Book Value at the end of Year 3 using the Declining Balance Method. (Context from previous question: An industrial machine costs Php 200,000 and has a salvage value of Php 30,000 after 8 years. If interest is 6% per annum, find the annual depreciation charge using the Sinking Fund Method.)",
+    "a": "Php 18,500",
+    "b": "Php 20,540",
+    "c": "Php 22,892",
+    "d": "Php 25,412",
+    "ans": "c"
+  },
+  {
+    "q": "A delivery van costs Php 600,000 and has a salvage value of Php 80,000 after 10 years. Find the Year 1 depreciation using the Double Declining Balance Method.",
+    "a": "Php 98,000",
+    "b": "Php 104,000",
+    "c": "Php 112,000",
+    "d": "Php 120,000",
+    "ans": "d"
+  },
+  {
+    "q": "Using the Double Declining Balance Method, find the Book Value of the delivery van in the previous question at the end of Year 3. (Context from previous question: A delivery van costs Php 600,000 and has a salvage value of Php 80,000 after 10 years.)",
+    "a": "Php 285,450",
+    "b": "Php 307,200",
+    "c": "Php 322,400",
+    "d": "Php 345,600",
+    "ans": "b"
+  },
+  {
+    "q": "An asset has a cost of Php 100,000 and a salvage value of Php 10,000 after 12 years. Calculate the sum-of-the-years-digits (SYD) depreciation charge for Year 1.",
+    "a": "Php 11,540",
+    "b": "Php 13,846",
+    "c": "Php 15,220",
+    "d": "Php 16,850",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 5 using the Sum-of-the-Years-Digits Method. (Context from previous question: An asset has a cost of Php 100,000 and a salvage value of Php 10,000 after 12 years.)",
+    "a": "Php 32,540",
+    "b": "Php 38,462",
+    "c": "Php 42,120",
+    "d": "Php 45,300",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has fixed costs of Php 120,000 per month. The variable cost per unit is Php 150, and the selling price is Php 250 per unit. Find the monthly breakeven point in units.",
+    "a": "900 units",
+    "b": "1,000 units",
+    "c": "1,100 units",
+    "d": "1,200 units",
+    "ans": "d"
+  },
+  {
+    "q": "If the company in the previous question wants to earn a monthly profit of Php 30,000, how many units must be produced and sold? (Context from previous question: A production line has fixed costs of Php 120,000 per month. The variable cost per unit is Php 150, and the selling price is Php 250 per unit.)",
+    "a": "1,250 units",
+    "b": "1,350 units",
+    "c": "1,500 units",
+    "d": "1,650 units",
+    "ans": "c"
+  },
+  {
+    "q": "A new project requires an initial investment of Php 80,000 and is expected to generate net annual cash inflows of Php 18,000 for 6 years. Find the payback period of the project.",
+    "a": "3.85 years",
+    "b": "4.12 years",
+    "c": "4.44 years",
+    "d": "5.12 years",
+    "ans": "c"
+  },
+  {
+    "q": "A project costs Php 100,000 and has a present worth of benefits equal to Php 135,000. Calculate the benefit-cost (B/C) ratio of the project.",
+    "a": "1.15",
+    "b": "1.25",
+    "c": "1.35",
+    "d": "1.45",
+    "ans": "c"
+  },
+  {
+    "q": "How much money must be invested today at 10% annual interest compounded monthly to accumulate to Php 50,000 in 4 years?",
+    "a": "Php 30,540",
+    "b": "Php 33,573",
+    "c": "Php 36,412",
+    "d": "Php 38,500",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the compound amount of Php 12,000 invested at 8% per annum compounded quarterly for 6 years.",
+    "a": "Php 18,120",
+    "b": "Php 19,301",
+    "c": "Php 20,450",
+    "d": "Php 21,800",
+    "ans": "b"
+  },
+  {
+    "q": "If Php 25,000 is deposited in an account earning 12% nominal interest compounded monthly, find the total amount in the account after 5 years.",
+    "a": "Php 42,540",
+    "b": "Php 45,417",
+    "c": "Php 48,120",
+    "d": "Php 51,200",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of Php 80,000 due in 8 years if money is worth 6% nominal interest compounded quarterly.",
+    "a": "Php 45,300",
+    "b": "Php 49,679",
+    "c": "Php 52,120",
+    "d": "Php 55,400",
+    "ans": "b"
+  },
+  {
+    "q": "Find the nominal annual interest rate required for Php 10,000 to grow to Php 20,000 in 6 years if interest is compounded monthly.",
+    "a": "10.12%",
+    "b": "11.19%",
+    "c": "11.62%",
+    "d": "12.12%",
+    "ans": "c"
+  },
+  {
+    "q": "What is the future value of an ordinary annuity of Php 6,000 made every 6 months for 5 years, if the interest rate is 10% compounded semi-annually?",
+    "a": "Php 72,400",
+    "b": "Php 75,467",
+    "c": "Php 81,120",
+    "d": "Php 85,300",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of an ordinary annuity of Php 15,000 per year for 8 years if the discount rate is 6% compounded annually.",
+    "a": "Php 85,240",
+    "b": "Php 93,147",
+    "c": "Php 98,120",
+    "d": "Php 102,120",
+    "ans": "b"
+  },
+  {
+    "q": "If you deposit Php 1,500 at the end of each month into an account earning 8% nominal interest compounded monthly, how much will you accumulate after 10 years?",
+    "a": "Php 285,450",
+    "b": "Php 307,200",
+    "c": "Php 322,412",
+    "d": "Php 335,600",
+    "ans": "c"
+  },
+  {
+    "q": "A company wants to buy a machine worth Php 300,000 in 8 years. What equal year-end deposit must be made into a sinking fund earning 6% compounded annually?",
+    "a": "Php 25,450",
+    "b": "Php 28,154",
+    "c": "Php 31,120",
+    "d": "Php 34,400",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the present worth of an annuity due of Php 8,000 per year for 6 years at an interest rate of 10% compounded annually.",
+    "a": "Php 35,450",
+    "b": "Php 38,321",
+    "c": "Php 42,120",
+    "d": "Php 45,300",
+    "ans": "b"
+  },
+  {
+    "q": "What is the future value of an annuity due of Php 10,000 made at the beginning of each year for 8 years if money is worth 8% compounded annually?",
+    "a": "101,450",
+    "b": "105,650",
+    "c": "112,450",
+    "d": "115,100",
+    "ans": "d"
+  },
+  {
+    "q": "A man wishes to provide Php 24,000 annually forever to a charity starting one year from today. If the fund earns 6% compounded annually, what single donation must he make today?",
+    "a": "Php 300,000",
+    "b": "Php 400,000",
+    "c": "Php 500,000",
+    "d": "Php 600,000",
+    "ans": "b"
+  },
+  {
+    "q": "Find the capitalized cost of an asset that has an initial cost of Php 5,000,000 and requires Php 200,000 in annual maintenance starting one year from today. The interest rate is 10% compounded annually.",
+    "a": "Php 6,500,000",
+    "b": "Php 7,000,000",
+    "c": "Php 7,500,000",
+    "d": "Php 8,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "An asset with an initial cost of Php 120,000 has an estimated salvage value of Php 12,000 at the end of its 8-year useful life. Find the annual depreciation using the Straight Line Method.",
+    "a": "Php 11,500",
+    "b": "Php 13,500",
+    "c": "Php 14,500",
+    "d": "Php 15,000",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 3 using the Straight Line Method. (Context from previous question: An asset with an initial cost of Php 120,000 has an estimated salvage value of Php 12,000 at the end of its 8-year useful life.)",
+    "a": "Php 75,200",
+    "b": "Php 79,500",
+    "c": "Php 83,400",
+    "d": "Php 88,300",
+    "ans": "b"
+  },
+  {
+    "q": "An industrial machine costs Php 150,000 and has a salvage value of Php 20,000 after 10 years. If interest is 8% per annum, find the annual depreciation charge using the Sinking Fund Method.",
+    "a": "Php 7,125",
+    "b": "Php 8,974",
+    "c": "Php 10,250",
+    "d": "Php 11,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the constant annual depreciation rate (k) for an equipment costing Php 60,000 with a salvage value of Php 8,000 after 6 years, using the Declining Balance Method.",
+    "a": "25.4%",
+    "b": "28.5%",
+    "c": "31.2%",
+    "d": "35.2%",
+    "ans": "b"
+  },
+  {
+    "q": "For the equipment in the previous question, find the Book Value at the end of Year 3 using the Declining Balance Method. (Context from previous question: An industrial machine costs Php 150,000 and has a salvage value of Php 20,000 after 10 years. If interest is 8% per annum, find the annual depreciation charge using the Sinking Fund Method.)",
+    "a": "Php 18,500",
+    "b": "Php 21,952",
+    "c": "Php 22,890",
+    "d": "Php 25,412",
+    "ans": "b"
+  },
+  {
+    "q": "A delivery van costs Php 400,000 and has a salvage value of Php 50,000 after 8 years. Find the Year 1 depreciation using the Double Declining Balance Method.",
+    "a": "Php 75,000",
+    "b": "Php 100,000",
+    "c": "Php 112,000",
+    "d": "Php 120,000",
+    "ans": "b"
+  },
+  {
+    "q": "Using the Double Declining Balance Method, find the Book Value of the delivery van in the previous question at the end of Year 3. (Context from previous question: A delivery van costs Php 400,000 and has a salvage value of Php 50,000 after 8 years.)",
+    "a": "Php 156,450",
+    "b": "Php 168,750",
+    "c": "Php 185,400",
+    "d": "Php 200,000",
+    "ans": "b"
+  },
+  {
+    "q": "An asset has a cost of Php 80,000 and a salvage value of Php 8,000 after 10 years. Calculate the sum-of-the-years-digits (SYD) depreciation charge for Year 1.",
+    "a": "Php 11,540",
+    "b": "Php 13,091",
+    "c": "Php 15,220",
+    "d": "Php 16,850",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 4 using the Sum-of-the-Years-Digits Method. (Context from previous question: An asset has a cost of Php 80,000 and a salvage value of Php 8,000 after 10 years.)",
+    "a": "Php 28,540",
+    "b": "Php 32,873",
+    "c": "Php 36,120",
+    "d": "Php 42,120",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has fixed costs of Php 80,000 per month. The variable cost per unit is Php 120, and the selling price is Php 200 per unit. Find the monthly breakeven point in units.",
+    "a": "800 units",
+    "b": "1,000 units",
+    "c": "1,100 units",
+    "d": "1,200 units",
+    "ans": "b"
+  },
+  {
+    "q": "If the company in the previous question wants to earn a monthly profit of Php 20,000, how many units must be produced and sold? (Context from previous question: A production line has fixed costs of Php 80,000 per month. The variable cost per unit is Php 120, and the selling price is Php 200 per unit.)",
+    "a": "1,150 units",
+    "b": "1,250 units",
+    "c": "1,350 units",
+    "d": "1,450 units",
+    "ans": "b"
+  },
+  {
+    "q": "A new project requires an initial investment of Php 60,000 and is expected to generate net annual cash inflows of Php 15,000 for 5 years. Find the payback period of the project.",
+    "a": "3.50 years",
+    "b": "4.00 years",
+    "c": "4.50 years",
+    "d": "5.00 years",
+    "ans": "b"
+  },
+  {
+    "q": "A project costs Php 80,000 and has a present worth of benefits equal to Php 112,000. Calculate the benefit-cost (B/C) ratio of the project.",
+    "a": "1.15",
+    "b": "1.25",
+    "c": "1.40",
+    "d": "1.45",
+    "ans": "c"
+  },
+  {
+    "q": "If Php 12,000 is invested today at a simple interest rate of 6% per annum, what will be the total amount accumulated after 4 years?",
+    "a": "Php 13,440",
+    "b": "Php 14,880",
+    "c": "Php 15,120",
+    "d": "Php 15,800",
+    "ans": "b"
+  },
+  {
+    "q": "What is the simple interest earned on a loan of Php 15,000 at an annual interest rate of 10% for a period of 6 months?",
+    "a": "Php 750",
+    "b": "Php 1,000",
+    "c": "Php 1,250",
+    "d": "Php 1,500",
+    "ans": "a"
+  },
+  {
+    "q": "Find the simple interest rate required for Php 10,000 to earn Php 2,400 in interest over a period of 3 years.",
+    "a": "6.0%",
+    "b": "8.0%",
+    "c": "10.0%",
+    "d": "12.0%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for a principal of Php 15,000 to double in value at a simple interest rate of 8% per annum?",
+    "a": "10.5 years",
+    "b": "11.2 years",
+    "c": "12.5 years",
+    "d": "15.0 years",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the compound amount of Php 20,000 invested at 5% per annum compounded annually for 10 years.",
+    "a": "Php 28,540",
+    "b": "Php 32,578",
+    "c": "Php 34,120",
+    "d": "Php 36,412",
+    "ans": "b"
+  },
+  {
+    "q": "If Php 15,000 is deposited in an account earning 6% annual interest compounded semi-annually, find the total amount in the account after 8 years.",
+    "a": "Php 22,540",
+    "b": "Php 24,071",
+    "c": "Php 25,120",
+    "d": "Php 26,430",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of Php 50,000 due in 6 years if money is worth 8% nominal interest compounded quarterly.",
+    "a": "Php 28,450",
+    "b": "Php 31,086",
+    "c": "Php 33,850",
+    "d": "Php 35,120",
+    "ans": "b"
+  },
+  {
+    "q": "A debt of Php 50,000 is to be paid in 4 years with interest at 10% compounded monthly. Find the total payment due.",
+    "a": "Php 69,240",
+    "b": "Php 74,467",
+    "c": "Php 78,650",
+    "d": "Php 81,100",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the effective rate corresponding to a nominal interest rate of 8% compounded quarterly.",
+    "a": "8.12%",
+    "b": "8.24%",
+    "c": "8.45%",
+    "d": "9.12%",
+    "ans": "b"
+  },
+  {
+    "q": "Find the effective interest rate of a loan with 12% nominal interest compounded monthly.",
+    "a": "12.35%",
+    "b": "12.68%",
+    "c": "13.12%",
+    "d": "13.45%",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the accumulated value of Php 10,000 after 5 years if interest is earned at 6% compounded continuously.",
+    "a": "Php 12,540",
+    "b": "Php 13,498",
+    "c": "Php 14,850",
+    "d": "Php 15,412",
+    "ans": "b"
+  },
+  {
+    "q": "Find the effective interest rate for an account that compounding continuously at a nominal rate of 8%.",
+    "a": "8.24%",
+    "b": "8.33%",
+    "c": "8.52%",
+    "d": "9.12%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for an investment of Php 5,000 to triple in value if interest is compounded continuously at 10%?",
+    "a": "8.52 years",
+    "b": "10.24 years",
+    "c": "10.99 years",
+    "d": "11.12 years",
+    "ans": "c"
+  },
+  {
+    "q": "What is the future value of an ordinary annuity consisting of 8 annual payments of Php 10,000 each, if the interest rate is 6% compounded annually?",
+    "a": "Php 89,450",
+    "b": "Php 98,975",
+    "c": "Php 102,120",
+    "d": "Php 105,500",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of an ordinary annuity of Php 10,000 per year for 10 years if the discount rate is 8% compounded annually.",
+    "a": "Php 58,240",
+    "b": "Php 61,446",
+    "c": "Php 65,300",
+    "d": "Php 72,120",
+    "ans": "b"
+  },
+  {
+    "q": "If you deposit Php 2,000 at the end of each month into an account earning 8% nominal interest compounded monthly, how much will you accumulate after 5 years?",
+    "a": "Php 125,450",
+    "b": "Php 135,450",
+    "c": "Php 147,488",
+    "d": "Php 152,400",
+    "ans": "c"
+  },
+  {
+    "q": "A company wants to buy a machine worth Php 200,000 in 5 years. What equal year-end deposit must be made into a sinking fund earning 8% compounded annually?",
+    "a": "Php 30,540",
+    "b": "Php 34,082",
+    "c": "Php 38,420",
+    "d": "Php 42,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the present worth of an annuity due of Php 6,000 per year for 8 years at an interest rate of 6% compounded annually.",
+    "a": "Php 35,450",
+    "b": "Php 39,520",
+    "c": "Php 42,120",
+    "d": "Php 45,300",
+    "ans": "b"
+  },
+  {
+    "q": "What is the future value of an annuity due of Php 5,000 made at the beginning of each year for 6 years if money is worth 8% compounded annually?",
+    "a": "Php 35,450",
+    "b": "Php 38,650",
+    "c": "Php 42,450",
+    "d": "Php 45,300",
+    "ans": "a"
+  },
+  {
+    "q": "A man wishes to provide Php 12,000 annually forever to a charity starting one year from today. If the fund earns 8% compounded annually, what single donation must he make today?",
+    "a": "Php 100,000",
+    "b": "Php 120,000",
+    "c": "Php 150,000",
+    "d": "Php 200,000",
+    "ans": "c"
+  },
+  {
+    "q": "Find the capitalized cost of a building that has an initial cost of Php 5,000,000 and requires Php 100,000 in annual maintenance starting one year from today. The interest rate is 5% compounded annually.",
+    "a": "Php 6,500,000",
+    "b": "Php 7,000,000",
+    "c": "Php 7,500,000",
+    "d": "Php 8,000,000",
+    "ans": "b"
+  },
+  {
+    "q": "An asset with an initial cost of Php 100,000 has an estimated salvage value of Php 10,000 at the end of its 6-year useful life. Find the annual depreciation using the Straight Line Method.",
+    "a": "Php 11,500",
+    "b": "Php 13,000",
+    "c": "Php 14,500",
+    "d": "Php 15,000",
+    "ans": "d"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 3 using the Straight Line Method. (Context from previous question: An asset with an initial cost of Php 100,000 has an estimated salvage value of Php 10,000 at the end of its 6-year useful life.)",
+    "a": "Php 45,000",
+    "b": "Php 55,000",
+    "c": "Php 65,000",
+    "d": "Php 75,000",
+    "ans": "b"
+  },
+  {
+    "q": "An industrial machine costs Php 100,000 and has a salvage value of Php 10,000 after 5 years. If interest is 6% per annum, find the annual depreciation charge using the Sinking Fund Method.",
+    "a": "Php 15,420",
+    "b": "Php 16,022",
+    "c": "Php 17,250",
+    "d": "Php 18,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the constant annual depreciation rate (k) for an equipment costing Php 50,000 with a salvage value of Php 5,000 after 5 years, using the Declining Balance Method.",
+    "a": "28.5%",
+    "b": "34.1%",
+    "c": "36.9%",
+    "d": "41.2%",
+    "ans": "c"
+  },
+  {
+    "q": "For the equipment in the previous question, find the Book Value at the end of Year 3 using the Declining Balance Method. (Context from previous question: An industrial machine costs Php 100,000 and has a salvage value of Php 10,000 after 5 years. If interest is 6% per annum, find the annual depreciation charge using the Sinking Fund Method.)",
+    "a": "Php 12,500",
+    "b": "Php 14,850",
+    "c": "Php 15,420",
+    "d": "Php 18,120",
+    "ans": "b"
+  },
+  {
+    "q": "A delivery van costs Php 300,000 and has a salvage value of Php 30,000 after 6 years. Find the Year 1 depreciation using the Double Declining Balance Method.",
+    "a": "Php 75,000",
+    "b": "Php 100,000",
+    "c": "Php 112,000",
+    "d": "Php 120,000",
+    "ans": "b"
+  },
+  {
+    "q": "Using the Double Declining Balance Method, find the Book Value of the delivery van in the previous question at the end of Year 3. (Context from previous question: A delivery van costs Php 300,000 and has a salvage value of Php 30,000 after 6 years.)",
+    "a": "Php 75,450",
+    "b": "Php 88,888",
+    "c": "Php 102,400",
+    "d": "Php 115,600",
+    "ans": "b"
+  },
+  {
+    "q": "An asset has a cost of Php 60,000 and a salvage value of Php 6,000 after 10 years. Calculate the sum-of-the-years-digits (SYD) depreciation charge for Year 1.",
+    "a": "Php 7,540",
+    "b": "Php 9,818",
+    "c": "Php 10,220",
+    "d": "Php 11,850",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 3 using the Sum-of-the-Years-Digits Method. (Context from previous question: An asset has a cost of Php 60,000 and a salvage value of Php 6,000 after 10 years.)",
+    "a": "Php 28,540",
+    "b": "Php 33,545",
+    "c": "Php 36,120",
+    "d": "Php 42,120",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has fixed costs of Php 60,000 per month. The variable cost per unit is Php 80, and the selling price is Php 140 per unit. Find the monthly breakeven point in units.",
+    "a": "800 units",
+    "b": "1,000 units",
+    "c": "1,100 units",
+    "d": "1,200 units",
+    "ans": "b"
+  },
+  {
+    "q": "If the company in the previous question wants to earn a monthly profit of Php 12,000, how many units must be produced and sold? (Context from previous question: A production line has fixed costs of Php 60,000 per month. The variable cost per unit is Php 80, and the selling price is Php 140 per unit.)",
+    "a": "1,050 units",
+    "b": "1,200 units",
+    "c": "1,350 units",
+    "d": "1,450 units",
+    "ans": "b"
+  },
+  {
+    "q": "A new project requires an initial investment of Php 40,000 and is expected to generate net annual cash inflows of Php 10,000 for 4 years. Find the payback period of the project.",
+    "a": "3.50 years",
+    "b": "4.00 years",
+    "c": "4.50 years",
+    "d": "5.00 years",
+    "ans": "b"
+  },
+  {
+    "q": "A project costs Php 50,000 and has a present worth of benefits equal to Php 70,000. Calculate the benefit-cost (B/C) ratio of the project.",
+    "a": "1.15",
+    "b": "1.25",
+    "c": "1.40",
+    "d": "1.45",
+    "ans": "c"
+  },
+  {
+    "q": "If Php 5,000 is invested today at a simple interest rate of 5% per annum, what will be the total amount accumulated after 3 years?",
+    "a": "Php 5,500",
+    "b": "Php 5,750",
+    "c": "Php 6,000",
+    "d": "Php 6,250",
+    "ans": "b"
+  },
+  {
+    "q": "What is the simple interest earned on a loan of Php 10,000 at an annual interest rate of 8% for a period of 3 months?",
+    "a": "Php 200",
+    "b": "Php 300",
+    "c": "Php 400",
+    "d": "Php 500",
+    "ans": "a"
+  },
+  {
+    "q": "Find the simple interest rate required for Php 5,000 to earn Php 1,200 in interest over a period of 4 years.",
+    "a": "4.0%",
+    "b": "6.0%",
+    "c": "8.0%",
+    "d": "10.0%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for a principal of Php 10,000 to double in value at a simple interest rate of 5% per annum?",
+    "a": "10 years",
+    "b": "15 years",
+    "c": "20 years",
+    "d": "25 years",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the compound amount of Php 10,000 invested at 8% per annum compounded annually for 5 years.",
+    "a": "Php 13,540",
+    "b": "Php 14,693",
+    "c": "Php 15,120",
+    "d": "Php 16,412",
+    "ans": "b"
+  },
+  {
+    "q": "If Php 10,000 is deposited in an account earning 8% annual interest compounded semi-annually, find the total amount in the account after 5 years.",
+    "a": "Php 13,540",
+    "b": "Php 14,802",
+    "c": "Php 15,120",
+    "d": "Php 16,430",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of Php 20,000 due in 4 years if money is worth 12% nominal interest compounded quarterly.",
+    "a": "Php 11,450",
+    "b": "Php 12,463",
+    "c": "Php 13,850",
+    "d": "Php 14,120",
+    "ans": "b"
+  },
+  {
+    "q": "A debt of Php 20,000 is to be paid in 2 years with interest at 12% compounded monthly. Find the total payment due.",
+    "a": "Php 22,240",
+    "b": "Php 25,395",
+    "c": "Php 26,650",
+    "d": "Php 28,100",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the effective rate corresponding to a nominal interest rate of 6% compounded quarterly.",
+    "a": "6.14%",
+    "b": "6.24%",
+    "c": "6.45%",
+    "d": "7.12%",
+    "ans": "a"
+  },
+  {
+    "q": "Find the effective interest rate of a loan with 8% nominal interest compounded monthly.",
+    "a": "8.12%",
+    "b": "8.30%",
+    "c": "8.45%",
+    "d": "9.12%",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the accumulated value of Php 5,000 after 4 years if interest is earned at 10% compounded continuously.",
+    "a": "Php 6,540",
+    "b": "Php 7,459",
+    "c": "Php 7,850",
+    "d": "Php 8,412",
+    "ans": "b"
+  },
+  {
+    "q": "Find the effective interest rate for an account that compounding continuously at a nominal rate of 6%.",
+    "a": "6.12%",
+    "b": "6.18%",
+    "c": "6.52%",
+    "d": "7.12%",
+    "ans": "b"
+  },
+  {
+    "q": "How many years are required for an investment of Php 2,000 to triple in value if interest is compounded continuously at 8%?",
+    "a": "8.52 years",
+    "b": "10.24 years",
+    "c": "13.73 years",
+    "d": "14.12 years",
+    "ans": "c"
+  },
+  {
+    "q": "What is the future value of an ordinary annuity consisting of 5 annual payments of Php 5,000 each, if the interest rate is 8% compounded annually?",
+    "a": "Php 26,450",
+    "b": "Php 29,333",
+    "c": "Php 31,120",
+    "d": "Php 33,500",
+    "ans": "b"
+  },
+  {
+    "q": "Find the present worth of an ordinary annuity of Php 5,000 per year for 5 years if the discount rate is 10% compounded annually.",
+    "a": "Php 15,240",
+    "b": "Php 18,954",
+    "c": "Php 19,300",
+    "d": "Php 21,120",
+    "ans": "b"
+  },
+  {
+    "q": "If you deposit Php 1,000 at the end of each month into an account earning 6% nominal interest compounded monthly, how much will you accumulate after 5 years?",
+    "a": "Php 65,450",
+    "b": "Php 68,850",
+    "c": "Php 69,770",
+    "d": "Php 72,400",
+    "ans": "c"
+  },
+  {
+    "q": "A company wants to buy a machine worth Php 100,000 in 5 years. What equal year-end deposit must be made into a sinking fund earning 8% compounded annually?",
+    "a": "Php 15,540",
+    "b": "Php 17,046",
+    "c": "Php 18,420",
+    "d": "Php 21,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the present worth of an annuity due of Php 3,000 per year for 5 years at an interest rate of 8% compounded annually.",
+    "a": "Php 10,450",
+    "b": "Php 11,250",
+    "c": "Php 12,936",
+    "d": "Php 13,300",
+    "ans": "c"
+  },
+  {
+    "q": "What is the future value of an annuity due of Php 2,000 made at the beginning of each year for 5 years if money is worth 10% compounded annually?",
+    "a": "Php 11,450",
+    "b": "Php 12,560",
+    "c": "Php 13,420",
+    "d": "Php 14,300",
+    "ans": "c"
+  },
+  {
+    "q": "A man wishes to provide Php 6,000 annually forever to a charity starting one year from today. If the fund earns 5% compounded annually, what single donation must he make today?",
+    "a": "Php 100,000",
+    "b": "Php 110,000",
+    "c": "Php 120,000",
+    "d": "Php 150,000",
+    "ans": "c"
+  },
+  {
+    "q": "Find the capitalized cost of a building that has an initial cost of Php 2,000,000 and requires Php 50,000 in annual maintenance starting one year from today. The interest rate is 8% compounded annually.",
+    "a": "Php 2,500,000",
+    "b": "Php 2,625,000",
+    "c": "Php 2,750,000",
+    "d": "Php 2,800,000",
+    "ans": "b"
+  },
+  {
+    "q": "An asset with an initial cost of Php 50,000 has an estimated salvage value of Php 5,000 at the end of its 5-year useful life. Find the annual depreciation using the Straight Line Method.",
+    "a": "Php 7,500",
+    "b": "Php 8,000",
+    "c": "Php 9,000",
+    "d": "Php 10,000",
+    "ans": "c"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 2 using the Straight Line Method. (Context from previous question: An asset with an initial cost of Php 50,000 has an estimated salvage value of Php 5,000 at the end of its 5-year useful life.)",
+    "a": "Php 28,000",
+    "b": "Php 32,000",
+    "c": "Php 34,000",
+    "d": "Php 36,000",
+    "ans": "b"
+  },
+  {
+    "q": "An industrial machine costs Php 50,000 and has a salvage value of Php 5,000 after 5 years. If interest is 8% per annum, find the annual depreciation charge using the Sinking Fund Method.",
+    "a": "Php 6,420",
+    "b": "Php 7,671",
+    "c": "Php 8,250",
+    "d": "Php 9,120",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the constant annual depreciation rate (k) for an equipment costing Php 20,000 with a salvage value of Php 2,000 after 5 years, using the Declining Balance Method.",
+    "a": "25.4%",
+    "b": "28.5%",
+    "c": "36.9%",
+    "d": "41.2%",
+    "ans": "c"
+  },
+  {
+    "q": "For the equipment in the previous question, find the Book Value at the end of Year 2 using the Declining Balance Method. (Context from previous question: An industrial machine costs Php 50,000 and has a salvage value of Php 5,000 after 5 years. If interest is 8% per annum, find the annual depreciation charge using the Sinking Fund Method.)",
+    "a": "Php 5,500",
+    "b": "Php 7,951",
+    "c": "Php 8,120",
+    "d": "Php 9,120",
+    "ans": "b"
+  },
+  {
+    "q": "A delivery van costs Php 150,000 and has a salvage value of Php 15,000 after 5 years. Find the Year 1 depreciation using the Double Declining Balance Method.",
+    "a": "Php 45,000",
+    "b": "Php 60,000",
+    "c": "Php 65,000",
+    "d": "Php 70,000",
+    "ans": "b"
+  },
+  {
+    "q": "Using the Double Declining Balance Method, find the Book Value of the delivery van in the previous question at the end of Year 3. (Context from previous question: A delivery van costs Php 150,000 and has a salvage value of Php 15,000 after 5 years.)",
+    "a": "Php 28,450",
+    "b": "Php 32,400",
+    "c": "Php 36,400",
+    "d": "Php 42,600",
+    "ans": "b"
+  },
+  {
+    "q": "An asset has a cost of Php 30,000 and a salvage value of Php 3,000 after 5 years. Calculate the sum-of-the-years-digits (SYD) depreciation charge for Year 1.",
+    "a": "Php 6,540",
+    "b": "Php 9,000",
+    "c": "Php 9,220",
+    "d": "Php 10,850",
+    "ans": "b"
+  },
+  {
+    "q": "For the asset in the previous question, calculate the Book Value at the end of Year 2 using the Sum-of-the-Years-Digits Method. (Context from previous question: An asset has a cost of Php 30,000 and a salvage value of Php 3,000 after 5 years.)",
+    "a": "Php 14,540",
+    "b": "Php 17,400",
+    "c": "Php 18,120",
+    "d": "Php 19,120",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has fixed costs of Php 30,000 per month. The variable cost per unit is Php 60, and the selling price is Php 110 per unit. Find the monthly breakeven point in units.",
+    "a": "500 units",
+    "b": "600 units",
+    "c": "700 units",
+    "d": "800 units",
+    "ans": "b"
+  },
+  {
+    "q": "If the company in the previous question wants to earn a monthly profit of Php 10,000, how many units must be produced and sold? (Context from previous question: A production line has fixed costs of Php 30,000 per month. The variable cost per unit is Php 60, and the selling price is Php 110 per unit.)",
+    "a": "650 units",
+    "b": "800 units",
+    "c": "950 units",
+    "d": "1,050 units",
+    "ans": "b"
+  },
+  {
+    "q": "A new project requires an initial investment of Php 20,000 and is expected to generate net annual cash inflows of Php 5,000 for 5 years. Find the payback period of the project.",
+    "a": "3.50 years",
+    "b": "4.00 years",
+    "c": "4.50 years",
+    "d": "5.00 years",
+    "ans": "b"
+  },
+  {
+    "q": "A project costs Php 25,000 and has a present worth of benefits equal to Php 35,000. Calculate the benefit-cost (B/C) ratio of the project.",
+    "a": "1.15",
+    "b": "1.25",
+    "c": "1.40",
+    "d": "1.45",
+    "ans": "c"
+  }
+]

@@ -1,0 +1,1762 @@
+[
+  {
+    "q": "What is an equation that contains one or several derivatives of an unknown function called?",
+    "a": "Differential equation",
+    "b": "Algebraic equation",
+    "c": "Transcendental equation",
+    "d": "Integral equation",
+    "ans": "a"
+  },
+  {
+    "q": "If a differential equation contains only standard derivatives of one or more dependent variables with respect to a single independent variable, it is classified as a what?",
+    "a": "Ordinary differential equation",
+    "b": "Partial differential equation",
+    "c": "Linear programming equation",
+    "d": "Homogeneous algebraic equation",
+    "ans": "a"
+  },
+  {
+    "q": "What is the order of a differential equation defined as?",
+    "a": "The order of the highest derivative appearing in the equation",
+    "b": "The highest power of the independent variable",
+    "c": "The highest power of the dependent variable",
+    "d": "The number of arbitrary constants in the general solution",
+    "ans": "a"
+  },
+  {
+    "q": "What is the degree of a differential equation defined as?",
+    "a": "The algebraic exponent of the highest-order derivative when the equation is cleared of radicals and fractions",
+    "b": "The sum of the exponents of all derivatives present",
+    "c": "The highest power to which the independent variable is raised",
+    "d": "The total number of terms containing derivatives",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the order and degree of the differential equation: (d^2y/dx^2)^3 + 5(dy/dx)^4 - xy = 0.",
+    "a": "Order 2, Degree 3",
+    "b": "Order 3, Degree 2",
+    "c": "Order 2, Degree 4",
+    "d": "Order 4, Degree 3",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the order and degree of the differential equation: d^3y/dx^3 + x * sqrt(dy/dx) = y.",
+    "a": "Order 3, Degree 2",
+    "b": "Order 3, Degree 1",
+    "c": "Order 1, Degree 3",
+    "d": "Order 2, Degree 3",
+    "ans": "a"
+  },
+  {
+    "q": "An ordinary differential equation is considered linear if it can be written in a form where the dependent variable y and all its derivatives occur in what power?",
+    "a": "First power only, and no products of y and its derivatives exist",
+    "b": "Second power only",
+    "c": "Any integer power as long as the coefficients are constants",
+    "d": "First power, but products of y and its derivatives are allowed",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following ordinary differential equations is classified as non-linear?",
+    "a": "y'' + 3y' + 2y = cos(x)",
+    "b": "y'' + y * y' = x",
+    "c": "x^2 * y'' + x * y' - y = 0",
+    "d": "y' + 5y = e^x",
+    "ans": "b"
+  },
+  {
+    "q": "A solution of a differential equation that is free of arbitrary constants is called what type of solution?",
+    "a": "Particular solution",
+    "b": "General solution",
+    "c": "Singular solution",
+    "d": "Complementary solution",
+    "ans": "a"
+  },
+  {
+    "q": "A solution of a differential equation obtained by assigning specific values to the arbitrary constants in the general solution is called a what?",
+    "a": "Particular solution",
+    "b": "General solution",
+    "c": "Singular solution",
+    "d": "Complementary solution",
+    "ans": "a"
+  },
+  {
+    "q": "What is a solution of a differential equation that cannot be obtained by assigning specific values to the arbitrary constants in the general solution called?",
+    "a": "Singular solution",
+    "b": "Particular solution",
+    "c": "Complementary solution",
+    "d": "Boundary solution",
+    "ans": "a"
+  },
+  {
+    "q": "The general solution of an nth-order ordinary differential equation contains how many independent arbitrary constants?",
+    "a": "n",
+    "b": "n - 1",
+    "c": "2n",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Which theorem provides conditions under which a first-order initial value problem dy/dx = f(x, y), y(x_0) = y_0 has a unique solution?",
+    "a": "Existence and Uniqueness Theorem (Picard's Theorem)",
+    "b": "Mean Value Theorem",
+    "c": "Fubini's Theorem",
+    "d": "Green's Theorem",
+    "ans": "a"
+  },
+  {
+    "q": "In a first-order differential equation, if f(x, y) can be written as a product of a function of x and a function of y, the equation is called what?",
+    "a": "Separable",
+    "b": "Exact",
+    "c": "Linear",
+    "d": "Homogeneous",
+    "ans": "a"
+  },
+  {
+    "q": "What is a first-order differential equation of the form M(x, y) dx + N(x, y) dy = 0 called if there exists a function f(x, y) such that df = M dx + N dy?",
+    "a": "Exact differential equation",
+    "b": "Linear differential equation",
+    "c": "Separable differential equation",
+    "d": "Homogeneous differential equation",
+    "ans": "a"
+  },
+  {
+    "q": "What is the mathematical condition for the differential equation M(x, y) dx + N(x, y) dy = 0 to be exact?",
+    "a": "dM/dy = dN/dx",
+    "b": "dM/dx = dN/dy",
+    "c": "dM/dy = -dN/dx",
+    "d": "dM/dx + dN/dy = 0",
+    "ans": "a"
+  },
+  {
+    "q": "If a differential equation is not exact, it can sometimes be made exact by multiplying it by a special function called a what?",
+    "a": "Integrating factor",
+    "b": "Particular integral",
+    "c": "Complementary function",
+    "d": "Wronskian",
+    "ans": "a"
+  },
+  {
+    "q": "A first-order differential equation of the form dy/dx + P(x)y = Q(x) is classified as what?",
+    "a": "First-order linear differential equation",
+    "b": "Separable differential equation",
+    "c": "Exact differential equation",
+    "d": "Bernoulli differential equation",
+    "ans": "a"
+  },
+  {
+    "q": "What is the integrating factor for the first-order linear differential equation dy/dx + P(x)y = Q(x)?",
+    "a": "e^(Integral of P(x) dx)",
+    "b": "e^(P(x))",
+    "c": "Integral of P(x) dx",
+    "d": "e^(-Integral of P(x) dx)",
+    "ans": "a"
+  },
+  {
+    "q": "A first-order differential equation of the form dy/dx + P(x)y = Q(x) * y^n, where n is not 0 or 1, is known as what?",
+    "a": "Bernoulli's equation",
+    "b": "Clairaut's equation",
+    "c": "Riccati's equation",
+    "d": "Euler's equation",
+    "ans": "a"
+  },
+  {
+    "q": "What substitution is used to transform a Bernoulli equation dy/dx + P(x)y = Q(x) * y^n into a linear equation?",
+    "a": "v = y^(1 - n)",
+    "b": "v = y^(n - 1)",
+    "c": "v = y^n",
+    "d": "v = ln(y)",
+    "ans": "a"
+  },
+  {
+    "q": "A first-order differential equation of the form y = x * y' + f(y') is classified as what?",
+    "a": "Clairaut's equation",
+    "b": "Bernoulli's equation",
+    "c": "Riccati's equation",
+    "d": "Lagrange's equation",
+    "ans": "a"
+  },
+  {
+    "q": "A function f(x, y) is said to be homogeneous of degree n if f(kx, ky) is equal to what?",
+    "a": "k^n * f(x, y)",
+    "b": "k * f(x, y)",
+    "c": "n^k * f(x, y)",
+    "d": "f(kx, ky) / k^n",
+    "ans": "a"
+  },
+  {
+    "q": "A first-order differential equation M(x, y) dx + N(x, y) dy = 0 is homogeneous if both M and N are homogeneous functions of what?",
+    "a": "The same degree",
+    "b": "Different degrees",
+    "c": "Degree zero",
+    "d": "Degree one",
+    "ans": "a"
+  },
+  {
+    "q": "What substitution is standard for solving homogeneous first-order differential equations?",
+    "a": "y = ux or x = vy",
+    "b": "y = u + x",
+    "c": "y = e^ux",
+    "d": "y = u/x",
+    "ans": "a"
+  },
+  {
+    "q": "What is a system of curves that intersects every member of another family of curves at right angles called?",
+    "a": "Orthogonal trajectories",
+    "b": "Asymptotes",
+    "c": "Envelopes",
+    "d": "Parallel curves",
+    "ans": "a"
+  },
+  {
+    "q": "To find the orthogonal trajectories of a family of curves with differential equation dy/dx = f(x, y), we must solve what differential equation?",
+    "a": "dy/dx = -1 / f(x, y)",
+    "b": "dy/dx = f(x, y)",
+    "c": "dy/dx = -f(x, y)",
+    "d": "dy/dx = 1 / f(x, y)",
+    "ans": "a"
+  },
+  {
+    "q": "A linear differential equation with constant coefficients is homogeneous if its right-hand side f(x) is equal to what?",
+    "a": "0",
+    "b": "A constant c",
+    "c": "An exponential function e^x",
+    "d": "A polynomial",
+    "ans": "a"
+  },
+  {
+    "q": "For the linear differential equation a * y'' + b * y' + c * y = 0, the algebraic equation a * m^2 + b * m + c = 0 is called the what?",
+    "a": "Auxiliary equation",
+    "b": "Particular equation",
+    "c": "Homogeneous algebraic equation",
+    "d": "Wronskian equation",
+    "ans": "a"
+  },
+  {
+    "q": "If the auxiliary equation of a second-order linear homogeneous differential equation has two distinct real roots m_1 and m_2, what is the general solution?",
+    "a": "y = C_1 * e^(m_1 * x) + C_2 * e^(m_2 * x)",
+    "b": "y = (C_1 + C_2 * x) * e^(m_1 * x)",
+    "c": "y = e^(m_1 * x) * (C_1 * cos(m_2 * x) + C_2 * sin(m_2 * x))",
+    "d": "y = C_1 * e^(m_1 * x) * C_2 * e^(m_2 * x)",
+    "ans": "a"
+  },
+  {
+    "q": "If the auxiliary equation has a repeated real root m, what is the general solution of the differential equation?",
+    "a": "y = (C_1 + C_2 * x) * e^(m * x)",
+    "b": "y = C_1 * e^(m * x) + C_2 * e^(m * x)",
+    "c": "y = C_1 * x * e^(m * x)",
+    "d": "y = C_1 * e^(m * x) + C_2 * e^(-m * x)",
+    "ans": "a"
+  },
+  {
+    "q": "If the auxiliary equation has complex conjugate roots m = a +/- b * i, what is the general solution of the differential equation?",
+    "a": "y = e^(a * x) * (C_1 * cos(b * x) + C_2 * sin(b * x))",
+    "b": "y = C_1 * e^(a * x) + C_2 * e^(b * x)",
+    "c": "y = (C_1 + C_2 * x) * e^(a * x)",
+    "d": "y = C_1 * e^(a * x) * cos(b * x)",
+    "ans": "a"
+  },
+  {
+    "q": "What determinantal expression of functions y_1 and y_2, defined as y_1 * y_2' - y_2 * y_1', is used to test for linear independence?",
+    "a": "Wronskian",
+    "b": "Jacobian",
+    "c": "Hessian",
+    "d": "Discriminant",
+    "ans": "a"
+  },
+  {
+    "q": "If the Wronskian of a set of solutions of a linear differential equation is non-zero on an interval, the solutions are said to be what?",
+    "a": "Linearly independent",
+    "b": "Linearly dependent",
+    "c": "Orthogonal",
+    "d": "Asymptotic",
+    "ans": "a"
+  },
+  {
+    "q": "What method is used to find a particular solution of a non-homogeneous linear differential equation by guessing a form based on the right-hand side?",
+    "a": "Method of Undetermined Coefficients",
+    "b": "Variation of Parameters",
+    "c": "Separation of Variables",
+    "d": "Reduction of Order",
+    "ans": "a"
+  },
+  {
+    "q": "What general method can always be used to find a particular solution of a non-homogeneous linear differential equation, regardless of the form of the non-homogeneous term?",
+    "a": "Variation of Parameters",
+    "b": "Method of Undetermined Coefficients",
+    "c": "Separation of Variables",
+    "d": "Euler's Method",
+    "ans": "a"
+  },
+  {
+    "q": "In physical systems, what type of differential equation models population growth where the rate of growth is proportional to the current population?",
+    "a": "dy/dt = k * y",
+    "b": "dy/dt = k / y",
+    "c": "dy/dt = k * t",
+    "d": "dy/dt = k * y^2",
+    "ans": "a"
+  },
+  {
+    "q": "Radium decomposes at a rate proportional to the amount present. What is the fundamental differential equation governing this process?",
+    "a": "dA/dt = -k * A",
+    "b": "dA/dt = k * t",
+    "c": "dA/dt = -k / A",
+    "d": "dA/dt = -k * t^2",
+    "ans": "a"
+  },
+  {
+    "q": "Newton's law of cooling states that the rate of change of temperature of an object is proportional to the difference between its temperature T and the ambient temperature T_s. What is the modeling equation?",
+    "a": "dT/dt = -k * (T - T_s)",
+    "b": "dT/dt = -k * T * T_s",
+    "c": "dT/dt = -k * (T + T_s)",
+    "d": "dT/dt = -k / (T - T_s)",
+    "ans": "a"
+  },
+  {
+    "q": "A mixture tank problem usually models the rate of change of a substance y(t) inside a tank as what?",
+    "a": "dy/dt = Rate In - Rate Out",
+    "b": "dy/dt = Rate In + Rate Out",
+    "c": "dy/dt = Rate In * Rate Out",
+    "d": "dy/dt = Rate In / Rate Out",
+    "ans": "a"
+  },
+  {
+    "q": "The differential equation: (x + y) dx + x dy = 0 is what type of first-order differential equation?",
+    "a": "Homogeneous",
+    "b": "Separable",
+    "c": "Linear with constant coefficients",
+    "d": "Bernoulli",
+    "ans": "a"
+  },
+  {
+    "q": "The equation y' + y * cot(x) = 5 * e^x is an example of what?",
+    "a": "Linear first-order ordinary differential equation",
+    "b": "Non-linear first-order ordinary differential equation",
+    "c": "Exact first-order differential equation",
+    "d": "Separable differential equation",
+    "ans": "a"
+  },
+  {
+    "q": "What is the order of the differential equation: (y'')^3 + y' = e^x?",
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the degree of the differential equation: (y''')^4 + (y'')^5 - y = 0?",
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following functions is homogeneous of degree 2?",
+    "a": "f(x, y) = x^2 + 3xy - y^2",
+    "b": "f(x, y) = x^2 + y",
+    "c": "f(x, y) = (x^2 + y^2) / x",
+    "d": "f(x, y) = x * ln(y)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of the family of straight lines passing through the origin.",
+    "a": "y dx - x dy = 0",
+    "b": "y dx + x dy = 0",
+    "c": "dy/dx = x",
+    "d": "dy/dx = y",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all circles centered at the origin.",
+    "a": "x dx + y dy = 0",
+    "b": "x dy - y dx = 0",
+    "c": "y' = x/y",
+    "d": "x dx - y dy = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation representing all circles with centers on the x-axis and passing through the origin.",
+    "a": "y^2 - x^2 + 2xy * y' = 0",
+    "b": "y^2 + x^2 - 2xy * y' = 0",
+    "c": "x^2 - y^2 + 2xy * y' = 0",
+    "d": "y^2 - x^2 - 2xy * y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all parabolas with vertices at the origin and foci on the y-axis.",
+    "a": "2y dx - x dy = 0",
+    "b": "2x dx - y dy = 0",
+    "c": "x dy - 2y dx = 0",
+    "d": "y dx - 2x dy = 0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the differential equation of the family of parabolas y^2 = 4ax.",
+    "a": "y - 2xy' = 0",
+    "b": "2y - xy' = 0",
+    "c": "y' = y / (2x)",
+    "d": "y' = 2y / x",
+    "ans": "c"
+  },
+  {
+    "q": "Formulate the differential equation for the family of curves: y = A * e^(2x) + B * e^(-2x).",
+    "a": "y'' - 4y = 0",
+    "b": "y'' + 4y = 0",
+    "c": "y'' - 2y' = 0",
+    "d": "y'' + 2y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation for the family of curves: y = A * cos(3x) + B * sin(3x).",
+    "a": "y'' + 9y = 0",
+    "b": "y'' - 9y = 0",
+    "c": "y'' + 3y' = 0",
+    "d": "y'' - 3y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation for the family of exponential curves: y = C * e^(5x).",
+    "a": "y' - 5y = 0",
+    "b": "y' + 5y = 0",
+    "c": "y'' - 25y = 0",
+    "d": "y' - y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all circles with radius r and center on the x-axis.",
+    "a": "y^2 * (y')^2 + y^2 = r^2",
+    "b": "y^2 * (y')^2 + y^2 = r^2 * (y')^2",
+    "c": "y^2 * (y')^2 + y^2 = r^2 * [1 + (y')^2]",
+    "d": "y^2 * [1 + (y')^2] = r^2",
+    "ans": "d"
+  },
+  {
+    "q": "Find the differential equation of the family of ellipses with center at the origin and axes along the coordinate axes: x^2 / a^2 + y^2 / b^2 = 1.",
+    "a": "x * y * y'' + x * (y')^2 - y * y' = 0",
+    "b": "x * y * y'' - x * (y')^2 + y * y' = 0",
+    "c": "y * y'' + (y')^2 = 0",
+    "d": "x * y'' - y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Eliminate the arbitrary constant C from the equation: y^2 = C * x^3.",
+    "a": "3y dx - 2x dy = 0",
+    "b": "2y dx - 3x dy = 0",
+    "c": "3y dx + 2x dy = 0",
+    "d": "2y dx + 3x dy = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of the family of straight lines at a constant distance p from the origin.",
+    "a": "(x * y' - y)^2 = p^2 * [1 + (y')^2]",
+    "b": "(x * y' + y)^2 = p^2 * [1 + (y')^2]",
+    "c": "x * y' - y = p",
+    "d": "(x * y' - y)^2 = p^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all parabolas with vertex on the x-axis, axis parallel to the y-axis, and distance from vertex to focus equal to a.",
+    "a": "2a * y'' = 1",
+    "b": "2a * y'' = (y')^2",
+    "c": "2a * y'' = (y')^3",
+    "d": "2a * (y'')^2 = 1",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the differential equation of all straight lines with slope and y-intercept equal.",
+    "a": "y = y' * (x + 1)",
+    "b": "y = y' * (x - 1)",
+    "c": "y = y' * x",
+    "d": "y = y' + x",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of all circles passing through the origin with center on the y-axis.",
+    "a": "x^2 - y^2 + 2xy * y' = 0",
+    "b": "x^2 - y^2 - 2xy * y' = 0",
+    "c": "y^2 - x^2 + 2xy * y' = 0",
+    "d": "x^2 + y^2 - 2xy * y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Eliminate the arbitrary constant c from the relation: ln(y) = c * x.",
+    "a": "y' = y * ln(y) / x",
+    "b": "y' = ln(y) / (x * y)",
+    "c": "y' = y * x / ln(y)",
+    "d": "y' = ln(y) / x",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of the family of curves: y = C_1 * e^x + C_2 * e^(2x).",
+    "a": "y'' - 3y' + 2y = 0",
+    "b": "y'' + 3y' + 2y = 0",
+    "c": "y'' - y = 0",
+    "d": "y'' - 2y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of the family of curves: y = e^x * (C_1 + C_2 * x).",
+    "a": "y'' - 2y' + y = 0",
+    "b": "y'' + 2y' + y = 0",
+    "c": "y'' - y = 0",
+    "d": "y'' - 2y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all parabolas with axis parallel to the x-axis.",
+    "a": "y''' * y' - 3 * (y'')^2 = 0",
+    "b": "y''' = 0",
+    "c": "3 * y''' * y' - (y'')^2 = 0",
+    "d": "y'' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Eliminate the arbitrary constants A and B from the equation: y = A * x^2 + B * x.",
+    "a": "x^2 * y'' - 2x * y' + 2y = 0",
+    "b": "x^2 * y'' + 2x * y' - 2y = 0",
+    "c": "y'' - 2y = 0",
+    "d": "x * y'' - y' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of the family of concentric circles: x^2 + y^2 = C.",
+    "a": "x + y * y' = 0",
+    "b": "x - y * y' = 0",
+    "c": "y' = -y/x",
+    "d": "y' = x/y",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all circles of radius 1 with center in the xy-plane.",
+    "a": "[1 + (y')^2]^3 = (y'')^2",
+    "b": "[1 + (y')^2]^2 = (y'')^2",
+    "c": "[1 + (y')^2]^3 = y''",
+    "d": "y'' = 1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all straight lines with y-intercept equal to 3.",
+    "a": "x * y' - y + 3 = 0",
+    "b": "x * y' + y - 3 = 0",
+    "c": "x * y' - y - 3 = 0",
+    "d": "y' = 3",
+    "ans": "a"
+  },
+  {
+    "q": "Eliminate the arbitrary constants A and B from: y = A * sin(x + B).",
+    "a": "y'' + y = 0",
+    "b": "y'' - y = 0",
+    "c": "y' + y = 0",
+    "d": "y' - y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of all circles with center on the line y = x and passing through the origin.",
+    "a": "(x^2 - y^2 - 2xy) dx + (x^2 - y^2 + 2xy) dy = 0",
+    "b": "(x^2 - y^2 + 2xy) dx + (x^2 - y^2 - 2xy) dy = 0",
+    "c": "(x^2 + y^2) dx + (x^2 - y^2) dy = 0",
+    "d": "(x - y) dx + (x + y) dy = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of the family of cubics: y = a * x^3.",
+    "a": "x * y' - 3y = 0",
+    "b": "3x * y' - y = 0",
+    "c": "x * y' + 3y = 0",
+    "d": "y' - 3y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Eliminate the arbitrary constants a and b from the relation: x * y = a * e^x + b * e^(-x).",
+    "a": "x * y'' + 2y' - x * y = 0",
+    "b": "x * y'' - 2y' + x * y = 0",
+    "c": "y'' - y = 0",
+    "d": "x * y'' + y' - y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of all lines parallel to the line y = 3x + 5.",
+    "a": "y' = 3",
+    "b": "y' = -3",
+    "c": "y' = 1/3",
+    "d": "y'' = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of all parabolas with axis parallel to the y-axis.",
+    "a": "y''' = 0",
+    "b": "y'' = 0",
+    "c": "y'''' = 0",
+    "d": "y'' - y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Formulate the differential equation of all circles with center at (h, k) and radius R.",
+    "a": "[1 + (y')^2] * y''' - 3y' * (y'')^2 = 0",
+    "b": "[1 + (y')^2] * y''' + 3y' * (y'')^2 = 0",
+    "c": "y''' = 0",
+    "d": "(y'')^2 = R^2",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the variable separable differential equation: dy/dx = y / x.",
+    "a": "y = C * x",
+    "b": "y = x + C",
+    "c": "y = C / x",
+    "d": "y^2 = x^2 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: dy/dx = -x / y.",
+    "a": "x^2 + y^2 = C",
+    "b": "x^2 - y^2 = C",
+    "c": "y = C * x",
+    "d": "y = -x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: dx / x + dy / y = 0.",
+    "a": "x * y = C",
+    "b": "x + y = C",
+    "c": "ln(x) + ln(y) = 0",
+    "d": "y = C * x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: dy/dx = 1 + y^2.",
+    "a": "y = tan(x + C)",
+    "b": "y = arctan(x) + C",
+    "c": "y = tan(x) + C",
+    "d": "arctan(y) = x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: dy/dx = e^(x - y).",
+    "a": "e^y = e^x + C",
+    "b": "e^y = e^(-x) + C",
+    "c": "e^(-y) = e^x + C",
+    "d": "y = x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: y' = x * y.",
+    "a": "y = C * e^(0.5 * x^2)",
+    "b": "y = C * e^(x^2)",
+    "c": "y = 0.5 * x^2 + C",
+    "d": "y = C * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' = -y / x, with y(1) = 3.",
+    "a": "y = 3/x",
+    "b": "y = -3/x",
+    "c": "y = 3 * e^(-x)",
+    "d": "y = 3 - ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (2x + y) dx + (x + 2y) dy = 0.",
+    "a": "x^2 + xy + y^2 = C",
+    "b": "x^2 - xy + y^2 = C",
+    "c": "x^2 + 2xy + y^2 = C",
+    "d": "2x^2 + xy + 2y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the exact equation: y * cos(xy) dx + x * cos(xy) dy = 0.",
+    "a": "sin(xy) = C",
+    "b": "cos(xy) = C",
+    "c": "xy * cos(xy) = C",
+    "d": "sin(x) * cos(y) = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous differential equation: dy/dx = (x + y) / x.",
+    "a": "y = x * ln|x| + C * x",
+    "b": "y = x * ln|x| + C",
+    "c": "y = ln|x| + C * x",
+    "d": "y = C * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the homogeneous equation: (x^2 + y^2) dx - 2xy dy = 0.",
+    "a": "x^2 - y^2 = C * x",
+    "b": "x^2 + y^2 = C * x",
+    "c": "x^2 - y^2 = C * y",
+    "d": "y^2 = x^2 * ln|x| + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear first-order differential equation: y' + y = e^x.",
+    "a": "y = 0.5 * e^x + C * e^(-x)",
+    "b": "y = e^x + C * e^(-x)",
+    "c": "y = 0.5 * e^x + C * e^x",
+    "d": "y = e^(-x) * (e^x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the first-order linear equation: y' + 2y = x.",
+    "a": "y = 0.5 * x - 0.25 + C * e^(-2x)",
+    "b": "y = 0.5 * x + 0.25 + C * e^(-2x)",
+    "c": "y = x - 2 + C * e^(-2x)",
+    "d": "y = 0.5 * x + C * e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' - y = 1, with y(0) = 0.",
+    "a": "y = e^x - 1",
+    "b": "y = 1 - e^(-x)",
+    "c": "y = e^x + 1",
+    "d": "y = e^(-x) - 1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the linear equation: y' + y / x = x^2.",
+    "a": "y = 0.25 * x^3 + C / x",
+    "b": "y = x^3 + C / x",
+    "c": "y = 0.25 * x^3 + C * x",
+    "d": "y = 0.25 * x^4 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the Bernoulli equation: y' + y = y^2.",
+    "a": "y = 1 / (1 + C * e^x)",
+    "b": "y = 1 / (1 - C * e^x)",
+    "c": "y = e^x / (e^x + C)",
+    "d": "y = 1 / (1 + C * e^(-x))",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the Bernoulli equation: y' + y / x = y^2.",
+    "a": "y = 1 / (x * (C - ln|x|))",
+    "b": "y = x / (C - ln|x|)",
+    "c": "y = 1 / (C * x - ln|x|)",
+    "d": "y = x * ln|x| + C",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of the linear equation: dy/dx + 2x * y = x.",
+    "a": "y = 0.5 + C * e^(-x^2)",
+    "b": "y = 0.5 * e^(-x^2) + C",
+    "c": "y = 1 + C * e^(-x^2)",
+    "d": "y = 0.5 + C * e^(x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (3x^2 + 2y^2) dx + (4xy + 6y^2) dy = 0.",
+    "a": "x^3 + 2x * y^2 + 2y^3 = C",
+    "b": "3x^3 + 4x * y^2 + 6y^3 = C",
+    "c": "x^3 + 2x^2 * y + 2y^3 = C",
+    "d": "x^3 + y^3 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the exact equation: e^x dx + (2y + e^x * y) dy = 0... Wait, is it exact? Let's check: d(e^x)/dy = 0, d(2y + e^x * y)/dx = e^x * y. No. Let's solve: (y^2 + e^x) dx + (2xy + cos(y)) dy = 0.",
+    "a": "x * y^2 + e^x + sin(y) = C",
+    "b": "x^2 * y + e^x + sin(y) = C",
+    "c": "x * y^2 + e^x - sin(y) = C",
+    "d": "x * y^2 + e^x + cos(y) = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the separable equation: y' = cos^2(y) * cos(x).",
+    "a": "tan(y) = sin(x) + C",
+    "b": "cot(y) = sin(x) + C",
+    "c": "tan(y) = cos(x) + C",
+    "d": "sin(y) = sin(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: x * dy - y * dx = x^2 * dx.",
+    "a": "y = x^2 + C * x",
+    "b": "y = x^2 - C * x",
+    "c": "y = 0.5 * x^2 + C * x",
+    "d": "y = x * ln|x| + C * x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear equation: y' + 3y = e^(-3x).",
+    "a": "y = e^(-3x) * (x + C)",
+    "b": "y = e^(-3x) * (3x + C)",
+    "c": "y = x * e^(3x) + C",
+    "d": "y = e^(3x) * (x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the particular solution of: y' + 2y = 4, with y(0) = 3.",
+    "a": "y = 2 + e^(-2x)",
+    "b": "y = 2 - e^(-2x)",
+    "c": "y = 2 + e^(2x)",
+    "d": "y = 4 - e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous first-order equation: x * dy/dx = y - x.",
+    "a": "y = x * (C - ln|x|)",
+    "b": "y = x * (C + ln|x|)",
+    "c": "y = x * ln|x| + C",
+    "d": "y = C * e^(-x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact equation: (2xy + 3) dx + (x^2 - 1) dy = 0.",
+    "a": "x^2 * y + 3x - y = C",
+    "b": "x^2 * y + 3x + y = C",
+    "c": "x^2 * y - 3x - y = C",
+    "d": "x * y^2 + 3x - y = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: y' = y / (x + y).",
+    "a": "y * e^(x/y) = C",
+    "b": "y * e^(-x/y) = C",
+    "c": "x * e^(y/x) = C",
+    "d": "y = C * x * e^(x/y)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: (1 + x^2) dy + x * y dx = 0.",
+    "a": "y * sqrt(1 + x^2) = C",
+    "b": "y * (1 + x^2) = C",
+    "c": "y^2 * (1 + x^2) = C",
+    "d": "y = C * sqrt(1 + x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' - 2xy = e^(x^2), with y(0) = 5.",
+    "a": "y = (x + 5) * e^(x^2)",
+    "b": "y = (x - 5) * e^(x^2)",
+    "c": "y = x * e^(x^2) + 5",
+    "d": "y = 5 * e^(x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (y * e^(xy) + 2x) dx + (x * e^(xy) - 2y) dy = 0.",
+    "a": "e^(xy) + x^2 - y^2 = C",
+    "b": "e^(xy) - x^2 + y^2 = C",
+    "c": "e^(xy) + x^2 + y^2 = C",
+    "d": "x * y * e^(xy) + x^2 - y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear equation: y' - y * tan(x) = sec(x).",
+    "a": "y * cos(x) = x + C",
+    "b": "y / cos(x) = x + C",
+    "c": "y * sin(x) = x + C",
+    "d": "y = x * tan(x) + C",
+    "ans": "b"
+  },
+  {
+    "q": "Solve the homogeneous equation: (y - x) dx + (y + x) dy = 0.",
+    "a": "y^2 + 2xy - x^2 = C",
+    "b": "y^2 - 2xy - x^2 = C",
+    "c": "x^2 + 2xy - y^2 = C",
+    "d": "y^2 + 2xy + x^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y' = y / x + x * sin(x).",
+    "a": "y = C * x - x * cos(x)",
+    "b": "y = C * x + x * cos(x)",
+    "c": "y = C * x - cos(x)",
+    "d": "y = x * (C + sin(x))",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the Bernoulli equation: y' + y = y^3 * e^x.",
+    "a": "1 / y^2 = e^(2x) * (C - 2x)",
+    "b": "1 / y^2 = e^(-2x) * (C - 2x)",
+    "c": "1 / y^2 = e^(2x) * (C + 2x)",
+    "d": "y^2 = e^(2x) * (C - 2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: y' = (x - y)^2.",
+    "a": "arctan(x - y) = x + C",
+    "b": "tan(x - y) = x + C",
+    "c": "ln|x - y| = x + C",
+    "d": "1 / (x - y) = x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: (x^2 + 1) y' + 2x * y = 4x^3.",
+    "a": "y = (x^4 + C) / (x^2 + 1)",
+    "b": "y = (x^4 + C) * (x^2 + 1)",
+    "c": "y = x^4 / (x^2 + 1) + C",
+    "d": "y = x^2 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact equation: (cos(x) * sin(x) - x * y^2) dx + y * (1 - x^2) dy = 0.",
+    "a": "y^2 * (1 - x^2) - x * sin^2(x) = C",
+    "b": "0.5 * y^2 * (1 - x^2) - 0.5 * sin^2(x) = C... Wait, let's simplify: y^2 * (1 - x^2) - sin^2(x) = C",
+    "c": "y^2 * (1 - x^2) + sin^2(x) = C",
+    "d": "y^2 * (1 + x^2) - sin^2(x) = C",
+    "ans": "b"
+  },
+  {
+    "q": "Solve the homogeneous equation: (y^2 - xy) dx + x^2 dy = 0.",
+    "a": "y * ln|x| + x = C * y",
+    "b": "x * ln|x| + y = C * x",
+    "c": "y * ln|x| - x = C * y",
+    "d": "x * ln|y| + y = C * x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y' + 2x * y = 2x.",
+    "a": "y = 1 + C * e^(-x^2)",
+    "b": "y = 1 + C * e^(x^2)",
+    "c": "y = e^(-x^2) + C",
+    "d": "y = x^2 + C * e^(-x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the separable equation: y * ln(x) dx - x * dy = 0.",
+    "a": "y = C * e^(0.5 * (ln(x))^2)",
+    "b": "y = C * e^(ln(x))",
+    "c": "y = 0.5 * (ln(x))^2 + C",
+    "d": "y = C * x * ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact equation: (x + e^y) dx + (x * e^y + y) dy = 0.",
+    "a": "0.5 * x^2 + x * e^y + 0.5 * y^2 = C",
+    "b": "x^2 + x * e^y + y^2 = C",
+    "c": "0.5 * x^2 + e^y + 0.5 * y^2 = C",
+    "d": "x + e^y + y = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear equation: y' + y = x^2.",
+    "a": "y = x^2 - 2x + 2 + C * e^(-x)",
+    "b": "y = x^2 - 2x + C * e^(-x)",
+    "c": "y = x^2 + 2x + 2 + C * e^(-x)",
+    "d": "y = e^(-x) * (x^2 + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the non-homogeneous equation: y' - 3y = 9.",
+    "a": "y = C * e^(3x) - 3",
+    "b": "y = C * e^(3x) + 3",
+    "c": "y = C * e^(-3x) - 3",
+    "d": "y = e^(3x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the higher-order linear differential equation: y'' - 5y' + 6y = 0.",
+    "a": "y = C_1 * e^(2x) + C_2 * e^(3x)",
+    "b": "y = C_1 * e^(-2x) + C_2 * e^(-3x)",
+    "c": "y = C_1 * e^(x) + C_2 * e^(5x)",
+    "d": "y = (C_1 + C_2 * x) * e^(2.5 * x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous second-order equation: y'' + 4y' + 4y = 0.",
+    "a": "y = (C_1 + C_2 * x) * e^(-2x)",
+    "b": "y = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "c": "y = (C_1 + C_2 * x) * e^(2x)",
+    "d": "y = C_1 * cos(2x) + C_2 * sin(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous second-order equation: y'' + 9y = 0.",
+    "a": "y = C_1 * cos(3x) + C_2 * sin(3x)",
+    "b": "y = C_1 * e^(3x) + C_2 * e^(-3x)",
+    "c": "y = (C_1 + C_2 * x) * e^(3x)",
+    "d": "y = C_1 * cos(9x) + C_2 * sin(9x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of: y'' - 4y = 0.",
+    "a": "y = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "b": "y = C_1 * cos(2x) + C_2 * sin(2x)",
+    "c": "y = (C_1 + C_2 * x) * e^(2x)",
+    "d": "y = C_1 * e^(4x) + C_2 * e^(-4x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y'' - y = 0, with y(0) = 4 and y'(0) = 2.",
+    "a": "y = 3 * e^x + e^(-x)",
+    "b": "y = 2 * e^x + 2 * e^(-x)",
+    "c": "y = e^x + 3 * e^(-x)",
+    "d": "y = 4 * cosh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the second-order equation: y'' - 2y' + 5y = 0.",
+    "a": "y = e^x * (C_1 * cos(2x) + C_2 * sin(2x))",
+    "b": "y = e^(-x) * (C_1 * cos(2x) + C_2 * sin(2x))",
+    "c": "y = C_1 * e^(x) + C_2 * e^(5x)",
+    "d": "y = e^(2x) * (C_1 * cos(x) + C_2 * sin(x))",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the third-order linear homogeneous equation: y''' - 6y'' + 11y' - 6y = 0.",
+    "a": "y = C_1 * e^x + C_2 * e^(2x) + C_3 * e^(3x)",
+    "b": "y = C_1 * e^(-x) + C_2 * e^(-2x) + C_3 * e^(-3x)",
+    "c": "y = (C_1 + C_2 * x + C_3 * x^2) * e^x",
+    "d": "y = C_1 * e^x + C_2 * e^(5x) + C_3 * e^(6x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the complementary function for the non-homogeneous equation: y'' - y' - 2y = e^(3x).",
+    "a": "y_c = C_1 * e^(-1 * x) + C_2 * e^(2x)",
+    "b": "y_c = C_1 * e^x + C_2 * e^(2x)",
+    "c": "y_c = C_1 * e^(-x) + C_2 * e^(-2x)",
+    "d": "y_c = C_1 * e^(3x) + C_2 * e^(-3x)",
+    "ans": "a"
+  },
+  {
+    "q": "For the equation: y'' - y' - 2y = e^(3x), find the particular solution y_p.",
+    "a": "y_p = 0.25 * e^(3x)",
+    "b": "y_p = 0.5 * e^(3x)",
+    "c": "y_p = e^(3x)",
+    "d": "y_p = 4 * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the form of the particular solution y_p for: y'' + y = sin(x) using the method of undetermined coefficients?",
+    "a": "y_p = x * (A * cos(x) + B * sin(x))",
+    "b": "y_p = A * cos(x) + B * sin(x)",
+    "c": "y_p = A * sin(x)",
+    "d": "y_p = x^2 * (A * cos(x) + B * sin(x))",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y'' + y = x.",
+    "a": "y = C_1 * cos(x) + C_2 * sin(x) + x",
+    "b": "y = C_1 * cos(x) + C_2 * sin(x) - x",
+    "c": "y = (C_1 + C_2 * x) * e^x + x",
+    "d": "y = C_1 * e^x + C_2 * e^(-x) + x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the second-order equation: y'' - 3y' = 0.",
+    "a": "y = C_1 + C_2 * e^(3x)",
+    "b": "y = C_1 * e^(3x)",
+    "c": "y = C_1 + C_2 * x",
+    "d": "y = C_1 * e^x + C_2 * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the auxiliary roots for: y'' + 2y' + 5y = 0.",
+    "a": "-1 +/- 2i",
+    "b": "-1 +/- 4i",
+    "c": "-2 +/- i",
+    "d": "1 +/- 2i",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous fourth-order equation: y'''' - y = 0.",
+    "a": "y = C_1 * e^x + C_2 * e^(-x) + C_3 * cos(x) + C_4 * sin(x)",
+    "b": "y = C_1 * e^x + C_2 * e^(-x) + C_3 * e^(ix) + C_4 * e^(-ix)",
+    "c": "y = (C_1 + C_2 * x) * e^x + (C_3 + C_4 * x) * e^(-x)",
+    "d": "y = C_1 * cos(x) + C_2 * sin(x) + C_3 * cos(2x) + C_4 * sin(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the complementary solution of the equation: y'' - 4y' + 4y = x * e^(2x).",
+    "a": "y_c = (C_1 + C_2 * x) * e^(2x)",
+    "b": "y_c = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "c": "y_c = e^(2x) * (C_1 * cos(x) + C_2 * sin(x))",
+    "d": "y_c = (C_1 + C_2 * x + C_3 * x^2) * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Wronskian of the functions y_1 = e^x and y_2 = e^(-x)?",
+    "a": "-2",
+    "b": "2",
+    "c": "0",
+    "d": "2 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Wronskian of y_1 = cos(x) and y_2 = sin(x)?",
+    "a": "1",
+    "b": "-1",
+    "c": "0",
+    "d": "cos(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of the differential equation: y'' - 2y' + y = 0.",
+    "a": "y = (C_1 + C_2 * x) * e^x",
+    "b": "y = C_1 * e^x + C_2 * e^(-x)",
+    "c": "y = C_1 * e^x + C_2 * x * e^(-x)",
+    "d": "y = (C_1 + C_2 * x) * e^(-x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the auxiliary equation roots for: y''' - 3y'' + 3y' - y = 0.",
+    "a": "1, 1, 1",
+    "b": "-1, -1, -1",
+    "c": "1, -1, 1",
+    "d": "0, 1, 2",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: y''' - y'' = 0.",
+    "a": "y = C_1 + C_2 * x + C_3 * e^x",
+    "b": "y = C_1 + C_2 * e^x + C_3 * e^(-x)",
+    "c": "y = (C_1 + C_2 * x + C_3 * x^2) * e^x",
+    "d": "y = C_1 * e^x + C_2 * x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + 4y = 4 * cos(2x).",
+    "a": "y_p = x * sin(2x)",
+    "b": "y_p = cos(2x)",
+    "c": "y_p = x * cos(2x)",
+    "d": "y_p = 0.5 * x * sin(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y'' + 4y' + 5y = 0.",
+    "a": "y = e^(-2x) * (C_1 * cos(x) + C_2 * sin(x))",
+    "b": "y = e^(2x) * (C_1 * cos(x) + C_2 * sin(x))",
+    "c": "y = C_1 * e^(-x) + C_2 * e^(-3x)",
+    "d": "y = (C_1 + C_2 * x) * e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of: y'' - 7y' + 12y = 0.",
+    "a": "y = C_1 * e^(3x) + C_2 * e^(4x)",
+    "b": "y = C_1 * e^(-3x) + C_2 * e^(-4x)",
+    "c": "y = C_1 * e^x + C_2 * e^(12x)",
+    "d": "y = (C_1 + C_2 * x) * e^(3.5 * x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the auxiliary roots for the homogeneous equation: y'' + 2y' + 2y = 0.",
+    "a": "-1 +/- i",
+    "b": "-1 +/- 2i",
+    "c": "-2 +/- i",
+    "d": "1 +/- i",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y'' - 4y' + 3y = 0, with y(0) = 7 and y'(0) = 11.",
+    "a": "y = 5 * e^x + 2 * e^(3x)",
+    "b": "y = 2 * e^x + 5 * e^(3x)",
+    "c": "y = 4 * e^x + 3 * e^(3x)",
+    "d": "y = 6 * e^x + e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complementary solution for the differential equation: y'' - 2y' + 10y = e^x?",
+    "a": "y_c = e^x * (C_1 * cos(3x) + C_2 * sin(3x))",
+    "b": "y_c = e^(-x) * (C_1 * cos(3x) + C_2 * sin(3x))",
+    "c": "y_c = C_1 * e^x + C_2 * e^(10x)",
+    "d": "y_c = (C_1 + C_2 * x) * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "For the equation: y'' - 2y' + 10y = e^x, find the particular solution y_p.",
+    "a": "y_p = 1/9 * e^x",
+    "b": "y_p = 1/10 * e^x",
+    "c": "y_p = e^x",
+    "d": "y_p = 1/8 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the general solution of the third-order equation: y''' - y'' - y' + y = 0?",
+    "a": "y = (C_1 + C_2 * x) * e^x + C_3 * e^(-x)",
+    "b": "y = C_1 * e^x + C_2 * e^(-x) + C_3 * x * e^(-x)",
+    "c": "y = (C_1 + C_2 * x + C_3 * x^2) * e^x",
+    "d": "y = C_1 * e^x + C_2 * e^(-x) + C_3 * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + y = 2 * e^x.",
+    "a": "y_p = e^x",
+    "b": "y_p = 2 * e^x",
+    "c": "y_p = x * e^x",
+    "d": "y_p = 0.5 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y'' - y = x^2.",
+    "a": "y = C_1 * e^x + C_2 * e^(-x) - x^2 - 2",
+    "b": "y = C_1 * e^x + C_2 * e^(-x) - x^2",
+    "c": "y = (C_1 + C_2 * x) * e^x - x^2 - 2",
+    "d": "y = C_1 * cos(x) + C_2 * sin(x) - x^2",
+    "ans": "a"
+  },
+  {
+    "q": "A bacterial culture grows at a rate proportional to its population. If the population doubles in 3 hours, how long will it take to triple in hours?",
+    "a": "4.75 hours",
+    "b": "4.50 hours",
+    "c": "5.00 hours",
+    "d": "3.50 hours",
+    "ans": "a"
+  },
+  {
+    "q": "The population of a city increases at a rate proportional to its current population. If the population was 100,000 in 1990 and 120,000 in 2000, estimate the population in 2020.",
+    "a": "172,800",
+    "b": "144,000",
+    "c": "160,000",
+    "d": "200,000",
+    "ans": "a"
+  },
+  {
+    "q": "A radioactive substance decomposes at a rate proportional to its mass. If its half-life is 1600 years, what percentage of the substance remains after 400 years?",
+    "a": "84.09%",
+    "b": "75.00%",
+    "c": "80.00%",
+    "d": "86.54%",
+    "ans": "a"
+  },
+  {
+    "q": "Radium decomposes at a rate proportional to the amount present. If half of the original amount disappears after 1000 years, what is the percentage lost in 100 years?",
+    "a": "6.70%",
+    "b": "4.50%",
+    "c": "5.36%",
+    "d": "4.30%",
+    "ans": "a"
+  },
+  {
+    "q": "Newton's law of cooling states that the rate of change of temperature of an object is proportional to the difference between its temperature and the ambient temperature. If a pie is taken out of an oven at 350°F and placed in a 70°F room, and cools to 210°F in 30 minutes, what will its temperature be after 1 hour?",
+    "a": "140°F",
+    "b": "120°F",
+    "c": "130°F",
+    "d": "150°F",
+    "ans": "a"
+  },
+  {
+    "q": "According to Newton's law of cooling, the rate at which a substance cools in air is directly proportional to the difference between the temperature of the substance and that of air. If the temperature of the air is 30°C and the substance cools from 100°C to 70°C in 15 minutes, how long will it take to cool from 100°C to 50°C?",
+    "a": "33.59 minutes",
+    "b": "25.40 minutes",
+    "c": "38.20 minutes",
+    "d": "42.15 minutes",
+    "ans": "a"
+  },
+  {
+    "q": "A thermometer reading 10°C is brought into a room with a constant temperature of 30°C. Two minutes later, the thermometer reads 15°C. What will it read after 5 minutes?",
+    "a": "20.78°C",
+    "b": "18.50°C",
+    "c": "22.35°C",
+    "d": "24.12°C",
+    "ans": "a"
+  },
+  {
+    "q": "A tank initially contains 100 gallons of pure water. Brine containing 2 lbs of salt per gallon enters the tank at 3 gal/min. The well-stirred mixture leaves at the same rate. Find the amount of salt in the tank after t minutes.",
+    "a": "200 * (1 - e^(-0.03 * t))",
+    "b": "100 * (1 - e^(-0.03 * t))",
+    "c": "200 * (1 - e^(-0.02 * t))",
+    "d": "200 * e^(-0.03 * t)",
+    "ans": "a"
+  },
+  {
+    "q": "A tank initially holds 200 liters of brine containing 10 kg of dissolved salt. Pure water flows into the tank at 4 liters/min, and the mixture leaves at 4 liters/min. How much salt remains in the tank after 50 minutes?",
+    "a": "3.68 kg",
+    "b": "5.00 kg",
+    "c": "2.50 kg",
+    "d": "1.35 kg",
+    "ans": "a"
+  },
+  {
+    "q": "Find the family of orthogonal trajectories for the family of parabolas: y^2 = C * x.",
+    "a": "2 * x^2 + y^2 = K",
+    "b": "x^2 + 2 * y^2 = K",
+    "c": "x^2 + y^2 = K",
+    "d": "y^2 - 2 * x^2 = K",
+    "ans": "a"
+  },
+  {
+    "q": "Find the family of orthogonal trajectories of the family of straight lines: y = C * x.",
+    "a": "x^2 + y^2 = K",
+    "b": "x^2 - y^2 = K",
+    "c": "y^2 = x + K",
+    "d": "y = -x + K",
+    "ans": "a"
+  },
+  {
+    "q": "Find the family of orthogonal trajectories for the circles: x^2 + y^2 = C^2.",
+    "a": "y = K * x",
+    "b": "y = -x + K",
+    "c": "x^2 - y^2 = K",
+    "d": "y^2 = K * x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the system of parabolas y^2 = 2x + C.",
+    "a": "y = K * e^(-x)",
+    "b": "y = K * e^(2x)",
+    "c": "y = K * e^x",
+    "d": "y = K * e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "A radioactive isotope has a half-life of 20 days. If you start with 100 grams, how much will remain after 60 days?",
+    "a": "12.5 grams",
+    "b": "25.0 grams",
+    "c": "6.25 grams",
+    "d": "18.75 grams",
+    "ans": "a"
+  },
+  {
+    "q": "In a logistics growth model dy/dt = r * y * (1 - y/K), what does K represent?",
+    "a": "Carrying capacity",
+    "b": "Growth rate constant",
+    "c": "Initial population",
+    "d": "Inflection point",
+    "ans": "a"
+  },
+  {
+    "q": "What is the orthogonal trajectory of the family of hyperbola: x * y = C?",
+    "a": "x^2 - y^2 = K",
+    "b": "x^2 + y^2 = K",
+    "c": "y^2 = K * x",
+    "d": "y = K * x",
+    "ans": "a"
+  },
+  {
+    "q": "A tank contains 500 liters of fresh water. Brine containing 0.1 kg of salt per liter enters at 10 liters/min, and the mixture leaves at 10 liters/min. Find the salt concentration in the tank after 50 minutes.",
+    "a": "0.063 kg/liter",
+    "b": "0.100 kg/liter",
+    "c": "0.050 kg/liter",
+    "d": "0.037 kg/liter",
+    "ans": "a"
+  },
+  {
+    "q": "The population of a community is known to increase at a rate proportional to the number of people present. If the population doubles in 40 years, in how many years will it triple?",
+    "a": "63.4 years",
+    "b": "60.0 years",
+    "c": "80.0 years",
+    "d": "55.2 years",
+    "ans": "a"
+  },
+  {
+    "q": "A body cools from 60°C to 40°C in 10 minutes when placed in a room at 20°C. What will its temperature be after another 10 minutes?",
+    "a": "30°C",
+    "b": "28°C",
+    "c": "32°C",
+    "d": "25°C",
+    "ans": "a"
+  },
+  {
+    "q": "Under natural conditions, a chemical decomposes such that its rate of reaction is proportional to the amount remaining. If 10% decomposes in 2 hours, how much is left after 10 hours?",
+    "a": "59.0%",
+    "b": "50.0%",
+    "c": "65.6%",
+    "d": "45.0%",
+    "ans": "a"
+  },
+  {
+    "q": "A tank has 100 gallons of brine with 50 lbs of dissolved salt. Brine containing 3 lbs of salt per gallon flows in at 2 gal/min. The mixture flows out at 2 gal/min. Find the salt amount after 10 minutes.",
+    "a": "103.5 lbs",
+    "b": "98.2 lbs",
+    "c": "112.4 lbs",
+    "d": "85.6 lbs",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of y^2 = C * x^3.",
+    "a": "2x^2 + 3y^2 = K",
+    "b": "3x^2 + 2y^2 = K",
+    "c": "x^2 + y^2 = K",
+    "d": "3x^2 - 2y^2 = K",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the circles: x^2 + (y - C)^2 = C^2.",
+    "a": "(x - K)^2 + y^2 = K^2",
+    "b": "x^2 + (y - K)^2 = K^2",
+    "c": "y = K * x",
+    "d": "x * y = K",
+    "ans": "a"
+  },
+  {
+    "q": "A radioactive substance has a half-life of 100 years. If we have 10 grams initially, how long until only 1 gram remains?",
+    "a": "332 years",
+    "b": "300 years",
+    "c": "400 years",
+    "d": "250 years",
+    "ans": "a"
+  },
+  {
+    "q": "The temperature of a metal bar drops from 100°C to 70°C in 1 minute in an environment of 20°C. What will its temperature be after 3 minutes?",
+    "a": "39.5°C",
+    "b": "45.2°C",
+    "c": "32.4°C",
+    "d": "50.0°C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the family of cardioids r = C * (1 + cos(theta)).",
+    "a": "r = K * (1 - cos(theta))",
+    "b": "r = K * (1 + sin(theta))",
+    "c": "r^2 = K * cos(theta)",
+    "d": "r = K * (1 + cos(theta))",
+    "ans": "a"
+  },
+  {
+    "q": "A tank initially contains 400 liters of pure water. Brine with 0.05 kg of salt per liter enters at 8 liters/min, and the mixture leaves at 12 liters/min. Find the salt content when the volume of brine inside is 200 liters.",
+    "a": "9.38 kg",
+    "b": "10.00 kg",
+    "c": "8.50 kg",
+    "d": "11.25 kg",
+    "ans": "a"
+  },
+  {
+    "q": "A culture initially has N_0 bacteria. In 1 hour, the number of bacteria is measured to be 1.5 * N_0. If the rate of growth is proportional to the number of bacteria present, find the time necessary for the number to quadruple.",
+    "a": "3.42 hours",
+    "b": "4.00 hours",
+    "c": "2.85 hours",
+    "d": "3.15 hours",
+    "ans": "a"
+  },
+  {
+    "q": "A metal bar is heated to 200°C and then placed in a room at 20°C. If the bar cools to 110°C in 20 minutes, how much longer will it take to reach 29°C?",
+    "a": "40 minutes",
+    "b": "30 minutes",
+    "c": "50 minutes",
+    "d": "20 minutes",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following functions is homogeneous of degree 1?",
+    "a": "f(x, y) = sqrt(x^2 + y^2)",
+    "b": "f(x, y) = x^2 + y^2",
+    "c": "f(x, y) = (x + y) / (x - y)",
+    "d": "f(x, y) = x^2 / y",
+    "ans": "a"
+  },
+  {
+    "q": "The differential equation: x * dy/dx + 2y = x^3 is what type?",
+    "a": "First-order linear ordinary differential equation",
+    "b": "Separable ordinary differential equation",
+    "c": "Exact differential equation",
+    "d": "Homogeneous first-order differential equation",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the separable equation: dy/dx = 3 * x^2 * y.",
+    "a": "y = C * e^(x^3)",
+    "b": "y = C * e^(3x^2)",
+    "c": "y = x^3 + C",
+    "d": "y = C * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear equation: y' + 2y = e^(-x).",
+    "a": "y = e^(-x) + C * e^(-2x)",
+    "b": "y = e^(-x) * (x + C)",
+    "c": "y = e^(-2x) * (x + C)",
+    "d": "y = e^x + C * e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the second-order linear homogeneous equation: y'' - 6y' + 9y = 0.",
+    "a": "y = (C_1 + C_2 * x) * e^(3x)",
+    "b": "y = C_1 * e^(3x) + C_2 * e^(-3x)",
+    "c": "y = C_1 * e^(3x) + C_2 * x * e^(-3x)",
+    "d": "y = (C_1 + C_2 * x) * e^(-3x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the general solution of y'' + 16y = 0?",
+    "a": "y = C_1 * cos(4x) + C_2 * sin(4x)",
+    "b": "y = C_1 * e^(4x) + C_2 * e^(-4x)",
+    "c": "y = (C_1 + C_2 * x) * e^(4x)",
+    "d": "y = C_1 * cos(16x) + C_2 * sin(16x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (6x + y^2) dx + (2xy - 3y^2) dy = 0.",
+    "a": "3x^2 + x * y^2 - y^3 = C",
+    "b": "3x^2 + x * y^2 + y^3 = C",
+    "c": "x^3 + 2x * y^2 - y^3 = C",
+    "d": "3x^2 - x * y^2 - y^3 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the complementary solution of: y'' + 2y' = x.",
+    "a": "y_c = C_1 + C_2 * e^(-2x)",
+    "b": "y_c = C_1 * e^(-2x)",
+    "c": "y_c = C_1 + C_2 * e^(2x)",
+    "d": "y_c = C_1 * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Radium decomposes at a rate proportional to the amount present. If the half-life is 1600 years, find the rate constant k.",
+    "a": "0.000433 / year",
+    "b": "0.000693 / year",
+    "c": "0.000312 / year",
+    "d": "0.000521 / year",
+    "ans": "a"
+  },
+  {
+    "q": "A tank has 200 gallons of brine containing 50 lbs of dissolved salt. Pure water flows in at 3 gal/min. The mixture flows out at the same rate. Find the salt content after 20 minutes.",
+    "a": "36.94 lbs",
+    "b": "42.30 lbs",
+    "c": "30.33 lbs",
+    "d": "27.20 lbs",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the family of ellipses: 2x^2 + y^2 = C.",
+    "a": "y = K * x^2",
+    "b": "y = K * x^0.5",
+    "c": "y = K * x",
+    "d": "y^2 = K * x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the auxiliary equation roots for: y'' - y' - 6y = 0.",
+    "a": "3 and -2",
+    "b": "-3 and 2",
+    "c": "3 and 2",
+    "d": "-3 and -2",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the differential equation: y' = y / x.",
+    "a": "y = C * x",
+    "b": "y = C / x",
+    "c": "y = x + C",
+    "d": "y = C * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the integrating factor for: y' - 3y = e^(2x)?",
+    "a": "e^(-3x)",
+    "b": "e^(3x)",
+    "c": "e^(-3)",
+    "d": "e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the order of: y'' + (y')^4 - y^5 = 0.",
+    "a": "2",
+    "b": "4",
+    "c": "5",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Wronskian of y_1 = 1 and y_2 = x.",
+    "a": "1",
+    "b": "-1",
+    "c": "0",
+    "d": "x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complementary solution of: y'' + 4y = e^x?",
+    "a": "y_c = C_1 * cos(2x) + C_2 * sin(2x)",
+    "b": "y_c = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "c": "y_c = (C_1 + C_2 * x) * e^(2x)",
+    "d": "y_c = C_1 * cos(4x) + C_2 * sin(4x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + 4y = 5 * e^x.",
+    "a": "y_p = e^x",
+    "b": "y_p = 5 * e^x",
+    "c": "y_p = 2 * e^x",
+    "d": "y_p = x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' = 2x, with y(1) = 5.",
+    "a": "y = x^2 + 4",
+    "b": "y = x^2 + 5",
+    "c": "y = 2x^2 + 3",
+    "d": "y = x^2 + 2",
+    "ans": "a"
+  },
+  {
+    "q": "A radioactive material decays such that 20% disappears in 10 years. What is its half-life?",
+    "a": "31.1 years",
+    "b": "25.0 years",
+    "c": "35.2 years",
+    "d": "40.0 years",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous equation: dy/dx = y/x + 1.",
+    "a": "y = x * ln|x| + C * x",
+    "b": "y = x * ln|x| + C",
+    "c": "y = ln|x| + C * x",
+    "d": "y = C * x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the integrating factor for the linear first-order differential equation: y' + (2/x)y = x.",
+    "a": "x^2",
+    "b": "x",
+    "c": "e^(2x)",
+    "d": "2 * ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of: y'' - 2y' - 8y = 0.",
+    "a": "y = C_1 * e^(4x) + C_2 * e^(-2x)",
+    "b": "y = C_1 * e^(-4x) + C_2 * e^(2x)",
+    "c": "y = (C_1 + C_2 * x) * e^(4x)",
+    "d": "y = C_1 * e^(4x) + C_2 * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the general solution of: y'' + y' = 0?",
+    "a": "y = C_1 + C_2 * e^(-x)",
+    "b": "y = C_1 * e^x + C_2 * e^(-x)",
+    "c": "y = C_1 + C_2 * x",
+    "d": "y = C_1 * e^(-x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the complementary solution of the equation: y'' - 6y' + 13y = 0.",
+    "a": "y_c = e^(3x) * (C_1 * cos(2x) + C_2 * sin(2x))",
+    "b": "y_c = e^(-3x) * (C_1 * cos(2x) + C_2 * sin(2x))",
+    "c": "y_c = C_1 * e^(3x) + C_2 * e^(4x)",
+    "d": "y_c = (C_1 + C_2 * x) * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the separable equation: y' = x / y.",
+    "a": "y^2 - x^2 = C",
+    "b": "y^2 + x^2 = C",
+    "c": "y = C * x",
+    "d": "y = x + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact equation: (2xy + y^2) dx + (x^2 + 2xy) dy = 0.",
+    "a": "x^2 * y + x * y^2 = C",
+    "b": "x^2 * y - x * y^2 = C",
+    "c": "x * y * (x + y) = C",
+    "d": "x^2 + y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the higher-order linear differential equation: y''' - 4y' = 0.",
+    "a": "y = C_1 + C_2 * e^(2x) + C_3 * e^(-2x)",
+    "b": "y = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "c": "y = (C_1 + C_2 * x + C_3 * x^2) * e^(2x)",
+    "d": "y = C_1 * cos(2x) + C_2 * sin(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' - 3y' + 2y = 2 * e^(3x).",
+    "a": "y_p = e^(3x)",
+    "b": "y_p = 2 * e^(3x)",
+    "c": "y_p = x * e^(3x)",
+    "d": "y_p = 0.5 * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of the family of lines y = C * x + C^2.",
+    "a": "(y')^2 + x * y' - y = 0",
+    "b": "(y')^2 - x * y' + y = 0",
+    "c": "y' = C",
+    "d": "y' = y / (x + y')",
+    "ans": "a"
+  },
+  {
+    "q": "Newton's law of cooling states that the rate of change of temperature of an object is proportional to the difference between its temperature T and the ambient temperature T_s. If T_s = 25°C, and the body cools from 100°C to 75°C in 20 minutes, what will its temperature be after 40 minutes?",
+    "a": "58.33°C",
+    "b": "50.00°C",
+    "c": "62.50°C",
+    "d": "55.00°C",
+    "ans": "a"
+  },
+  {
+    "q": "Radium decomposes at a rate proportional to the amount present. If the half-life is 1600 years, what fraction of the original amount will remain after 3200 years?",
+    "a": "1/4",
+    "b": "1/2",
+    "c": "1/8",
+    "d": "1/16",
+    "ans": "a"
+  },
+  {
+    "q": "Find the family of orthogonal trajectories for the family of lines: y = C * x.",
+    "a": "x^2 + y^2 = K",
+    "b": "x^2 - y^2 = K",
+    "c": "y^2 = K * x",
+    "d": "y = K * x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous third-order equation: y''' + y'' = 0.",
+    "a": "y = C_1 + C_2 * x + C_3 * e^(-x)",
+    "b": "y = C_1 + C_2 * e^x + C_3 * e^(-x)",
+    "c": "y = (C_1 + C_2 * x) * e^(-x)",
+    "d": "y = C_1 + C_2 * x * e^(-x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear first-order differential equation: y' + y = e^(-x).",
+    "a": "y = e^(-x) * (x + C)",
+    "b": "y = e^(-x) + C * e^(-x)",
+    "c": "y = x * e^x + C",
+    "d": "y = e^x * (x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: dy/dx = (1 + y^2) / (1 + x^2).",
+    "a": "arctan(y) = arctan(x) + C",
+    "b": "y = x + C",
+    "c": "ln(1 + y^2) = ln(1 + x^2) + C",
+    "d": "tan(y) = tan(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: y' = y^2 * sin(x).",
+    "a": "1 / y = cos(x) + C",
+    "b": "1 / y = -cos(x) + C",
+    "c": "y = C * e^(-cos(x))",
+    "d": "y^2 = -cos(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (3x^2 * y + y^3) dx + (x^3 + 3x * y^2) dy = 0.",
+    "a": "x^3 * y + x * y^3 = C",
+    "b": "x^3 * y - x * y^3 = C",
+    "c": "x^3 + y^3 = C",
+    "d": "x^2 * y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous second-order equation: y'' + 25y = 0.",
+    "a": "y = C_1 * cos(5x) + C_2 * sin(5x)",
+    "b": "y = C_1 * e^(5x) + C_2 * e^(-5x)",
+    "c": "y = (C_1 + C_2 * x) * e^(5x)",
+    "d": "y = C_1 * cos(25x) + C_2 * sin(25x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + 4y = 8.",
+    "a": "y_p = 2",
+    "b": "y_p = 4",
+    "c": "y_p = 8",
+    "d": "y_p = e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y'' - y' = e^x.",
+    "a": "y = C_1 + C_2 * e^x + x * e^x",
+    "b": "y = C_1 * e^x + C_2 * e^(-x) + x * e^x",
+    "c": "y = (C_1 + C_2 * x) * e^x + e^x",
+    "d": "y = C_1 + C_2 * e^x + e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of the linear equation: dy/dx - y = e^(2x).",
+    "a": "y = e^(2x) + C * e^x",
+    "b": "y = 0.5 * e^(2x) + C * e^x",
+    "c": "y = e^(2x) + C * e^(-x)",
+    "d": "y = e^x * (x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the family of ellipses: x^2 + 2y^2 = C.",
+    "a": "y^2 = K * x^4",
+    "b": "y = K * x^2",
+    "c": "y^2 = K * x^2",
+    "d": "y = K * x",
+    "ans": "a"
+  }
+]

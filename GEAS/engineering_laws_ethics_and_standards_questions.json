@@ -1,0 +1,2498 @@
+[
+  {
+    "q": "What is defined under Article 1156 of the Civil Code of the Philippines as a 'juridical necessity to give, to do, or not to do'?",
+    "a": "Contract",
+    "b": "Obligation",
+    "c": "Quasi-delict",
+    "d": "Consent",
+    "ans": "b"
+  },
+  {
+    "q": "The Latin word 'obligare', from which 'obligation' is derived, literally means:",
+    "a": "To pay",
+    "b": "To bind",
+    "c": "To work",
+    "d": "To release",
+    "ans": "b"
+  },
+  {
+    "q": "Which source of obligation arises from voluntary, unilateral, and lawful acts, preventing unjust enrichment?",
+    "a": "Law",
+    "b": "Contracts",
+    "c": "Quasi-contracts",
+    "d": "Quasi-delicts",
+    "ans": "c"
+  },
+  {
+    "q": "What is a legal wrong, committed through fault or negligence, causing damage to a person or property where no pre-existing contract exists?",
+    "a": "Contract",
+    "b": "Quasi-delict",
+    "c": "Crime",
+    "d": "Resolution",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation that is demandable at once because its fulfillment does not depend on any future or uncertain event is a:",
+    "a": "Conditional obligation",
+    "b": "Pure obligation",
+    "c": "Alternative obligation",
+    "d": "Joint obligation",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation whose acquisition of rights depends upon the happening of an event that constitutes the condition is subject to a:",
+    "a": "Resolutory condition",
+    "b": "Suspensive condition",
+    "c": "Legal condition",
+    "d": "Judicial condition",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation where the happening of the condition extinguishes or terminates the pre-existing rights is subject to a:",
+    "a": "Suspensive condition",
+    "b": "Resolutory condition",
+    "c": "Conditional limit",
+    "d": "Pure period",
+    "ans": "b"
+  },
+  {
+    "q": "What type of period has a suspensive effect, meaning the obligation becomes demandable only upon the arrival of the specified day?",
+    "a": "In diem",
+    "b": "Ex die",
+    "c": "Judicial period",
+    "d": "Legal period",
+    "ans": "b"
+  },
+  {
+    "q": "What type of period has a resolutory effect, meaning the obligation is valid immediately but terminates upon the arrival of the specified day?",
+    "a": "Ex die",
+    "b": "In diem",
+    "c": "Legal period",
+    "d": "Voluntary period",
+    "ans": "b"
+  },
+  {
+    "q": "Which kind of period is established and mandated directly by law?",
+    "a": "Voluntary period",
+    "b": "Judicial period",
+    "c": "Legal period",
+    "d": "In diem period",
+    "ans": "c"
+  },
+  {
+    "q": "Which kind of period is authorized, fixed, or determined by the courts?",
+    "a": "Legal period",
+    "b": "Judicial period",
+    "c": "Voluntary period",
+    "d": "Resolutory period",
+    "ans": "b"
+  },
+  {
+    "q": "A contract where all the essential elements are present, but consent is vitiated by mistake, violence, intimidation, undue influence, or fraud is:",
+    "a": "Rescissible",
+    "b": "Voidable",
+    "c": "Unenforceable",
+    "d": "Void",
+    "ans": "b"
+  },
+  {
+    "q": "A contract that has no force and effect from the very beginning, as if it had never been entered into, is classified as:",
+    "a": "Voidable",
+    "b": "Unenforceable",
+    "c": "Rescissible",
+    "d": "Void",
+    "ans": "d"
+  },
+  {
+    "q": "Contracts that cannot be sued upon or enforced in court unless they are ratified because they were entered into without proper authority are:",
+    "a": "Voidable",
+    "b": "Unenforceable",
+    "c": "Rescissible",
+    "d": "Void",
+    "ans": "b"
+  },
+  {
+    "q": "What type of clause is an accessory undertaking in an obligation to pay a specified penalty in case of breach?",
+    "a": "Resolutory clause",
+    "b": "Penal clause",
+    "c": "Suspensive clause",
+    "d": "Conditional clause",
+    "ans": "b"
+  },
+  {
+    "q": "Republic Act No. 9292 is professionally known as the:",
+    "a": "Electronics and Communications Engineering Law of 2004",
+    "b": "Electronics Engineering Law of 2004",
+    "c": "Professional Electronics Engineering Act",
+    "d": "Philippine Electronics and Communications Code",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, the Professional Regulatory Board of Electronics Engineering consists of a Chairman and how many members?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "ans": "b"
+  },
+  {
+    "q": "Who has the executive power to appoint the Chairman and members of the Board of Electronics Engineering under RA 9292?",
+    "a": "PRC Commissioner",
+    "b": "President of the Philippines",
+    "c": "IECEP President",
+    "d": "Senate President",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is not a registered category of practice under Republic Act No. 9292?",
+    "a": "Professional Electronics Engineer (PECE)",
+    "b": "Electronics Engineer (ECE)",
+    "c": "Electronics Technician (ECT)",
+    "d": "Electronics Associate (EAs)",
+    "ans": "d"
+  },
+  {
+    "q": "What is the acronym of the sole Accredited Professional Organization (APO) for electronics practitioners in the Philippines?",
+    "a": "KBP",
+    "b": "IECEP",
+    "c": "PESONET",
+    "d": "PRC",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, what registration category is required to sign and seal electronics plans, drawings, and technical specifications?",
+    "a": "Electronics Engineer",
+    "b": "Professional Electronics Engineer",
+    "c": "Associate Electronics Engineer",
+    "d": "Electronics Technician",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum number of years of active professional practice required for a registered ECE to qualify for upgrade to PECE?",
+    "a": "3 years",
+    "b": "5 years",
+    "c": "7 years",
+    "d": "10 years",
+    "ans": "c"
+  },
+  {
+    "q": "How many recommendations from registered PECEs are required for an ECE applicant to apply for the PECE license under RA 9292?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "5",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is a key requirement under RA 9292 to qualify for the Electronics Technician (ECT) licensure examination?",
+    "a": "Completion of at least 1st year of an ECE curriculum",
+    "b": "Completion of at least 2nd year of an ECE curriculum",
+    "c": "Master's degree in engineering",
+    "d": "3 years of engineering design experience",
+    "ans": "b"
+  },
+  {
+    "q": "The Philippine Electronics Code (PEC) governs the technical safety standards for which of the following installations?",
+    "a": "Electrical power grids and generators",
+    "b": "Information and communications technology systems",
+    "c": "Structural concrete reinforcements",
+    "d": "HVAC mechanical piping",
+    "ans": "b"
+  },
+  {
+    "q": "According to the Philippine Electronics Code, what is the maximum allowable grounding resistance for a standard telecommunications grounding system?",
+    "a": "5 ohms",
+    "b": "10 ohms",
+    "c": "25 ohms",
+    "d": "50 ohms",
+    "ans": "c"
+  },
+  {
+    "q": "What natural hazard is the primary focus of lightning protection standards in the Philippine Electronics Code?",
+    "a": "Flooding",
+    "b": "Atmospheric electrical discharge",
+    "c": "Acoustic noise",
+    "d": "Earthquake vibrations",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the physical effects resulting from abnormally high sound levels, which can cause minor discomfort to serious hearing injury?",
+    "a": "Static discharge",
+    "b": "Acoustic shock",
+    "c": "Crosstalk",
+    "d": "Attenuation",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, the wires or cables entering a building from the nearest telephone facility are defined as the:",
+    "a": "Drop wire",
+    "b": "Service entrance",
+    "c": "Local loop",
+    "d": "Subscriber line",
+    "ans": "b"
+  },
+  {
+    "q": "A type of service entrance that provides telecommunication service aerially from a utility pole to a building structure is a(n):",
+    "a": "Underground entrance",
+    "b": "Aerial service entrance",
+    "c": "Overhead drop",
+    "d": "Lateral conduit",
+    "ans": "b"
+  },
+  {
+    "q": "What organization in the Philippines sets the ethical and operational standards for broadcasting stations and practitioners?",
+    "a": "NTC",
+    "b": "KBP",
+    "c": "MTRCB",
+    "d": "PIA",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, what is the maximum commercial load limit for radio stations operating in Metro Manila per hour?",
+    "a": "12 minutes",
+    "b": "15 minutes",
+    "c": "18 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, what is the maximum commercial load limit for provincial radio stations per hour?",
+    "a": "15 minutes",
+    "b": "17 minutes",
+    "c": "19 minutes",
+    "d": "22 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, what is the maximum commercial load limit for television stations per hour in Metro Manila?",
+    "a": "15 minutes",
+    "b": "18 minutes",
+    "c": "20 minutes",
+    "d": "24 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following practices is strictly prohibited under the KBP Broadcast Code's ethical guidelines?",
+    "a": "Live coverage of public events",
+    "b": "Fraudulent billing of advertisers",
+    "c": "Acoustic shielding",
+    "d": "Educational broadcasting",
+    "ans": "b"
+  },
+  {
+    "q": "The KBP Broadcast Code bans the advertisement of which of the following services?",
+    "a": "Mobile banking apps",
+    "b": "Fortune-telling and the occult",
+    "c": "Distance learning programs",
+    "d": "Local real estate",
+    "ans": "b"
+  },
+  {
+    "q": "The science dealing with the development and application of devices involving the flow of electrons in a vacuum, gas, or semiconductor is defined under RA 9292 as:",
+    "a": "Electrical Engineering",
+    "b": "Electronics",
+    "c": "Computer Science",
+    "d": "Telecommunications",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the recommended minimum overhead clearance for telecommunications lines crossing public streets?",
+    "a": "3.5 meters",
+    "b": "4.5 meters",
+    "c": "5.5 meters",
+    "d": "6.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum clearance required for telecommunications lines from residential windows and fire escapes?",
+    "a": "0.5 meters",
+    "b": "1.0 meter",
+    "c": "1.5 meters",
+    "d": "2.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum conduit fill factor (%) specified by the Philippine Electronics Code for a conduit containing three or more communications cables?",
+    "a": "31%",
+    "b": "40%",
+    "c": "53%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum conduit fill factor (%) specified by the Philippine Electronics Code for a conduit containing exactly two communications cables?",
+    "a": "31%",
+    "b": "40%",
+    "c": "53%",
+    "d": "60%",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum conduit fill factor (%) specified by the Philippine Electronics Code for a conduit containing exactly one communications cable?",
+    "a": "31%",
+    "b": "40%",
+    "c": "53%",
+    "d": "60%",
+    "ans": "c"
+  },
+  {
+    "q": "In the standard 25-pair color code for telecommunications cables, what is the color of the first binder group (Pair 1-5) Tip conductor?",
+    "a": "White",
+    "b": "Red",
+    "c": "Black",
+    "d": "Yellow",
+    "ans": "a"
+  },
+  {
+    "q": "In the standard 25-pair color code, what is the Ring color of the first pair?",
+    "a": "Blue",
+    "b": "Orange",
+    "c": "Green",
+    "d": "Brown",
+    "ans": "a"
+  },
+  {
+    "q": "In the standard 25-pair color code, what is the Ring color of the second pair?",
+    "a": "Blue",
+    "b": "Orange",
+    "c": "Green",
+    "d": "Slate",
+    "ans": "b"
+  },
+  {
+    "q": "In the standard 25-pair color code, what is the Ring color of the third pair?",
+    "a": "Blue",
+    "b": "Orange",
+    "c": "Green",
+    "d": "Brown",
+    "ans": "c"
+  },
+  {
+    "q": "In the standard 25-pair color code, what is the Ring color of the fourth pair?",
+    "a": "Orange",
+    "b": "Green",
+    "c": "Brown",
+    "d": "Slate",
+    "ans": "c"
+  },
+  {
+    "q": "In the standard 25-pair color code, what is the Ring color of the fifth pair?",
+    "a": "Orange",
+    "b": "Green",
+    "c": "Brown",
+    "d": "Slate",
+    "ans": "d"
+  },
+  {
+    "q": "Under KBP Rules, what is the minimum required percentage of local music airplay (OPM) per hour for FM radio stations?",
+    "a": "2 songs",
+    "b": "3 songs",
+    "c": "4 songs",
+    "d": "5 songs",
+    "ans": "c"
+  },
+  {
+    "q": "What is the penalty range for first-time major violations of broadcasting ethics under the KBP code?",
+    "a": "Reprimand to suspension",
+    "b": "Fines and suspension of broadcast privileges",
+    "c": "Permanent revocation of franchise",
+    "d": "Confiscation of equipment",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation where only one prestation has been agreed upon, but the obligor may render another in substitution, is a:",
+    "a": "Alternative obligation",
+    "b": "Facultative obligation",
+    "c": "Joint obligation",
+    "d": "Solidary obligation",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation where the debtor is bound to deliver several prestations and is completely released by fulfilling any one of them is a(n):",
+    "a": "Facultative obligation",
+    "b": "Alternative obligation",
+    "c": "Joint obligation",
+    "d": "Solidary obligation",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation where each of the creditors has a right to demand, and each of the debtors is bound to render, compliance with the entire prestation is:",
+    "a": "Joint obligation",
+    "b": "Solidary obligation",
+    "c": "Alternative obligation",
+    "d": "Facultative obligation",
+    "ans": "b"
+  },
+  {
+    "q": "An obligation where the whole liability is distributed among the debtors, and each creditor can only demand his proportionate share of the credit, is:",
+    "a": "Solidary obligation",
+    "b": "Joint obligation",
+    "c": "Alternative obligation",
+    "d": "Facultative obligation",
+    "ans": "b"
+  },
+  {
+    "q": "The neglect or failure to perform an obligation on time, which constitutes a legal delay, is termed:",
+    "a": "Culpa",
+    "b": "Mora",
+    "c": "Dolo",
+    "d": "Caso fortuito",
+    "ans": "b"
+  },
+  {
+    "q": "Legal delay on the part of the debtor to perform his obligation is officially known as:",
+    "a": "Mora accipiendi",
+    "b": "Mora solvendi",
+    "c": "Compensatio morae",
+    "d": "Culpa contractual",
+    "ans": "b"
+  },
+  {
+    "q": "Legal delay on the part of the creditor to accept the performance of the obligation is officially known as:",
+    "a": "Mora solvendi",
+    "b": "Mora accipiendi",
+    "c": "Compensatio morae",
+    "d": "Culpa aquiliana",
+    "ans": "b"
+  },
+  {
+    "q": "The mutual delay or default of both the debtor and the creditor in reciprocal obligations is termed:",
+    "a": "Mora solvendi",
+    "b": "Compensatio morae",
+    "c": "Mora accipiendi",
+    "d": "Culpa contractual",
+    "ans": "b"
+  },
+  {
+    "q": "An extraordinary event that cannot be foreseen, or which though foreseen is inevitable, exempting the debtor from liability, is a:",
+    "a": "Mora",
+    "b": "Fortuitous event",
+    "c": "Culpa",
+    "d": "Dolo",
+    "ans": "b"
+  },
+  {
+    "q": "A contract that is valid and enforceable but may be set aside by a court due to economic damage or lesion suffered by one of the parties is:",
+    "a": "Voidable",
+    "b": "Rescissible",
+    "c": "Unenforceable",
+    "d": "Void",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Civil Code, who is liable for damages caused by animals, even if they escape or go astray, unless there is a fortuitous event?",
+    "a": "The victim",
+    "b": "The possessor or user of the animal",
+    "c": "The local barangay",
+    "d": "The state",
+    "ans": "b"
+  },
+  {
+    "q": "What type of damage is awarded by courts to rebuild, repair, or compensate for the actual pecuniary loss suffered by a party?",
+    "a": "Moral damages",
+    "b": "Actual or Compensatory damages",
+    "c": "Exemplary damages",
+    "d": "Nominal damages",
+    "ans": "b"
+  },
+  {
+    "q": "What type of damage is awarded to make an example of the wrongdoer and deter others from committing similar acts?",
+    "a": "Actual damages",
+    "b": "Exemplary or Corrective damages",
+    "c": "Liquidated damages",
+    "d": "Temperate damages",
+    "ans": "b"
+  },
+  {
+    "q": "What damages are agreed upon by the parties to a contract, to be paid in case of breach thereof?",
+    "a": "Nominal damages",
+    "b": "Liquidated damages",
+    "c": "Temperate damages",
+    "d": "Moral damages",
+    "ans": "b"
+  },
+  {
+    "q": "What damages may be recovered when the court finds that some pecuniary loss has been suffered but its amount cannot, from the nature of the case, be proved with certainty?",
+    "a": "Nominal damages",
+    "b": "Temperate or Moderate damages",
+    "c": "Liquidated damages",
+    "d": "Exemplary damages",
+    "ans": "b"
+  },
+  {
+    "q": "Under RA 9292, the ECE Board Exam subjects are weighted. What is the weight (%) allocated to Mathematics?",
+    "a": "10%",
+    "b": "20%",
+    "c": "30%",
+    "d": "40%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the weight (%) allocated to Electronics Engineering in the ECE Licensure Examination under RA 9292?",
+    "a": "20%",
+    "b": "30%",
+    "c": "40%",
+    "d": "50%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the weight (%) allocated to General Engineering and Applied Sciences (GEAS) in the ECE Licensure Examination under RA 9292?",
+    "a": "10%",
+    "b": "20%",
+    "c": "30%",
+    "d": "40%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the weight (%) allocated to Transmission, Acoustics, and Communications in the ECE Licensure Examination under RA 9292?",
+    "a": "20%",
+    "b": "30%",
+    "c": "40%",
+    "d": "50%",
+    "ans": "b"
+  },
+  {
+    "q": "To pass the Electronics Engineering Board Exam, an examinee must obtain a weighted general average of at least:",
+    "a": "50%",
+    "b": "60%",
+    "c": "70%",
+    "d": "75%",
+    "ans": "c"
+  },
+  {
+    "q": "To pass the Electronics Engineering Board Exam, an examinee must obtain a minimum grade in each individual subject of at least:",
+    "a": "50%",
+    "b": "60%",
+    "c": "70%",
+    "d": "75%",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the roster of qualified practitioners officially certified and registered under RA 9292?",
+    "a": "Board Registry",
+    "b": "Roster of Electronics Practitioners",
+    "c": "National Registry",
+    "d": "APO Registry",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum required horizontal clearance for overhead telecommunication drop wires from a power line of up to 750 volts?",
+    "a": "0.3 meters",
+    "b": "0.6 meters",
+    "c": "1.0 meter",
+    "d": "2.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, the telecommunication grounding electrode conductor must be made of which of the following materials?",
+    "a": "Aluminum",
+    "b": "Copper",
+    "c": "Steel",
+    "d": "Iron",
+    "ans": "b"
+  },
+  {
+    "q": "What is the minimum required wire size (AWG) for a standard telecommunication grounding electrode conductor?",
+    "a": "AWG 14",
+    "b": "AWG 10",
+    "c": "AWG 6",
+    "d": "AWG 2",
+    "ans": "c"
+  },
+  {
+    "q": "The KBP code specifies that the coverage of public events and disasters must prioritize which of the following?",
+    "a": "Sensationalized reporting",
+    "b": "Public safety and accurate information",
+    "c": "Commercial sponsorship",
+    "d": "Exclusive broadcasting rights",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, what is the maximum commercial load limit for FM radio stations in Metro Manila per hour?",
+    "a": "12 minutes",
+    "b": "15 minutes",
+    "c": "18 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, what is the maximum commercial load limit for AM radio stations in Metro Manila per hour?",
+    "a": "12 minutes",
+    "b": "15 minutes",
+    "c": "18 minutes",
+    "d": "20 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE licensure candidate receives the following grades: Mathematics = 75%, Electronics = 72%, GEAS = 68%, and Communications = 71%. Calculate his weighted general average to determine if he passed the exam.",
+    "a": "70.1%",
+    "b": "71.3%",
+    "c": "72.4%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "An examinee gets: Mathematics = 80%, Electronics = 85%, GEAS = 49%, and Communications = 82%. What is the status of the examinee's licensure outcome?",
+    "a": "Passed, because weighted average is 77.1%",
+    "b": "Failed, because GEAS is below the 50% subject threshold",
+    "c": "Conditioned, needing retake in GEAS only",
+    "d": "Deferred, pending Board review",
+    "ans": "b"
+  },
+  {
+    "q": "An examinee gets: Mathematics = 52%, Electronics = 71%, GEAS = 72%, and Communications = 75%. Calculate his weighted general average and determine if he passed.",
+    "a": "68.2%, Failed",
+    "b": "69.5%, Failed",
+    "c": "70.1%, Passed",
+    "d": "71.4%, Passed",
+    "ans": "b"
+  },
+  {
+    "q": "An examinee receives the following scores: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate his weighted general average and status.",
+    "a": "70.0%, Passed",
+    "b": "70.0%, Failed",
+    "c": "68.5%, Failed",
+    "d": "71.2%, Passed",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom engineer is installing five communications cables of 12 mm outer diameter each inside a conduit, what is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "1130 mm^2",
+    "b": "1414 mm^2",
+    "c": "1560 mm^2",
+    "d": "1712 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/2 inch = 1900 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/2 inch",
+    "d": "2 inches",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 15 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "707 mm^2",
+    "b": "1138 mm^2",
+    "c": "1438 mm^2",
+    "d": "1800 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2, 1-1/2 inch = 1900 mm^2)",
+    "a": "1 inch",
+    "b": "1-1/4 inch",
+    "c": "1-1/2 inch",
+    "d": "2 inches",
+    "ans": "c"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 20 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "314 mm^2",
+    "b": "452 mm^2",
+    "c": "592 mm^2",
+    "d": "707 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "b"
+  },
+  {
+    "q": "Under KBP Broadcast Standards, a Metro Manila television station broadcasts for 12 hours on a given day. Calculate the maximum total minutes of commercial airtime the station can broadcast under the 18-minute per hour limit.",
+    "a": "180 minutes",
+    "b": "216 minutes",
+    "c": "240 minutes",
+    "d": "288 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "A Metro Manila radio station operates for 18 hours in a day. Calculate the maximum cumulative minutes of commercial ads allowed under the KBP limit of 15 minutes per hour.",
+    "a": "216 minutes",
+    "b": "240 minutes",
+    "c": "270 minutes",
+    "d": "300 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "A provincial radio station operates for 15 hours on a given day. Calculate the maximum total minutes of commercial airtime the station is allowed under the KBP limit of 17 minutes per hour.",
+    "a": "225 minutes",
+    "b": "240 minutes",
+    "c": "255 minutes",
+    "d": "270 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "Under KBP rules, if an hour of a television program contains 12 minutes of commercial airtime, how many minutes of non-commercial content (programming) must be broadcast during that hour?",
+    "a": "42 minutes",
+    "b": "45 minutes",
+    "c": "48 minutes",
+    "d": "50 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 100,000 in actual proven damages, and the contract features a penal clause of Php 50,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 50,000",
+    "b": "Php 100,000",
+    "c": "Php 150,000",
+    "d": "Php 200,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 20,000 in case of delay, and a contractor is delayed by 5 days with an agreed penalty of Php 5,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 20,000",
+    "b": "Php 25,000",
+    "c": "Php 45,000",
+    "d": "Php 50,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunications company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 30 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "15 meters",
+    "b": "30 meters",
+    "c": "45 meters",
+    "d": "60 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 2.4 meters, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "1.2 meters",
+    "b": "2.4 meters",
+    "c": "4.8 meters",
+    "d": "6.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a central office?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing residential driveways?",
+    "a": "3.0 meters",
+    "b": "3.7 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing railways?",
+    "a": "5.5 meters",
+    "b": "6.1 meters",
+    "c": "7.2 meters",
+    "d": "8.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 90 days. If the contract stipulates a penalty of Php 2,000 for each day of delay, and the ECE completes the project on Day 98, calculate the total penal liability.",
+    "a": "Php 8,000",
+    "b": "Php 12,000",
+    "c": "Php 16,000",
+    "d": "Php 20,000",
+    "ans": "c"
+  },
+  {
+    "q": "An ECE Board examinee receives: Mathematics = 71%, Electronics = 72%, GEAS = 51%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "70.1%",
+    "b": "71.2%",
+    "c": "72.4%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE Board examinee receives: Mathematics = 71%, Electronics = 72%, GEAS = 51%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 68%, Electronics = 72%, GEAS = 72%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "71.4%",
+    "b": "72.1%",
+    "c": "73.2%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 68%, Electronics = 72%, GEAS = 72%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 71%, GEAS = 72%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "72.4%",
+    "b": "70.1%",
+    "c": "71.4%",
+    "d": "73.2%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 71%, GEAS = 72%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 55%, Electronics = 75%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "71.0%",
+    "b": "72.5%",
+    "c": "74.0%",
+    "d": "69.5%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 55%, Electronics = 75%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 55%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 55%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 55%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "72.0%",
+    "b": "73.5%",
+    "c": "75.0%",
+    "d": "69.5%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 55%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 55%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 55%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 60%, Electronics = 60%, GEAS = 60%, and Communications = 60%. Calculate the weighted general average.",
+    "a": "60.0%",
+    "b": "65.0%",
+    "c": "70.0%",
+    "d": "75.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 60%, Electronics = 60%, GEAS = 60%, and Communications = 60%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 50%, Electronics = 50%, GEAS = 50%, and Communications = 50%. Calculate the weighted general average.",
+    "a": "50.0%",
+    "b": "55.0%",
+    "c": "60.0%",
+    "d": "70.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 50%, Electronics = 50%, GEAS = 50%, and Communications = 50%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 45%, Electronics = 75%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "69.0%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 45%, Electronics = 75%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 45%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "68.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 45%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 45%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "69.0%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 45%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 45%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 45%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "A telecommunication company is preparing a site for lightning rods. Under the Philippine Electronics Code, if a building is 40 meters high and the cone of protection has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "20 meters",
+    "b": "40 meters",
+    "c": "60 meters",
+    "d": "80 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 3.0 meters, what is the minimum recommended spacing between multiple grounding rods?",
+    "a": "1.5 meters",
+    "b": "3.0 meters",
+    "c": "6.0 meters",
+    "d": "9.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 60 days. If the contract stipulates a penalty of Php 1,500 for each day of delay, and the ECE completes the project on Day 66, calculate the total penal liability.",
+    "a": "Php 6,000",
+    "b": "Php 9,000",
+    "c": "Php 12,000",
+    "d": "Php 15,000",
+    "ans": "b"
+  },
+  {
+    "q": "A television station in Metro Manila operates for 15 hours on a given day. Calculate the maximum total minutes of commercial airtime allowed under the KBP limit of 18 minutes per hour.",
+    "a": "216 minutes",
+    "b": "240 minutes",
+    "c": "270 minutes",
+    "d": "300 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "A Metro Manila radio station operates for 12 hours in a day. Calculate the maximum cumulative minutes of commercial ads allowed under the KBP limit of 15 minutes per hour.",
+    "a": "120 minutes",
+    "b": "150 minutes",
+    "c": "180 minutes",
+    "d": "210 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "A provincial radio station operates for 10 hours on a given day. Calculate the maximum total minutes of commercial airtime the station is allowed under the KBP limit of 17 minutes per hour.",
+    "a": "150 minutes",
+    "b": "170 minutes",
+    "c": "190 minutes",
+    "d": "210 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the recommended minimum overhead clearance for telecommunications lines crossing public roads?",
+    "a": "4.5 meters",
+    "b": "5.5 meters",
+    "c": "6.5 meters",
+    "d": "7.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum clearance required for telecommunications lines from residential fire escapes?",
+    "a": "0.5 meters",
+    "b": "1.0 meter",
+    "c": "1.5 meters",
+    "d": "2.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A telecom engineer is installing six communications cables of 10 mm outer diameter each inside a conduit. What is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "1178 mm^2",
+    "b": "1414 mm^2",
+    "c": "1560 mm^2",
+    "d": "1712 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2, 1-1/2 inch = 1900 mm^2)",
+    "a": "1 inch",
+    "b": "1-1/4 inch",
+    "c": "1-1/2 inch",
+    "d": "2 inches",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 10 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "506 mm^2",
+    "b": "625 mm^2",
+    "c": "707 mm^2",
+    "d": "850 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "b"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 15 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "177 mm^2",
+    "b": "314 mm^2",
+    "c": "334 mm^2",
+    "d": "452 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 80,000 in actual proven damages, and the contract features a penal clause of Php 40,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 40,000",
+    "b": "Php 80,000",
+    "c": "Php 120,000",
+    "d": "Php 160,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 15,000 in case of delay, and a contractor is delayed by 4 days with an agreed penalty of Php 4,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 15,000",
+    "b": "Php 16,000",
+    "c": "Php 31,000",
+    "d": "Php 40,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 20 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "10 meters",
+    "b": "20 meters",
+    "c": "30 meters",
+    "d": "40 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 2.0 meters, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "1.0 meter",
+    "b": "2.0 meters",
+    "c": "4.0 meters",
+    "d": "6.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a terminal room?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing public streets?",
+    "a": "3.5 meters",
+    "b": "4.5 meters",
+    "c": "5.5 meters",
+    "d": "6.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing driveways?",
+    "a": "3.5 meters",
+    "b": "4.5 meters",
+    "c": "5.5 meters",
+    "d": "6.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 30 days. If the contract stipulates a penalty of Php 1,000 for each day of delay, and the ECE completes the project on Day 34, calculate the total penal liability.",
+    "a": "Php 2,000",
+    "b": "Php 4,000",
+    "c": "Php 6,000",
+    "d": "Php 8,000",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE board candidate receives the following grades: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 75%. Calculate his weighted general average.",
+    "a": "70.0%",
+    "b": "75.0%",
+    "c": "80.0%",
+    "d": "85.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE board candidate receives the following grades: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "65.0%",
+    "b": "70.0%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 50%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "66.0%",
+    "b": "68.0%",
+    "c": "70.0%",
+    "d": "72.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 50%, Electronics = 70%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 50%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "64.0%",
+    "b": "66.0%",
+    "c": "68.0%",
+    "d": "70.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 50%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 50%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "66.0%",
+    "b": "68.0%",
+    "c": "70.0%",
+    "d": "72.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 50%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 50%. Calculate the weighted general average.",
+    "a": "64.0%",
+    "b": "66.0%",
+    "c": "68.0%",
+    "d": "70.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 50%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 60%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "68.0%",
+    "b": "70.0%",
+    "c": "72.0%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 60%, Electronics = 70%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 60%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "67.0%",
+    "b": "69.0%",
+    "c": "71.0%",
+    "d": "73.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 60%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 60%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "68.0%",
+    "b": "70.0%",
+    "c": "72.0%",
+    "d": "74.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 60%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 60%. Calculate the weighted general average.",
+    "a": "67.0%",
+    "b": "69.0%",
+    "c": "71.0%",
+    "d": "73.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 60%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "A telecommunication company is preparing a site for lightning rods. Under the Philippine Electronics Code, if a building is 50 meters high and the cone of protection has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "25 meters",
+    "b": "50 meters",
+    "c": "75 meters",
+    "d": "100 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 4.0 meters, what is the minimum recommended spacing between multiple grounding rods?",
+    "a": "2.0 meters",
+    "b": "4.0 meters",
+    "c": "8.0 meters",
+    "d": "12.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 45 days. If the contract stipulates a penalty of Php 1,200 for each day of delay, and the ECE completes the project on Day 50, calculate the total penal liability.",
+    "a": "Php 4,000",
+    "b": "Php 6,000",
+    "c": "Php 8,000",
+    "d": "Php 10,000",
+    "ans": "b"
+  },
+  {
+    "q": "A television station in Metro Manila operates for 10 hours on a given day. Calculate the maximum total minutes of commercial airtime allowed under the KBP limit of 18 minutes per hour.",
+    "a": "120 minutes",
+    "b": "150 minutes",
+    "c": "180 minutes",
+    "d": "210 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "A Metro Manila radio station operates for 10 hours in a day. Calculate the maximum cumulative minutes of commercial ads allowed under the KBP limit of 15 minutes per hour.",
+    "a": "100 minutes",
+    "b": "120 minutes",
+    "c": "150 minutes",
+    "d": "180 minutes",
+    "ans": "c"
+  },
+  {
+    "q": "A provincial radio station operates for 8 hours on a given day. Calculate the maximum total minutes of commercial airtime the station is allowed under the KBP limit of 17 minutes per hour.",
+    "a": "110 minutes",
+    "b": "136 minutes",
+    "c": "150 minutes",
+    "d": "170 minutes",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the recommended minimum overhead clearance for telecommunications lines crossing sidewalks?",
+    "a": "2.5 meters",
+    "b": "3.5 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum clearance required for telecommunications lines from residential fire escapes and balcony railings?",
+    "a": "0.5 meters",
+    "b": "1.0 meter",
+    "c": "1.5 meters",
+    "d": "2.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A telecom engineer is installing eight communications cables of 8 mm outer diameter each inside a conduit. What is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "707 mm^2",
+    "b": "854 mm^2",
+    "c": "1005 mm^2",
+    "d": "1120 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2, 1-1/2 inch = 1900 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 8 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "324 mm^2",
+    "b": "452 mm^2",
+    "c": "506 mm^2",
+    "d": "628 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "b"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 10 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "112 mm^2",
+    "b": "148 mm^2",
+    "c": "180 mm^2",
+    "d": "224 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1.0 inch",
+    "d": "1.25 inches",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 60,000 in actual proven damages, and the contract features a penal clause of Php 30,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 30,000",
+    "b": "Php 60,000",
+    "c": "Php 90,000",
+    "d": "Php 120,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 10,000 in case of delay, and a contractor is delayed by 3 days with an agreed penalty of Php 3,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 10,000",
+    "b": "Php 12,000",
+    "c": "Php 19,000",
+    "d": "Php 25,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 15 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "7.5 meters",
+    "b": "15.0 meters",
+    "c": "22.5 meters",
+    "d": "30.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 1.5 meters, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "0.75 meters",
+    "b": "1.50 meters",
+    "c": "3.00 meters",
+    "d": "4.50 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a riser room?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing residential walkways?",
+    "a": "2.5 meters",
+    "b": "3.5 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing railways?",
+    "a": "6.1 meters",
+    "b": "7.2 meters",
+    "c": "8.5 meters",
+    "d": "9.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 15 days. If the contract stipulates a penalty of Php 500 for each day of delay, and the ECE completes the project on Day 18, calculate the total penal liability.",
+    "a": "Php 1,000",
+    "b": "Php 1,500",
+    "c": "Php 2,000",
+    "d": "Php 2,500",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE Board examinee receives the following grades: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 80%. Calculate his weighted general average.",
+    "a": "75.0%",
+    "b": "80.0%",
+    "c": "85.0%",
+    "d": "90.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE Board examinee receives the following grades: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 49%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "70.7%",
+    "c": "72.4%",
+    "d": "74.1%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 49%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 49%, Electronics = 80%, GEAS = 80%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "70.7%",
+    "c": "72.4%",
+    "d": "73.8%",
+    "ans": "d"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 49%, Electronics = 80%, GEAS = 80%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 49%, GEAS = 80%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "70.7%",
+    "c": "72.4%",
+    "d": "74.1%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 49%, GEAS = 80%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 49%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "71.2%",
+    "b": "72.4%",
+    "c": "73.8%",
+    "d": "69.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 49%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 72%, GEAS = 55%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.2%",
+    "c": "72.4%",
+    "d": "73.8%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 72%, GEAS = 55%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 55%, Electronics = 72%, GEAS = 70%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.2%",
+    "c": "72.4%",
+    "d": "73.8%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 55%, Electronics = 72%, GEAS = 70%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 55%, GEAS = 70%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.4%",
+    "d": "73.8%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 55%, GEAS = 70%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 70%, GEAS = 55%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "72.1%",
+    "b": "73.2%",
+    "c": "75.0%",
+    "d": "69.5%",
+    "ans": "a"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 70%, GEAS = 55%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 70%, GEAS = 82%, and Communications = 55%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.2%",
+    "c": "72.4%",
+    "d": "73.8%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 70%, GEAS = 82%, and Communications = 55%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom engineer is installing three communications cables of 15 mm outer diameter each inside a conduit, what is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "1130 mm^2",
+    "b": "1325 mm^2",
+    "c": "1560 mm^2",
+    "d": "1712 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 12 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "542 mm^2",
+    "b": "625 mm^2",
+    "c": "730 mm^2",
+    "d": "850 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "b"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 12 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "112 mm^2",
+    "b": "213 mm^2",
+    "c": "314 mm^2",
+    "d": "452 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 120,000 in actual proven damages, and the contract features a penal clause of Php 60,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 60,000",
+    "b": "Php 120,000",
+    "c": "Php 180,000",
+    "d": "Php 240,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 30,000 in case of delay, and a contractor is delayed by 5 days with an agreed penalty of Php 6,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 30,000",
+    "b": "Php 45,000",
+    "c": "Php 60,000",
+    "d": "Php 90,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 60 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "30 meters",
+    "b": "60 meters",
+    "c": "90 meters",
+    "d": "120 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 5.0 meters, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "2.5 meters",
+    "b": "5.0 meters",
+    "c": "10.0 meters",
+    "d": "15.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a telecom vault?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing public alleys?",
+    "a": "3.5 meters",
+    "b": "4.5 meters",
+    "c": "5.5 meters",
+    "d": "6.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing pedestrian paths?",
+    "a": "2.5 meters",
+    "b": "3.5 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 120 days. If the contract stipulates a penalty of Php 3,000 for each day of delay, and the ECE completes the project on Day 130, calculate the total penal liability.",
+    "a": "Php 10,000",
+    "b": "Php 20,000",
+    "c": "Php 30,000",
+    "d": "Php 40,000",
+    "ans": "c"
+  },
+  {
+    "q": "An ECE licensure candidate receives the following grades: Mathematics = 80%, Electronics = 80%, GEAS = 75%, and Communications = 80%. Calculate his weighted general average.",
+    "a": "76.0%",
+    "b": "78.0%",
+    "c": "79.0%",
+    "d": "81.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE licensure candidate receives the following grades: Mathematics = 80%, Electronics = 80%, GEAS = 75%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 55%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 80%, and Communications = 55%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 55%, Electronics = 80%, GEAS = 80%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "75.0%",
+    "ans": "d"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 55%, Electronics = 80%, GEAS = 80%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 55%, GEAS = 80%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 55%, GEAS = 80%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 55%, and Communications = 80%. Calculate the weighted general average.",
+    "a": "72.0%",
+    "b": "73.5%",
+    "c": "75.0%",
+    "d": "69.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 80%, Electronics = 80%, GEAS = 55%, and Communications = 80%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 75%, GEAS = 60%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 75%, GEAS = 60%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 60%, Electronics = 75%, GEAS = 70%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 60%, Electronics = 75%, GEAS = 70%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 60%, GEAS = 70%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 60%, GEAS = 70%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 70%, GEAS = 60%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "72.1%",
+    "b": "73.2%",
+    "c": "75.0%",
+    "d": "69.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 70%, GEAS = 60%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 70%, GEAS = 85%, and Communications = 60%. Calculate the weighted general average.",
+    "a": "69.5%",
+    "b": "71.0%",
+    "c": "72.5%",
+    "d": "74.0%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 70%, GEAS = 85%, and Communications = 60%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom engineer is installing four communications cables of 12 mm outer diameter each inside a conduit, what is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "1130 mm^2",
+    "b": "1325 mm^2",
+    "c": "1560 mm^2",
+    "d": "1712 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2, 1-1/2 inch = 1900 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "d"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 10 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "506 mm^2",
+    "b": "625 mm^2",
+    "c": "707 mm^2",
+    "d": "850 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "b"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 10 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "112 mm^2",
+    "b": "148 mm^2",
+    "c": "180 mm^2",
+    "d": "224 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 50,000 in actual proven damages, and the contract features a penal clause of Php 25,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 25,000",
+    "b": "Php 50,000",
+    "c": "Php 75,000",
+    "d": "Php 100,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 20,000 in case of delay, and a contractor is delayed by 2 days with an agreed penalty of Php 5,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 10,000",
+    "b": "Php 20,000",
+    "c": "Php 30,000",
+    "d": "Php 40,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 10 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "5.0 meters",
+    "b": "10.0 meters",
+    "c": "15.0 meters",
+    "d": "20.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 1.2 meters, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "0.6 meters",
+    "b": "1.2 meters",
+    "c": "2.4 meters",
+    "d": "3.6 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a gateway room?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing driveways?",
+    "a": "2.5 meters",
+    "b": "3.5 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing railways?",
+    "a": "5.5 meters",
+    "b": "6.1 meters",
+    "c": "7.2 meters",
+    "d": "8.5 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 10 days. If the contract stipulates a penalty of Php 1,000 for each day of delay, and the ECE completes the project on Day 12, calculate the total penal liability.",
+    "a": "Php 1,000",
+    "b": "Php 2,000",
+    "c": "Php 3,000",
+    "d": "Php 4,000",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE board candidate receives the following grades: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate his weighted general average.",
+    "a": "65.0%",
+    "b": "70.0%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE board candidate receives the following grades: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 49%. Calculate the weighted general average.",
+    "a": "65.5%",
+    "b": "66.7%",
+    "c": "68.2%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 70%, and Communications = 49%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 49%, Electronics = 70%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "65.5%",
+    "b": "66.7%",
+    "c": "67.4%",
+    "d": "68.2%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 49%, Electronics = 70%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 49%, GEAS = 70%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "65.5%",
+    "b": "66.7%",
+    "c": "68.2%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 49%, GEAS = 70%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 49%, and Communications = 70%. Calculate the weighted general average.",
+    "a": "65.0%",
+    "b": "66.0%",
+    "c": "67.0%",
+    "d": "69.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 70%, Electronics = 70%, GEAS = 49%, and Communications = 70%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 60%, Electronics = 72%, GEAS = 55%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "67.5%",
+    "b": "68.5%",
+    "c": "69.5%",
+    "d": "70.2%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 60%, Electronics = 72%, GEAS = 55%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 55%, Electronics = 72%, GEAS = 60%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "66.5%",
+    "b": "68.2%",
+    "c": "69.5%",
+    "d": "70.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 55%, Electronics = 72%, GEAS = 60%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 55%, GEAS = 60%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "66.5%",
+    "b": "68.0%",
+    "c": "69.5%",
+    "d": "70.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 55%, GEAS = 60%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 60%, GEAS = 55%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "68.5%",
+    "b": "69.5%",
+    "c": "71.0%",
+    "d": "72.4%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 60%, GEAS = 55%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 72%, Electronics = 60%, GEAS = 82%, and Communications = 55%. Calculate the weighted general average.",
+    "a": "66.5%",
+    "b": "68.2%",
+    "c": "69.5%",
+    "d": "70.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 72%, Electronics = 60%, GEAS = 82%, and Communications = 55%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom engineer is installing five communications cables of 10 mm outer diameter each inside a conduit, what is the minimum required cross-sectional area of the conduit using the 40% fill factor rule?",
+    "a": "707 mm^2",
+    "b": "982 mm^2",
+    "c": "1120 mm^2",
+    "d": "1350 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Using the conduit sizing requirements from the previous question, determine the closest standard trade size of the conduit required. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2, 1-1/4 inch = 1350 mm^2)",
+    "a": "3/4 inch",
+    "b": "1 inch",
+    "c": "1-1/4 inch",
+    "d": "1-1/2 inch",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication installation requires running two cables of 8 mm outer diameter each through a PVC conduit. What is the minimum required internal area of the conduit using the 31% fill factor rule for two cables?",
+    "a": "324 mm^2",
+    "b": "452 mm^2",
+    "c": "506 mm^2",
+    "d": "628 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the conduit area calculation from the previous question, select the appropriate standard conduit trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2, 1 inch = 850 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "b"
+  },
+  {
+    "q": "A single major fiber optic backbone cable of 8 mm outer diameter must be run through a rigid conduit. What is the minimum required internal area of the conduit using the 53% fill factor rule for a single cable?",
+    "a": "95 mm^2",
+    "b": "112 mm^2",
+    "c": "150 mm^2",
+    "d": "224 mm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Using the single cable conduit area calculation from the previous question, choose the correct trade size. (Internal area: 1/2 inch = 300 mm^2, 3/4 inch = 500 mm^2)",
+    "a": "1/2 inch",
+    "b": "3/4 inch",
+    "c": "1 inch",
+    "d": "1-1/4 inch",
+    "ans": "a"
+  },
+  {
+    "q": "Under the Civil Code, if an engineer breaches a contract and causes Php 40,000 in actual proven damages, and the contract features a penal clause of Php 20,000, find the total amount the engineer must pay to the creditor, unless there is a contrary agreement.",
+    "a": "Php 20,000",
+    "b": "Php 40,000",
+    "c": "Php 60,000",
+    "d": "Php 80,000",
+    "ans": "c"
+  },
+  {
+    "q": "If a contract specifies liquidated damages of Php 8,000 in case of delay, and a contractor is delayed by 2 days with an agreed penalty of Php 2,000 per day, calculate the total liquidated damages payable.",
+    "a": "Php 4,000",
+    "b": "Php 8,000",
+    "c": "Php 12,000",
+    "d": "Php 16,000",
+    "ans": "c"
+  },
+  {
+    "q": "A telecommunication company is designing a lightning protection system. Under the Philippine Electronics Code, if the height of a building is 8 meters and the cone of protection of a lightning rod has a 45° angle, what is the horizontal radius of the protected zone at ground level?",
+    "a": "4.0 meters",
+    "b": "8.0 meters",
+    "c": "12.0 meters",
+    "d": "16.0 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, if a telecom grounding rod has a length of 1.0 meter, what is the minimum recommended spacing between multiple grounding rods driven into the ground to ensure low resistance?",
+    "a": "0.5 meters",
+    "b": "1.0 meter",
+    "c": "2.0 meters",
+    "d": "3.0 meters",
+    "ans": "c"
+  },
+  {
+    "q": "A telecom engineer needs to size a grounding copper busbar. Under the Philippine Electronics Code, what is the minimum required cross-sectional area for a main grounding busbar in a private distributor room?",
+    "a": "25 mm^2",
+    "b": "50 mm^2",
+    "c": "100 mm^2",
+    "d": "150 mm^2",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication service drops crossing residential sidewalks?",
+    "a": "2.5 meters",
+    "b": "3.5 meters",
+    "c": "4.5 meters",
+    "d": "5.5 meters",
+    "ans": "b"
+  },
+  {
+    "q": "Under the Philippine Electronics Code, what is the minimum recommended overhead clearance for telecommunication lines crossing roadways?",
+    "a": "5.5 meters",
+    "b": "6.1 meters",
+    "c": "7.2 meters",
+    "d": "8.5 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A professional services contract requires an ECE to complete a project in 20 days. If the contract stipulates a penalty of Php 500 for each day of delay, and the ECE completes the project on Day 24, calculate the total penal liability.",
+    "a": "Php 1,000",
+    "b": "Php 2,000",
+    "c": "Php 3,000",
+    "d": "Php 4,000",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE board candidate receives the following grades: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 85%. Calculate his weighted general average.",
+    "a": "80.0%",
+    "b": "85.0%",
+    "c": "90.0%",
+    "d": "95.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE board candidate receives the following grades: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 49%. Calculate the weighted general average.",
+    "a": "72.4%",
+    "b": "73.8%",
+    "c": "75.4%",
+    "d": "77.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 49%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 49%, Electronics = 85%, GEAS = 85%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "72.4%",
+    "b": "73.8%",
+    "c": "75.4%",
+    "d": "77.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 49%, Electronics = 85%, GEAS = 85%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 85%, Electronics = 49%, GEAS = 85%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "72.4%",
+    "b": "73.8%",
+    "c": "75.4%",
+    "d": "77.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 85%, Electronics = 49%, GEAS = 85%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 49%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "72.4%",
+    "b": "73.8%",
+    "c": "75.4%",
+    "d": "77.1%",
+    "ans": "d"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 49%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "b"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 82%. Calculate the weighted general average.",
+    "a": "73.8%",
+    "b": "75.4%",
+    "c": "77.1%",
+    "d": "78.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 75%, and Communications = 82%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 82%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "73.8%",
+    "b": "75.4%",
+    "c": "76.4%",
+    "d": "77.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 75%, GEAS = 82%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 75%, Electronics = 82%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "73.8%",
+    "b": "75.4%",
+    "c": "77.1%",
+    "d": "78.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 75%, Electronics = 82%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 82%, Electronics = 75%, GEAS = 75%, and Communications = 75%. Calculate the weighted general average.",
+    "a": "73.8%",
+    "b": "75.4%",
+    "c": "76.4%",
+    "d": "77.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 82%, Electronics = 75%, GEAS = 75%, and Communications = 75%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  },
+  {
+    "q": "An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 85%. Calculate the weighted general average.",
+    "a": "80.0%",
+    "b": "85.0%",
+    "c": "90.0%",
+    "d": "95.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Based on the scores from the previous question, determine the examinee's status. (Context from previous question: An ECE examinee receives: Mathematics = 85%, Electronics = 85%, GEAS = 85%, and Communications = 85%.)",
+    "a": "Passed",
+    "b": "Failed",
+    "c": "Conditioned",
+    "d": "Deferred",
+    "ans": "a"
+  }
+]

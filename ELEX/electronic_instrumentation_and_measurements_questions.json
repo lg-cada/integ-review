@@ -656,7 +656,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the voltmeter sensitivity (S) of the 10-Volt voltmeter constructed in the previous question.",
+    "q": "Calculate the voltmeter sensitivity (S) of the 10-Volt voltmeter constructed in the previous question. (Context from previous question: Using the same 50 uA d'Arsonval movement (coil resistance = 1000 Ohms), calculate the multiplier resistance required to convert it into a voltmeter with a 10-Volt range.)",
     "a": "10k Ohms/Volt",
     "b": "20k Ohms/Volt",
     "c": "50k Ohms/Volt",
@@ -680,7 +680,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the theoretical true voltage across the 50k Ohm resistor in the previous question if no voltmeter is loading the circuit?",
+    "q": "What is the theoretical true voltage across the 50k Ohm resistor in the previous question if no voltmeter is loading the circuit? (Context from previous question: A voltmeter is connected across a 50k Ohm resistor to measure its voltage drop. The other resistor in the series circuit is also 50k Ohms, and the supply is 100V DC. If the voltmeter has a sensitivity of 20,000 Ohms/Volt and is on the 50-Volt range (R_in = 1 Mega-Ohm), calculate the voltage measured by the meter.)",
     "a": "100.00 Volts",
     "b": "50.00 Volts",
     "c": "48.78 Volts",
@@ -712,7 +712,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the percent error introduced by the insertion of the ammeter in the previous questions.",
+    "q": "Calculate the percent error introduced by the insertion of the ammeter in the previous questions. (Context from previous question: An ammeter with an internal resistance of 2 Ohms is inserted into a circuit containing a 12-Volt battery and a 10 Ohm load resistor.)",
     "a": "20.0 percent",
     "b": "16.7 percent",
     "c": "10.0 percent",
@@ -736,7 +736,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 2000 Ohms, and C1 = 0.1 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.)",
     "a": "10.0 Ohms",
     "b": "20.0 Ohms",
     "c": "40.0 Ohms",
@@ -744,7 +744,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz.",
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 2000 Ohms, and C1 = 0.1 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 2000 Ohms, and C1 = 0.1 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.))",
     "a": "31.4",
     "b": "62.8",
     "c": "15.7",
@@ -784,7 +784,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions. (Context from previous question: A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 100 pF, R1 = 10k Ohms, R2 = 5k Ohms, and parallel capacitor C1 = 1000 pF, calculate the capacitance Cx.)",
     "a": "0.0031",
     "b": "0.0063",
     "c": "0.0126",
@@ -824,7 +824,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the period of 200 microseconds from the previous question, calculate the frequency of the signal.",
+    "q": "Using the period of 200 microseconds from the previous question, calculate the frequency of the signal. (Context from previous question: An oscilloscope horizontal sweep is set to 50 microseconds/Division. If one full cycle of a periodic wave occupies exactly 4.0 divisions, calculate the period of the signal.)",
     "a": "2.0 kHz",
     "b": "5.0 kHz",
     "c": "10.0 kHz",
@@ -904,7 +904,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question. (Context from previous question: An 8-bit success-approximation ADC in a digital voltmeter has a reference voltage of 5.12 Volts.)",
     "a": "5.0 mV",
     "b": "10.0 mV",
     "c": "2.5 mV",
@@ -920,7 +920,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA. (Context from previous question: A certain AC bridge is balanced with arms: AB = 100 Ohms, BC = 200 Ohms, CD = 300 + j400 Ohms.)",
     "a": "100 Ohms",
     "b": "200 Ohms",
     "c": "400 Ohms",
@@ -976,7 +976,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the percentage limiting error of the 10-Volt meter from the previous question when measuring a voltage of 2.0 Volts?",
+    "q": "What is the percentage limiting error of the 10-Volt meter from the previous question when measuring a voltage of 2.0 Volts? (Context from previous question: An analog voltmeter has a range of 0 to 10 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.)",
     "a": "2.5 percent",
     "b": "5.0 percent",
     "c": "10.0 percent",
@@ -1104,7 +1104,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the percentage limiting error of the 50-Volt meter from the previous question when measuring a voltage of 10.0 Volts?",
+    "q": "What is the percentage limiting error of the 50-Volt meter from the previous question when measuring a voltage of 10.0 Volts? (Context from previous question: An analog voltmeter has a range of 0 to 50 Volts. If the guaranteed accuracy of the meter is plus or minus 2 percent of full-scale, calculate the limiting error in Volts.)",
     "a": "5.0 percent",
     "b": "10.0 percent",
     "c": "2.0 percent",
@@ -1136,7 +1136,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA. (Context from previous question: A certain AC bridge is balanced with arms: AB = 200 Ohms, BC = 400 Ohms, CD = 150 + j200 Ohms.)",
     "a": "50 Ohms",
     "b": "100 Ohms",
     "c": "200 Ohms",
@@ -1176,7 +1176,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the period of 100 microseconds from the previous question, calculate the frequency of the signal.",
+    "q": "Using the period of 100 microseconds from the previous question, calculate the frequency of the signal. (Context from previous question: An oscilloscope horizontal sweep is set to 20 microseconds/Division. If one full cycle of a periodic wave occupies exactly 5.0 divisions, calculate the period of the signal.)",
     "a": "5.0 kHz",
     "b": "10.0 kHz",
     "c": "20.0 kHz",
@@ -1232,7 +1232,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question. (Context from previous question: An 8-bit success-approximation ADC in a digital voltmeter has a reference voltage of 2.56 Volts.)",
     "a": "2.5 mV",
     "b": "5.0 mV",
     "c": "1.25 mV",
@@ -1264,7 +1264,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the percentage limiting error of the 100-Volt meter from the previous question when measuring a voltage of 20.0 Volts?",
+    "q": "What is the percentage limiting error of the 100-Volt meter from the previous question when measuring a voltage of 20.0 Volts? (Context from previous question: An analog voltmeter has a range of 0 to 100 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.)",
     "a": "2.5 percent",
     "b": "5.0 percent",
     "c": "10.0 percent",
@@ -1312,7 +1312,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor. (Context from previous question: If the bridge arms at balance are R2 = 2000 Ohms, R3 = 3000 Ohms, and C1 = 0.05 uF in parallel with R1 = 50k Ohms, calculate the self-inductance Lx.)",
     "a": "60 Ohms",
     "b": "120 Ohms",
     "c": "240 Ohms",
@@ -1320,7 +1320,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 500 Hz.",
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 500 Hz. (Context from previous question: If the bridge arms at balance are R2 = 2000 Ohms, R3 = 3000 Ohms, and C1 = 0.05 uF in parallel with R1 = 50k Ohms, calculate the self-inductance Lx. (Context from previous question: If the bridge arms at balance are R2 = 2000 Ohms, R3 = 3000 Ohms, and C1 = 0.05 uF in parallel with R1 = 50k Ohms, calculate the self-inductance Lx.))",
     "a": "3.93",
     "b": "7.85",
     "c": "15.70",
@@ -1360,7 +1360,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions. (Context from previous question: A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 200 pF, R1 = 20k Ohms, R2 = 10k Ohms, and parallel capacitor C1 = 500 pF, calculate the capacitance Cx.)",
     "a": "0.0031",
     "b": "0.0063",
     "c": "0.0126",
@@ -1400,7 +1400,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the period of 80 microseconds from the previous question, calculate the frequency of the signal.",
+    "q": "Using the period of 80 microseconds from the previous question, calculate the frequency of the signal. (Context from previous question: An oscilloscope horizontal sweep is set to 10 microseconds/Division. If one full cycle of a periodic wave occupies exactly 8.0 divisions, calculate the period of the signal.)",
     "a": "6.25 kHz",
     "b": "12.50 kHz",
     "c": "25.00 kHz",
@@ -1480,7 +1480,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question.",
+    "q": "Calculate the maximum quantization error (plus or minus half the step size) of the 8-bit ADC in the previous question. (Context from previous question: An 8-bit successive-approximation ADC in a digital voltmeter has a reference voltage of 1.28 Volts.)",
     "a": "1.25 mV",
     "b": "2.50 mV",
     "c": "0.625 mV",
@@ -1496,7 +1496,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA. (Context from previous question: A certain AC bridge is balanced with arms: AB = 50 Ohms, BC = 100 Ohms, CD = 300 + j400 Ohms.)",
     "a": "100 Ohms",
     "b": "200 Ohms",
     "c": "400 Ohms",
@@ -1528,7 +1528,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the percentage limiting error of the 200-Volt meter from the previous question when measuring a voltage of 40.0 Volts?",
+    "q": "What is the percentage limiting error of the 200-Volt meter from the previous question when measuring a voltage of 40.0 Volts? (Context from previous question: An analog voltmeter has a range of 0 to 200 Volts. If the guaranteed accuracy of the meter is plus or minus 1 percent of full-scale, calculate the limiting error in Volts.)",
     "a": "2.5 percent",
     "b": "5.0 percent",
     "c": "10.0 percent",
@@ -1576,7 +1576,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor.",
+    "q": "Using the balance equations of the Maxwell bridge from the previous question, calculate the equivalent series resistance Rx of the unknown inductor. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 4000 Ohms, and C1 = 0.02 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.)",
     "a": "20 Ohms",
     "b": "40 Ohms",
     "c": "80 Ohms",
@@ -1584,7 +1584,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz.",
+    "q": "Calculate the Q-factor of the inductor measured by the Maxwell bridge in the previous questions if the operating frequency is 1000 Hz. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 4000 Ohms, and C1 = 0.02 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx. (Context from previous question: If the bridge arms at balance are R2 = 1000 Ohms, R3 = 4000 Ohms, and C1 = 0.02 uF in parallel with R1 = 100k Ohms, calculate the self-inductance Lx.))",
     "a": "6.28",
     "b": "12.56",
     "c": "25.12",
@@ -1624,7 +1624,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions.",
+    "q": "Calculate the dissipation factor (D = omega * Cx * Rx) of the capacitor Cx measured by the Schering bridge in the previous questions. (Context from previous question: A Schering bridge is balanced at a frequency of 1000 Hz. If standard arm Cs = 100 pF, R1 = 40k Ohms, R2 = 20k Ohms, and parallel capacitor C1 = 250 pF, calculate the capacitance Cx.)",
     "a": "0.0031",
     "b": "0.0063",
     "c": "0.0126",
@@ -1664,7 +1664,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the period of 30 microseconds from the previous question, calculate the frequency of the signal.",
+    "q": "Using the period of 30 microseconds from the previous question, calculate the frequency of the signal. (Context from previous question: An oscilloscope horizontal sweep is set to 5 microseconds/Division. If one full cycle of a periodic wave occupies exactly 6.0 divisions, calculate the period of the signal.)",
     "a": "16.7 kHz",
     "b": "33.3 kHz",
     "c": "66.7 kHz",
@@ -1752,7 +1752,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA.",
+    "q": "Using the same AC bridge balance from the previous question, calculate the reactive (imaginary) part of the unknown impedance in arm DA. (Context from previous question: A certain AC bridge is balanced with arms: AB = 100 Ohms, BC = 300 Ohms, CD = 150 + j200 Ohms.)",
     "a": "33.3 Ohms",
     "b": "66.7 Ohms",
     "c": "133.3 Ohms",

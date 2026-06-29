@@ -1,0 +1,2210 @@
+[
+  {
+    "q": "What are considered as the primary building blocks for engineering materials?",
+    "a": "Compounds",
+    "b": "Atoms",
+    "c": "Molecules",
+    "d": "Macromolecules",
+    "ans": "b"
+  },
+  {
+    "q": "What major class of engineering materials is characterized by high thermal and electrical conductivity, ductility, and reflectivity?",
+    "a": "Ceramics",
+    "b": "Polymers",
+    "c": "Metals",
+    "d": "Semiconductors",
+    "ans": "c"
+  },
+  {
+    "q": "Materials composed of inorganic, non-metallic compounds such as oxides, nitrides, and carbides are classified as:",
+    "a": "Metals",
+    "b": "Polymers",
+    "c": "Ceramics",
+    "d": "Composites",
+    "ans": "c"
+  },
+  {
+    "q": "What class of materials consists of long-chain molecules composed of repeating structural units called monomers?",
+    "a": "Ceramics",
+    "b": "Polymers",
+    "c": "Metals",
+    "d": "Semiconductors",
+    "ans": "b"
+  },
+  {
+    "q": "Materials composed of more than one material type, designed to display a combination of the best characteristics of each component, are:",
+    "a": "Alloys",
+    "b": "Composites",
+    "c": "Polymers",
+    "d": "Ceramics",
+    "ans": "b"
+  },
+  {
+    "q": "What types of materials behave like iron when placed in an external magnetic field?",
+    "a": "Diamagnetic materials",
+    "b": "Paramagnetic materials",
+    "c": "Ferromagnetic materials",
+    "d": "Superconducting materials",
+    "ans": "c"
+  },
+  {
+    "q": "What physical property of a material refers to the point at which a material liquefies on heating or solidifies on cooling?",
+    "a": "Melting Point",
+    "b": "Curie Point",
+    "c": "Boiling Point",
+    "d": "Triple Point",
+    "ans": "a"
+  },
+  {
+    "q": "What physical property of a material refers to the temperature above which a ferromagnetic material loses its permanent magnetic properties?",
+    "a": "Melting Point",
+    "b": "Curie Point",
+    "c": "Transition Point",
+    "d": "Neel Point",
+    "ans": "b"
+  },
+  {
+    "q": "What chemical property of a material refers to its ability to resist deterioration by chemical or electrochemical reactions with its environment?",
+    "a": "Stereo Specificity",
+    "b": "Corrosion Resistance",
+    "c": "Conductivity",
+    "d": "Oxidation Threshold",
+    "ans": "b"
+  },
+  {
+    "q": "What mechanical property refers to the ability of a material to deform plastically under tensile stress before fracturing?",
+    "a": "Malleability",
+    "b": "Ductility",
+    "c": "Elasticity",
+    "d": "Resilience",
+    "ans": "b"
+  },
+  {
+    "q": "What mechanical property refers to the ability of a material to deform plastically under compressive stress without rupture, typically allowing it to be rolled into sheets?",
+    "a": "Ductility",
+    "b": "Malleability",
+    "c": "Hardness",
+    "d": "Elasticity",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the slow, time-dependent permanent deformation of a material under a constant stress over an extended period at high temperatures?",
+    "a": "Fatigue",
+    "b": "Creep",
+    "c": "Relaxation",
+    "d": "Slip",
+    "ans": "b"
+  },
+  {
+    "q": "What is the slope of a line drawn from the origin to any specific point on the stress-strain curve of a material?",
+    "a": "Tangent Modulus",
+    "b": "Secant Modulus",
+    "c": "Elastic Modulus",
+    "d": "Bulk Modulus",
+    "ans": "b"
+  },
+  {
+    "q": "In metallurgy, what term is used to denote the unwanted, commercially worthless rocky or earthy material associated with a valuable ore?",
+    "a": "Flux",
+    "b": "Gangue",
+    "c": "Slag",
+    "d": "Sinter",
+    "ans": "b"
+  },
+  {
+    "q": "The industrial process of heating an ore with a reducing agent and a flux to melt and extract a pure metal is called:",
+    "a": "Calcination",
+    "b": "Smelting",
+    "c": "Roasting",
+    "d": "Leaching",
+    "ans": "b"
+  },
+  {
+    "q": "Brass is an engineering alloy composed primarily of which two metals?",
+    "a": "Copper and Tin",
+    "b": "Copper and Zinc",
+    "c": "Copper and Nickel",
+    "d": "Copper and Lead",
+    "ans": "b"
+  },
+  {
+    "q": "Bronze is an engineering alloy composed primarily of which two metals?",
+    "a": "Copper and Zinc",
+    "b": "Copper and Tin",
+    "c": "Copper and Aluminum",
+    "d": "Copper and Lead",
+    "ans": "b"
+  },
+  {
+    "q": "The ability of a material to absorb energy and deform plastically before fracturing is defined as:",
+    "a": "Resilience",
+    "b": "Toughness",
+    "c": "Hardness",
+    "d": "Stiffness",
+    "ans": "b"
+  },
+  {
+    "q": "The maximum energy a material can absorb within its elastic limit per unit volume is called its modulus of:",
+    "a": "Toughness",
+    "b": "Resilience",
+    "c": "Elasticity",
+    "d": "Rigidity",
+    "ans": "b"
+  },
+  {
+    "q": "Which polymer class is characterized by highly cross-linked networks that cure permanently upon heating and cannot be remelted?",
+    "a": "Thermoplastics",
+    "b": "Thermosets",
+    "c": "Elastomers",
+    "d": "Block copolymers",
+    "ans": "b"
+  },
+  {
+    "q": "Which polymer class is composed of linear or branched chains that soften upon heating and harden upon cooling, allowing them to be remelted and reshaped?",
+    "a": "Thermosets",
+    "b": "Thermoplastics",
+    "c": "Elastomers",
+    "d": "Cross-linked polymers",
+    "ans": "b"
+  },
+  {
+    "q": "What is the typical value of Poisson's ratio for most engineering metals?",
+    "a": "0.10 to 0.20",
+    "b": "0.25 to 0.35",
+    "c": "0.45 to 0.55",
+    "d": "0.60 to 0.70",
+    "ans": "b"
+  },
+  {
+    "q": "The crystal structure of pure iron at room temperature (alpha-ferrite) is:",
+    "a": "Face-Centered Cubic (FCC)",
+    "b": "Body-Centered Cubic (BCC)",
+    "c": "Hexagonal Close-Packed (HCP)",
+    "d": "Simple Cubic (SC)",
+    "ans": "b"
+  },
+  {
+    "q": "The crystal structure of pure iron at high temperatures between 912 °C and 1394 °C (austenite) is:",
+    "a": "Body-Centered Cubic (BCC)",
+    "b": "Face-Centered Cubic (FCC)",
+    "c": "Hexagonal Close-Packed (HCP)",
+    "d": "Simple Cubic (SC)",
+    "ans": "b"
+  },
+  {
+    "q": "A structural defect in a crystal lattice consisting of an extra half-plane of atoms inserted between planes is known as an:",
+    "a": "Interstitial defect",
+    "b": "Edge dislocation",
+    "c": "Vacancy",
+    "d": "Grain boundary",
+    "ans": "b"
+  },
+  {
+    "q": "What is the vector that represents the magnitude and direction of lattice distortion associated with a crystal dislocation?",
+    "a": "Poynting Vector",
+    "b": "Burger's Vector",
+    "c": "Gradient Vector",
+    "d": "Laplacian Vector",
+    "ans": "b"
+  },
+  {
+    "q": "What type of bonding is found in sodium chloride (NaCl)?",
+    "a": "Covalent bonding",
+    "b": "Ionic bonding",
+    "c": "Metallic bonding",
+    "d": "Hydrogen bonding",
+    "ans": "b"
+  },
+  {
+    "q": "What type of bonding involves the sharing of valence electrons between atoms of similar electronegativities, typical of organic polymers?",
+    "a": "Ionic bonding",
+    "b": "Covalent bonding",
+    "c": "Metallic bonding",
+    "d": "Van der Waals forces",
+    "ans": "b"
+  },
+  {
+    "q": "The degradation of an engineered metal due to chemical or electrochemical reactions with its surrounding environment is called:",
+    "a": "Decay",
+    "b": "Corrosion",
+    "c": "Erosion",
+    "d": "Dissolution",
+    "ans": "b"
+  },
+  {
+    "q": "What process is defined as joining metal parts using a nonferrous filler alloy that melts above 800 °F (427 °C) but below the melting temperature of the base metals?",
+    "a": "Soldering",
+    "b": "Brazing",
+    "c": "Seaming",
+    "d": "Welding",
+    "ans": "b"
+  },
+  {
+    "q": "What process is defined as joining metal parts using a filler alloy that melts below 800 °F (427 °C)?",
+    "a": "Brazing",
+    "b": "Soldering",
+    "c": "Welding",
+    "d": "Riveting",
+    "ans": "b"
+  },
+  {
+    "q": "The property of a material indicating its resistance to localized plastic deformation, such as scratching or indentation, is:",
+    "a": "Toughness",
+    "b": "Hardness",
+    "c": "Stiffness",
+    "d": "Strength",
+    "ans": "b"
+  },
+  {
+    "q": "Which index is commonly used to quantify the hardness of minerals on a scale from 1 to 10?",
+    "a": "Rockwell scale",
+    "b": "Mohs scale",
+    "c": "Brinell scale",
+    "d": "Vickers scale",
+    "ans": "b"
+  },
+  {
+    "q": "What mineral represents the highest value of 10 on the Mohs scale of hardness?",
+    "a": "Quartz",
+    "b": "Diamond",
+    "c": "Corundum",
+    "d": "Topaz",
+    "ans": "b"
+  },
+  {
+    "q": "What mineral represents the value of 1 on the Mohs scale of hardness?",
+    "a": "Gypsum",
+    "b": "Talc",
+    "c": "Calcite",
+    "d": "Fluorite",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following describes polymers that have a rubber-like, highly elastic mechanical behavior?",
+    "a": "Thermoplastics",
+    "b": "Elastomers",
+    "c": "Thermosets",
+    "d": "Hydrogels",
+    "ans": "b"
+  },
+  {
+    "q": "The point on a stress-strain curve where a material transitions from elastic behavior to plastic behavior is the:",
+    "a": "Ultimate strength",
+    "b": "Yield point",
+    "c": "Rupture point",
+    "d": "Proportional limit",
+    "ans": "b"
+  },
+  {
+    "q": "The highest stress value that a material can withstand before necking and eventual fracture is its:",
+    "a": "Yield strength",
+    "b": "Ultimate tensile strength",
+    "c": "Proportional limit",
+    "d": "Elastic limit",
+    "ans": "b"
+  },
+  {
+    "q": "A material whose mechanical properties are identical in all directions is described as:",
+    "a": "Anisotropic",
+    "b": "Isotropic",
+    "c": "Orthotropic",
+    "d": "Homogeneous",
+    "ans": "b"
+  },
+  {
+    "q": "A material whose mechanical properties vary depending on the direction of loading is described as:",
+    "a": "Isotropic",
+    "b": "Anisotropic",
+    "c": "Homogeneous",
+    "d": "Amorphous",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the tendency of a material to fracture with very little or no plastic deformation when subjected to stress?",
+    "a": "Ductility",
+    "b": "Brittleness",
+    "c": "Malleability",
+    "d": "Toughness",
+    "ans": "b"
+  },
+  {
+    "q": "The progressive structural damage that occurs when a material is subjected to cyclic or fluctuating stresses is called:",
+    "a": "Creep",
+    "b": "Fatigue",
+    "c": "Relaxation",
+    "d": "Spallation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the maximum cyclic stress level that a material can withstand for an infinite number of cycles without experiencing fatigue failure?",
+    "a": "Yield strength",
+    "b": "Endurance limit",
+    "c": "Proportional limit",
+    "d": "Ultimate strength",
+    "ans": "b"
+  },
+  {
+    "q": "The heat treatment process of heating a metal to a specific temperature, holding it, and then cooling it slowly to relieve internal stresses and increase ductility is:",
+    "a": "Quenching",
+    "b": "Annealing",
+    "c": "Tempering",
+    "d": "Normalizing",
+    "ans": "b"
+  },
+  {
+    "q": "The rapid cooling of a heated metal, usually in water or oil, to obtain a high-hardness martensitic structure is called:",
+    "a": "Annealing",
+    "b": "Quenching",
+    "c": "Tempering",
+    "d": "Normalizing",
+    "ans": "b"
+  },
+  {
+    "q": "The reheating of a quenched, hardened steel to a temperature below its critical point to restore some toughness and reduce brittleness is:",
+    "a": "Annealing",
+    "b": "Tempering",
+    "c": "Normalizing",
+    "d": "Austempering",
+    "ans": "b"
+  },
+  {
+    "q": "The process of diffusing carbon into the surface of low-carbon steel at high temperatures to produce a hard, wear-resistant surface layer is:",
+    "a": "Nitriding",
+    "b": "Carburizing",
+    "c": "Tempering",
+    "d": "Cyaniding",
+    "ans": "b"
+  },
+  {
+    "q": "What type of steel alloy contains chromium as a primary alloying element (at least 10.5%) to provide high corrosion resistance?",
+    "a": "Carbon steel",
+    "b": "Stainless steel",
+    "c": "Tool steel",
+    "d": "High-strength low-alloy steel",
+    "ans": "b"
+  },
+  {
+    "q": "What is the atomic packing factor (APF) of a Hexagonal Close-Packed (HCP) crystal structure?",
+    "a": "0.52",
+    "b": "0.68",
+    "c": "0.74",
+    "d": "0.82",
+    "ans": "c"
+  },
+  {
+    "q": "What is the coordination number of an atom in a Face-Centered Cubic (FCC) lattice?",
+    "a": "6",
+    "b": "8",
+    "c": "12",
+    "d": "16",
+    "ans": "c"
+  },
+  {
+    "q": "What is the coordination number of an atom in a Body-Centered Cubic (BCC) lattice?",
+    "a": "6",
+    "b": "8",
+    "c": "12",
+    "d": "14",
+    "ans": "b"
+  },
+  {
+    "q": "What is the coordination number of an atom in a Simple Cubic (SC) lattice?",
+    "a": "6",
+    "b": "8",
+    "c": "12",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "An interstitial solid solution of carbon in body-centered cubic (BCC) iron at room temperature is called:",
+    "a": "Austenite",
+    "b": "Ferrite",
+    "c": "Cementite",
+    "d": "Martensite",
+    "ans": "b"
+  },
+  {
+    "q": "An interstitial solid solution of carbon in face-centered cubic (FCC) iron is called:",
+    "a": "Ferrite",
+    "b": "Austenite",
+    "c": "Cementite",
+    "d": "Pearlite",
+    "ans": "b"
+  },
+  {
+    "q": "What is the extremely hard, brittle intermetallic compound of iron and carbon with the chemical formula Fe3C?",
+    "a": "Ferrite",
+    "b": "Cementite",
+    "c": "Austenite",
+    "d": "Martensite",
+    "ans": "b"
+  },
+  {
+    "q": "What is the lamellar, two-phase microstructure composed of alternating layers of ferrite and cementite formed in steel during slow cooling?",
+    "a": "Austenite",
+    "b": "Pearlite",
+    "c": "Martensite",
+    "d": "Bainite",
+    "ans": "b"
+  },
+  {
+    "q": "What is the metastable, supersaturated solid solution of carbon in alpha-iron formed by diffusionless (shear) transformation during rapid quenching?",
+    "a": "Ferrite",
+    "b": "Martensite",
+    "c": "Cementite",
+    "d": "Austenite",
+    "ans": "b"
+  },
+  {
+    "q": "What term refers to the ability of a solid material to exist in more than one crystal structure or phase depending on temperature and pressure?",
+    "a": "Isomerism",
+    "b": "Allotropy",
+    "c": "Anisotropy",
+    "d": "Amorphism",
+    "ans": "b"
+  },
+  {
+    "q": "A ceramic material composed of silicon dioxide is widely known as:",
+    "a": "Alumina",
+    "b": "Silica",
+    "c": "Zirconia",
+    "d": "Mullite",
+    "ans": "b"
+  },
+  {
+    "q": "A ceramic material composed of aluminum oxide is widely known as:",
+    "a": "Silica",
+    "b": "Alumina",
+    "c": "Zirconia",
+    "d": "Spinel",
+    "ans": "b"
+  },
+  {
+    "q": "A chemical reaction in which monomer molecules are joined together to form polymer chains is called:",
+    "a": "Dehydration",
+    "b": "Polymerization",
+    "c": "Saponification",
+    "d": "Esterification",
+    "ans": "b"
+  },
+  {
+    "q": "The average number of repeating monomer units per polymer chain is defined as the:",
+    "a": "Crystallinity",
+    "b": "Degree of Polymerization",
+    "c": "Chain Factor",
+    "d": "Molar Index",
+    "ans": "b"
+  },
+  {
+    "q": "What process involves adding sulfur and heating to cross-link rubber polymer chains, dramatically increasing its stiffness and strength?",
+    "a": "Carburization",
+    "b": "Vulcanization",
+    "c": "Sintering",
+    "d": "Galvanization",
+    "ans": "b"
+  },
+  {
+    "q": "What is the major element added to copper to produce the alloy known as cupronickel?",
+    "a": "Zinc",
+    "b": "Nickel",
+    "c": "Tin",
+    "d": "Aluminum",
+    "ans": "b"
+  },
+  {
+    "q": "What type of defect in a crystal lattice is caused by a missing atom or ion at a lattice site?",
+    "a": "Interstitial",
+    "b": "Vacancy",
+    "c": "Dislocation",
+    "d": "Stacking fault",
+    "ans": "b"
+  },
+  {
+    "q": "The temperature at which an amorphous polymer transitions from a hard, brittle, glassy state to a soft, rubbery, flexible state is the:",
+    "a": "Melting Temperature",
+    "b": "Glass Transition Temperature",
+    "c": "Curie Temperature",
+    "d": "Softening Temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of lateral strain to axial strain in a material subjected to uniaxial tension is defined as:",
+    "a": "Young's Modulus",
+    "b": "Poisson's Ratio",
+    "c": "Shear Modulus",
+    "d": "Bulk Modulus",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is the most electronegative element in the periodic table?",
+    "a": "Oxygen",
+    "b": "Fluorine",
+    "c": "Chlorine",
+    "d": "Nitrogen",
+    "ans": "b"
+  },
+  {
+    "q": "The boundary separating grains of different crystallographic orientations in a polycrystalline material is a:",
+    "a": "Dislocation",
+    "b": "Grain Boundary",
+    "c": "Phase Boundary",
+    "d": "Stacking Fault",
+    "ans": "b"
+  },
+  {
+    "q": "The phenomenon where a material becomes harder and stronger as it is plastically deformed, also called strain hardening, is:",
+    "a": "Creep",
+    "b": "Work Hardening",
+    "c": "Annealing",
+    "d": "Tempering",
+    "ans": "b"
+  },
+  {
+    "q": "Which material class is characterized by having electrical conductivities intermediate between those of conductors and insulators?",
+    "a": "Ceramics",
+    "b": "Semiconductors",
+    "c": "Polymers",
+    "d": "Metals",
+    "ans": "b"
+  },
+  {
+    "q": "What are the typical primary charge carriers in an n-type semiconductor?",
+    "a": "Holes",
+    "b": "Electrons",
+    "c": "Protons",
+    "d": "Anions",
+    "ans": "b"
+  },
+  {
+    "q": "What are the typical primary charge carriers in a p-type semiconductor?",
+    "a": "Electrons",
+    "b": "Holes",
+    "c": "Cations",
+    "d": "Neutrons",
+    "ans": "b"
+  },
+  {
+    "q": "What element is commonly used as a dopant to create n-type silicon?",
+    "a": "Boron",
+    "b": "Phosphorus",
+    "c": "Gallium",
+    "d": "Indium",
+    "ans": "b"
+  },
+  {
+    "q": "What element is commonly used as a dopant to create p-type silicon?",
+    "a": "Phosphorus",
+    "b": "Boron",
+    "c": "Arsenic",
+    "d": "Antimony",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the ability of a material to withstand cyclic sliding contact and friction without losing mass?",
+    "a": "Tensile Strength",
+    "b": "Wear Resistance",
+    "c": "Fatigue Limit",
+    "d": "Ductility",
+    "ans": "b"
+  },
+  {
+    "q": "A material that undergoes a change in dimensions when placed in an external electric field is described as:",
+    "a": "Pyroelectric",
+    "b": "Piezoelectric",
+    "c": "Ferroelectric",
+    "d": "Thermoelectric",
+    "ans": "b"
+  },
+  {
+    "q": "The physical property that describes a material's increase in volume per degree increase in temperature is its coefficient of:",
+    "a": "Thermal Conductivity",
+    "b": "Thermal Expansion",
+    "c": "Specific Heat",
+    "d": "Thermal Diffusivity",
+    "ans": "b"
+  },
+  {
+    "q": "What type of iron alloy contains carbon levels between 2.14% and 6.70% by mass?",
+    "a": "Mild steel",
+    "b": "Cast iron",
+    "c": "Medium carbon steel",
+    "d": "Stainless steel",
+    "ans": "b"
+  },
+  {
+    "q": "The protective oxide layer that naturally forms on the surface of metals like aluminum and chromium, preventing further corrosion, is called:",
+    "a": "Sulfide scale",
+    "b": "Passive film",
+    "c": "Rust layer",
+    "d": "Galvanic coating",
+    "ans": "b"
+  },
+  {
+    "q": "A steel rod 40 mm in diameter and 3.0 m long is compressed by an axial load of 150 kN. If E = 200 GPa, calculate the total change in length (elongation) of the rod.",
+    "a": "-0.45 mm",
+    "b": "-0.597 mm",
+    "c": "-0.712 mm",
+    "d": "-0.895 mm",
+    "ans": "b"
+  },
+  {
+    "q": "A steel wire of 3.0 mm diameter is subjected to a tensile force of 500 N. If the original length of the wire is 2.0 m and E = 200 GPa, find the elongation.",
+    "a": "0.35 mm",
+    "b": "0.71 mm",
+    "c": "1.06 mm",
+    "d": "1.42 mm",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the elongation in a helical steel spring composed of 20 turns of 20-mm diameter wire on a mean radius of 90 mm when the spring is supporting a load of 2.5 kN. (Use G = 83 GPa)",
+    "a": "165.0 mm",
+    "b": "170.0 mm",
+    "c": "175.4 mm",
+    "d": "180.2 mm",
+    "ans": "c"
+  },
+  {
+    "q": "A solid steel shaft of 50 mm diameter and 1.0 m length is constructed at its ends. If the shaft is heated from an initial temperature of 20 °C to 200 °C, calculate the axial load developed in the shaft. (Take alpha = 12 x 10^-6 /°C and E = 200 GPa)",
+    "a": "724.8 kN",
+    "b": "812.5 kN",
+    "c": "848.2 kN",
+    "d": "912.4 kN",
+    "ans": "c"
+  },
+  {
+    "q": "A steel bar of cross-sectional area 500 mm^2 and length 2.0 m is subjected to an axial tensile force of 100 kN. Calculate the normal stress in the bar.",
+    "a": "100 MPa",
+    "b": "150 MPa",
+    "c": "200 MPa",
+    "d": "250 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen is subjected to an axial stress of 150 MPa. If the elastic modulus E = 200 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00075",
+    "c": "0.00100",
+    "d": "0.00125",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of a material if its elastic modulus E = 200 GPa and Poisson's ratio is 0.30.",
+    "a": "67.4 GPa",
+    "b": "76.9 GPa",
+    "c": "83.3 GPa",
+    "d": "91.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 120 GPa and Poisson's ratio is 0.25.",
+    "a": "60.0 GPa",
+    "b": "80.0 GPa",
+    "c": "100.0 GPa",
+    "d": "120.0 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "A brass rod of diameter 20 mm is subjected to a tensile force of 40 kN. If the Poisson's ratio for brass is 0.34 and E = 100 GPa, find the lateral strain.",
+    "a": "-0.000216",
+    "b": "-0.000433",
+    "c": "-0.000652",
+    "d": "-0.000865",
+    "ans": "b"
+  },
+  {
+    "q": "A cylindrical steel column of diameter 150 mm and height 3.0 m supports an axial compressive load of 500 kN. If E = 200 GPa, find the change in height of the column.",
+    "a": "-0.14 mm",
+    "b": "-0.28 mm",
+    "c": "-0.42 mm",
+    "d": "-0.56 mm",
+    "ans": "c"
+  },
+  {
+    "q": "A solid copper shaft of 40 mm diameter is subjected to a torque of 500 N-m. Calculate the maximum shear stress developed in the shaft.",
+    "a": "19.9 MPa",
+    "b": "31.8 MPa",
+    "c": "39.8 MPa",
+    "d": "45.2 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A hollow steel tube has an outer diameter of 60 mm and an inner diameter of 40 mm. Find the polar moment of inertia (J) of its cross-section.",
+    "a": "812,500 mm^4",
+    "b": "912,400 mm^4",
+    "c": "1,021,017 mm^4",
+    "d": "1,120,400 mm^4",
+    "ans": "c"
+  },
+  {
+    "q": "A steel bar 3.0 m long has a square cross-section of 50 mm by 50 mm. If it is stretched by a force of 150 kN, find the elongation. (E = 200 GPa)",
+    "a": "0.60 mm",
+    "b": "0.90 mm",
+    "c": "1.20 mm",
+    "d": "1.50 mm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the thermal strain in a metal bar when its temperature increases by 50.0 °C if the coefficient of thermal expansion is 15 x 10^-6 /°C.",
+    "a": "0.00030",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A steel rod with a cross-sectional area of 200 mm^2 is secured between two rigid walls. If the rod is heated and the temperature rises by 40 °C, find the thermal stress developed. (alpha = 12 x 10^-6 /°C, E = 200 GPa)",
+    "a": "48.0 MPa",
+    "b": "72.0 MPa",
+    "c": "96.0 MPa",
+    "d": "120.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A copper wire of 2.0 mm diameter is wrapped around a drum of 1.0 m diameter. Find the maximum bending stress developed in the wire. (E for copper = 110 GPa)",
+    "a": "110 MPa",
+    "b": "165 MPa",
+    "c": "220 MPa",
+    "d": "440 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel wire has an ultimate tensile strength of 400 MPa. If a factor of safety of 4.0 is required, find the allowable working stress.",
+    "a": "50 MPa",
+    "b": "100 MPa",
+    "c": "150 MPa",
+    "d": "200 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "An aluminum plate of 10 mm thickness is subjected to a shear force of 60 kN. If the width of the plate is 150 mm, find the average shear stress.",
+    "a": "20 MPa",
+    "b": "40 MPa",
+    "c": "60 MPa",
+    "d": "80 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the atomic radius (r) of an FCC metal crystal if its unit cell edge length (a) is 0.40 nm.",
+    "a": "0.115 nm",
+    "b": "0.141 nm",
+    "c": "0.173 nm",
+    "d": "0.200 nm",
+    "ans": "b"
+  },
+  {
+    "q": "Find the atomic radius (r) of a BCC metal crystal if its unit cell edge length (a) is 0.35 nm.",
+    "a": "0.112 nm",
+    "b": "0.152 nm",
+    "c": "0.175 nm",
+    "d": "0.201 nm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the volume of a cubic unit cell in m^3 if the edge length (a) is 0.36 nm.",
+    "a": "3.12 x 10^-29 m^3",
+    "b": "4.67 x 10^-29 m^3",
+    "c": "5.83 x 10^-29 m^3",
+    "d": "6.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "A polymer sample consists of three molecular weight fractions: 100 moles with MW = 10,000 g/mol, 200 moles with MW = 20,000 g/mol, and 100 moles with MW = 30,000 g/mol. Calculate the number-average molecular weight.",
+    "a": "15,000 g/mol",
+    "b": "20,000 g/mol",
+    "c": "25,000 g/mol",
+    "d": "30,000 g/mol",
+    "ans": "b"
+  },
+  {
+    "q": "A copper alloy is prepared by mixing 70.0 kg of copper and 30.0 kg of zinc. What is the mass percentage of zinc in the resulting brass?",
+    "a": "15.0%",
+    "b": "20.0%",
+    "c": "30.0%",
+    "d": "45.0%",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen is subjected to an axial tension of 80 kN. If the allowable tensile stress is 120 MPa, find the minimum required cross-sectional area.",
+    "a": "333 mm^2",
+    "b": "500 mm^2",
+    "c": "667 mm^2",
+    "d": "800 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of 2.0 m length is stretched by 1.5 mm under an axial load. Calculate the axial strain.",
+    "a": "0.00035",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A material has a shear modulus G = 80 GPa and a shear strain of 0.00050 radians. Calculate the corresponding shear stress.",
+    "a": "10 MPa",
+    "b": "20 MPa",
+    "c": "40 MPa",
+    "d": "80 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m3",
+    "c": "3.54 x 10^-29 m3",
+    "d": "4.12 x 10^-29 m3",
+    "ans": "b"
+  },
+  {
+    "q": "A gold FCC crystal has an atomic radius of 0.144 nm. Calculate the edge length of its cubic unit cell.",
+    "a": "0.315 nm",
+    "b": "0.407 nm",
+    "c": "0.485 nm",
+    "d": "0.512 nm",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the theoretical density of a Simple Cubic metal crystal with atomic weight 50.0 g/mol and unit cell edge length 0.30 nm. (Avogadro's Number = 6.02 x 10^23)",
+    "a": "1.52 g/cm^3",
+    "b": "2.45 g/cm^3",
+    "c": "3.07 g/cm^3",
+    "d": "4.12 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A metal has an FCC crystal structure, an atomic weight of 107.9 g/mol, and a unit cell edge length of 0.408 nm. Calculate its theoretical density.",
+    "a": "5.25 g/cm^3",
+    "b": "7.85 g/cm^3",
+    "c": "10.5 g/cm^3",
+    "d": "12.4 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the percentage of copper in a bronze alloy that consists of 88.0 kg of copper and 12.0 kg of tin.",
+    "a": "80.0%",
+    "b": "85.0%",
+    "c": "88.0%",
+    "d": "92.0%",
+    "ans": "c"
+  },
+  {
+    "q": "A composite rod consists of a steel core (A = 300 mm^2, E = 200 GPa) inside a brass shell (A = 500 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 100 kN, find the stress developed in the steel core.",
+    "a": "112.5 MPa",
+    "b": "136.4 MPa",
+    "c": "150.0 MPa",
+    "d": "181.8 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "For the composite rod in the previous question, find the stress developed in the brass shell. (Context from previous question: A composite rod consists of a steel core (A = 300 mm^2, E = 200 GPa) inside a brass shell (A = 500 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 100 kN, find the stress developed in the steel core.)",
+    "a": "45.4 MPa",
+    "b": "68.2 MPa",
+    "c": "90.9 MPa",
+    "d": "112.5 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A copper bar of length 1.5 m and cross-sectional area 400 mm^2 is heated, raising its temperature by 60 °C. If the bar is completely restricted from expanding, find the compressive force developed. (alpha = 17 x 10^-6 /°C, E = 110 GPa)",
+    "a": "33.2 kN",
+    "b": "44.9 kN",
+    "c": "55.4 kN",
+    "d": "66.5 kN",
+    "ans": "b"
+  },
+  {
+    "q": "A steel cable of diameter 20 mm is used to lift a load of 50 kN. If the allowable tensile stress is 150 MPa, determine the factor of safety of this operation.",
+    "a": "0.75",
+    "b": "0.94",
+    "c": "1.12",
+    "d": "1.35",
+    "ans": "b"
+  },
+  {
+    "q": "What is the polar moment of inertia (J) of a solid circular shaft of diameter 40.0 mm?",
+    "a": "125,660 mm^4",
+    "b": "185,400 mm^4",
+    "c": "251,327 mm^4",
+    "d": "312,450 mm^4",
+    "ans": "c"
+  },
+  {
+    "q": "A solid steel shaft of 40 mm diameter is stressed by 50 MPa while rotating. Find the maximum torque that can be safely transmitted by the shaft.",
+    "a": "314 N-m",
+    "b": "452 N-m",
+    "c": "628 N-m",
+    "d": "812 N-m",
+    "ans": "c"
+  },
+  {
+    "q": "A helical steel spring composed of 15 turns of 10-mm diameter wire on a mean radius of 50 mm supports a load of 500 N. Calculate the elongation of the spring. (G = 80 GPa)",
+    "a": "28.5 mm",
+    "b": "35.4 mm",
+    "c": "41.2 mm",
+    "d": "60.0 mm",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the maximum shear stress developed in the wire of the helical spring in the previous question, neglecting the curvature effect. (Context from previous question: A helical steel spring composed of 15 turns of 10-mm diameter wire on a mean radius of 50 mm supports a load of 500 N. (G = 80 GPa))",
+    "a": "31.8 MPa",
+    "b": "51.2 MPa",
+    "c": "63.7 MPa",
+    "d": "75.4 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A 10-kg block of copper is melted and cast into a sphere. If the density of copper is 8.96 g/cm^3, find the volume of the sphere in cm^3.",
+    "a": "896 cm^3",
+    "b": "1000 cm^3",
+    "c": "1116 cm^3",
+    "d": "1250 cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen is stretched elastically to a strain of 0.00080. If E = 200 GPa, calculate the strain energy density (absorbed energy per unit volume).",
+    "a": "32.0 kJ/m^3",
+    "b": "45.0 kJ/m^3",
+    "c": "64.0 kJ/m^3",
+    "d": "80.0 kJ/m^3",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the atomic packing factor (APF) of a simple cubic unit cell.",
+    "a": "0.34",
+    "b": "0.52",
+    "c": "0.68",
+    "d": "0.74",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of 1.0 m length and 100 mm^2 cross-sectional area is subjected to an axial load that stretches it by 0.50 mm. If E = 200 GPa, find the total strain energy stored in the bar.",
+    "a": "2.5 J",
+    "b": "5.0 J",
+    "c": "7.5 J",
+    "d": "10.0 J",
+    "ans": "a"
+  },
+  {
+    "q": "Find the molecular weight of a polymer chain that has a degree of polymerization of 1000 and is made from ethylene monomers (C2H4, MW = 28.05 g/mol).",
+    "a": "14,025 g/mol",
+    "b": "28,050 g/mol",
+    "c": "42,075 g/mol",
+    "d": "56,100 g/mol",
+    "ans": "b"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 30 mm is subjected to a torque of 300 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "28.5 MPa",
+    "b": "35.2 MPa",
+    "c": "45.2 MPa",
+    "d": "56.6 MPa",
+    "ans": "d"
+  },
+  {
+    "q": "A steel bar of 500 mm^2 area and 1.5 m length is subjected to an axial tensile force of 150 kN. If E = 200 GPa, find the total work done in stretching the bar.",
+    "a": "56.25 J",
+    "b": "112.50 J",
+    "c": "150.00 J",
+    "d": "225.00 J",
+    "ans": "b"
+  },
+  {
+    "q": "A copper tube has an outer diameter of 50 mm and a thickness of 5 mm. Find the cross-sectional area of the tube.",
+    "a": "512 mm^2",
+    "b": "625 mm^2",
+    "c": "707 mm^2",
+    "d": "812 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the percentage of carbon in a steel specimen that contains 5.0 g of carbon in 1.00 kg of steel alloy.",
+    "a": "0.15%",
+    "b": "0.25%",
+    "c": "0.50%",
+    "d": "1.00%",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the change in volume of a 1.00 m^3 block of metal if its temperature increases by 100 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.002 m^3",
+    "b": "0.004 m^3",
+    "c": "0.006 m^3",
+    "d": "0.008 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 30 MPa. If a working stress of 6.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 250 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00150",
+    "ans": "c"
+  },
+  {
+    "q": "A solid brass shaft of 30 mm diameter is twisted through an angle of 2.0 degrees over a length of 1.0 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "25.4 MPa",
+    "d": "31.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 40,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1200 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 500 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.2 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 40,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1200 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 500 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "68.3 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 200 mm^2 is subjected to an axial load of 50 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "b"
+  },
+  {
+    "q": "An aluminum wire of diameter 2.0 mm is stretched by a force of 200 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00045",
+    "b": "0.00091",
+    "c": "0.00135",
+    "d": "0.00182",
+    "ans": "b"
+  },
+  {
+    "q": "Find the polar moment of inertia (J) of a hollow circular shaft with an outer diameter of 50.0 mm and an inner diameter of 30.0 mm.",
+    "a": "312,450 mm^4",
+    "b": "452,110 mm^4",
+    "c": "534,071 mm^4",
+    "d": "612,400 mm^4",
+    "ans": "c"
+  },
+  {
+    "q": "A solid brass shaft of 50 mm diameter is subjected to a torque of 800 N-m. Calculate the maximum shear stress developed in the shaft.",
+    "a": "15.4 MPa",
+    "b": "20.2 MPa",
+    "c": "32.6 MPa",
+    "d": "45.2 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A helical steel spring composed of 25 turns of 12-mm diameter wire on a mean radius of 60 mm supports a load of 800 N. Calculate the elongation of the spring. (G = 83 GPa)",
+    "a": "22.4 mm",
+    "b": "35.2 mm",
+    "c": "44.6 mm",
+    "d": "55.4 mm",
+    "ans": "c"
+  },
+  {
+    "q": "A steel block of mass 15 kg is completely submerged in water. If the density of steel is 7.85 g/cm^3, find the buoyant force exerted by the water on the steel block.",
+    "a": "12.4 N",
+    "b": "15.2 N",
+    "c": "18.7 N",
+    "d": "22.1 N",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the atomic packing factor (APF) of a Body-Centered Cubic (BCC) metal crystal.",
+    "a": "0.34",
+    "b": "0.52",
+    "c": "0.68",
+    "d": "0.74",
+    "ans": "c"
+  },
+  {
+    "q": "Find the atomic radius (r) of an FCC aluminum crystal if its unit cell edge length (a) is 0.405 nm.",
+    "a": "0.112 nm",
+    "b": "0.143 nm",
+    "c": "0.175 nm",
+    "d": "0.201 nm",
+    "ans": "b"
+  },
+  {
+    "q": "A gold crystal has an FCC unit cell with an edge length of 0.408 nm. Calculate the volume of the unit cell.",
+    "a": "4.12 x 10^-29 m^3",
+    "b": "5.62 x 10^-29 m^3",
+    "c": "6.79 x 10^-29 m^3",
+    "d": "7.85 x 10^-29 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the average molecular weight of a copolymer containing 40.0% monomer A (MW = 100 g/mol) and 60.0% monomer B (MW = 150 g/mol) by mole.",
+    "a": "110 g/mol",
+    "b": "120 g/mol",
+    "c": "130 g/mol",
+    "d": "140 g/mol",
+    "ans": "c"
+  },
+  {
+    "q": "What is the mass percentage of tin in a bronze specimen composed of 90.0 kg of copper and 10.0 kg of tin?",
+    "a": "5.0%",
+    "b": "10.0%",
+    "c": "15.0%",
+    "d": "20.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A steel specimen is subjected to an axial stress of 250 MPa. If E = 200 GPa, find the elastic strain.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00150",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 25 mm is subjected to a torque of 200 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "35.2 MPa",
+    "b": "45.2 MPa",
+    "c": "55.4 MPa",
+    "d": "65.2 MPa",
+    "ans": "d"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 40 MPa. If a working stress of 8.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m^3",
+    "c": "3.54 x 10^-29 m^3",
+    "d": "4.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the change in volume of a 2.00 m^3 block of metal if its temperature increases by 50 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.002 m^3",
+    "b": "0.004 m^3",
+    "c": "0.006 m^3",
+    "d": "0.008 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 300 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00150",
+    "ans": "d"
+  },
+  {
+    "q": "A solid brass shaft of 40 mm diameter is twisted through an angle of 3.0 degrees over a length of 1.5 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "26.5 MPa",
+    "d": "31.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 50,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1500 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 600 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.0 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 50,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1500 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 600 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "66.7 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 300 mm^2 is subjected to an axial load of 60 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum wire of diameter 3.0 mm is stretched by a force of 300 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00045",
+    "b": "0.00061",
+    "c": "0.00091",
+    "d": "0.00125",
+    "ans": "c"
+  },
+  {
+    "q": "A solid steel shaft of 50 mm diameter and 1.5 m length is constructed at its ends. If the shaft is heated from an initial temperature of 30 °C to 150 °C, calculate the axial load developed in the shaft. (Take alpha = 12 x 10^-6 /°C and E = 200 GPa)",
+    "a": "565.4 kN",
+    "b": "612.4 kN",
+    "c": "678.6 kN",
+    "d": "712.4 kN",
+    "ans": "a"
+  },
+  {
+    "q": "A steel bar of cross-sectional area 400 mm^2 and length 2.0 m is subjected to an axial tensile force of 80 kN. Calculate the normal stress in the bar.",
+    "a": "100 MPa",
+    "b": "150 MPa",
+    "c": "200 MPa",
+    "d": "250 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel rod with a cross-sectional area of 150 mm^2 is secured between two rigid walls. If the rod is heated and the temperature rises by 50 °C, find the thermal stress developed. (alpha = 12 x 10^-6 /°C, E = 200 GPa)",
+    "a": "60.0 MPa",
+    "b": "90.0 MPa",
+    "c": "120.0 MPa",
+    "d": "150.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum plate of 8 mm thickness is subjected to a shear force of 48 kN. If the width of the plate is 120 mm, find the average shear stress.",
+    "a": "25 MPa",
+    "b": "50 MPa",
+    "c": "75 MPa",
+    "d": "100 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A circular aluminum bar of 3.0 m length is stretched by 2.25 mm under an axial load. Calculate the axial strain.",
+    "a": "0.00035",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A metal has an FCC crystal structure, an atomic weight of 197.0 g/mol, and a unit cell edge length of 0.408 nm. Calculate its theoretical density.",
+    "a": "12.4 g/cm^3",
+    "b": "15.4 g/cm^3",
+    "c": "19.3 g/cm^3",
+    "d": "22.4 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A composite rod consists of a steel core (A = 250 mm^2, E = 200 GPa) inside a brass shell (A = 400 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 90 kN, find the stress developed in the steel core.",
+    "a": "100.0 MPa",
+    "b": "133.3 MPa",
+    "c": "150.0 MPa",
+    "d": "200.0 MPa",
+    "ans": "d"
+  },
+  {
+    "q": "For the composite rod in the previous question, find the stress developed in the brass shell. (Context from previous question: A composite rod consists of a steel core (A = 250 mm^2, E = 200 GPa) inside a brass shell (A = 400 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 90 kN, find the stress developed in the steel core.)",
+    "a": "50.0 MPa",
+    "b": "75.0 MPa",
+    "c": "100.0 MPa",
+    "d": "125.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A copper bar of length 2.0 m and cross-sectional area 300 mm^2 is heated, raising its temperature by 50 °C. If the bar is completely restricted from expanding, find the compressive force developed. (alpha = 17 x 10^-6 /°C, E = 110 GPa)",
+    "a": "22.4 kN",
+    "b": "28.1 kN",
+    "c": "35.2 kN",
+    "d": "42.4 kN",
+    "ans": "b"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 200 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "b"
+  },
+  {
+    "q": "A steel Specimen is stretched elastically to a strain of 0.00120. If E = 200 GPa, calculate the strain energy density.",
+    "a": "72.0 kJ/m^3",
+    "b": "144.0 kJ/m^3",
+    "c": "288.0 kJ/m^3",
+    "d": "320.0 kJ/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the molecular weight of a polymer chain that has a degree of polymerization of 1500 and is made from vinyl chloride monomers (C2H3Cl, MW = 62.50 g/mol).",
+    "a": "46,875 g/mol",
+    "b": "93,750 g/mol",
+    "c": "120,400 g/mol",
+    "d": "140,250 g/mol",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the theoretical density of a Simple Cubic metal crystal with atomic weight 60.0 g/mol and unit cell edge length 0.30 nm.",
+    "a": "1.52 g/cm^3",
+    "b": "2.45 g/cm^3",
+    "c": "3.69 g/cm^3",
+    "d": "4.12 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "What is the cross-sectional area of a hollow circular tube with outer diameter 40 mm and wall thickness 5 mm?",
+    "a": "314 mm^2",
+    "b": "452 mm^2",
+    "c": "550 mm^2",
+    "d": "628 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 40 mm is subjected to a torque of 400 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "15.9 MPa",
+    "b": "31.8 MPa",
+    "c": "45.2 MPa",
+    "d": "63.7 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 400 mm^2 is subjected to an axial load of 80 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "A copper speciman is subjected to an axial stress of 110 MPa. If E = 110 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of an aluminum alloy if E = 70 GPa and Poisson's ratio is 0.33.",
+    "a": "22.4 GPa",
+    "b": "26.3 GPa",
+    "c": "31.2 GPa",
+    "d": "35.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 200 GPa and Poisson's ratio is 0.30.",
+    "a": "112.5 GPa",
+    "b": "136.4 GPa",
+    "c": "150.0 GPa",
+    "d": "166.7 GPa",
+    "ans": "d"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 200 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "b"
+  },
+  {
+    "q": "A steel Specimen is stretched elastically to a strain of 0.00150. If E = 200 GPa, calculate the strain energy density.",
+    "a": "112.5 kJ/m^3",
+    "b": "225.0 kJ/m^3",
+    "c": "337.5 kJ/m^3",
+    "d": "450.0 kJ/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "What is the cross-sectional area of a hollow circular tube with outer diameter 60 mm and wall thickness 5 mm?",
+    "a": "452 mm^2",
+    "b": "628 mm^2",
+    "c": "864 mm^2",
+    "d": "1002 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 50 mm is subjected to a torque of 500 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "15.4 MPa",
+    "b": "20.4 MPa",
+    "c": "32.6 MPa",
+    "d": "45.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 500 mm^2 is subjected to an axial load of 100 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "A copper speciman is subjected to an axial stress of 220 MPa. If E = 110 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of an aluminum alloy if E = 75 GPa and Poisson's ratio is 0.25.",
+    "a": "22.4 GPa",
+    "b": "30.0 GPa",
+    "c": "31.2 GPa",
+    "d": "35.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 150 GPa and Poisson's ratio is 0.25.",
+    "a": "80.0 GPa",
+    "b": "100.0 GPa",
+    "c": "120.0 GPa",
+    "d": "150.0 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 50 MPa. If a working stress of 10.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m^3",
+    "c": "3.54 x 10^-29 m^3",
+    "d": "4.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the change in volume of a 3.00 m^3 block of metal if its temperature increases by 50 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.003 m^3",
+    "b": "0.006 m^3",
+    "c": "0.009 m^3",
+    "d": "0.012 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 400 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00200",
+    "ans": "d"
+  },
+  {
+    "q": "A solid brass shaft of 50 mm diameter is twisted through an angle of 4.0 degrees over a length of 1.5 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "25.4 MPa",
+    "d": "33.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 60,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1800 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 800 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.9 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 60,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 1800 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 800 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "72.4 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 400 mm^2 is subjected to an axial load of 100 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "b"
+  },
+  {
+    "q": "An aluminum wire of diameter 4.0 mm is stretched by a force of 400 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00045",
+    "b": "0.00091",
+    "c": "0.00135",
+    "d": "0.00182",
+    "ans": "b"
+  },
+  {
+    "q": "A solid steel shaft of 60 mm diameter and 1.5 m length is constructed at its ends. If the shaft is heated from an initial temperature of 30 °C to 150 °C, calculate the axial load developed in the shaft. (Take alpha = 12 x 10^-6 /°C and E = 200 GPa)",
+    "a": "814.3 kN",
+    "b": "848.2 kN",
+    "c": "912.4 kN",
+    "d": "976.8 kN",
+    "ans": "a"
+  },
+  {
+    "q": "A steel bar of cross-sectional area 500 mm^2 and length 2.0 m is subjected to an axial tensile force of 100 kN. Calculate the normal stress in the bar.",
+    "a": "100 MPa",
+    "b": "150 MPa",
+    "c": "200 MPa",
+    "d": "250 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel rod with a cross-sectional area of 200 mm^2 is secured between two rigid walls. If the rod is heated and the temperature rises by 50 °C, find the thermal stress developed. (alpha = 12 x 10^-6 /°C, E = 200 GPa)",
+    "a": "60.0 MPa",
+    "b": "90.0 MPa",
+    "c": "120.0 MPa",
+    "d": "150.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum plate of 10 mm thickness is subjected to a shear force of 60 kN. If the width of the plate is 150 mm, find the average shear stress.",
+    "a": "25 MPa",
+    "b": "40 MPa",
+    "c": "75 MPa",
+    "d": "100 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A circular aluminum bar of 4.0 m length is stretched by 3.00 mm under an axial load. Calculate the axial strain.",
+    "a": "0.00035",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A metal has an FCC crystal structure, an atomic weight of 197.0 g/mol, and a unit cell edge length of 0.408 nm. Calculate its theoretical density.",
+    "a": "12.4 g/cm^3",
+    "b": "15.4 g/cm^3",
+    "c": "19.3 g/cm^3",
+    "d": "22.4 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A composite rod consists of a steel core (A = 300 mm^2, E = 200 GPa) inside a brass shell (A = 500 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 110 kN, find the stress developed in the steel core.",
+    "a": "100.0 MPa",
+    "b": "150.0 MPa",
+    "c": "200.0 MPa",
+    "d": "220.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "For the composite rod in the previous question, find the stress developed in the brass shell. (Context from previous question: A composite rod consists of a steel core (A = 300 mm^2, E = 200 GPa) inside a brass shell (A = 500 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 110 kN, find the stress developed in the steel core.)",
+    "a": "50.0 MPa",
+    "b": "75.0 MPa",
+    "c": "100.0 MPa",
+    "d": "125.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A copper bar of length 2.0 m and cross-sectional area 400 mm^2 is heated, raising its temperature by 50 °C. If the bar is completely restricted from expanding, find the compressive force developed. (alpha = 17 x 10^-6 /°C, E = 110 GPa)",
+    "a": "22.4 kN",
+    "b": "37.4 kN",
+    "c": "35.2 kN",
+    "d": "42.4 kN",
+    "ans": "b"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 250 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "A steel Specimen is stretched elastically to a strain of 0.00120. If E = 200 GPa, calculate the strain energy density.",
+    "a": "72.0 kJ/m^3",
+    "b": "144.0 kJ/m^3",
+    "c": "288.0 kJ/m^3",
+    "d": "320.0 kJ/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the molecular weight of a polymer chain that has a degree of polymerization of 2000 and is made from vinyl chloride monomers (C2H3Cl, MW = 62.50 g/mol).",
+    "a": "62,500 g/mol",
+    "b": "125,000 g/mol",
+    "c": "150,000 g/mol",
+    "d": "250,000 g/mol",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the theoretical density of a Simple Cubic metal crystal with atomic weight 80.0 g/mol and unit cell edge length 0.30 nm.",
+    "a": "1.52 g/cm^3",
+    "b": "2.45 g/cm^3",
+    "c": "4.92 g/cm^3",
+    "d": "5.12 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "What is the cross-sectional area of a hollow circular tube with outer diameter 50 mm and wall thickness 5 mm?",
+    "a": "314 mm^2",
+    "b": "452 mm^2",
+    "c": "707 mm^2",
+    "d": "812 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 50 mm is subjected to a torque of 500 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "15.4 MPa",
+    "b": "20.4 MPa",
+    "c": "32.6 MPa",
+    "d": "45.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 500 mm^2 is subjected to an axial load of 100 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "A copper speciman is subjected to an axial stress of 150 MPa. If E = 110 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00136",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of an aluminum alloy if E = 70 GPa and Poisson's ratio is 0.30.",
+    "a": "22.4 GPa",
+    "b": "26.9 GPa",
+    "c": "31.2 GPa",
+    "d": "35.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 200 GPa and Poisson's ratio is 0.25.",
+    "a": "112.5 GPa",
+    "b": "133.3 GPa",
+    "c": "150.0 GPa",
+    "d": "166.7 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 60 MPa. If a working stress of 12.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m^3",
+    "c": "3.54 x 10^-29 m^3",
+    "d": "4.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the change in volume of a 4.00 m^3 block of metal if its temperature increases by 50 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.004 m^3",
+    "b": "0.008 m^3",
+    "c": "0.012 m^3",
+    "d": "0.016 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 500 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00250",
+    "ans": "d"
+  },
+  {
+    "q": "A solid brass shaft of 60 mm diameter is twisted through an angle of 4.0 degrees over a length of 1.5 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "26.5 MPa",
+    "d": "33.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 80,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 2400 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1000 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.4 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 80,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 2400 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1000 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "69.4 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 500 mm^2 is subjected to an axial load of 120 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "b"
+  },
+  {
+    "q": "An aluminum wire of diameter 5.0 mm is stretched by a force of 500 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00036",
+    "b": "0.00091",
+    "c": "0.00135",
+    "d": "0.00182",
+    "ans": "a"
+  },
+  {
+    "q": "A solid steel shaft of 80 mm diameter and 1.5 m length is constructed at its ends. If the shaft is heated from an initial temperature of 30 °C to 150 °C, calculate the axial load developed in the shaft. (Take alpha = 12 x 10^-6 /°C and E = 200 GPa)",
+    "a": "1124.3 kN",
+    "b": "1254.6 kN",
+    "c": "1376.8 kN",
+    "d": "1447.6 kN",
+    "ans": "d"
+  },
+  {
+    "q": "A steel bar of cross-sectional area 600 mm^2 and length 2.0 m is subjected to an axial tensile force of 120 kN. Calculate the normal stress in the bar.",
+    "a": "100 MPa",
+    "b": "150 MPa",
+    "c": "200 MPa",
+    "d": "250 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel rod with a cross-sectional area of 250 mm^2 is secured between two rigid walls. If the rod is heated and the temperature rises by 50 °C, find the thermal stress developed. (alpha = 12 x 10^-6 /°C, E = 200 GPa)",
+    "a": "60.0 MPa",
+    "b": "90.0 MPa",
+    "c": "120.0 MPa",
+    "d": "150.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum plate of 12 mm thickness is subjected to a shear force of 72 kN. If the width of the plate is 150 mm, find the average shear stress.",
+    "a": "25 MPa",
+    "b": "40 MPa",
+    "c": "75 MPa",
+    "d": "100 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A circular aluminum bar of 5.0 m length is stretched by 3.75 mm under an axial load. Calculate the axial strain.",
+    "a": "0.00035",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A metal has an FCC crystal structure, an atomic weight of 197.0 g/mol, and a unit cell edge length of 0.408 nm. Calculate its theoretical density.",
+    "a": "12.4 g/cm^3",
+    "b": "15.4 g/cm^3",
+    "c": "19.3 g/cm^3",
+    "d": "22.4 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A composite rod consists of a steel core (A = 400 mm^2, E = 200 GPa) inside a brass shell (A = 600 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 140 kN, find the stress developed in the steel core.",
+    "a": "100.0 MPa",
+    "b": "150.0 MPa",
+    "c": "200.0 MPa",
+    "d": "220.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "For the composite rod in the previous question, find the stress developed in the brass shell. (Context from previous question: A composite rod consists of a steel core (A = 400 mm^2, E = 200 GPa) inside a brass shell (A = 600 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 140 kN, find the stress developed in the steel core.)",
+    "a": "50.0 MPa",
+    "b": "75.0 MPa",
+    "c": "100.0 MPa",
+    "d": "125.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A copper bar of length 2.0 m and cross-sectional area 500 mm^2 is heated, raising its temperature by 50 °C. If the bar is completely restricted from expanding, find the compressive force developed. (alpha = 17 x 10^-6 /°C, E = 110 GPa)",
+    "a": "22.4 kN",
+    "b": "46.8 kN",
+    "c": "35.2 kN",
+    "d": "42.4 kN",
+    "ans": "b"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 250 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "A steel Specimen is stretched elastically to a strain of 0.00120. If E = 200 GPa, calculate the strain energy density.",
+    "a": "72.0 kJ/m^3",
+    "b": "144.0 kJ/m^3",
+    "c": "288.0 kJ/m^3",
+    "d": "320.0 kJ/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the molecular weight of a polymer chain that has a degree of polymerization of 3000 and is made from vinyl chloride monomers (C2H3Cl, MW = 62.50 g/mol).",
+    "a": "62,500 g/mol",
+    "b": "125,000 g/mol",
+    "c": "150,000 g/mol",
+    "d": "187,500 g/mol",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the theoretical density of a Simple Cubic metal crystal with atomic weight 100.0 g/mol and unit cell edge length 0.30 nm.",
+    "a": "1.52 g/cm^3",
+    "b": "2.45 g/cm^3",
+    "c": "6.15 g/cm^3",
+    "d": "7.12 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "What is the cross-sectional area of a hollow circular tube with outer diameter 60 mm and wall thickness 5 mm?",
+    "a": "314 mm^2",
+    "b": "452 mm^2",
+    "c": "864 mm^2",
+    "d": "912 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 60 mm is subjected to a torque of 600 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "14.1 MPa",
+    "b": "20.4 MPa",
+    "c": "32.6 MPa",
+    "d": "45.2 MPa",
+    "ans": "a"
+  },
+  {
+    "q": "A steel bar of area 600 mm^2 is subjected to an axial load of 120 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "A copper speciman is subjected to an axial stress of 165 MPa. If E = 110 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of an aluminum alloy if E = 70 GPa and Poisson's ratio is 0.30.",
+    "a": "22.4 GPa",
+    "b": "26.9 GPa",
+    "c": "31.2 GPa",
+    "d": "35.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 200 GPa and Poisson's ratio is 0.25.",
+    "a": "112.5 GPa",
+    "b": "133.3 GPa",
+    "c": "150.0 GPa",
+    "d": "166.7 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 70 MPa. If a working stress of 14.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m^3",
+    "c": "3.54 x 10^-29 m^3",
+    "d": "4.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the change in volume of a 5.00 m^3 block of metal if its temperature increases by 50 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.005 m^3",
+    "b": "0.010 m^3",
+    "c": "0.015 m^3",
+    "d": "0.020 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 600 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00300",
+    "ans": "d"
+  },
+  {
+    "q": "A solid brass shaft of 70 mm diameter is twisted through an angle of 4.0 degrees over a length of 1.5 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "25.4 MPa",
+    "d": "33.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 100,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 3000 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1200 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.0 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 100,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 3000 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1200 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "66.7 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 600 mm^2 is subjected to an axial load of 120 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.0",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum wire of diameter 6.0 mm is stretched by a force of 600 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00030",
+    "b": "0.00091",
+    "c": "0.00135",
+    "d": "0.00182",
+    "ans": "a"
+  },
+  {
+    "q": "A solid steel shaft of 100 mm diameter and 1.5 m length is constructed at its ends. If the shaft is heated from an initial temperature of 30 °C to 150 °C, calculate the axial load developed in the shaft. (Take alpha = 12 x 10^-6 /°C and E = 200 GPa)",
+    "a": "1124.3 kN",
+    "b": "1254.6 kN",
+    "c": "1376.8 kN",
+    "d": "2261.9 kN",
+    "ans": "d"
+  },
+  {
+    "q": "A steel bar of cross-sectional area 800 mm^2 and length 2.0 m is subjected to an axial tensile force of 160 kN. Calculate the normal stress in the bar.",
+    "a": "100 MPa",
+    "b": "150 MPa",
+    "c": "200 MPa",
+    "d": "250 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A steel rod with a cross-sectional area of 300 mm^2 is secured between two rigid walls. If the rod is heated and the temperature rises by 50 °C, find the thermal stress developed. (alpha = 12 x 10^-6 /°C, E = 200 GPa)",
+    "a": "60.0 MPa",
+    "b": "90.0 MPa",
+    "c": "120.0 MPa",
+    "d": "150.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum plate of 15 mm thickness is subjected to a shear force of 90 kN. If the width of the plate is 150 mm, find the average shear stress.",
+    "a": "25 MPa",
+    "b": "40 MPa",
+    "c": "75 MPa",
+    "d": "100 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A circular aluminum bar of 6.0 m length is stretched by 4.50 mm under an axial load. Calculate the axial strain.",
+    "a": "0.00035",
+    "b": "0.00050",
+    "c": "0.00075",
+    "d": "0.00100",
+    "ans": "c"
+  },
+  {
+    "q": "A metal has an FCC crystal structure, an atomic weight of 197.0 g/mol, and a unit cell edge length of 0.408 nm. Calculate its theoretical density.",
+    "a": "12.4 g/cm^3",
+    "b": "15.4 g/cm^3",
+    "c": "19.3 g/cm^3",
+    "d": "22.4 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "A composite rod consists of a steel core (A = 500 mm^2, E = 200 GPa) inside a brass shell (A = 800 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 180 kN, find the stress developed in the steel core.",
+    "a": "100.0 MPa",
+    "b": "150.0 MPa",
+    "c": "200.0 MPa",
+    "d": "220.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "For the composite rod in the previous question, find the stress developed in the brass shell. (Context from previous question: A composite rod consists of a steel core (A = 500 mm^2, E = 200 GPa) inside a brass shell (A = 800 mm^2, E = 100 GPa). If the combined bar is compressed by an axial load of 180 kN, find the stress developed in the steel core.)",
+    "a": "50.0 MPa",
+    "b": "75.0 MPa",
+    "c": "100.0 MPa",
+    "d": "125.0 MPa",
+    "ans": "c"
+  },
+  {
+    "q": "A copper bar of length 2.0 m and cross-sectional area 600 mm^2 is heated, raising its temperature by 50 °C. If the bar is completely restricted from expanding, find the compressive force developed. (alpha = 17 x 10^-6 /°C, E = 110 GPa)",
+    "a": "22.4 kN",
+    "b": "56.1 kN",
+    "c": "35.2 kN",
+    "d": "42.4 kN",
+    "ans": "b"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 250 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "A steel Specimen is stretched elastically to a strain of 0.00120. If E = 200 GPa, calculate the strain energy density.",
+    "a": "72.0 kJ/m^3",
+    "b": "144.0 kJ/m^3",
+    "c": "288.0 kJ/m^3",
+    "d": "320.0 kJ/m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Find the molecular weight of a polymer chain that has a degree of polymerization of 4000 and is made from vinyl chloride monomers (C2H3Cl, MW = 62.50 g/mol).",
+    "a": "62,500 g/mol",
+    "b": "125,000 g/mol",
+    "c": "150,000 g/mol",
+    "d": "250,000 g/mol",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the theoretical density of a Simple Cubic metal crystal with atomic weight 120.0 g/mol and unit cell edge length 0.30 nm.",
+    "a": "1.52 g/cm^3",
+    "b": "2.45 g/cm^3",
+    "c": "7.38 g/cm^3",
+    "d": "8.12 g/cm^3",
+    "ans": "c"
+  },
+  {
+    "q": "What is the cross-sectional area of a hollow circular tube with outer diameter 80 mm and wall thickness 5 mm?",
+    "a": "314 mm^2",
+    "b": "452 mm^2",
+    "c": "1178 mm^2",
+    "d": "1250 mm^2",
+    "ans": "c"
+  },
+  {
+    "q": "A circular aluminum bar of diameter 80 mm is subjected to a torque of 800 N-m. Calculate the maximum shear stress developed in the bar.",
+    "a": "7.95 MPa",
+    "b": "15.9 MPa",
+    "c": "32.6 MPa",
+    "d": "45.2 MPa",
+    "ans": "a"
+  },
+  {
+    "q": "A steel bar of area 800 mm^2 is subjected to an axial load of 160 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.4",
+    "ans": "c"
+  },
+  {
+    "q": "A copper speciman is subjected to an axial stress of 165 MPa. If E = 110 GPa, find the elastic strain.",
+    "a": "0.00050",
+    "b": "0.00100",
+    "c": "0.00150",
+    "d": "0.00200",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the shear modulus (G) of an aluminum alloy if E = 70 GPa and Poisson's ratio is 0.30.",
+    "a": "22.4 GPa",
+    "b": "26.9 GPa",
+    "c": "31.2 GPa",
+    "d": "35.2 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the bulk modulus (K) of a metal if its elastic modulus E = 200 GPa and Poisson's ratio is 0.25.",
+    "a": "112.5 GPa",
+    "b": "133.3 GPa",
+    "c": "150.0 GPa",
+    "d": "166.7 GPa",
+    "ans": "b"
+  },
+  {
+    "q": "A concrete specimen has an ultimate compressive strength of 80 MPa. If a working stress of 16.0 MPa is used, find the factor of safety.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "An iron crystal has a BCC unit cell with an edge length of 0.287 nm. Calculate the volume of the unit cell.",
+    "a": "1.18 x 10^-29 m^3",
+    "b": "2.36 x 10^-29 m^3",
+    "c": "3.54 x 10^-29 m^3",
+    "d": "4.12 x 10^-29 m^3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the change in volume of a 6.00 m^3 block of metal if its temperature increases by 50 °C and the coefficient of linear thermal expansion is 20 x 10^-6 /°C.",
+    "a": "0.006 m^3",
+    "b": "0.012 m^3",
+    "c": "0.018 m^3",
+    "d": "0.024 m^3",
+    "ans": "c"
+  },
+  {
+    "q": "A steel specimen has a proportional limit of 700 MPa. If E = 200 GPa, find the maximum elastic strain before plastic deformation begins.",
+    "a": "0.00075",
+    "b": "0.00100",
+    "c": "0.00125",
+    "d": "0.00350",
+    "ans": "d"
+  },
+  {
+    "q": "A solid brass shaft of 80 mm diameter is twisted through an angle of 4.0 degrees over a length of 1.5 m. If G = 38 GPa, find the maximum shear stress developed in the shaft.",
+    "a": "11.2 MPa",
+    "b": "19.9 MPa",
+    "c": "25.4 MPa",
+    "d": "33.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A composite column consists of concrete (A = 120,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 3600 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1400 kN, find the stress in the concrete.",
+    "a": "8.5 MPa",
+    "b": "10.0 MPa",
+    "c": "12.4 MPa",
+    "d": "15.6 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the stress developed in the reinforcing steel bars for the column in the previous question. (Context from previous question: A composite column consists of concrete (A = 120,000 mm^2, E = 30 GPa) reinforced with four steel bars (total area A = 3600 mm^2, E = 200 GPa). If the column is subjected to a compressive load of 1400 kN, find the stress in the concrete.)",
+    "a": "55.4 MPa",
+    "b": "66.7 MPa",
+    "c": "81.2 MPa",
+    "d": "94.2 MPa",
+    "ans": "b"
+  },
+  {
+    "q": "A steel bar of area 800 mm^2 is subjected to an axial load of 160 kN. If the ultimate tensile strength of the steel is 400 MPa, find the factor of safety.",
+    "a": "1.2",
+    "b": "1.6",
+    "c": "2.0",
+    "d": "2.0",
+    "ans": "c"
+  },
+  {
+    "q": "An aluminum wire of diameter 8.0 mm is stretched by a force of 800 N. If E = 70 GPa, find the elastic strain.",
+    "a": "0.00023",
+    "b": "0.00091",
+    "c": "0.00135",
+    "d": "0.00182",
+    "ans": "a"
+  }
+]

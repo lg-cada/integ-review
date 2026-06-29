@@ -1400,7 +1400,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the traffic of 12.0 Erlangs from the previous question into CCS.",
+    "q": "Convert the traffic of 12.0 Erlangs from the previous question into CCS. (Context from previous question: An office PABX logs 360 calls during the busy hour. If the average duration of each call is 120 seconds, calculate the traffic intensity in Erlangs. Use A = (lambda * H_seconds) / 3600.)",
     "a": "240 CCS",
     "b": "432 CCS",
     "c": "360 CCS",

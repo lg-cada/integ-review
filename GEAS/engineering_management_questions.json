@@ -1,0 +1,2530 @@
+[
+  {
+    "q": "What is defined as the process of planning, organizing, leading, and controlling resources to achieve organizational goals effectively and efficiently?",
+    "a": "Administration",
+    "b": "Management",
+    "c": "Supervision",
+    "d": "Leadership",
+    "ans": "b"
+  },
+  {
+    "q": "Which basic management function involves setting organizational goals and determining the best course of action to achieve them?",
+    "a": "Organizing",
+    "b": "Planning",
+    "c": "Leading",
+    "d": "Controlling",
+    "ans": "b"
+  },
+  {
+    "q": "Which management function involves arranging tasks, people, and other resources to accomplish organizational work?",
+    "a": "Planning",
+    "b": "Organizing",
+    "c": "Leading",
+    "d": "Controlling",
+    "ans": "b"
+  },
+  {
+    "q": "Which management function involves inspiring, motivating, and directing employees to work hard to achieve organizational goals?",
+    "a": "Planning",
+    "b": "Organizing",
+    "c": "Leading",
+    "d": "Controlling",
+    "ans": "c"
+  },
+  {
+    "q": "Which management function involves monitoring performance, comparing results with goals, and taking corrective action as needed?",
+    "a": "Planning",
+    "b": "Organizing",
+    "c": "Leading",
+    "d": "Controlling",
+    "ans": "d"
+  },
+  {
+    "q": "What level of management is primarily responsible for making long-term, strategic decisions that affect the entire organization?",
+    "a": "First-line Management",
+    "b": "Middle Management",
+    "c": "Top Management",
+    "d": "Supervisory Management",
+    "ans": "c"
+  },
+  {
+    "q": "Which level of management is responsible for translating top management's strategic plans into concrete tactical objectives for specific departments?",
+    "a": "Top Management",
+    "b": "Middle Management",
+    "c": "First-line Management",
+    "d": "Executive Management",
+    "ans": "b"
+  },
+  {
+    "q": "What level of management is directly responsible for supervising day-to-day operations and non-managerial employees?",
+    "a": "Top Management",
+    "b": "Middle Management",
+    "c": "First-line Management",
+    "d": "Executive Management",
+    "ans": "c"
+  },
+  {
+    "q": "The grouping of related jobs, activities, or processes into distinct, major organizational subunits is defined as:",
+    "a": "Division of labor",
+    "b": "Delegation of authority",
+    "c": "Departmentalization",
+    "d": "Span of control",
+    "ans": "c"
+  },
+  {
+    "q": "The number of subordinates who report directly to a specific manager is referred to as that manager's:",
+    "a": "Line of command",
+    "b": "Span of control",
+    "c": "Delegation index",
+    "d": "Unity of command",
+    "ans": "b"
+  },
+  {
+    "q": "What organizational design principle states that each employee should receive orders from only one direct supervisor?",
+    "a": "Span of control",
+    "b": "Unity of command",
+    "c": "Scalar chain",
+    "d": "Division of labor",
+    "ans": "b"
+  },
+  {
+    "q": "The process of assigning managerial authority and responsibility to subordinates is called:",
+    "a": "Departmentalization",
+    "b": "Delegation",
+    "c": "Centralization",
+    "d": "Division of labor",
+    "ans": "b"
+  },
+  {
+    "q": "An organizational structure that groups jobs based on similar work specialties or skills (like engineering, marketing, and finance) is a:",
+    "a": "Divisional structure",
+    "b": "Functional structure",
+    "c": "Matrix structure",
+    "d": "Network structure",
+    "ans": "b"
+  },
+  {
+    "q": "An organizational structure that groups jobs by product lines, geographic areas, or customer types is a:",
+    "a": "Functional structure",
+    "b": "Divisional structure",
+    "c": "Matrix structure",
+    "d": "Line structure",
+    "ans": "b"
+  },
+  {
+    "q": "Which organizational structure overlays a divisional, project-based structure onto a traditional functional structure, resulting in dual reporting lines?",
+    "a": "Functional structure",
+    "b": "Divisional structure",
+    "c": "Matrix structure",
+    "d": "Network structure",
+    "ans": "c"
+  },
+  {
+    "q": "A temporary committee formed to address a specific, short-term problem or task is called a(n):",
+    "a": "Standing committee",
+    "b": "Ad hoc committee",
+    "c": "Task division",
+    "d": "Matrix group",
+    "ans": "b"
+  },
+  {
+    "q": "A permanent committee designed to handle recurring, long-term organizational issues is a:",
+    "a": "Ad hoc committee",
+    "b": "Standing committee",
+    "c": "Project team",
+    "d": "Focus group",
+    "ans": "b"
+  },
+  {
+    "q": "The separation of a complex work process into a number of distinct, simpler tasks performed by different workers is called:",
+    "a": "Departmentalization",
+    "b": "Division of labor",
+    "c": "Delegation of authority",
+    "d": "Span of control",
+    "ans": "b"
+  },
+  {
+    "q": "What planning process determines the primary, long-term goals of an organization and the broad strategies to achieve them, typically spanning 3 to 5 years?",
+    "a": "Tactical planning",
+    "b": "Strategic planning",
+    "c": "Operational planning",
+    "d": "Contingency planning",
+    "ans": "b"
+  },
+  {
+    "q": "What type of planning translates strategic plans into specific, short-term plans for department-level operations, usually spanning up to 1 year?",
+    "a": "Strategic planning",
+    "b": "Tactical planning",
+    "c": "Operational planning",
+    "d": "Contingency planning",
+    "ans": "b"
+  },
+  {
+    "q": "What type of planning sets narrow, highly detailed objectives for daily, weekly, or monthly operations at the work-group level?",
+    "a": "Strategic planning",
+    "b": "Tactical planning",
+    "c": "Operational planning",
+    "d": "Long-range planning",
+    "ans": "c"
+  },
+  {
+    "q": "The process of identifying alternative courses of action to be implemented if primary plans are disrupted by unexpected future events is:",
+    "a": "Strategic planning",
+    "b": "Operational planning",
+    "c": "Contingency planning",
+    "d": "Scenario planning",
+    "ans": "c"
+  },
+  {
+    "q": "In decision-making, what is a qualitative evaluation technique where a manager relies on personal insights, feelings, and experience?",
+    "a": "Analytical technique",
+    "b": "Intuition and subjective judgment",
+    "c": "Rational technique",
+    "d": "Decision matrix",
+    "ans": "b"
+  },
+  {
+    "q": "The systematic process of identifying problems, generating alternative solutions, evaluating them, and selecting the best alternative is:",
+    "a": "Planning",
+    "b": "Organizing",
+    "c": "Decision-making",
+    "d": "Controlling",
+    "ans": "c"
+  },
+  {
+    "q": "What professional role of the engineer is primarily focused on seeking out new knowledge and understanding of scientific and engineering principles?",
+    "a": "Design and Development",
+    "b": "Research",
+    "c": "Operations and Maintenance",
+    "d": "Sales and Marketing",
+    "ans": "b"
+  },
+  {
+    "q": "What professional role of the engineer translates scientific research findings into concrete, functional products, systems, or structures?",
+    "a": "Research",
+    "b": "Design and Development",
+    "c": "Production",
+    "d": "Construction",
+    "ans": "b"
+  },
+  {
+    "q": "What professional role of the engineer is concerned with the direct, hands-on assembly, manufacture, or fabrication of products on an industrial scale?",
+    "a": "Research",
+    "b": "Design",
+    "c": "Production",
+    "d": "Management",
+    "ans": "c"
+  },
+  {
+    "q": "What professional role of the engineer involves managing and coordinating plant operations, maintaining equipment, and supervising technical personnel?",
+    "a": "Research",
+    "b": "Design",
+    "c": "Operations and Maintenance",
+    "d": "Teaching",
+    "ans": "c"
+  },
+  {
+    "q": "What professional role of the engineer involves educating future engineers, delivering academic curriculum, and conducting scholarly studies at institutions?",
+    "a": "Operations",
+    "b": "Research",
+    "c": "Teaching",
+    "d": "Management",
+    "ans": "c"
+  },
+  {
+    "q": "What professional role of the engineer involves directing organizational resources, managing engineering projects, and making executive business decisions?",
+    "a": "Design",
+    "b": "Research",
+    "c": "Management",
+    "d": "Production",
+    "ans": "c"
+  },
+  {
+    "q": "The system of authority where staff specialists provide advice, counsel, and recommendations to line managers who hold direct command authority is:",
+    "a": "Line authority",
+    "b": "Staff authority",
+    "c": "Functional authority",
+    "d": "Matrix authority",
+    "ans": "b"
+  },
+  {
+    "q": "The direct authority of a manager to command and direct the work of immediate subordinates is referred to as:",
+    "a": "Staff authority",
+    "b": "Line authority",
+    "c": "Functional authority",
+    "d": "Advisory authority",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the concentration of decision-making authority at the highest levels of an organization?",
+    "a": "Decentralization",
+    "b": "Centralization",
+    "c": "Delegation",
+    "d": "Departmentalization",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the systematic dispersal of decision-making authority down to lower-level managers and operational staff?",
+    "a": "Centralization",
+    "b": "Decentralization",
+    "c": "Concentration",
+    "d": "Division of labor",
+    "ans": "b"
+  },
+  {
+    "q": "Which theory of motivation, proposed by Abraham Maslow, states that human needs are arranged in a five-level hierarchy from physiological to self-actualization?",
+    "a": "Two-Factor Theory",
+    "b": "Hierarchy of Needs Theory",
+    "c": "Expectancy Theory",
+    "d": "Equity Theory",
+    "ans": "b"
+  },
+  {
+    "q": "Which theory of motivation, proposed by Frederick Herzberg, distinguishes between hygiene factors (like working conditions) and motivators (like recognition)?",
+    "a": "Hierarchy of Needs",
+    "b": "Two-Factor Theory",
+    "c": "Theory X and Theory Y",
+    "d": "Goal-Setting Theory",
+    "ans": "b"
+  },
+  {
+    "q": "Which theory of management, proposed by Douglas McGregor, classifies employees as either inherently lazy and needing close supervision (Theory X) or ambitious and self-directed (Theory Y)?",
+    "a": "Theory X and Theory Y",
+    "b": "Scientific Management",
+    "c": "Administrative Management",
+    "d": "Two-Factor Theory",
+    "ans": "a"
+  },
+  {
+    "q": "Who is historically known as the 'father of scientific management', emphasizing task optimization, work standards, and motion studies?",
+    "a": "Henri Fayol",
+    "b": "Frederick Winslow Taylor",
+    "c": "Max Weber",
+    "d": "Elton Mayo",
+    "ans": "b"
+  },
+  {
+    "q": "Who proposed the 14 principles of management and identified the five primary functions of management in administrative theory?",
+    "a": "Frederick Winslow Taylor",
+    "b": "Henri Fayol",
+    "c": "Max Weber",
+    "d": "Henry Gantt",
+    "ans": "b"
+  },
+  {
+    "q": "Which classical management theorist proposed the concept of a rational, highly structured, and rule-bound 'bureaucracy'?",
+    "a": "Henri Fayol",
+    "b": "Frederick Taylor",
+    "c": "Max Weber",
+    "d": "Frank Gilbreth",
+    "ans": "c"
+  },
+  {
+    "q": "The famous series of experiments conducted at Western Electric's plant that highlighted the social and psychological factors of productivity, initiating the human relations movement, are the:",
+    "a": "Taylor studies",
+    "b": "Hawthorne studies",
+    "c": "Fayol experiments",
+    "d": "Gantt experiments",
+    "ans": "b"
+  },
+  {
+    "q": "What type of control is focused on monitoring and regulating work activities during their execution to prevent errors before they become critical?",
+    "a": "Feedforward control",
+    "b": "Concurrent control",
+    "c": "Feedback control",
+    "d": "Financial control",
+    "ans": "b"
+  },
+  {
+    "q": "What type of control is focused on regulating inputs to ensure they meet standards before work activities actually begin?",
+    "a": "Concurrent control",
+    "b": "Feedforward control",
+    "c": "Feedback control",
+    "d": "Budgetary control",
+    "ans": "b"
+  },
+  {
+    "q": "What type of control focuses on analyzing completed work outcomes to evaluate performance and prevent similar future errors?",
+    "a": "Feedforward control",
+    "b": "Concurrent control",
+    "c": "Feedback control",
+    "d": "Preliminary control",
+    "ans": "c"
+  },
+  {
+    "q": "A detailed financial plan showing expected revenues, expenses, and capital allocations for a specific future period is a(n):",
+    "a": "Balance Sheet",
+    "b": "Income Statement",
+    "c": "Budget",
+    "d": "Ledger",
+    "ans": "c"
+  },
+  {
+    "q": "What strategic analysis tool is used to evaluate an organization's internal Strengths, internal Weaknesses, external Opportunities, and external Threats?",
+    "a": "BCG Matrix",
+    "b": "SWOT Analysis",
+    "c": "PERT Chart",
+    "d": "Value Chain Analysis",
+    "ans": "b"
+  },
+  {
+    "q": "In strategic planning, what represents the formal statement of an organization's fundamental purpose, values, and scope of operations?",
+    "a": "Vision Statement",
+    "b": "Mission Statement",
+    "c": "Strategic Objective",
+    "d": "Tactical Plan",
+    "ans": "b"
+  },
+  {
+    "q": "In strategic planning, what represents the formal statement of what an organization aspires to become in the distant future?",
+    "a": "Mission Statement",
+    "b": "Vision Statement",
+    "c": "Policy Statement",
+    "d": "Profection Plan",
+    "ans": "b"
+  },
+  {
+    "q": "What project management scheduling tool represents tasks as horizontal bars plotted against a calendar timeline?",
+    "a": "PERT Network",
+    "b": "CPM Diagram",
+    "c": "Gantt Chart",
+    "d": "Fishbone Diagram",
+    "ans": "c"
+  },
+  {
+    "q": "In project management, what network scheduling method stands for 'Program Evaluation and Review Technique'?",
+    "a": "PERT",
+    "b": "CPM",
+    "c": "WBS",
+    "d": "Gantt",
+    "ans": "a"
+  },
+  {
+    "q": "In project management, what network scheduling method stands for 'Critical Path Method'?",
+    "a": "CPM",
+    "b": "PERT",
+    "c": "WBS",
+    "d": "MBO",
+    "ans": "a"
+  },
+  {
+    "q": "The longest continuous sequence of dependent tasks in a project network diagram that determines the minimum possible duration of the project is the:",
+    "a": "Slack path",
+    "b": "Critical path",
+    "c": "Dummy path",
+    "d": "Parallel path",
+    "ans": "b"
+  },
+  {
+    "q": "The amount of time that a specific task in a project network can be delayed without delaying the final completion date of the entire project is called:",
+    "a": "Lead time",
+    "b": "Lag time",
+    "c": "Slack",
+    "d": "Crash time",
+    "ans": "c"
+  },
+  {
+    "q": "A zero-duration, zero-resource relationship indicator used in project network diagrams to show dependency between tasks is a(n):",
+    "a": "Dummy activity",
+    "b": "Critical activity",
+    "c": "Slack activity",
+    "d": "Float activity",
+    "ans": "a"
+  },
+  {
+    "q": "The process of shortening the duration of a project by adding resources to critical tasks at the lowest possible cost is called project:",
+    "a": "Crashing",
+    "b": "Smoothing",
+    "c": "Leveling",
+    "d": "Tracking",
+    "ans": "a"
+  },
+  {
+    "q": "A hierarchically structured, task-focused decomposition of a project's total scope into manageable work packages is the:",
+    "a": "Gantt Chart",
+    "b": "Work Breakdown Structure (WBS)",
+    "c": "PERT Network",
+    "d": "Linear Programming Model",
+    "ans": "b"
+  },
+  {
+    "q": "What leadership style is characterized by a leader who retains all decision-making authority, dictates work methods, and limits employee input?",
+    "a": "Democratic leadership",
+    "b": "Autocratic leadership",
+    "c": "Laissez-faire leadership",
+    "d": "Transformational leadership",
+    "ans": "b"
+  },
+  {
+    "q": "What leadership style involves a leader who delegates authority, encourages employee participation, and uses feedback to guide decision-making?",
+    "a": "Autocratic leadership",
+    "b": "Democratic leadership",
+    "c": "Laissez-faire leadership",
+    "d": "Transactional leadership",
+    "ans": "b"
+  },
+  {
+    "q": "What leadership style involves a leader who gives employees complete freedom to make decisions and complete their work with minimal intervention?",
+    "a": "Autocratic leadership",
+    "b": "Democratic leadership",
+    "c": "Laissez-faire leadership",
+    "d": "Charismatic leadership",
+    "ans": "c"
+  },
+  {
+    "q": "A system of management that focuses on managing and improving the entire organization to deliver superior quality products and services to customers is:",
+    "a": "Management by Objectives (MBO)",
+    "b": "Total Quality Management (TQM)",
+    "c": "Six Sigma",
+    "d": "Just-In-Time (JIT)",
+    "ans": "b"
+  },
+  {
+    "q": "What performance management philosophy, proposed by Peter Drucker, involves setting mutually agreed-upon goals between supervisors and employees?",
+    "a": "Total Quality Management (TQM)",
+    "b": "Management by Objectives (MBO)",
+    "c": "Six Sigma",
+    "d": "Lean Management",
+    "ans": "b"
+  },
+  {
+    "q": "A highly disciplined, data-driven quality management program that aims to eliminate defects to a level of no more than 3.4 defects per million opportunities is:",
+    "a": "Total Quality Management",
+    "b": "Six Sigma",
+    "c": "Just-In-Time",
+    "d": "Continuous Improvement",
+    "ans": "b"
+  },
+  {
+    "q": "What inventory control and production philosophy, popularized in Japan, aims to eliminate waste by manufacturing and delivering parts only as they are needed?",
+    "a": "Just-In-Time (JIT)",
+    "b": "Economic Order Quantity (EOQ)",
+    "c": "Material Requirements Planning (MRP)",
+    "d": "Six Sigma",
+    "ans": "a"
+  },
+  {
+    "q": "The set of policies, procedures, and mathematical models used to monitor and manage the levels of raw materials, parts, and finished goods in a firm is:",
+    "a": "Supply Chain Management",
+    "b": "Inventory Management",
+    "c": "Quality Control",
+    "d": "Operations Management",
+    "ans": "b"
+  },
+  {
+    "q": "A structured, computer-based information system used to plan, schedule, and manage the procurement and production of dependent-demand inventory parts is:",
+    "a": "Enterprise Resource Planning (ERP)",
+    "b": "Material Requirements Planning (MRP)",
+    "c": "Economic Order Quantity (EOQ)",
+    "d": "Just-In-Time (JIT)",
+    "ans": "b"
+  },
+  {
+    "q": "An integrated, organizational-wide database system that coordinates all departments, functions, and resources of a business is:",
+    "a": "Material Requirements Planning (MRP)",
+    "b": "Enterprise Resource Planning (ERP)",
+    "c": "Supply Chain Management (SCM)",
+    "d": "Customer Relationship Management (CRM)",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the collaborative management of the flow of goods, services, information, and finances from raw material suppliers to final customers?",
+    "a": "Operations Management",
+    "b": "Supply Chain Management",
+    "c": "Inventory Control",
+    "d": "Value Chain Management",
+    "ans": "b"
+  },
+  {
+    "q": "The systematic design, direction, and control of the processes that transform resources (inputs) into finished goods and services (outputs) is:",
+    "a": "Operations Management",
+    "b": "Supply Chain Management",
+    "c": "Project Management",
+    "d": "Strategic Management",
+    "ans": "a"
+  },
+  {
+    "q": "The systematic study of a job to determine its core tasks, responsibilities, physical/mental requirements, and relationship to other jobs is:",
+    "a": "Job Description",
+    "b": "Job Analysis",
+    "c": "Job Specification",
+    "d": "Job Evaluation",
+    "ans": "b"
+  },
+  {
+    "q": "A formal, written statement detailing what a job holder does, how it is done, and under what working conditions, is the:",
+    "a": "Job Specification",
+    "b": "Job Description",
+    "c": "Job Analysis",
+    "d": "Job Evaluation",
+    "ans": "b"
+  },
+  {
+    "q": "A formal, written statement detailing the minimum human qualifications, skills, and education required for a person to perform a specific job is the:",
+    "a": "Job Description",
+    "b": "Job Specification",
+    "c": "Job Evaluation",
+    "d": "Job Appraisal",
+    "ans": "b"
+  },
+  {
+    "q": "The process of assessing and evaluating an employee's job performance, productivity, and behavior over a specified period is a:",
+    "a": "Performance Appraisal",
+    "b": "Job Analysis",
+    "c": "Performance Management",
+    "d": "Work Measurement",
+    "ans": "a"
+  },
+  {
+    "q": "What is the systematic process of finding, attracting, and encouraging qualified candidates to apply for job openings in an organization?",
+    "a": "Selection",
+    "b": "Recruitment",
+    "c": "Placement",
+    "d": "Orientation",
+    "ans": "b"
+  },
+  {
+    "q": "What is the process of evaluating job applicants, conducting interviews, and deciding who should be hired for a job opening?",
+    "a": "Recruitment",
+    "b": "Selection",
+    "c": "Onboarding",
+    "d": "Training",
+    "ans": "b"
+  },
+  {
+    "q": "In operations, a mathematical modeling technique used to optimize (maximize or minimize) a linear objective function subject to linear constraints is:",
+    "a": "PERT Network",
+    "b": "Linear Programming",
+    "c": "Decision Tree Analysis",
+    "d": "Queuing Theory",
+    "ans": "b"
+  },
+  {
+    "q": "In queuing theory, what mathematical discipline is used to study and model waiting lines, service times, and queue lengths?",
+    "a": "Linear Programming",
+    "b": "Queuing Theory",
+    "c": "Simulation Modeling",
+    "d": "Game Theory",
+    "ans": "b"
+  },
+  {
+    "q": "A graphical representation of the sequential decision-making process under conditions of risk or uncertainty, featuring decision nodes and event nodes, is a:",
+    "a": "Gantt Chart",
+    "b": "Decision Tree",
+    "c": "Fishbone Diagram",
+    "d": "Flowchart",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the ethical and professional obligation of corporations to act in ways that benefit and protect society and the environment?",
+    "a": "Corporate Governance",
+    "b": "Corporate Social Responsibility (CSR)",
+    "c": "Ethical Compliance",
+    "d": "Business Sustainability",
+    "ans": "b"
+  },
+  {
+    "q": "What refers to the process of comparing an organization's work processes and performance metrics against industry best practices and top competitors?",
+    "a": "Total Quality Control",
+    "b": "Benchmarking",
+    "c": "Continuous Improvement",
+    "d": "Strategic Alignment",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 4.0 days, a most likely time of 7.0 days, and a pessimistic time of 16.0 days. Calculate the PERT expected time (Te) of this activity.",
+    "a": "6.0 days",
+    "b": "7.0 days",
+    "c": "8.0 days",
+    "d": "9.0 days",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate the statistical variance of its duration. (Context from previous question: A project activity has an optimistic time of 4.0 days, a most likely time of 7.0 days, and a pessimistic time of 16.0 days.)",
+    "a": "2.0 days^2",
+    "b": "4.0 days^2",
+    "c": "6.0 days^2",
+    "d": "8.0 days^2",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an optimistic time of 3.0 weeks, a most likely time of 6.0 weeks, and a pessimistic time of 9.0 weeks. Calculate its expected duration.",
+    "a": "5.0 weeks",
+    "b": "6.0 weeks",
+    "c": "7.0 weeks",
+    "d": "8.0 weeks",
+    "ans": "b"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its standard deviation. (Context from previous question: An activity in a CPM network has an optimistic time of 3.0 weeks, a most likely time of 6.0 weeks, and a pessimistic time of 9.0 weeks.)",
+    "a": "0.50 weeks",
+    "b": "1.00 weeks",
+    "c": "1.50 weeks",
+    "d": "2.00 weeks",
+    "ans": "b"
+  },
+  {
+    "q": "An engineering department has a constant annual demand of 20,000 units of a specific electronic component. If the ordering cost is Php 150 per order and the annual holding/carrying cost is Php 3.00 per unit, calculate the Economic Order Quantity (EOQ).",
+    "a": "1,154 units",
+    "b": "1,414 units",
+    "c": "1,632 units",
+    "d": "1,850 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has a daily demand of 50 units of a part. If the replenishment lead time is exactly 8.0 working days and a safety stock of 100 units is maintained, find the Reorder Point (ROP) for this part.",
+    "a": "300 units",
+    "b": "400 units",
+    "c": "500 units",
+    "d": "600 units",
+    "ans": "c"
+  },
+  {
+    "q": "Using a 3-month simple moving average, forecast the sales of widgets for July given the actual historical sales: April = 120 units, May = 150 units, and June = 180 units.",
+    "a": "135 units",
+    "b": "150 units",
+    "c": "165 units",
+    "d": "180 units",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.20. If the forecast for the current month was 200 units and the actual demand was 240 units, find the forecast for the next month.",
+    "a": "204 units",
+    "b": "208 units",
+    "c": "212 units",
+    "d": "216 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project consists of three sequential critical activities with expected times of 10.0 days, 15.0 days, and 12.0 days. What is the expected duration of the entire project?",
+    "a": "25.0 days",
+    "b": "32.0 days",
+    "c": "37.0 days",
+    "d": "45.0 days",
+    "ans": "c"
+  },
+  {
+    "q": "For the project in the previous question, the variances of the three critical activities are 1.0 days^2, 2.0 days^2, and 1.0 days^2. Find the standard deviation of the project completion time. (Context from previous question: A project consists of three sequential critical activities with expected times of 10.0 days, 15.0 days, and 12.0 days.)",
+    "a": "1.50 days",
+    "b": "2.00 days",
+    "c": "3.00 days",
+    "d": "4.00 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a weighted moving average with weights of 0.50 for the most recent month, 0.30 for the second, and 0.20 for the third, forecast the demand for June. Historical actual demands are: March = 100, April = 120, and May = 150.",
+    "a": "115",
+    "b": "120",
+    "c": "131",
+    "d": "145",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 60% probability of earning a profit of Php 100,000 and a 40% probability of incurring a loss of Php 50,000.",
+    "a": "Php 30,000",
+    "b": "Php 40,000",
+    "c": "Php 50,000",
+    "d": "Php 60,000",
+    "ans": "b"
+  },
+  {
+    "q": "A project manager has to choose between two software development methods. Option A has an EMV of Php 80,000, and Option B has a 70% probability of earning Php 150,000 and a 30% probability of earning Php 10,000. Which option has the higher EMV and by how much?",
+    "a": "Option A is higher by Php 20,000",
+    "b": "Option B is higher by Php 28,000",
+    "c": "Option B is higher by Php 35,000",
+    "d": "Both options are equal",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for a firm that maintains an average inventory of 800 units if the unit holding cost is Php 4.50 per year.",
+    "a": "Php 1,800",
+    "b": "Php 2,400",
+    "c": "Php 3,600",
+    "d": "Php 4,500",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 80 orders per year if the administrative cost per order is Php 125.",
+    "a": "Php 6,000",
+    "b": "Php 8,000",
+    "c": "Php 10,000",
+    "d": "Php 12,000",
+    "ans": "c"
+  },
+  {
+    "q": "An operation has a monthly demand of 1,000 units. The ordering cost is Php 200 per order, and the annual holding cost is Php 4.80 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "800 units",
+    "b": "1,000 units",
+    "c": "1,200 units",
+    "d": "1,500 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production plant operates with an average labor productivity of 5.0 units per man-hour. If a team of 8 workers works for 40 hours in a week, how many total units do they produce?",
+    "a": "1,200 units",
+    "b": "1,400 units",
+    "c": "1,600 units",
+    "d": "1,800 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly line has a design capacity of 200 units per day and an effective capacity of 160 units per day. If the line actually produces 120 units in a day, find its utilization rate.",
+    "a": "60%",
+    "b": "75%",
+    "c": "80%",
+    "d": "90%",
+    "ans": "a"
+  },
+  {
+    "q": "For the assembly line in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly line has a design capacity of 200 units per day and an effective capacity of 160 units per day. If the line actually produces 120 units in a day, find its utilization rate.)",
+    "a": "60%",
+    "b": "75%",
+    "c": "80%",
+    "d": "90%",
+    "ans": "b"
+  },
+  {
+    "q": "A department has actual monthly production costs of: January = Php 10,000, February = Php 12,000, and March = Php 14,000. Calculate the 3-month simple moving average forecast for April's costs.",
+    "a": "Php 11,000",
+    "b": "Php 12,000",
+    "c": "Php 13,000",
+    "d": "Php 14,000",
+    "ans": "b"
+  },
+  {
+    "q": "A manufacturing work cell has an annual demand of 5,000 parts. If the cost of holding a part in stock is Php 2.00 per year and the cost to set up production is Php 80 per run, calculate the Economic Batch Quantity (EBQ) or run size.",
+    "a": "450 units",
+    "b": "500.units",
+    "c": "632 units",
+    "d": "750 units",
+    "ans": "c"
+  },
+  {
+    "q": "An operation has a daily demand of 80 units of a raw material. If the lead time for delivery is 10 days and a safety stock of 150 units is maintained, find the Reorder Point.",
+    "a": "650 units",
+    "b": "800 units",
+    "c": "950 units",
+    "d": "1,100 units",
+    "ans": "c"
+  },
+  {
+    "q": "A project scheduler identifies a critical task that must start immediately. If its earliest start (ES) is Day 4, earliest finish (EF) is Day 10, and latest start (LS) is Day 4, calculate the slack time of this activity.",
+    "a": "0 days",
+    "b": "2 days",
+    "c": "4 days",
+    "d": "6 days",
+    "ans": "a"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 8 and a latest start (LS) of Day 12. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "2 days",
+    "c": "4 days",
+    "d": "6 days",
+    "ans": "c"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 5 and its duration is 8 days, find its earliest finish (EF) time.",
+    "a": "8 days",
+    "b": "10 days",
+    "c": "13 days",
+    "d": "15 days",
+    "ans": "c"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 20 and its duration is 6 days, find its latest start (LS) time.",
+    "a": "12 days",
+    "b": "14 days",
+    "c": "16 days",
+    "d": "18 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 4-period simple moving average, forecast the demand for Period 5 based on actual demands: P1 = 20, P2 = 25, P3 = 30, and P4 = 35.",
+    "a": "25.0",
+    "b": "27.5",
+    "c": "30.0",
+    "d": "32.5",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.30. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "103 units",
+    "b": "106 units",
+    "c": "112 units",
+    "d": "115 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for an expansion option that has a 70% probability of earning a profit of Php 200,000 and a 30% probability of earning Php 50,000.",
+    "a": "Php 115,000",
+    "b": "Php 135,000",
+    "c": "Php 155,000",
+    "d": "Php 175,000",
+    "ans": "c"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 10,000 microchips. If the cost of placing an order is Php 100 and the annual carrying cost is Php 2.00 per chip, find the EOQ.",
+    "a": "800 units",
+    "b": "1,000 units",
+    "c": "1,200 units",
+    "d": "1,400 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 2.0 weeks, a most likely time of 5.0 weeks, and a pessimistic time of 14.0 weeks. Find the PERT expected duration.",
+    "a": "4.0 weeks",
+    "b": "5.0 weeks",
+    "c": "6.0 weeks",
+    "d": "7.0 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 2.0 weeks, a most likely time of 5.0 weeks, and a pessimistic time of 14.0 weeks.)",
+    "a": "1.0 weeks^2",
+    "b": "2.0 weeks^2",
+    "c": "4.0 weeks^2",
+    "d": "8.0 weeks^2",
+    "ans": "c"
+  },
+  {
+    "q": "A forecasting model has actual demand of 500 units and a forecast of 480 units. Find the forecast error.",
+    "a": "-20 units",
+    "b": "10 units",
+    "c": "20 units",
+    "d": "30 units",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 1,200 units if the unit holding cost is Php 5.00 per year.",
+    "a": "Php 3,000",
+    "b": "Php 4,500",
+    "c": "Php 6,000",
+    "d": "Php 7,500",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 50 orders per year if the administrative cost per order is Php 150.",
+    "a": "Php 4,500",
+    "b": "Php 6,000",
+    "c": "Php 7,500",
+    "d": "Php 9,000",
+    "ans": "c"
+  },
+  {
+    "q": "A production line has an annual demand of 8,000 units. The ordering cost is Php 100 per order, and the annual holding cost is Php 1.60 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "800 units",
+    "b": "1,000 units",
+    "c": "1,200 units",
+    "d": "1,500 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 8.0 units per man-hour. If 10 workers work for 40 hours in a week, find the total units produced.",
+    "a": "1,600 units",
+    "b": "2,400 units",
+    "c": "3,200 units",
+    "d": "4,000 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 100 units per day and an effective capacity of 80 units per day. If the cell actually produces 60 units in a day, find its utilization rate.",
+    "a": "60%",
+    "b": "75%",
+    "c": "80%",
+    "d": "90%",
+    "ans": "a"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 100 units per day and an effective capacity of 80 units per day. If the cell actually produces 60 units in a day, find its utilization rate.)",
+    "a": "60%",
+    "b": "75%",
+    "c": "80%",
+    "d": "90%",
+    "ans": "b"
+  },
+  {
+    "q": "A work cell has an annual demand of 10,000 parts. If the cost of holding a part in stock is Php 1.00 per year and the cost to set up production is Php 50 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "500 units",
+    "b": "800 units",
+    "c": "1,000 units",
+    "d": "1,200 units",
+    "ans": "c"
+  },
+  {
+    "q": "An operation has a daily demand of 50 units of a raw material. If the lead time is 6 days and a safety stock of 100 units is maintained, find the Reorder Point.",
+    "a": "200 units",
+    "b": "300 units",
+    "c": "400 units",
+    "d": "500 units",
+    "ans": "c"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 10 and a latest start (LS) of Day 15. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "3 days",
+    "c": "5 days",
+    "d": "10 days",
+    "ans": "c"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 10 and its duration is 12 days, find its earliest finish (EF) time.",
+    "a": "12 days",
+    "b": "15 days",
+    "c": "22 days",
+    "d": "25 days",
+    "ans": "c"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 30 and its duration is 8 days, find its latest start (LS) time.",
+    "a": "18 days",
+    "b": "20 days",
+    "c": "22 days",
+    "d": "24 days",
+    "ans": "c"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 10, P2 = 20, and P3 = 30.",
+    "a": "15.0",
+    "b": "20.0",
+    "c": "25.0",
+    "d": "30.0",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.40. If the current forecast was 200 units and actual demand was 250 units, find the new forecast.",
+    "a": "210 units",
+    "b": "220 units",
+    "c": "230 units",
+    "d": "240 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 300,000 and a 50% probability of earning Php 100,000.",
+    "a": "Php 150,000",
+    "b": "Php 200,000",
+    "c": "Php 250,000",
+    "d": "Php 300,000",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 5,000 components. If the cost of placing an order is Php 50 and the annual carrying cost is Php 1.00 per component, find the EOQ.",
+    "a": "500 units",
+    "b": "707 units",
+    "c": "850 units",
+    "d": "1,000 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 1.0 weeks, a most likely time of 4.0 weeks, and a pessimistic time of 13.0 weeks. Find the PERT expected duration.",
+    "a": "3.0 weeks",
+    "b": "4.0 weeks",
+    "c": "5.0 weeks",
+    "d": "6.0 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 1.0 weeks, a most likely time of 4.0 weeks, and a pessimistic time of 13.0 weeks.)",
+    "a": "1.0 weeks^2",
+    "b": "2.0 weeks^2",
+    "c": "4.0 weeks^2",
+    "d": "8.0 weeks^2",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 500 units if the unit holding cost is Php 2.00 per year.",
+    "a": "Php 500",
+    "b": "Php 1,000",
+    "c": "Php 1,500",
+    "d": "Php 2,000",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 40 orders per year if the administrative cost per order is Php 100.",
+    "a": "Php 2,000",
+    "b": "Php 4,000",
+    "c": "Php 6,000",
+    "d": "Php 8,000",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 4,000 units. The ordering cost is Php 50 per order, and the annual holding cost is Php 0.80 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "500 units",
+    "b": "707 units",
+    "c": "800 units",
+    "d": "1,000 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 5.0 units per man-hour. If 5 workers work for 40 hours in a week, find the total units produced.",
+    "a": "500 units",
+    "b": "750 units",
+    "c": "1,000 units",
+    "d": "1,250 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 50 units per day and an effective capacity of 40 units per day. If the cell actually produces 30 units in a day, find its utilization rate.",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 50 units per day and an effective capacity of 40 units per day. If the cell actually produces 30 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "c"
+  },
+  {
+    "q": "A work cell has an annual demand of 5,000 parts. If the cost of holding a part in stock is Php 0.50 per year and the cost to set up production is Php 25 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "500 units",
+    "b": "707 units",
+    "c": "800 units",
+    "d": "1,000 units",
+    "ans": "b"
+  },
+  {
+    "q": "An operation has a daily demand of 30 units of a raw material. If the lead time is 5 days and a safety stock of 50 units is maintained, find the Reorder Point.",
+    "a": "150 units",
+    "b": "200 units",
+    "c": "250 units",
+    "d": "300 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 5 and a latest start (LS) of Day 8. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "3 days",
+    "c": "5 days",
+    "d": "8 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 5 and its duration is 6 days, find its earliest finish (EF) time.",
+    "a": "6 days",
+    "b": "8 days",
+    "c": "11 days",
+    "d": "13 days",
+    "ans": "c"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 15 and its duration is 4 days, find its latest start (LS) time.",
+    "a": "9 days",
+    "b": "11 days",
+    "c": "13 days",
+    "d": "15 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 5, P2 = 10, and P3 = 15.",
+    "a": "8.0",
+    "b": "10.0",
+    "c": "12.0",
+    "d": "15.0",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.20. If the current forecast was 100 units and actual demand was 150 units, find the new forecast.",
+    "a": "105 units",
+    "b": "110 units",
+    "c": "115 units",
+    "d": "120 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 200,000 and a 50% probability of earning Php 50,000.",
+    "a": "Php 100,000",
+    "b": "Php 125,000",
+    "c": "Php 150,000",
+    "d": "Php 175,000",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 2,500 components. If the cost of placing an order is Php 25 and the annual carrying cost is Php 0.50 per component, find the EOQ.",
+    "a": "250 units",
+    "b": "500 units",
+    "c": "600 units",
+    "d": "750 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 1.0 weeks, a most likely time of 3.0 weeks, and a pessimistic time of 11.0 weeks. Find the PERT expected duration.",
+    "a": "2.0 weeks",
+    "b": "3.0 weeks",
+    "c": "4.0 weeks",
+    "d": "5.0 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 1.0 weeks, a most likely time of 3.0 weeks, and a pessimistic time of 11.0 weeks.)",
+    "a": "1.0 weeks^2",
+    "b": "1.5 weeks^2",
+    "c": "2.0 weeks^2",
+    "d": "2.78 weeks^2",
+    "ans": "d"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 250 units if the unit holding cost is Php 1.00 per year.",
+    "a": "Php 125",
+    "b": "Php 250",
+    "c": "Php 375",
+    "d": "Php 500",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 20 orders per year if the administrative cost per order is Php 50.",
+    "a": "Php 500",
+    "b": "Php 1,000",
+    "c": "Php 1,500",
+    "d": "Php 2,000",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 2,000 units. The ordering cost is Php 25 per order, and the annual holding cost is Php 0.40 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "250 units",
+    "b": "500 units",
+    "c": "600 units",
+    "d": "750 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 4.0 units per man-hour. If 4 workers work for 40 hours in a week, find the total units produced.",
+    "a": "320 units",
+    "b": "480 units",
+    "c": "640 units",
+    "d": "800 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 25 units per day and an effective capacity of 20 units per day. If the cell actually produces 15 units in a day, find its utilization rate.",
+    "a": "45%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 25 units per day and an effective capacity of 20 units per day. If the cell actually produces 15 units in a day, find its utilization rate.)",
+    "a": "45%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "c"
+  },
+  {
+    "q": "A work cell has an annual demand of 2,500 parts. If the cost of holding a part in stock is Php 0.25 per year and the cost to set up production is Php 12.50 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "250 units",
+    "b": "500 units",
+    "c": "600 units",
+    "d": "750 units",
+    "ans": "b"
+  },
+  {
+    "q": "An operation has a daily demand of 15 units of a raw material. If the lead time is 4 days and a safety stock of 25 units is maintained, find the Reorder Point.",
+    "a": "60 units",
+    "b": "85 units",
+    "c": "110 units",
+    "d": "135 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 2 and a latest start (LS) of Day 5. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "3 days",
+    "c": "5 days",
+    "d": "7 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 2 and its duration is 3 days, find its earliest finish (EF) time.",
+    "a": "3 days",
+    "b": "5 days",
+    "c": "6 days",
+    "d": "8 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 8 and its duration is 2 days, find its latest start (LS) time.",
+    "a": "4 days",
+    "b": "6 days",
+    "c": "8 days",
+    "d": "10 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 2, P2 = 4, and P3 = 6.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.10. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "101 units",
+    "b": "102 units",
+    "c": "105 units",
+    "d": "110 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 100,000 and a 50% probability of earning Php 20,000.",
+    "a": "Php 50,000",
+    "b": "Php 60,000",
+    "c": "Php 70,000",
+    "d": "Php 80,000",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 1,250 components. If the cost of placing an order is Php 12.50 and the annual carrying cost is Php 0.25 per component, find the EOQ.",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 1.0 weeks, a most likely time of 2.0 weeks, and a pessimistic time of 9.0 weeks. Find the PERT expected duration.",
+    "a": "1.5 weeks",
+    "b": "2.0 weeks",
+    "c": "3.0 weeks",
+    "d": "4.0 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 1.0 weeks, a most likely time of 2.0 weeks, and a pessimistic time of 9.0 weeks.)",
+    "a": "0.5 weeks^2",
+    "b": "1.0 weeks^2",
+    "c": "1.5 weeks^2",
+    "d": "1.78 weeks^2",
+    "ans": "d"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 125 units if the unit holding cost is Php 0.50 per year.",
+    "a": "Php 31.25",
+    "b": "Php 62.50",
+    "c": "Php 93.75",
+    "d": "Php 125.00",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 10 orders per year if the administrative cost per order is Php 25.",
+    "a": "Php 125",
+    "b": "Php 250",
+    "c": "Php 375",
+    "d": "Php 500",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 1,000 units. The ordering cost is Php 12.50 per order, and the annual holding cost is Php 0.20 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 2.0 units per man-hour. If 2 workers work for 40 hours in a week, find the total units produced.",
+    "a": "80 units",
+    "b": "120 units",
+    "c": "160 units",
+    "d": "200 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 12 units per day and an effective capacity of 10 units per day. If the cell actually produces 8 units in a day, find its utilization rate.",
+    "a": "50.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 12 units per day and an effective capacity of 10 units per day. If the cell actually produces 8 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 1,250 parts. If the cost of holding a part in stock is Php 0.125 per year and the cost to set up production is Php 6.25 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "An operation has a daily demand of 8 units of a raw material. If the lead time is 3 days and a safety stock of 10 units is maintained, find the Reorder Point.",
+    "a": "24 units",
+    "b": "34 units",
+    "c": "44 units",
+    "d": "54 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 1 and a latest start (LS) of Day 3. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "2 days",
+    "c": "3 days",
+    "d": "4 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 1 and its duration is 2 days, find its earliest finish (EF) time.",
+    "a": "2 days",
+    "b": "3 days",
+    "c": "4 days",
+    "d": "5 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 4 and its duration is 1 day, find its latest start (LS) time.",
+    "a": "1 day",
+    "b": "3 days",
+    "c": "4 days",
+    "d": "5 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 1, P2 = 2, and P3 = 3.",
+    "a": "1.5",
+    "b": "2.0",
+    "c": "2.5",
+    "d": "3.0",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.05. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.5 units",
+    "b": "101.0 units",
+    "c": "102.0 units",
+    "d": "105.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 50,000 and a 50% probability of earning Php 10,000.",
+    "a": "Php 25,000",
+    "b": "Php 30,000",
+    "c": "Php 35,000",
+    "d": "Php 40,000",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 625 components. If the cost of placing an order is Php 6.25 and the annual carrying cost is Php 0.125 per component, find the EOQ.",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.5 weeks, a most likely time of 1.0 weeks, and a pessimistic time of 4.5 weeks. Find the PERT expected duration.",
+    "a": "0.75 weeks",
+    "b": "1.00 weeks",
+    "c": "1.50 weeks",
+    "d": "2.00 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.5 weeks, a most likely time of 1.0 weeks, and a pessimistic time of 4.5 weeks.)",
+    "a": "0.11 weeks^2",
+    "b": "0.22 weeks^2",
+    "c": "0.44 weeks^2",
+    "d": "0.67 weeks^2",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 62.5 units if the unit holding cost is Php 0.25 per year.",
+    "a": "Php 7.81",
+    "b": "Php 15.63",
+    "c": "Php 23.44",
+    "d": "Php 31.25",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 5 orders per year if the administrative cost per order is Php 12.50.",
+    "a": "Php 31.25",
+    "b": "Php 62.50",
+    "c": "Php 93.75",
+    "d": "Php 125.00",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 500 units. The ordering cost is Php 6.25 per order, and the annual holding cost is Php 0.10 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 1.0 unit per man-hour. If 1 worker works for 40 hours in a week, find the total units produced.",
+    "a": "20 units",
+    "b": "30 units",
+    "c": "40 units",
+    "d": "50 units",
+    "ans": "c"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 6 units per day and an effective capacity of 5 units per day. If the cell actually produces 4 units in a day, find its utilization rate.",
+    "a": "50.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 6 units per day and an effective capacity of 5 units per day. If the cell actually produces 4 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 625 parts. If the cost of holding a part in stock is Php 0.0625 per year and the cost to set up production is Php 3.125 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "b"
+  },
+  {
+    "q": "An operation has a daily demand of 4 units of a raw material. If the lead time is 2 days and a safety stock of 5 units is maintained, find the Reorder Point.",
+    "a": "10 units",
+    "b": "13 units",
+    "c": "18 units",
+    "d": "21 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 2. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "2 days",
+    "c": "3 days",
+    "d": "4 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 1 day, find its earliest finish (EF) time.",
+    "a": "0.5 days",
+    "b": "1.0 day",
+    "c": "1.5 days",
+    "d": "2.0 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 2 and its duration is 0.5 days, find its latest start (LS) time.",
+    "a": "0.5 days",
+    "b": "1.5 days",
+    "c": "2.0 days",
+    "d": "2.5 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.5, P2 = 1.0, and P3 = 1.5.",
+    "a": "0.75",
+    "b": "1.00",
+    "c": "1.25",
+    "d": "1.50",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.02. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.2 units",
+    "b": "100.4 units",
+    "c": "101.0 units",
+    "d": "102.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 25,000 and a 50% probability of earning Php 5,000.",
+    "a": "Php 10,000",
+    "b": "Php 15,000",
+    "c": "Php 20,000",
+    "d": "Php 25,000",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 312.5 components. If the cost of placing an order is Php 3.125 and the annual carrying cost is Php 0.0625 per component, find the EOQ.",
+    "a": "125 units",
+    "b": "177 units",
+    "c": "250 units",
+    "d": "300 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.25 weeks, a most likely time of 0.50 weeks, and a pessimistic time of 2.25 weeks. Find the PERT expected duration.",
+    "a": "0.35 weeks",
+    "b": "0.50 weeks",
+    "c": "0.75 weeks",
+    "d": "1.00 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.25 weeks, a most likely time of 0.50 weeks, and a pessimistic time of 2.25 weeks.)",
+    "a": "0.03 weeks^2",
+    "b": "0.06 weeks^2",
+    "c": "0.11 weeks^2",
+    "d": "0.17 weeks^2",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 31.25 units if the unit holding cost is Php 0.125 per year.",
+    "a": "Php 1.95",
+    "b": "Php 3.91",
+    "c": "Php 5.86",
+    "d": "Php 7.81",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 2 orders per year if the administrative cost per order is Php 6.25.",
+    "a": "Php 6.25",
+    "b": "Php 12.50",
+    "c": "Php 18.75",
+    "d": "Php 25.00",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 250 units. The ordering cost is Php 3.125 per order, and the annual holding cost is Php 0.05 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "125 units",
+    "b": "177 units",
+    "c": "250 units",
+    "d": "300 units",
+    "ans": "b"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.5 units per man-hour. If 1 worker works for 20 hours in a week, find the total units produced.",
+    "a": "5 units",
+    "b": "10 units",
+    "c": "15 units",
+    "d": "20 units",
+    "ans": "b"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 3 units per day and an effective capacity of 2.5 units per day. If the cell actually produces 2 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 3 units per day and an effective capacity of 2.5 units per day. If the cell actually produces 2 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 312.5 parts. If the cost of holding a part in stock is Php 0.03125 per year and the cost to set up production is Php 1.5625 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "125 units",
+    "b": "177 units",
+    "c": "250 units",
+    "d": "300 units",
+    "ans": "b"
+  },
+  {
+    "q": "An operation has a daily demand of 2 units of a raw material. If the lead time is 1 day and a safety stock of 1 unit is maintained, find the Reorder Point.",
+    "a": "2 units",
+    "b": "3 units",
+    "c": "4 units",
+    "d": "5 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 1. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "1 day",
+    "c": "2 days",
+    "d": "3 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.5 days, find its earliest finish (EF) time.",
+    "a": "0.25 days",
+    "b": "0.50 days",
+    "c": "0.75 days",
+    "d": "1.00 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 1 and its duration is 0.25 days, find its latest start (LS) time.",
+    "a": "0.25 days",
+    "b": "0.75 days",
+    "c": "1.00 days",
+    "d": "1.25 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.25, P2 = 0.50, and P3 = 0.75.",
+    "a": "0.38",
+    "b": "0.50",
+    "c": "0.62",
+    "d": "0.75",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.01. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.1 units",
+    "b": "100.2 units",
+    "c": "100.5 units",
+    "d": "101.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 12,500 and a 50% probability of earning Php 2,500.",
+    "a": "Php 5,000",
+    "b": "Php 7,500",
+    "c": "Php 10,000",
+    "d": "Php 12,500",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 156.25 components. If the cost of placing an order is Php 1.5625 and the annual carrying cost is Php 0.03125 per component, find the EOQ.",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.125 weeks, a most likely time of 0.25 weeks, and a pessimistic time of 1.125 weeks. Find the PERT expected duration.",
+    "a": "0.18 weeks",
+    "b": "0.25 weeks",
+    "c": "0.38 weeks",
+    "d": "0.50 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.125 weeks, a most likely time of 0.25 weeks, and a pessimistic time of 1.125 weeks.)",
+    "a": "0.01 weeks^2",
+    "b": "0.02 weeks^2",
+    "c": "0.03 weeks^2",
+    "d": "0.04 weeks^2",
+    "ans": "c"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 15.625 units if the unit holding cost is Php 0.0625 per year.",
+    "a": "Php 0.49",
+    "b": "Php 0.98",
+    "c": "Php 1.46",
+    "d": "Php 1.95",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 1 order per year if the administrative cost per order is Php 3.125.",
+    "a": "Php 1.56",
+    "b": "Php 3.13",
+    "c": "Php 4.69",
+    "d": "Php 6.25",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 125 units. The ordering cost is Php 1.5625 per order, and the annual holding cost is Php 0.025 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.25 units per man-hour. If 1 worker works for 10 hours in a week, find the total units produced.",
+    "a": "1.5 units",
+    "b": "2.5 units",
+    "c": "3.5 units",
+    "d": "5.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 1.5 units per day and an effective capacity of 1.25 units per day. If the cell actually produces 1 unit in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 1.5 units per day and an effective capacity of 1.25 units per day. If the cell actually produces 1 unit in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 156.25 parts. If the cost of holding a part in stock is Php 0.015625 per year and the cost to set up production is Php 0.78125 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "125 units",
+    "b": "250 units",
+    "c": "300 units",
+    "d": "375 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 1 unit of a raw material. If the lead time is 0.5 days and a safety stock of 0.5 units is maintained, find the Reorder Point.",
+    "a": "0.5 units",
+    "b": "1.0 unit",
+    "c": "1.5 units",
+    "d": "2.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.5. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.5 days",
+    "c": "1.0 days",
+    "d": "1.5 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.25 days, find its earliest finish (EF) time.",
+    "a": "0.125 days",
+    "b": "0.250 days",
+    "c": "0.375 days",
+    "d": "0.500 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.5 and its duration is 0.125 days, find its latest start (LS) time.",
+    "a": "0.125 days",
+    "b": "0.375 days",
+    "c": "0.500 days",
+    "d": "0.625 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.125, P2 = 0.250, and P3 = 0.375.",
+    "a": "0.19",
+    "b": "0.25",
+    "c": "0.31",
+    "d": "0.38",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.005. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.1 units",
+    "b": "100.2 units",
+    "c": "100.5 units",
+    "d": "101.0 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 6,250 and a 50% probability of earning Php 1,250.",
+    "a": "Php 2,500",
+    "b": "Php 3,750",
+    "c": "Php 5,000",
+    "d": "Php 6,250",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 78.125 components. If the cost of placing an order is Php 0.78125 and the annual carrying cost is Php 0.015625 per component, find the EOQ.",
+    "a": "88 units",
+    "b": "125 units",
+    "c": "150 units",
+    "d": "250 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.0625 weeks, a most likely time of 0.125 weeks, and a pessimistic time of 0.5625 weeks. Find the PERT expected duration.",
+    "a": "0.09 weeks",
+    "b": "0.125 weeks",
+    "c": "0.19 weeks",
+    "d": "0.25 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.0625 weeks, a most likely time of 0.125 weeks, and a pessimistic time of 0.5625 weeks.)",
+    "a": "0.003 weeks^2",
+    "b": "0.007 weeks^2",
+    "c": "0.015 weeks^2",
+    "d": "0.021 weeks^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 7.8125 units if the unit holding cost is Php 0.03125 per year.",
+    "a": "Php 0.12",
+    "b": "Php 0.24",
+    "c": "Php 0.36",
+    "d": "Php 0.48",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 0.5 orders per year if the administrative cost per order is Php 1.5625.",
+    "a": "Php 0.39",
+    "b": "Php 0.78",
+    "c": "Php 1.17",
+    "d": "Php 1.56",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 62.5 units. The ordering cost is Php 0.78125 per order, and the annual holding cost is Php 0.0125 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "88 units",
+    "b": "125 units",
+    "c": "150 units",
+    "d": "250 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.125 units per man-hour. If 1 worker works for 5 hours in a week, find the total units produced.",
+    "a": "0.31 units",
+    "b": "0.63 units",
+    "c": "0.85 units",
+    "d": "1.25 units",
+    "ans": "b"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 0.75 units per day and an effective capacity of 0.625 units per day. If the cell actually produces 0.5 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 0.75 units per day and an effective capacity of 0.625 units per day. If the cell actually produces 0.5 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 78.125 parts. If the cost of holding a part in stock is Php 0.0078125 per year and the cost to set up production is Php 0.390625 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "88 units",
+    "b": "125 units",
+    "c": "150 units",
+    "d": "250 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 0.5 units of a raw material. If the lead time is 0.25 days and a safety stock of 0.25 units is maintained, find the Reorder Point.",
+    "a": "0.125 units",
+    "b": "0.375 units",
+    "c": "0.500 units",
+    "d": "0.625 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.25. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.25 days",
+    "c": "0.50 days",
+    "d": "0.75 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.125 days, find its earliest finish (EF) time.",
+    "a": "0.0625 days",
+    "b": "0.1250 days",
+    "c": "0.1875 days",
+    "d": "0.2500 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.25 and its duration is 0.0625 days, find its latest start (LS) time.",
+    "a": "0.0625 days",
+    "b": "0.1875 days",
+    "c": "0.2500 days",
+    "d": "0.3125 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.0625, P2 = 0.1250, and P3 = 0.1875.",
+    "a": "0.09",
+    "b": "0.125",
+    "c": "0.16",
+    "d": "0.19",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.002. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.04 units",
+    "b": "100.10 units",
+    "c": "100.20 units",
+    "d": "100.50 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 3,125 and a 50% probability of earning Php 625.",
+    "a": "Php 1,250",
+    "b": "Php 1,875",
+    "c": "Php 2,500",
+    "d": "Php 3,125",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 39.0625 components. If the cost of placing an order is Php 0.390625 and the annual carrying cost is Php 0.0078125 per component, find the EOQ.",
+    "a": "62 units",
+    "b": "88 units",
+    "c": "125 units",
+    "d": "150 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.03125 weeks, a most likely time of 0.0625 weeks, and a pessimistic time of 0.28125 weeks. Find the PERT expected duration.",
+    "a": "0.04 weeks",
+    "b": "0.06 weeks",
+    "c": "0.09 weeks",
+    "d": "0.125 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.03125 weeks, a most likely time of 0.0625 weeks, and a pessimistic time of 0.28125 weeks.)",
+    "a": "0.0004 weeks^2",
+    "b": "0.0017 weeks^2",
+    "c": "0.0035 weeks^2",
+    "d": "0.0052 weeks^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 3.90625 units if the unit holding cost is Php 0.015625 per year.",
+    "a": "Php 0.03",
+    "b": "Php 0.06",
+    "c": "Php 0.09",
+    "d": "Php 0.12",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 0.25 orders per year if the administrative cost per order is Php 0.78125.",
+    "a": "Php 0.10",
+    "b": "Php 0.20",
+    "c": "Php 0.30",
+    "d": "Php 0.40",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 31.25 units. The ordering cost is Php 0.390625 per order, and the annual holding cost is Php 0.00625 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "62 units",
+    "b": "88 units",
+    "c": "125 units",
+    "d": "150 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.0625 units per man-hour. If 1 worker works for 2.5 hours in a week, find the total units produced.",
+    "a": "0.16 units",
+    "b": "0.31 units",
+    "c": "0.45 units",
+    "d": "0.63 units",
+    "ans": "a"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 0.375 units per day and an effective capacity of 0.3125 units per day. If the cell actually produces 0.25 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 0.375 units per day and an effective capacity of 0.3125 units per day. If the cell actually produces 0.25 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 39.0625 parts. If the cost of holding a part in stock is Php 0.00390625 per year and the cost to set up production is Php 0.1953125 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "62 units",
+    "b": "88 units",
+    "c": "125 units",
+    "d": "150 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 0.25 units of a raw material. If the lead time is 0.125 days and a safety stock of 0.125 units is maintained, find the Reorder Point.",
+    "a": "0.0625 units",
+    "b": "0.1563 units",
+    "c": "0.2500 units",
+    "d": "0.3125 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.125. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.125 days",
+    "c": "0.250 days",
+    "d": "0.375 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.0625 days, find its earliest finish (EF) time.",
+    "a": "0.03125 days",
+    "b": "0.06250 days",
+    "c": "0.09375 days",
+    "d": "0.12500 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.125 and its duration is 0.03125 days, find its latest start (LS) time.",
+    "a": "0.03125 days",
+    "b": "0.09375 days",
+    "c": "0.12500 days",
+    "d": "0.15625 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.03125, P2 = 0.06250, and P3 = 0.09375.",
+    "a": "0.05",
+    "b": "0.0625",
+    "c": "0.08",
+    "d": "0.10",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.001. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.02 units",
+    "b": "100.10 units",
+    "c": "100.20 units",
+    "d": "100.50 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 1,562.5 and a 50% probability of earning Php 312.5.",
+    "a": "Php 625",
+    "b": "Php 938",
+    "c": "Php 1,250",
+    "d": "Php 1,562.5",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 19.53125 components. If the cost of placing an order is Php 0.1953125 and the annual carrying cost is Php 0.00390625 per component, find the EOQ.",
+    "a": "44 units",
+    "b": "62 units",
+    "c": "88 units",
+    "d": "125 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.015625 weeks, a most likely time of 0.03125 weeks, and a pessimistic time of 0.140625 weeks. Find the PERT expected duration.",
+    "a": "0.02 weeks",
+    "b": "0.03 weeks",
+    "c": "0.05 weeks",
+    "d": "0.06 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.015625 weeks, a most likely time of 0.03125 weeks, and a pessimistic time of 0.140625 weeks.)",
+    "a": "0.0001 weeks^2",
+    "b": "0.0004 weeks^2",
+    "c": "0.0008 weeks^2",
+    "d": "0.0012 weeks^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 1.953125 units if the unit holding cost is Php 0.0078125 per year.",
+    "a": "Php 0.008",
+    "b": "Php 0.015",
+    "c": "Php 0.023",
+    "d": "Php 0.031",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 0.125 orders per year if the administrative cost per order is Php 0.390625.",
+    "a": "Php 0.02",
+    "b": "Php 0.05",
+    "c": "Php 0.08",
+    "d": "Php 0.10",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 15.625 units. The ordering cost is Php 0.1953125 per order, and the annual holding cost is Php 0.003125 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "44 units",
+    "b": "62 units",
+    "c": "88 units",
+    "d": "125 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.03125 units per man-hour. If 1 worker works for 1.25 hours in a week, find the total units produced.",
+    "a": "0.04 units",
+    "b": "0.08 units",
+    "c": "0.12 units",
+    "d": "0.16 units",
+    "ans": "a"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 0.1875 units per day and an effective capacity of 0.15625 units per day. If the cell actually produces 0.125 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 0.1875 units per day and an effective capacity of 0.15625 units per day. If the cell actually produces 0.125 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 19.53125 parts. If the cost of holding a part in stock is Php 0.001953125 per year and the cost to set up production is Php 0.09765625 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "44 units",
+    "b": "62 units",
+    "c": "88 units",
+    "d": "125 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 0.125 units of a raw material. If the lead time is 0.0625 days and a safety stock of 0.0625 units is maintained, find the Reorder Point.",
+    "a": "0.0313 units",
+    "b": "0.0781 units",
+    "c": "0.1250 units",
+    "d": "0.1563 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.0625. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.0625 days",
+    "c": "0.1250 days",
+    "d": "0.1875 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.03125 days, find its earliest finish (EF) time.",
+    "a": "0.01563 days",
+    "b": "0.03125 days",
+    "c": "0.04688 days",
+    "d": "0.06250 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.0625 and its duration is 0.015625 days, find its latest start (LS) time.",
+    "a": "0.01563 days",
+    "b": "0.04688 days",
+    "c": "0.06250 days",
+    "d": "0.07813 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.01563, P2 = 0.03125, and P3 = 0.04688.",
+    "a": "0.02",
+    "b": "0.03125",
+    "c": "0.04",
+    "d": "0.05",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.0005. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.01 units",
+    "b": "100.05 units",
+    "c": "100.10 units",
+    "d": "100.20 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 781.25 and a 50% probability of earning Php 156.25.",
+    "a": "Php 312.5",
+    "b": "Php 468.75",
+    "c": "Php 625.0",
+    "d": "Php 781.25",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 9.765625 components. If the cost of placing an order is Php 0.09765625 and the annual carrying cost is Php 0.001953125 per component, find the EOQ.",
+    "a": "31 units",
+    "b": "44 units",
+    "c": "62 units",
+    "d": "88 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.0078125 weeks, a most likely time of 0.015625 weeks, and a pessimistic time of 0.0703125 weeks. Find the PERT expected duration.",
+    "a": "0.01 weeks",
+    "b": "0.02 weeks",
+    "c": "0.025 weeks",
+    "d": "0.03 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.0078125 weeks, a most likely time of 0.015625 weeks, and a pessimistic time of 0.0703125 weeks.)",
+    "a": "0.00003 weeks^2",
+    "b": "0.00011 weeks^2",
+    "c": "0.00022 weeks^2",
+    "d": "0.00031 weeks^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 0.9765625 units if the unit holding cost is Php 0.00390625 per year.",
+    "a": "Php 0.001",
+    "b": "Php 0.004",
+    "c": "Php 0.006",
+    "d": "Php 0.008",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 0.0625 orders per year if the administrative cost per order is Php 0.1953125.",
+    "a": "Php 0.01",
+    "b": "Php 0.02",
+    "c": "Php 0.03",
+    "d": "Php 0.04",
+    "ans": "a"
+  },
+  {
+    "q": "A production line has an annual demand of 7.8125 units. The ordering cost is Php 0.09765625 per order, and the annual holding cost is Php 0.0015625 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "31 units",
+    "b": "44 units",
+    "c": "62 units",
+    "d": "88 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.015625 units per man-hour. If 1 worker works for 0.625 hours in a week, find the total units produced.",
+    "a": "0.01 units",
+    "b": "0.02 units",
+    "c": "0.03 units",
+    "d": "0.04 units",
+    "ans": "a"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 0.09375 units per day and an effective capacity of 0.078125 units per day. If the cell actually produces 0.0625 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 0.09375 units per day and an effective capacity of 0.078125 units per day. If the cell actually produces 0.0625 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 9.765625 parts. If the cost of holding a part in stock is Php 0.000953125 per year and the cost to set up production is Php 0.048828125 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "31 units",
+    "b": "44 units",
+    "c": "62 units",
+    "d": "88 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 0.0625 units of a raw material. If the lead time is 0.03125 days and a safety stock of 0.03125 units is maintained, find the Reorder Point.",
+    "a": "0.0156 units",
+    "b": "0.0332 units",
+    "c": "0.0512 units",
+    "d": "0.0625 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.03125. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.03125 days",
+    "c": "0.06250 days",
+    "d": "0.09375 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.015625 days, find its earliest finish (EF) time.",
+    "a": "0.00781 days",
+    "b": "0.01563 days",
+    "c": "0.02344 days",
+    "d": "0.03125 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.03125 and its duration is 0.0078125 days, find its latest start (LS) time.",
+    "a": "0.00781 days",
+    "b": "0.02344 days",
+    "c": "0.03125 days",
+    "d": "0.03906 days",
+    "ans": "b"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.015625, P2 = 0.031250, and P3 = 0.046875.",
+    "a": "0.02",
+    "b": "0.03125",
+    "c": "0.04",
+    "d": "0.05",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.0001. If the current forecast was 100 units and actual demand was 120 units, find the new forecast.",
+    "a": "100.002 units",
+    "b": "100.010 units",
+    "c": "100.020 units",
+    "d": "100.050 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 390.625 and a 50% probability of earning Php 78.125.",
+    "a": "Php 156.25",
+    "b": "Php 234.38",
+    "c": "Php 312.50",
+    "d": "Php 390.625",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 4.8828125 components. If the cost of placing an order is Php 0.048828125 and the annual carrying cost is Php 0.0009765625 per component, find the EOQ.",
+    "a": "22 units",
+    "b": "31 units",
+    "c": "44 units",
+    "d": "62 units",
+    "ans": "a"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.00390625 weeks, a most likely time of 0.0078125 weeks, and a pessimistic time of 0.03515625 weeks. Find the PERT expected duration.",
+    "a": "0.005 weeks",
+    "b": "0.008 weeks",
+    "c": "0.0125 weeks",
+    "d": "0.015 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.00390625 weeks, a most likely time of 0.0078125 weeks, and a pessimistic time of 0.03515625 weeks.)",
+    "a": "0.000008 weeks^2",
+    "b": "0.000027 weeks^2",
+    "c": "0.000054 weeks^2",
+    "d": "0.000078 weeks^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total carrying cost for an inventory system maintaining an average inventory of 0.48828125 units if the unit holding cost is Php 0.001953125 per year.",
+    "a": "Php 0.0003",
+    "b": "Php 0.0010",
+    "c": "Php 0.0015",
+    "d": "Php 0.0020",
+    "ans": "b"
+  },
+  {
+    "q": "Find the total annual ordering cost for an operation that places 0.03125 orders per year if the administrative cost per order is Php 0.09765625.",
+    "a": "Php 0.001",
+    "b": "Php 0.003",
+    "c": "Php 0.005",
+    "d": "Php 0.008",
+    "ans": "b"
+  },
+  {
+    "q": "A production line has an annual demand of 3.90625 units. The ordering cost is Php 0.048828125 per order, and the annual holding cost is Php 0.00078125 per unit. Calculate the Economic Order Quantity (EOQ).",
+    "a": "22 units",
+    "b": "31 units",
+    "c": "44 units",
+    "d": "62 units",
+    "ans": "a"
+  },
+  {
+    "q": "A production team has a labor productivity of 0.0078125 units per man-hour. If 1 worker works for 0.3125 hours in a week, find the total units produced.",
+    "a": "0.001 units",
+    "b": "0.002 units",
+    "c": "0.003 units",
+    "d": "0.004 units",
+    "ans": "b"
+  },
+  {
+    "q": "An assembly cell has a design capacity of 0.046875 units per day and an effective capacity of 0.0390625 units per day. If the cell actually produces 0.03125 units in a day, find its utilization rate.",
+    "a": "45.0%",
+    "b": "66.7%",
+    "c": "75.0%",
+    "d": "80.0%",
+    "ans": "b"
+  },
+  {
+    "q": "For the assembly cell in the previous question, calculate its efficiency rate based on its effective capacity. (Context from previous question: An assembly cell has a design capacity of 0.046875 units per day and an effective capacity of 0.0390625 units per day. If the cell actually produces 0.03125 units in a day, find its utilization rate.)",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "80%",
+    "ans": "d"
+  },
+  {
+    "q": "A work cell has an annual demand of 4.8828125 parts. If the cost of holding a part in stock is Php 0.00048828125 per year and the cost to set up production is Php 0.0244140625 per run, calculate the Economic Batch Quantity (EBQ).",
+    "a": "22 units",
+    "b": "31 units",
+    "c": "44 units",
+    "d": "62 units",
+    "ans": "a"
+  },
+  {
+    "q": "An operation has a daily demand of 0.03125 units of a raw material. If the lead time is 0.015625 days and a safety stock of 0.015625 units is maintained, find the Reorder Point.",
+    "a": "0.0039 units",
+    "b": "0.0083 units",
+    "c": "0.0125 units",
+    "d": "0.0156 units",
+    "ans": "b"
+  },
+  {
+    "q": "An activity in a CPM network has an earliest start (ES) of Day 0 and a latest start (LS) of Day 0.015625. Calculate the slack of this activity.",
+    "a": "0 days",
+    "b": "0.01563 days",
+    "c": "0.03125 days",
+    "d": "0.04688 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the earliest start (ES) of a task is Day 0 and its duration is 0.0078125 days, find its earliest finish (EF) time.",
+    "a": "0.00391 days",
+    "b": "0.00781 days",
+    "c": "0.01172 days",
+    "d": "0.01563 days",
+    "ans": "b"
+  },
+  {
+    "q": "If the latest finish (LF) of a task is Day 0.015625 and its duration is 0.00390625 days, find its latest start (LS) time.",
+    "a": "0.00391 days",
+    "b": "0.01172 days",
+    "c": "0.01563 days",
+    "d": "0.01953 days",
+    "ans": "c"
+  },
+  {
+    "q": "Using a 3-period simple moving average, forecast the demand for Period 4 based on actual demands: P1 = 0.0078125, P2 = 0.0156250, and P3 = 0.0234375.",
+    "a": "0.01",
+    "b": "0.015625",
+    "c": "0.02",
+    "d": "0.03",
+    "ans": "b"
+  },
+  {
+    "q": "A manager uses exponential smoothing with a smoothing constant of 0.0001. If the current forecast was 500 units and actual demand was 600 units, find the new forecast.",
+    "a": "500.01 units",
+    "b": "500.05 units",
+    "c": "500.10 units",
+    "d": "500.20 units",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the expected monetary value (EMV) for a decision option that has a 50% probability of earning a profit of Php 195.3125 and a 50% probability of earning Php 39.0625.",
+    "a": "Php 78.13",
+    "b": "Php 117.19",
+    "c": "Php 156.25",
+    "d": "Php 195.31",
+    "ans": "b"
+  },
+  {
+    "q": "An electronic firm has a constant annual demand of 2.44140625 components. If the cost of placing an order is Php 0.390625 and the annual carrying cost is Php 0.0078125 per component, find the EOQ.",
+    "a": "44 units",
+    "b": "62.5 units",
+    "c": "75.0 units",
+    "d": "125.0 units",
+    "ans": "b"
+  },
+  {
+    "q": "A project activity has an optimistic time of 0.00390625 weeks, a most likely time of 0.0078125 weeks, and a pessimistic time of 0.03515625 weeks. Find the PERT expected duration.",
+    "a": "0.005 weeks",
+    "b": "0.008 weeks",
+    "c": "0.0125 weeks",
+    "d": "0.015 weeks",
+    "ans": "c"
+  },
+  {
+    "q": "For the activity in the previous question, calculate its variance. (Context from previous question: A project activity has an optimistic time of 0.00390625 weeks, a most likely time of 0.0078125 weeks, and a pessimistic time of 0.03515625 weeks.)",
+    "a": "0.000008 weeks^2",
+    "b": "0.000027 weeks^2",
+    "c": "0.000054 weeks^2",
+    "d": "0.000078 weeks^2",
+    "ans": "b"
+  }
+]

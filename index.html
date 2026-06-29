@@ -270,12 +270,12 @@ body {
 }
 
 /* Subject and Subtopics Selector Custom Styles */
-.subject-selector, .mode-selector {
+.subject-selector, .mode-selector, .feedback-style-selector {
   display: flex;
   gap: 1rem;
   margin-bottom: 1.5rem;
 }
-.subj-btn, .mode-btn {
+.subj-btn, .mode-btn, .feedback-btn {
   flex: 1;
   padding: 0.75rem;
   background: var(--background);
@@ -289,11 +289,14 @@ body {
   transition: all 0.2s;
   text-align: center;
 }
-.subj-btn:hover, .mode-btn:hover {
+.subj-btn {
+  padding: 0.5rem; /* slightly tighter padding for 4-column subject grid */
+}
+.subj-btn:hover, .mode-btn:hover, .feedback-btn:hover {
   background: var(--muted);
   color: var(--foreground);
 }
-.subj-btn.active, .mode-btn.active {
+.subj-btn.active, .mode-btn.active, .feedback-btn.active {
   background: var(--primary);
   color: var(--primary-foreground);
   border-color: var(--primary);
@@ -525,18 +528,29 @@ body {
     <div style="width: 100%;">
       <h1 id="setup-title" style="margin-bottom: 1.5rem; text-align: center; text-transform: uppercase; letter-spacing: 0.05em;">Reviewer</h1>
       
-      <!-- Subject Selector -->
-      <div class="subject-selector">
+      <!-- Subject Selector (4 columns) -->
+      <div class="subject-selector" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; margin-bottom: 1.5rem;">
         <button class="subj-btn active" data-subject="ELEX">ELEX</button>
         <button class="subj-btn" data-subject="ESAT">ESAT</button>
+        <button class="subj-btn" data-subject="GEAS">GEAS</button>
+        <button class="subj-btn" data-subject="MATH">MATH</button>
       </div>
 
       <!-- Test Mode Selector -->
       <div style="margin-bottom: 1rem;">
         <label style="display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.875rem;">Test Mode:</label>
-        <div class="mode-selector">
+        <div class="mode-selector" style="margin-bottom: 0.5rem;">
           <button class="mode-btn active" data-mode="flashcard">Flashcard</button>
           <button class="mode-btn" data-mode="exam">Exam Mode</button>
+        </div>
+      </div>
+
+      <!-- Feedback Style Selector (shown only for Exam Mode) -->
+      <div id="feedback-style-container" style="margin-bottom: 1rem; display: none;">
+        <label style="display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.875rem;">Feedback Style:</label>
+        <div class="feedback-style-selector" style="margin-bottom: 0.5rem;">
+          <button class="feedback-btn active" data-feedback="deferred">At the end of test</button>
+          <button class="feedback-btn" data-feedback="immediate">Immediately after</button>
         </div>
       </div>
 
@@ -593,10 +607,10 @@ body {
       </div>
     </div>
     
-    <!-- Score Banner (shown post-submit) -->
+    <!-- Score Banner (shown post-submit or running in immediate feedback mode) -->
     <div id="exam-score-banner" class="hidden" style="background: var(--muted); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; text-align: center; margin-bottom: 1.5rem;">
-      <h2 style="font-size: 1.25rem; font-weight: 600;">Exam Score: <span id="exam-score-val">0</span> / <span id="exam-total-val">0</span></h2>
-      <p style="font-size: 0.875rem; color: var(--muted-foreground); margin-top: 0.25rem;">Scroll down to review your answers.</p>
+      <h2 style="font-size: 1.15rem; font-weight: 600;">Exam Score: <span id="exam-score-val">0</span> / <span id="exam-total-val">0</span></h2>
+      <p style="font-size: 0.825rem; color: var(--muted-foreground); margin-top: 0.25rem;">Scroll down to review your answers.</p>
     </div>
     
     <div id="exam-questions-container" style="flex-grow: 1; overflow-y: auto; margin-bottom: 1.5rem; padding-right: 0.5rem; display: flex; flex-direction: column; gap: 1.5rem;">
@@ -647,7 +661,6 @@ const storage = {
   },
   
   get(name) {
-    // Try to get from cookie first
     try {
       const nameEQ = name + "=";
       const ca = document.cookie.split(';');
@@ -739,11 +752,34 @@ const SUBJECT_CONFIG = {
       { name: 'Telephony, Cellular, and Wireless Communications', filename: 'telephony_cellular_and_wireless_communications_questions.json' },
       { name: 'Transmission Lines and Waveguides', filename: 'transmission_lines_and_waveguides_questions.json' }
     ]
+  },
+  GEAS: {
+    folder: 'GEAS',
+    files: [
+      { name: 'Chemistry and Atomic Structure', filename: 'chemistry_and_atomic_structure_questions.json' },
+      { name: 'Engineering Economics', filename: 'engineering_economics_questions.json' },
+      { name: 'Engineering Laws, Ethics and Standards', filename: 'engineering_laws_ethics_and_standards_questions.json' },
+      { name: 'Engineering Management', filename: 'engineering_management_questions.json' },
+      { name: 'Engineering Materials', filename: 'engineering_materials_questions.json' },
+      { name: 'Engineering Thermodynamics', filename: 'engineering_thermodynamics_questions.json' },
+      { name: 'Physics and Engineering Mechanics', filename: 'physics_and_engineering_mechanics_questions.json' }
+    ]
+  },
+  MATH: {
+    folder: 'MATH',
+    files: [
+      { name: 'Advanced Engineering Mathematics', filename: 'advanced_engineering_mathematics_questions.json' },
+      { name: 'Differential Calculus', filename: 'differential_calculus_questions.json' },
+      { name: 'Differential Equations', filename: 'differential_equations_questions.json' },
+      { name: 'Integral Calculus', filename: 'integral_calculus_questions.json' },
+      { name: 'Algebra, Trigonometry and Geometry', filename: 'algebra_trigonometry_and_geometry_questions.json' }
+    ]
   }
 };
 
 let activeSubject = 'ELEX';
 let activeMode = 'flashcard';
+let activeFeedbackStyle = 'deferred';
 let quizData = [];
 let activeQuiz = null;
 let answered = false;
@@ -770,6 +806,7 @@ const el = {
   selectAll: document.getElementById('select-all'),
   deselectAll: document.getElementById('deselect-all'),
   
+  feedbackStyleContainer: document.getElementById('feedback-style-container'),
   examPrintBtn: document.getElementById('exam-print-btn'),
   examQuitBtn: document.getElementById('exam-quit-btn'),
   examScoreBanner: document.getElementById('exam-score-banner'),
@@ -779,7 +816,7 @@ const el = {
   examSubmitBtn: document.getElementById('exam-submit-btn')
 };
 
-// Render the checklist of subtopics for the active subject
+// Render subtopics list
 function renderSubtopics(overrideSelectedList = null) {
   el.subtopicsList.innerHTML = '';
   const config = SUBJECT_CONFIG[activeSubject];
@@ -905,10 +942,29 @@ document.querySelectorAll('.mode-btn').forEach(btn => {
     btn.classList.add('active');
     activeMode = btn.dataset.mode;
     storage.set('active_mode_review_app', activeMode);
+    updateFeedbackSelectorVisibility();
   });
 });
 
-// Load the selected questions pool
+// Feedback style selection handlers
+document.querySelectorAll('.feedback-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.feedback-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFeedbackStyle = btn.dataset.feedback;
+    storage.set('active_feedback_style_review_app', activeFeedbackStyle);
+  });
+});
+
+function updateFeedbackSelectorVisibility() {
+  if (activeMode === 'exam') {
+    el.feedbackStyleContainer.style.display = 'block';
+  } else {
+    el.feedbackStyleContainer.style.display = 'none';
+  }
+}
+
+// Load selected questions pool
 async function loadQuestionsPool() {
   const checkboxes = el.subtopicsList.querySelectorAll('input[type="checkbox"]');
   const selectedFiles = [];
@@ -1047,6 +1103,15 @@ async function init() {
     });
   }
   
+  const savedFeedbackStyle = storage.get('active_feedback_style_review_app');
+  if (savedFeedbackStyle) {
+    activeFeedbackStyle = savedFeedbackStyle;
+    document.querySelectorAll('.feedback-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.feedback === activeFeedbackStyle);
+    });
+  }
+  
+  updateFeedbackSelectorVisibility();
   renderSubtopics();
   showScreen('setup');
 }
@@ -1083,6 +1148,7 @@ el.startBtn.addEventListener('click', async () => {
     subject: activeSubject,
     subtopics: selectedSubtopics,
     mode: activeMode,
+    feedbackStyle: activeMode === 'exam' ? activeFeedbackStyle : 'immediate',
     questions: generateQuiz(num),
     currentIndex: 0,
     score: 0,
@@ -1215,15 +1281,7 @@ el.restartBtn.addEventListener('click', () => {
 function renderExam() {
   el.examQuestionsContainer.innerHTML = '';
   
-  if (activeQuiz.submitted) {
-    el.examScoreVal.textContent = activeQuiz.score;
-    el.examTotalVal.textContent = activeQuiz.questions.length;
-    el.examScoreBanner.classList.remove('hidden');
-    el.examSubmitBtn.textContent = "Return to Menu";
-  } else {
-    el.examScoreBanner.classList.add('hidden');
-    el.examSubmitBtn.textContent = "Submit Exam";
-  }
+  updateExamScoreBanner();
 
   activeQuiz.questions.forEach((qIndex, numIdx) => {
     const q = quizData[qIndex];
@@ -1241,6 +1299,9 @@ function renderExam() {
     const choicesDiv = document.createElement('div');
     choicesDiv.className = 'exam-choices';
 
+    // In immediate feedback mode, if the question has been answered, lock it
+    const isQuestionGraded = activeQuiz.submitted || (activeQuiz.feedbackStyle === 'immediate' && userAns !== undefined);
+
     ['a', 'b', 'c', 'd'].forEach(opt => {
       if (q[opt]) {
         const label = document.createElement('label');
@@ -1253,19 +1314,25 @@ function renderExam() {
         radio.className = 'exam-radio';
         radio.checked = (userAns === opt);
         
-        if (activeQuiz.submitted) {
+        if (isQuestionGraded) {
           radio.disabled = true;
           if (opt === correctAns) {
             label.classList.add('correct-choice');
           } else if (userAns === opt && opt !== correctAns) {
             label.classList.add('incorrect-choice');
           } else if (opt === correctAns && userAns !== opt) {
+            // Draw a dashed border on the correct answer if the user missed it
             label.classList.add('unselected-correct-choice');
           }
         } else {
           radio.addEventListener('change', () => {
             activeQuiz.userAnswers[qIndex] = opt;
             saveActiveQuiz();
+            
+            // If immediate feedback style is active, re-render immediately to show grade
+            if (activeQuiz.feedbackStyle === 'immediate') {
+              renderExam();
+            }
           });
         }
 
@@ -1281,8 +1348,52 @@ function renderExam() {
     card.appendChild(choicesDiv);
     el.examQuestionsContainer.appendChild(card);
   });
+}
+
+function updateExamScoreBanner() {
+  const isImmediate = activeQuiz.feedbackStyle === 'immediate';
   
-  el.examQuestionsContainer.scrollTop = 0;
+  if (activeQuiz.submitted || isImmediate) {
+    let score = 0;
+    let answeredCount = 0;
+    
+    activeQuiz.questions.forEach(qIndex => {
+      const q = quizData[qIndex];
+      const uAns = activeQuiz.userAnswers[qIndex];
+      if (uAns) {
+        answeredCount++;
+        if (uAns.trim().toLowerCase() === q.ans.trim().toLowerCase()) {
+          score++;
+        }
+      }
+    });
+    
+    activeQuiz.score = score;
+    el.examScoreVal.textContent = score;
+    el.examTotalVal.textContent = activeQuiz.questions.length;
+    el.examScoreBanner.classList.remove('hidden');
+    
+    const bannerTitle = el.examScoreBanner.querySelector('h2');
+    const bannerText = el.examScoreBanner.querySelector('p');
+    
+    if (activeQuiz.submitted) {
+      bannerTitle.innerHTML = `Final Exam Score: <span id="exam-score-val">${score}</span> / <span id="exam-total-val">${activeQuiz.questions.length}</span>`;
+      bannerText.textContent = "Exam completed. Scroll down to review your answers.";
+      el.examSubmitBtn.textContent = "Return to Menu";
+    } else {
+      bannerTitle.innerHTML = `Running Score: <span id="exam-score-val">${score}</span> / <span id="exam-total-val">${activeQuiz.questions.length}</span>`;
+      bannerText.textContent = `Progress: ${answeredCount} of ${activeQuiz.questions.length} questions answered.`;
+      
+      if (answeredCount === activeQuiz.questions.length) {
+        el.examSubmitBtn.textContent = "Complete Exam";
+      } else {
+        el.examSubmitBtn.textContent = "Submit Exam";
+      }
+    }
+  } else {
+    el.examScoreBanner.classList.add('hidden');
+    el.examSubmitBtn.textContent = "Submit Exam";
+  }
 }
 
 el.examSubmitBtn.addEventListener('click', () => {
@@ -1292,6 +1403,7 @@ el.examSubmitBtn.addEventListener('click', () => {
     return;
   }
 
+  // Submit and grade all questions
   let score = 0;
   activeQuiz.questions.forEach(qIndex => {
     const q = quizData[qIndex];
@@ -1306,6 +1418,9 @@ el.examSubmitBtn.addEventListener('click', () => {
   saveActiveQuiz();
 
   renderExam();
+  
+  // Scroll to top to show score banner
+  el.examQuestionsContainer.scrollTop = 0;
 });
 
 el.examQuitBtn.addEventListener('click', () => {

@@ -856,7 +856,7 @@
     "ans": "b"
   },
   {
-    "q": "For the system in the previous questions, calculate the SWR on the feedline.",
+    "q": "For the system in the previous questions, calculate the SWR on the feedline. (Context from previous question: For the system in the previous question (incident power = 100 W, reflected power = 4 W, Gamma = 0.2), calculate the return loss in dB. A 50 ohm line is connected to an antenna. If the reflected power is measured at 4 W when the incident power is 100 W, calculate the reflection coefficient.)",
     "a": "1.25",
     "b": "1.50",
     "c": "1.80",
@@ -944,7 +944,7 @@
     "ans": "b"
   },
   {
-    "q": "For the waveguide in the previous questions, calculate the group velocity (v_g) inside the guide.",
+    "q": "For the waveguide in the previous questions, calculate the group velocity (v_g) inside the guide. (Context from previous question: For the waveguide in the previous question (f = 10 GHz, f_c = 6 GHz), calculate the phase velocity (v_p) inside the guide. An air-filled waveguide operates at 10 GHz with a cutoff frequency of 6 GHz. (Note: free-space wavelength lambda_0 = 3 cm).)",
     "a": "3.00 x 10^8 m/s",
     "b": "2.20 x 10^8 m/s",
     "c": "4.08 x 10^8 m/s",
@@ -1192,7 +1192,7 @@
     "ans": "b"
   },
   {
-    "q": "For the waveguide in the previous question, calculate the cutoff frequency of the dominant mode if it is air-filled.",
+    "q": "For the waveguide in the previous question, calculate the cutoff frequency of the dominant mode if it is air-filled. (Context from previous question: A waveguide has guide wavelength lambda_g = 6.0 cm and operating frequency wavelength lambda_0 = 3.0 cm.)",
     "a": "10.00 GHz",
     "b": "8.67 GHz",
     "c": "5.00 GHz",
@@ -1664,7 +1664,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load? (Context from previous question: An RF amplifier operates with a Signal-to-Noise Ratio of 50 dB.)",
     "a": "1.73 microvolts",
     "b": "3.47 microvolts",
     "c": "0.86 microvolts",
@@ -1768,7 +1768,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 6 dB.)",
     "a": "0.39 microvolts",
     "b": "0.78 microvolts",
     "c": "0.19 microvolts",
@@ -1872,7 +1872,7 @@
     "ans": "a"
   },
   {
-    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda.",
+    "q": "Calculate the nominal input impedance of the helical antenna from the previous question using the formula R = 140 * C / lambda. (Context from previous question: A helical antenna operating in axial mode has 20 turns, a turn spacing of 0.25 wavelength, and a circumference of 1.0 wavelength.)",
     "a": "140 ohms",
     "b": "70 ohms",
     "c": "150 ohms",
@@ -1928,7 +1928,7 @@
     "ans": "a"
   },
   {
-    "q": "Convert the EIRP of 23 dBW from the previous question into Watts.",
+    "q": "Convert the EIRP of 23 dBW from the previous question into Watts. (Context from previous question: A 200 W transmitter is connected to a half-wave dipole (gain = 2.15 dBi). If the line loss is 2.15 dB, calculate the EIRP (Effective Isotropic Radiated Power) in dBW.)",
     "a": "199.53 W",
     "b": "100.00 W",
     "c": "316.23 W",

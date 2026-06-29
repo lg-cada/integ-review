@@ -816,7 +816,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the maximum transconductance gm0 = 8 mS and pinch-off voltage V_P = -4 V from the previous question, calculate the transconductance gm when V_GS is -1 Volt.",
+    "q": "Using the maximum transconductance gm0 = 8 mS and pinch-off voltage V_P = -4 V from the previous question, calculate the transconductance gm when V_GS is -1 Volt. (Context from previous question: For the JFET in the previous question (IDSS = 12 mA, V_P = -4 V), calculate the drain current when V_GS is -2 Volts. An N-channel JFET has IDSS = 12 mA and V_P = -4 Volts.)",
     "a": "4.0 mS",
     "b": "6.0 mS",
     "c": "3.0 mS",
@@ -968,7 +968,7 @@
     "ans": "b"
   },
   {
-    "q": "If the transistor in the previous question has a minimum beta of 50, calculate the minimum base current (IB) required to guarantee saturation.",
+    "q": "If the transistor in the previous question has a minimum beta of 50, calculate the minimum base current (IB) required to guarantee saturation. (Context from previous question: A common-emitter amplifier has a collector resistor RC = 2k Ohms and operates from a 15-Volt DC source. If the transistor is in saturation and V_CE(sat) is 0.2 Volts, calculate the saturation collector current.)",
     "a": "100 uA",
     "b": "148 uA",
     "c": "74 uA",
@@ -1000,7 +1000,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.67 mS?",
+    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.67 mS? (Context from previous question: An N-channel JFET is biased at V_GS = -1.5 Volts. If IDSS = 10 mA and V_P = -3.0 Volts, calculate the drain current ID.)",
     "a": "5.00 mS",
     "b": "3.33 mS",
     "c": "1.67 mS",
@@ -1048,7 +1048,7 @@
     "ans": "b"
   },
   {
-    "q": "If the incident optical power on the photodiode described in the previous question is 5 micro-Watts, calculate the generated photocurrent.",
+    "q": "If the incident optical power on the photodiode described in the previous question is 5 micro-Watts, calculate the generated photocurrent. (Context from previous question: A PIN photodiode has a quantum efficiency of 80% at an illumination wavelength of 0.8 micro-meters.)",
     "a": "2.05 uA",
     "b": "2.60 uA",
     "c": "3.20 uA",
@@ -1072,7 +1072,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question.",
+    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question. (Context from previous question: A UJT relaxation oscillator has R = 10k Ohms and C = 0.1 micro-Farads. If the intrinsic stand-off ratio is 0.63, calculate the approximate period of oscillation. (Use formula T = R * C * ln(1 / (1 - eta))).)",
     "a": "2.0 kHz",
     "b": "1.0 kHz",
     "c": "500 Hz",
@@ -1088,7 +1088,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 500 mW.",
+    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 500 mW. (Context from previous question: A solar cell has an open-circuit voltage of 0.6 Volts and a short-circuit current of 150 mA. If the fill factor of the solar cell is 0.75, calculate the maximum power output.)",
     "a": "18.0%",
     "b": "13.5%",
     "c": "22.5%",
@@ -1128,7 +1128,7 @@
     "ans": "b"
   },
   {
-    "q": "If the electron drift velocity in the semiconductor sample from the previous question is 10^5 cm/s, calculate the electron mobility.",
+    "q": "If the electron drift velocity in the semiconductor sample from the previous question is 10^5 cm/s, calculate the electron mobility. (Context from previous question: An electric field of 100 V/cm is applied across a semiconductor sample of length 1 mm.)",
     "a": "100 cm^2/V-s",
     "b": "1000 cm^2/V-s",
     "c": "10000 cm^2/V-s",
@@ -1216,7 +1216,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the common-emitter current gain (beta) for the transistor described in the previous question.",
+    "q": "Calculate the common-emitter current gain (beta) for the transistor described in the previous question. (Context from previous question: A transistor has an emitter current of 5.1 mA and a collector current of 5.0 mA.)",
     "a": "50",
     "b": "49",
     "c": "100",
@@ -1248,7 +1248,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the value of the transconductance (gm) of the JFET under the biased condition in the previous question if gm0 is 6.67 mS.",
+    "q": "Calculate the value of the transconductance (gm) of the JFET under the biased condition in the previous question if gm0 is 6.67 mS. (Context from previous question: An N-channel JFET has IDSS = 10 mA and pinch-off voltage V_P = -3.0 Volts.)",
     "a": "5.00 mS",
     "b": "3.33 mS",
     "c": "1.67 mS",
@@ -1272,7 +1272,7 @@
     "ans": "b"
   },
   {
-    "q": "If the MOSFET described in the previous question has V_GS = 1 Volt, what is the drain current ID?",
+    "q": "If the MOSFET described in the previous question has V_GS = 1 Volt, what is the drain current ID? (Context from previous question: An N-channel enhancement-mode MOSFET has threshold voltage V_th = 2 Volts and K = 0.4 mA/V^2.)",
     "a": "0.4 mA",
     "b": "0.0 mA",
     "c": "1.6 mA",
@@ -1304,7 +1304,7 @@
     "ans": "b"
   },
   {
-    "q": "For the UJT described in the previous question, if V_BB is 10 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P.",
+    "q": "For the UJT described in the previous question, if V_BB is 10 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P. (Context from previous question: A UJT has interbase resistance R_BB = 5k Ohms and R_B1 = 3k Ohms.)",
     "a": "6.0 Volts",
     "b": "6.7 Volts",
     "c": "5.3 Volts",
@@ -1432,7 +1432,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the common-emitter current gain (beta) for the transistor described in the previous question.",
+    "q": "Find the common-emitter current gain (beta) for the transistor described in the previous question. (Context from previous question: A transistor has an emitter current of 10.1 mA and a base current of 100 uA.)",
     "a": "50",
     "b": "100",
     "c": "150",
@@ -1464,7 +1464,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the transconductance (gm) of the JFET described in the previous question if gm0 is 8.0 mS.",
+    "q": "Find the transconductance (gm) of the JFET described in the previous question if gm0 is 8.0 mS. (Context from previous question: An N-channel JFET has IDSS = 16 mA and V_P = -4 Volts.)",
     "a": "8.0 mS",
     "b": "4.0 mS",
     "c": "2.0 mS",
@@ -1488,7 +1488,7 @@
     "ans": "b"
   },
   {
-    "q": "If the gate-to-source voltage V_GS of the NMOS in the previous question is 0.5 Volts, find the drain current.",
+    "q": "If the gate-to-source voltage V_GS of the NMOS in the previous question is 0.5 Volts, find the drain current. (Context from previous question: An NMOS enhancement transistor has threshold voltage V_th = 1 Volt and K = 0.5 mA/V^2.)",
     "a": "0.25 mA",
     "b": "0.00 mA",
     "c": "0.50 mA",
@@ -1520,7 +1520,7 @@
     "ans": "b"
   },
   {
-    "q": "For the UJT described in the previous question, if V_BB is 12 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P.",
+    "q": "For the UJT described in the previous question, if V_BB is 12 Volts and forward diode drop is 0.7 Volts, calculate the peak-point voltage V_P. (Context from previous question: A UJT has interbase resistance R_BB = 8k Ohms and base-1 resistance R_B1 = 4.8k Ohms.)",
     "a": "7.2 Volts",
     "b": "7.9 Volts",
     "c": "6.5 Volts",
@@ -1616,7 +1616,7 @@
     "ans": "b"
   },
   {
-    "q": "If the transistor in the previous question has a minimum beta of 100, calculate the minimum base current (IB) required to guarantee saturation.",
+    "q": "If the transistor in the previous question has a minimum beta of 100, calculate the minimum base current (IB) required to guarantee saturation. (Context from previous question: A common-emitter amplifier has a collector resistor RC = 1k Ohms and operates from a 12-Volt DC source. If the transistor is in saturation and V_CE(sat) is 0.2 Volts, calculate the saturation collector current.)",
     "a": "118 uA",
     "b": "118 mA",
     "c": "59 uA",
@@ -1648,7 +1648,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.0 mS?",
+    "q": "What is the transconductance gm of the JFET in the previous question if gm0 is 6.0 mS? (Context from previous question: An N-channel JFET is biased at V_GS = -2.0 Volts. If IDSS = 18 mA and V_P = -6.0 Volts, calculate the drain current ID.)",
     "a": "4.0 mS",
     "b": "3.0 mS",
     "c": "2.0 mS",
@@ -1680,7 +1680,7 @@
     "ans": "b"
   },
   {
-    "q": "If the drain-to-source voltage V_DS of the NMOS in the previous question is 1.5 Volts, find the drain current ID using the linear equation.",
+    "q": "If the drain-to-source voltage V_DS of the NMOS in the previous question is 1.5 Volts, find the drain current ID using the linear equation. (Context from previous question: An enhancement-mode NMOS has V_th = 2.0 Volts and K = 0.5 mA/V^2.)",
     "a": "3.38 mA",
     "b": "2.25 mA",
     "c": "1.12 mA",
@@ -1696,7 +1696,7 @@
     "ans": "a"
   },
   {
-    "q": "If the incident optical power on the photodiode described in the previous question is 10 micro-Watts, calculate the generated photocurrent.",
+    "q": "If the incident optical power on the photodiode described in the previous question is 10 micro-Watts, calculate the generated photocurrent. (Context from previous question: A PIN photodiode has a quantum efficiency of 75% at an illumination wavelength of 0.9 micro-meters.)",
     "a": "5.4 uA",
     "b": "2.7 uA",
     "c": "8.1 uA",
@@ -1720,7 +1720,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question.",
+    "q": "Calculate the frequency of oscillation for the UJT relaxation oscillator described in the previous question. (Context from previous question: A UJT relaxation oscillator has R = 22k Ohms and C = 0.01 micro-Farads. If the intrinsic stand-off ratio is 0.63, calculate the approximate period of oscillation. (Use formula T = R * C * ln(1 / (1 - eta))).)",
     "a": "2.27 kHz",
     "b": "4.55 kHz",
     "c": "9.10 kHz",
@@ -1736,7 +1736,7 @@
     "ans": "a"
   },
   {
-    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 800 mW.",
+    "q": "Calculate the efficiency of the solar cell described in the previous question if the total incident light power on the cell is 800 mW. (Context from previous question: A solar cell has an open-circuit voltage of 0.55 Volts and a short-circuit current of 200 mA. If the fill factor of the solar cell is 0.70, calculate the maximum power output.)",
     "a": "9.6%",
     "b": "4.8%",
     "c": "19.2%",

@@ -688,7 +688,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the DC output voltage of the filtered full-wave rectifier in the previous question if the peak rectified voltage is 15 Volts.",
+    "q": "Calculate the DC output voltage of the filtered full-wave rectifier in the previous question if the peak rectified voltage is 15 Volts. (Context from previous question: A full-wave rectifier is connected to a 50-Hz supply. The filter capacitor has a value of 100 uF and the load current is 100 mA.)",
     "a": "12.5 Volts",
     "b": "10.0 Volts",
     "c": "5.0 Volts",
@@ -704,7 +704,7 @@
     "ans": "b"
   },
   {
-    "q": "For the Zener regulator in the previous question, a load resistor of 150 Ohms is connected across the Zener. Calculate the current flowing through the load.",
+    "q": "For the Zener regulator in the previous question, a load resistor of 150 Ohms is connected across the Zener. Calculate the current flowing through the load. (Context from previous question: A Zener shunt voltage regulator consists of a 15-Volt unregulated DC source, a 100 Ohm series resistor, and a 6.2-Volt Zener diode.)",
     "a": "88.0 mA",
     "b": "41.3 mA",
     "c": "62.0 mA",
@@ -768,7 +768,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the emitter current I_E = 3.3 mA from the previous question, if the collector resistor R_C is 1.5k Ohms and the transistor is in active region, calculate the collector-emitter voltage V_CE. (Assume I_C = I_E).",
+    "q": "Using the emitter current I_E = 3.3 mA from the previous question, if the collector resistor R_C is 1.5k Ohms and the transistor is in active region, calculate the collector-emitter voltage V_CE. (Assume I_C = I_E). (Context from previous question: For the same voltage-divider circuit (V_B = 4.0 V), if the emitter resistor R_E is 1k Ohm and V_BE is 0.7 Volts, calculate the emitter current I_E.)",
     "a": "7.05 Volts",
     "b": "3.75 Volts",
     "c": "12.00 Volts",
@@ -816,7 +816,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the gate voltage V_G = 10 V from the previous question, if the source resistor R_S is 2k Ohms and the measured V_GS is -2 Volts, find the drain current I_D.",
+    "q": "Using the gate voltage V_G = 10 V from the previous question, if the source resistor R_S is 2k Ohms and the measured V_GS is -2 Volts, find the drain current I_D. (Context from previous question: An N-channel JFET voltage-divider bias has V_DD = 20 V, R1 = 1M Ohm, R2 = 1M Ohm.)",
     "a": "5.0 mA",
     "b": "6.0 mA",
     "c": "4.0 mA",
@@ -840,7 +840,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the total voltage gain of 4000 from the previous question into decibels (dB).",
+    "q": "Convert the total voltage gain of 4000 from the previous question into decibels (dB). (Context from previous question: A two-stage cascaded BJT amplifier has a first-stage voltage gain A_v1 = -50 and second-stage voltage gain A_v2 = -80.)",
     "a": "36.0 dB",
     "b": "72.0 dB",
     "c": "54.0 dB",
@@ -928,7 +928,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the equivalent tank capacitance C_eq = 0.05 uF from the previous question, calculate the frequency of oscillation.",
+    "q": "Using the equivalent tank capacitance C_eq = 0.05 uF from the previous question, calculate the frequency of oscillation. (Context from previous question: A Colpitts oscillator has tank circuit capacitors C1 = 0.1 uF and C2 = 0.1 uF, and inductor L = 10 mH.)",
     "a": "15.9 kHz",
     "b": "7.1 kHz",
     "c": "22.5 kHz",
@@ -1072,7 +1072,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the value g_m0 = 8.0 mS from the previous question, calculate the transconductance g_m when V_GS is set to -1.5 Volts.",
+    "q": "Using the value g_m0 = 8.0 mS from the previous question, calculate the transconductance g_m when V_GS is set to -1.5 Volts. (Context from previous question: An N-channel JFET has IDSS = 16 mA and V_P = -4 V.)",
     "a": "4.0 mS",
     "b": "5.0 mS",
     "c": "3.0 mS",
@@ -1168,7 +1168,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions.",
+    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions. (Context from previous question: A shunt Zener regulator has V_in = 12 V, R_S = 150 Ohms, and V_Z = 5.6 V. If the minimum Zener current is 5 mA, calculate the maximum load current that can be drawn.)",
     "a": "239 mW",
     "b": "239 mW (approximated)",
     "c": "400 mW",
@@ -1192,7 +1192,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the base current I_B = 19.8 uA from the previous question, calculate the collector current I_C.",
+    "q": "Using the base current I_B = 19.8 uA from the previous question, calculate the collector current I_C. (Context from previous question: An NPN BJT fixed-bias circuit has V_CC = 10 V, R_B = 470k Ohms, R_C = 2.2k Ohms, and beta = 150.)",
     "a": "1.98 mA",
     "b": "2.97 mA",
     "c": "4.50 mA",
@@ -1288,7 +1288,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total equivalent inductance L_eq = 240 uH from the previous question, calculate the frequency of oscillation.",
+    "q": "Using the total equivalent inductance L_eq = 240 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 100 uH, L2 = 100 uH, and mutual inductance M = 20 uH. If the tank capacitor C is 200 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "726 kHz",
     "b": "726 kHz (approximated)",
     "c": "1.45 MHz",
@@ -1432,7 +1432,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation.",
+    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "1.45 MHz",
     "b": "1.45 MHz (approximated)",
     "c": "2.90 MHz",
@@ -1576,7 +1576,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total equivalent inductance L_eq = 360 uH from the previous question, calculate the frequency of oscillation.",
+    "q": "Using the total equivalent inductance L_eq = 360 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 150 uH, L2 = 150 uH, and mutual inductance M = 30 uH. If the tank capacitor C is 50 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "1.18 MHz",
     "b": "1.18 MHz (approximated)",
     "c": "2.36 MHz",
@@ -1720,7 +1720,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation.",
+    "q": "Using the total equivalent inductance L_eq = 120 uH from the previous question, calculate the frequency of oscillation. (Context from previous question: A Hartley oscillator tank circuit has inductors L1 = 50 uH, L2 = 50 uH, and mutual inductance M = 10 uH. If the tank capacitor C is 100 pF, calculate the total equivalent inductance L_eq (aiding connection).)",
     "a": "726 kHz",
     "b": "726 kHz (approximated)",
     "c": "1.45 MHz",
@@ -1832,7 +1832,7 @@
     "ans": "a"
   },
   {
-    "q": "Using the resonant frequency = 5.03 kHz and Q = 63.2 from the previous questions, calculate the bandwidth of the resonant circuit.",
+    "q": "Using the resonant frequency = 5.03 kHz and Q = 63.2 from the previous questions, calculate the bandwidth of the resonant circuit. (Context from previous question: A series RLC circuit has L = 10 mH, C = 100 nF, and R = 5 Ohms.)",
     "a": "79.6 Hz",
     "b": "79.6 Hz (approximated)",
     "c": "159.2 Hz",
@@ -1912,7 +1912,7 @@
     "ans": "a"
   },
   {
-    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions.",
+    "q": "Find the maximum power rating required for the Zener diode in the previous question under no-load conditions. (Context from previous question: A shunt Zener regulator has V_in = 18 V, R_S = 120 Ohms, and V_Z = 6.8 V. If the minimum Zener current is 10 mA, calculate the maximum load current that can be drawn.)",
     "a": "635 mW",
     "b": "635 mW (approximated)",
     "c": "400 mW",
@@ -1936,7 +1936,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the base current I_B = 21.0 uA from the previous question, calculate the collector current I_C.",
+    "q": "Using the base current I_B = 21.0 uA from the previous question, calculate the collector current I_C. (Context from previous question: An NPN BJT fixed-bias circuit has V_CC = 15 V, R_B = 680k Ohms, R_C = 3.3k Ohms, and beta = 120.)",
     "a": "2.10 mA",
     "b": "2.52 mA",
     "c": "4.50 mA",

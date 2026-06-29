@@ -720,7 +720,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the absolute S/N ratio of 31 from the previous question into decibels.",
+    "q": "Convert the absolute S/N ratio of 31 from the previous question into decibels. (Context from previous question: If a channel has a bandwidth of 200 kHz and a capacity of 1 Mbps, find the minimum required S/N ratio.)",
     "a": "12 dB",
     "b": "15 dB",
     "c": "18 dB",
@@ -856,7 +856,7 @@
     "ans": "b"
   },
   {
-    "q": "For the fiber optic link in the previous question, calculate the round-trip propagation time (RTT) in milliseconds.",
+    "q": "For the fiber optic link in the previous question, calculate the round-trip propagation time (RTT) in milliseconds. (Context from previous question: A fiber optic link has a length of 2000 km. If the propagation velocity in glass is 2 x 10^8 m/s, calculate the one-way propagation delay in milliseconds.)",
     "a": "10 ms",
     "b": "20 ms",
     "c": "40 ms",
@@ -888,7 +888,7 @@
     "ans": "b"
   },
   {
-    "q": "For the LAN in the previous question, if two stations start transmitting at the same time at a rate of 10 Mbps, what is the maximum number of bits that either station can transmit before detecting a collision?",
+    "q": "For the LAN in the previous question, if two stations start transmitting at the same time at a rate of 10 Mbps, what is the maximum number of bits that either station can transmit before detecting a collision? (Context from previous question: A LAN is 500 meters long using a coaxial cable with a velocity factor of 0.66.)",
     "a": "25 bits",
     "b": "51 bits",
     "c": "100 bits",
@@ -968,7 +968,7 @@
     "ans": "b"
   },
   {
-    "q": "For the network in the previous question, if a packet size of 1500 bytes is sent, calculate the ratio of propagation delay to transmission time (a = T_prop / T_trans).",
+    "q": "For the network in the previous question, if a packet size of 1500 bytes is sent, calculate the ratio of propagation delay to transmission time (a = T_prop / T_trans). (Context from previous question: A 10 Gbps fiber network is 100 km long (propagation speed = 2 x 10^8 m/s).)",
     "a": "41.67",
     "b": "416.67",
     "c": "833.33",
@@ -1360,7 +1360,7 @@
     "ans": "b"
   },
   {
-    "q": "For the link in the previous question, what is the minimum sender window size required to achieve a theoretical link utilization of 100%?",
+    "q": "For the link in the previous question, what is the minimum sender window size required to achieve a theoretical link utilization of 100%? (Context from previous question: A link has a round-trip propagation time of 80 milliseconds. If the packet size is 1000 bytes and the link bandwidth is 1 Mbps, calculate the transmission time of a packet in milliseconds.)",
     "a": "5",
     "b": "11",
     "c": "22",
@@ -1368,7 +1368,7 @@
     "ans": "b"
   },
   {
-    "q": "If the sliding window protocol in the previous questions uses a window size of 4, what is the resulting link efficiency?",
+    "q": "If the sliding window protocol in the previous questions uses a window size of 4, what is the resulting link efficiency? (Context from previous question: A link has a round-trip propagation time of 80 milliseconds. If the packet size is 1000 bytes and the link bandwidth is 1 Mbps, calculate the transmission time of a packet in milliseconds. (Context from previous question: A link has a round-trip propagation time of 80 milliseconds. If the packet size is 1000 bytes and the link bandwidth is 1 Mbps, calculate the transmission time of a packet in milliseconds.))",
     "a": "18.18%",
     "b": "36.36%",
     "c": "72.72%",
@@ -1392,7 +1392,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the parameter ratio from the previous question, calculate the Stop-and-Wait protocol efficiency.",
+    "q": "Using the parameter ratio from the previous question, calculate the Stop-and-Wait protocol efficiency. (Context from previous question: A link has a round-trip propagation time of 10 ms. If packet size is 1250 bytes and bandwidth is 2 Mbps, find the value of the ratio of propagation delay to transmission time.)",
     "a": "50.00%",
     "b": "33.33%",
     "c": "16.67%",
@@ -1400,7 +1400,7 @@
     "ans": "b"
   },
   {
-    "q": "If we want to achieve at least 80% efficiency on the link from the previous questions, what is the minimum required sliding window size?",
+    "q": "If we want to achieve at least 80% efficiency on the link from the previous questions, what is the minimum required sliding window size? (Context from previous question: A link has a round-trip propagation time of 10 ms. If packet size is 1250 bytes and bandwidth is 2 Mbps, find the value of the ratio of propagation delay to transmission time. (Context from previous question: A link has a round-trip propagation time of 10 ms. If packet size is 1250 bytes and bandwidth is 2 Mbps, find the value of the ratio of propagation delay to transmission time.))",
     "a": "2",
     "b": "3",
     "c": "4",
@@ -1432,7 +1432,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the minimum window size required to get 90% efficiency on the link from the previous question?",
+    "q": "What is the minimum window size required to get 90% efficiency on the link from the previous question? (Context from previous question: If the packet transmission time is 10 microseconds, and the round-trip propagation time is 90 microseconds, calculate the Stop-and-Wait efficiency.)",
     "a": "5",
     "b": "9",
     "c": "10",
@@ -1448,7 +1448,7 @@
     "ans": "b"
   },
   {
-    "q": "For the system in the previous question, what is the ratio of propagation delay to transmission time?",
+    "q": "For the system in the previous question, what is the ratio of propagation delay to transmission time? (Context from previous question: A system has a round-trip time of 50 ms. Packets are 1000 bytes and the link is 10 Mbps.)",
     "a": "15.62",
     "b": "31.25",
     "c": "62.50",
@@ -1472,7 +1472,7 @@
     "ans": "b"
   },
   {
-    "q": "For the 8-PSK system in the previous question, determine its bandwidth efficiency in bps/Hz if the minimum Nyquist bandwidth is used.",
+    "q": "For the 8-PSK system in the previous question, determine its bandwidth efficiency in bps/Hz if the minimum Nyquist bandwidth is used. (Context from previous question: An 8-PSK system operates with an information bit rate of 24 kbps.)",
     "a": "1 bps/Hz",
     "b": "3 bps/Hz",
     "c": "8 bps/Hz",

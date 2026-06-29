@@ -648,7 +648,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the corporate office traffic of 7.5 Erlangs from the previous question into CCS.",
+    "q": "Convert the corporate office traffic of 7.5 Erlangs from the previous question into CCS. (Context from previous question: A corporate office PBX system logs 180 calls during the busy hour. If the average duration of each call is 150 seconds, calculate the traffic intensity in Erlangs. Use A = (lambda * H_seconds) / 3600.)",
     "a": "150 CCS",
     "b": "270 CCS",
     "c": "180 CCS",
@@ -1000,7 +1000,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the base station EIRP of 52 dBm from the previous question into Watts.",
+    "q": "Convert the base station EIRP of 52 dBm from the previous question into Watts. (Context from previous question: A cellular base station antenna has a transmitter power output of 20 Watts (43 dBm). If the antenna gain is 12 dBi and the cable feed loss is 3 dB, calculate the EIRP in dBm.)",
     "a": "100 Watts",
     "b": "158 Watts",
     "c": "250 Watts",
@@ -1040,7 +1040,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question.",
+    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question. (Context from previous question: A long-distance telephone call is routed via satellite, introducing a one-way distance of 37,500 km.)",
     "a": "250 milliseconds",
     "b": "500 milliseconds",
     "c": "1000 milliseconds",
@@ -1416,7 +1416,7 @@
     "ans": "b"
   },
   {
-    "q": "Convert the base station EIRP of 58 dBm from the previous question into Watts.",
+    "q": "Convert the base station EIRP of 58 dBm from the previous question into Watts. (Context from previous question: A cellular base station antenna has a transmitter power output of 40 Watts (46 dBm). If the antenna gain is 15 dBi and the cable feed loss is 3 dB, calculate the EIRP in dBm.)",
     "a": "316 Watts",
     "b": "631 Watts",
     "c": "1000 Watts",
@@ -1456,7 +1456,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question.",
+    "q": "Calculate the round-trip talker echo delay in milliseconds for the satellite link in the previous question. (Context from previous question: A long-distance telephone call is routed via satellite, introducing a one-way distance of 36,000 km.)",
     "a": "120 milliseconds",
     "b": "240 milliseconds",
     "c": "480 milliseconds",

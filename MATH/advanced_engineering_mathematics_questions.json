@@ -1,0 +1,3338 @@
+[
+  {
+    "q": "What is the complex conjugate of a complex number z = x + i*y defined as?",
+    "a": "x - i*y",
+    "b": "-x + i*y",
+    "c": "-x - i*y",
+    "d": "y + i*x",
+    "ans": "a"
+  },
+  {
+    "q": "On an Argand diagram, what represents a complex number geometrically?",
+    "a": "A point or phasor on a two-dimensional coordinate plane",
+    "b": "A line segment in a one-dimensional space",
+    "c": "A surface in a three-dimensional Cartesian space",
+    "d": "A scalar magnitude along the horizontal real axis only",
+    "ans": "a"
+  },
+  {
+    "q": "What is the horizontal axis of the complex plane commonly called?",
+    "a": "Real axis",
+    "b": "Imaginary axis",
+    "c": "Conjugate axis",
+    "d": "Polar axis",
+    "ans": "a"
+  },
+  {
+    "q": "What is the vertical axis of the complex plane commonly called?",
+    "a": "Imaginary axis",
+    "b": "Real axis",
+    "c": "Modulus axis",
+    "d": "Radial axis",
+    "ans": "a"
+  },
+  {
+    "q": "What is the modulus (or absolute value) of the complex number z = x + i*y?",
+    "a": "sqrt(x^2 + y^2)",
+    "b": "x^2 + y^2",
+    "c": "x + y",
+    "d": "sqrt(x^2 - y^2)",
+    "ans": "a"
+  },
+  {
+    "q": "The argument of a complex number z = x + i*y in the first quadrant is given by which formula?",
+    "a": "arctan(y/x)",
+    "b": "arctan(x/y)",
+    "c": "arcsin(y/x)",
+    "d": "arccos(x/y)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the polar form of a complex number z commonly written as?",
+    "a": "r * (cos(theta) + i * sin(theta))",
+    "b": "r * (sin(theta) + i * cos(theta))",
+    "c": "r * cos(theta) - i * sin(theta)",
+    "d": "cos(theta) + i * sin(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the exponential form of a complex number z based on Euler's formula?",
+    "a": "r * e^(i * theta)",
+    "b": "r * e^(-theta)",
+    "c": "e^(r * theta)",
+    "d": "r * i * e^theta",
+    "ans": "a"
+  },
+  {
+    "q": "According to De Moivre's Formula, what is [r * (cos(theta) + i * sin(theta))]^n equal to for any integer n?",
+    "a": "r^n * (cos(n * theta) + i * sin(n * theta))",
+    "b": "r * (cos(n * theta) + i * sin(n * theta))",
+    "c": "r^n * (cos^n(theta) + i * sin^n(theta))",
+    "d": "n * r * (cos(theta) + i * sin(theta))",
+    "ans": "a"
+  },
+  {
+    "q": "What is the product of a complex number z and its complex conjugate z_bar?",
+    "a": "|z|^2",
+    "b": "|z|",
+    "c": "z^2",
+    "d": "2 * Real(z)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the sum of a complex number z and its conjugate z_bar equal to?",
+    "a": "2 * Real(z)",
+    "b": "2 * Imag(z)",
+    "c": "0",
+    "d": "|z|^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the difference between a complex number z and its conjugate z_bar equal to?",
+    "a": "2 * i * Imag(z)",
+    "b": "2 * Imag(z)",
+    "c": "2 * Real(z)",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "In phasor notation used in electrical engineering, a sinusoid A * cos(omega * t + phi) is represented as what?",
+    "a": "A /_ phi",
+    "b": "A /_ omega",
+    "c": "omega /_ phi",
+    "d": "A * e^(i * omega * t)",
+    "ans": "a"
+  },
+  {
+    "q": "If two complex numbers are equal, then which of the following statements must be true?",
+    "a": "Their real parts are equal and their imaginary parts are equal",
+    "b": "Their moduli are equal and their arguments are equal",
+    "c": "Only their moduli are equal",
+    "d": "Their sum must be a real number",
+    "ans": "a"
+  },
+  {
+    "q": "Where does the complex number z = -3 - 4i lie on the Argand diagram?",
+    "a": "Third quadrant",
+    "b": "First quadrant",
+    "c": "Second quadrant",
+    "d": "Fourth quadrant",
+    "ans": "a"
+  },
+  {
+    "q": "Where does the complex number z = 5 - 2i lie on the Argand diagram?",
+    "a": "Fourth quadrant",
+    "b": "First quadrant",
+    "c": "Second quadrant",
+    "d": "Third quadrant",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the sum of the complex numbers z_1 = 3 + 4i and z_2 = 2 - 7i.",
+    "a": "5 - 3i",
+    "b": "5 + 11i",
+    "c": "1 - 3i",
+    "d": "6 - 28i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the difference: (5 - 2i) - (8 - 6i).",
+    "a": "-3 + 4i",
+    "b": "3 - 4i",
+    "c": "-3 - 8i",
+    "d": "13 - 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the product of the complex numbers: (2 + 3i) * (1 - 4i).",
+    "a": "14 - 5i",
+    "b": "2 - 12i",
+    "c": "14 - 11i",
+    "d": "-10 - 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (1 + i) / (1 - i).",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "1 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the expression: (2 + i)^2.",
+    "a": "3 + 4i",
+    "b": "5 + 4i",
+    "c": "3",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 1 + i * sqrt(3) into polar form.",
+    "a": "2 * (cos(60°) + i * sin(60°))",
+    "b": "2 * (cos(30°) + i * sin(30°))",
+    "c": "4 * (cos(60°) + i * sin(60°))",
+    "d": "2 * (cos(45°) + i * sin(45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = -3 + 3i into polar form.",
+    "a": "3 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "b": "3 * (cos(135°) + i * sin(135°))",
+    "c": "3 * sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "3 * sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 4 * e^(i * pi/6) into rectangular form.",
+    "a": "2 * sqrt(3) + 2i",
+    "b": "2 + 2 * sqrt(3) * i",
+    "c": "2 * sqrt(3) - 2i",
+    "d": "4 * sqrt(3) + 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 5 /_ 53.13° into rectangular form.",
+    "a": "3 + 4i",
+    "b": "4 + 3i",
+    "c": "3 - 4i",
+    "d": "4 - 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Using De Moivre's theorem, evaluate: (1 + i)^8.",
+    "a": "16",
+    "b": "16i",
+    "c": "-16",
+    "d": "8 + 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Using De Moivre's theorem, evaluate: (sqrt(3) + i)^6.",
+    "a": "-64",
+    "b": "64",
+    "c": "64i",
+    "d": "-64i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (3 + 4i) * (5 - 12i).",
+    "a": "65",
+    "b": "17",
+    "c": "13",
+    "d": "60",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (1 + 2i) / (2 - i).",
+    "a": "1",
+    "b": "5",
+    "c": "sqrt(5)",
+    "d": "0.2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^50.",
+    "a": "-1",
+    "b": "1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^101.",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the real and imaginary parts of: z = ln(1 + i).",
+    "a": "Real = 0.5 * ln(2), Imag = pi/4",
+    "b": "Real = ln(2), Imag = pi/4",
+    "c": "Real = 0.5 * ln(2), Imag = pi/2",
+    "d": "Real = ln(2), Imag = pi/2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi).",
+    "a": "-1",
+    "b": "1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the principal value of: i^i.",
+    "a": "e^(-pi/2)",
+    "b": "e^(pi/2)",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: sin(i).",
+    "a": "i * sinh(1)",
+    "b": "sinh(1)",
+    "c": "i * cosh(1)",
+    "d": "cosh(1)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cos(i).",
+    "a": "cosh(1)",
+    "b": "i * cosh(1)",
+    "c": "sinh(1)",
+    "d": "i * sinh(1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is a scalar physical quantity?",
+    "a": "A quantity described completely by its magnitude only",
+    "b": "A quantity described by both magnitude and direction",
+    "c": "A quantity that varies only with time",
+    "d": "A quantity represented by a matrix",
+    "ans": "a"
+  },
+  {
+    "q": "What is a vector physical quantity?",
+    "a": "A quantity described completely by both a magnitude and a direction",
+    "b": "A quantity described by its magnitude only",
+    "c": "A quantity that has no units",
+    "d": "A quantity that is always constant",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is classified as a scalar quantity?",
+    "a": "Temperature",
+    "b": "Velocity",
+    "c": "Force",
+    "d": "Acceleration",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is classified as a vector quantity?",
+    "a": "Velocity",
+    "b": "Mass",
+    "c": "Density",
+    "d": "Energy",
+    "ans": "a"
+  },
+  {
+    "q": "What is a unit vector defined as?",
+    "a": "A vector with a magnitude of exactly 1",
+    "b": "A vector with a magnitude of 0",
+    "c": "A vector pointing along the positive x-axis only",
+    "d": "A vector that has no direction",
+    "ans": "a"
+  },
+  {
+    "q": "How is the unit vector u in the direction of a non-zero vector V calculated?",
+    "a": "u = V / |V|",
+    "b": "u = V * |V|",
+    "c": "u = |V| / V",
+    "d": "u = V - |V|",
+    "ans": "a"
+  },
+  {
+    "q": "What is the dot product (scalar product) of two vectors A and B equal to?",
+    "a": "|A| * |B| * cos(theta)",
+    "b": "|A| * |B| * sin(theta)",
+    "c": "|A| * |B|",
+    "d": "A * B * tan(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "If the dot product of two non-zero vectors A and B is exactly 0, what does this indicate about their relative orientation?",
+    "a": "They are orthogonal (perpendicular)",
+    "b": "They are parallel",
+    "c": "They are collinear",
+    "d": "They are pointing in opposite directions",
+    "ans": "a"
+  },
+  {
+    "q": "What is the cross product (vector product) magnitude of two vectors A and B equal to?",
+    "a": "|A| * |B| * sin(theta)",
+    "b": "|A| * |B| * cos(theta)",
+    "c": "|A| * |B|",
+    "d": "A * B * tan(theta)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the direction of the vector resulting from the cross product of A and B?",
+    "a": "Perpendicular to the plane containing both A and B",
+    "b": "Parallel to vector A",
+    "c": "Parallel to vector B",
+    "d": "In the same plane as A and B, bisecting the angle",
+    "ans": "a"
+  },
+  {
+    "q": "If the cross product of two non-zero vectors A and B is the zero vector, what can be concluded?",
+    "a": "They are parallel",
+    "b": "They are perpendicular",
+    "c": "They are orthogonal",
+    "d": "They form a 45-degree angle",
+    "ans": "a"
+  },
+  {
+    "q": "What is the vector differential operator 'Del' (or 'Nabla') defined as in Cartesian coordinates?",
+    "a": "i * d/dx + j * d/dy + k * d/dz",
+    "b": "d/dx + d/dy + d/dz",
+    "c": "i * dx + j * dy + k * dz",
+    "d": "i * d^2/dx^2 + j * d^2/dy^2 + k * d^2/dz^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the gradient of a scalar function f, written as grad(f) or Del(f)?",
+    "a": "A vector function",
+    "b": "A scalar function",
+    "c": "A constant value",
+    "d": "A tensor of rank two",
+    "ans": "a"
+  },
+  {
+    "q": "What is the divergence of a vector function F, written as div(V) or Del * V?",
+    "a": "A scalar function",
+    "b": "A vector function",
+    "c": "A coordinate point",
+    "d": "A matrix",
+    "ans": "a"
+  },
+  {
+    "q": "What is the curl of a vector function F, written as curl(F) or Del x F?",
+    "a": "A vector function",
+    "b": "A scalar function",
+    "c": "A constant",
+    "d": "A scalar potential",
+    "ans": "a"
+  },
+  {
+    "q": "A vector field V whose divergence is zero everywhere (Del * V = 0) is classified as what?",
+    "a": "Solenoidal",
+    "b": "Irrotational",
+    "c": "Conservative",
+    "d": "Laplacian",
+    "ans": "a"
+  },
+  {
+    "q": "A vector field V whose curl is zero everywhere (Del x V = 0) is classified as what?",
+    "a": "Irrotational",
+    "b": "Solenoidal",
+    "c": "Rotational",
+    "d": "Divergent",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplacian of a scalar function f, written as Del^2(f)?",
+    "a": "d^2f/dx^2 + d^2f/dy^2 + d^2f/dz^2",
+    "b": "df/dx + df/dy + df/dz",
+    "c": "i * d^2f/dx^2 + j * d^2f/dy^2 + k * d^2f/dz^2",
+    "d": "(df/dx)^2 + (df/dy)^2 + (df/dz)^2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 3i - 4j + 12k.",
+    "a": "13",
+    "b": "11",
+    "c": "15",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = 2i + 3j - k and B = 4i - j + 2k.",
+    "a": "3",
+    "b": "5",
+    "c": "7",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = i + 2j and B = 3j + 4k.",
+    "a": "8i - 4j + 3k",
+    "b": "8i + 4j + 3k",
+    "c": "8i - 4j - 3k",
+    "d": "i - j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j and B = j + k.",
+    "a": "60°",
+    "b": "30°",
+    "c": "45°",
+    "d": "90°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x^2 * y + y^2 * z at the point (1, 2, 3).",
+    "a": "4i + 13j + 4k",
+    "b": "4i + 12j + 4k",
+    "c": "2i + 13j + 4k",
+    "d": "4i + 13j + 2k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^2 * i + y^2 * j + z^2 * k at the point (2, 3, 4).",
+    "a": "18",
+    "b": "9",
+    "c": "12",
+    "d": "24",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the curl of the vector field F(x, y, z) = yz * i + xz * j + xy * k.",
+    "a": "0i + 0j + 0k",
+    "b": "x * i + y * j + z * k",
+    "c": "z * i + x * j + y * k",
+    "d": "y * i + z * j + x * k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^3 + y^3 + z^3.",
+    "a": "6 * (x + y + z)",
+    "b": "3 * (x^2 + y^2 + z^2)",
+    "c": "6",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of a function f(t) defined as mathematically?",
+    "a": "Integral from 0 to infinity of e^(-s*t) * f(t) dt",
+    "b": "Integral from -infinity to infinity of e^(-s*t) * f(t) dt",
+    "c": "Integral from 0 to t of e^(-s*tau) * f(tau) dtau",
+    "d": "The derivative of f(t) multiplied by e^(-s*t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 1?",
+    "a": "1/s",
+    "b": "1",
+    "c": "s",
+    "d": "1/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(a*t)?",
+    "a": "1 / (s - a)",
+    "b": "1 / (s + a)",
+    "c": "a / (s^2 + a^2)",
+    "d": "s / (s^2 - a^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(w*t)?",
+    "a": "w / (s^2 + w^2)",
+    "b": "s / (s^2 + w^2)",
+    "c": "w / (s^2 - w^2)",
+    "d": "s / (s^2 - w^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(w*t)?",
+    "a": "s / (s^2 + w^2)",
+    "b": "w / (s^2 + w^2)",
+    "c": "s / (s^2 - w^2)",
+    "d": "w / (s^2 - w^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(a*t)?",
+    "a": "a / (s^2 - a^2)",
+    "b": "s / (s^2 - a^2)",
+    "c": "a / (s^2 + a^2)",
+    "d": "s / (s^2 + a^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(a*t)?",
+    "a": "s / (s^2 - a^2)",
+    "b": "a / (s^2 - a^2)",
+    "c": "s / (s^2 + a^2)",
+    "d": "a / (s^2 + a^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^n, where n is a positive integer?",
+    "a": "n! / s^(n+1)",
+    "b": "n! / s^n",
+    "c": "1 / s^(n+1)",
+    "d": "Gamma(n) / s^n",
+    "ans": "a"
+  },
+  {
+    "q": "What is the first shifting theorem of Laplace transforms?",
+    "a": "L{e^(at) * f(t)} = F(s - a)",
+    "b": "L{f(t - a)} = e^(-as) * F(s)",
+    "c": "L{t * f(t)} = -F'(s)",
+    "d": "L{f(at)} = (1/a) * F(s/a)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the derivative of f(t), written as L{f'(t)}?",
+    "a": "s * F(s) - f(0)",
+    "b": "s * F(s)",
+    "c": "F(s) - f(0)",
+    "d": "s^2 * F(s) - s * f(0) - f'(0)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the second derivative of f(t), written as L{f''(t)}?",
+    "a": "s^2 * F(s) - s * f(0) - f'(0)",
+    "b": "s^2 * F(s) - f(0)",
+    "c": "s^2 * F(s) - s * f(0)",
+    "d": "s * F(s) - f(0)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the integral from 0 to t of f(tau) dtau?",
+    "a": "F(s) / s",
+    "b": "s * F(s)",
+    "c": "F(s) - f(0)",
+    "d": "F(s) / s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of t * f(t) equal to?",
+    "a": "-dF(s)/ds",
+    "b": "dF(s)/ds",
+    "c": "F(s)/s",
+    "d": "s * F(s)",
+    "ans": "a"
+  },
+  {
+    "q": "The convolution of two functions f(t) and g(t) is defined by which integral?",
+    "a": "Integral from 0 to t of f(tau) * g(t - tau) dtau",
+    "b": "Integral from 0 to infinity of f(tau) * g(t - tau) dtau",
+    "c": "Integral from 0 to t of f(tau) * g(tau) dtau",
+    "d": "The product of their individual integrals",
+    "ans": "a"
+  },
+  {
+    "q": "According to the Convolution Theorem, what is L{f(t) * g(t)} (where * denotes convolution) equal to?",
+    "a": "F(s) * G(s)",
+    "b": "F(s) + G(s)",
+    "c": "F(s) / G(s)",
+    "d": "Integral of F(s) * G(s) ds",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the Dirac delta function delta(t - a), where a > 0?",
+    "a": "e^(-a * s)",
+    "b": "1",
+    "c": "1 / s",
+    "d": "e^(a * s)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the unit step function (Heaviside step function) u(t - a), where a > 0?",
+    "a": "e^(-a * s) / s",
+    "b": "e^(-a * s)",
+    "c": "1 / (s - a)",
+    "d": "1 / s",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t^2 - 3t + 5}.",
+    "a": "2/s^3 - 3/s^2 + 5/s",
+    "b": "1/s^3 - 3/s^2 + 5/s",
+    "c": "2/s^2 - 3/s + 5",
+    "d": "2/s^3 + 3/s^2 - 5/s",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(2t) * cos(3t).",
+    "a": "(s - 2) / ((s - 2)^2 + 9)",
+    "b": "s / ((s - 2)^2 + 9)",
+    "c": "(s - 2) / (s^2 + 9)",
+    "d": "3 / ((s - 2)^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(-3t).",
+    "a": "1 / (s + 3)^2",
+    "b": "1 / (s - 3)^2",
+    "c": "2 / (s + 3)^3",
+    "d": "1 / s * (s + 3)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{sin(2t) * cos(2t)}.",
+    "a": "2 / (s^2 + 16)",
+    "b": "4 / (s^2 + 16)",
+    "c": "s / (s^2 + 16)",
+    "d": "2 / (s^2 + 4)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Laplace transform of: f(t) = t * sin(3t).",
+    "a": "6s / (s^2 + 9)^2",
+    "b": "6 / (s^2 + 9)^2",
+    "c": "s / (s^2 + 9)^2",
+    "d": "3s / (s^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 4).",
+    "a": "e^(-4t)",
+    "b": "e^(4t)",
+    "c": "t^3",
+    "d": "cos(4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 5 / (s^2 + 25).",
+    "a": "sin(5t)",
+    "b": "cos(5t)",
+    "c": "e^(5t)",
+    "d": "t * e^(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 4).",
+    "a": "cos(2t)",
+    "b": "sin(2t)",
+    "c": "e^(2t)",
+    "d": "0.5 * sin(2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 2)^3.",
+    "a": "0.5 * t^2 * e^(2t)",
+    "b": "t^2 * e^(2t)",
+    "c": "e^(2t)",
+    "d": "0.5 * t^2 * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 100 / [(s + 10)(s + 20)].",
+    "a": "10 * e^(-10t) - 10 * e^(-20t)",
+    "b": "10 * e^(-10t) + 10 * e^(-20t)",
+    "c": "10 * e^(10t) - 10 * e^(20t)",
+    "d": "5 * e^(-10t) - 5 * e^(-20t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 1) / (s^2 + 1).",
+    "a": "cos(t) + sin(t)",
+    "b": "cos(t) - sin(t)",
+    "c": "e^t * cos(t)",
+    "d": "e^(-t) * sin(t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 + s - 6).",
+    "a": "0.2 * e^(2t) - 0.2 * e^(-3t)",
+    "b": "0.2 * e^(2t) + 0.2 * e^(-3t)",
+    "c": "e^(2t) - e^(-3t)",
+    "d": "0.5 * e^(2t) - 0.5 * e^(-3t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is a Fourier series conceptually?",
+    "a": "An expansion of a periodic function into a sum of sine and cosine waves",
+    "b": "An integral transform that converts a function from time domain to frequency domain",
+    "c": "A power series expansion about a specific coordinate point",
+    "d": "An expansion of any function into Legendre polynomials",
+    "ans": "a"
+  },
+  {
+    "q": "A function f(t) is periodic with period T if f(t + T) is equal to what?",
+    "a": "f(t)",
+    "b": "f(t) + T",
+    "c": "-f(t)",
+    "d": "f(t) / T",
+    "ans": "a"
+  },
+  {
+    "q": "What is the fundamental period of the trigonometric function f(t) = sin(omega * t)?",
+    "a": "2 * pi / omega",
+    "b": "pi / omega",
+    "c": "2 * pi",
+    "d": "omega / (2 * pi)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Euler-Fourier coefficient 'a_0' for a function f(t) defined on the interval [-pi, pi] with period 2*pi?",
+    "a": "(1 / pi) * Integral from -pi to pi of f(t) dt",
+    "b": "(1 / (2*pi)) * Integral from -pi to pi of f(t) dt",
+    "c": "(1 / pi) * Integral from 0 to pi of f(t) dt",
+    "d": "Integral from -pi to pi of f(t) dt",
+    "ans": "a"
+  },
+  {
+    "q": "What are the Euler-Fourier coefficients 'a_n' for a function f(t) defined on the interval [-pi, pi]?",
+    "a": "(1 / pi) * Integral from -pi to pi of f(t) * cos(n*t) dt",
+    "b": "(1 / pi) * Integral from -pi to pi of f(t) * sin(n*t) dt",
+    "c": "(1 / (2*pi)) * Integral from -pi to pi of f(t) * cos(n*t) dt",
+    "d": "Integral from -pi to pi of f(t) * cos(n*t) dt",
+    "ans": "a"
+  },
+  {
+    "q": "What are the Euler-Fourier coefficients 'b_n' for a function f(t) defined on the interval [-pi, pi]?",
+    "a": "(1 / pi) * Integral from -pi to pi of f(t) * sin(n*t) dt",
+    "b": "(1 / pi) * Integral from -pi to pi of f(t) * cos(n*t) dt",
+    "c": "(1 / (2*pi)) * Integral from -pi to pi of f(t) * sin(n*t) dt",
+    "d": "Integral from -pi to pi of f(t) * sin(n*t) dt",
+    "ans": "a"
+  },
+  {
+    "q": "If f(t) is an even function (f(-t) = f(t)), what can be concluded about its Fourier series coefficients?",
+    "a": "b_n = 0 for all n",
+    "b": "a_n = 0 for all n",
+    "c": "a_0 = 0 and a_n = 0",
+    "d": "All coefficients are zero",
+    "ans": "a"
+  },
+  {
+    "q": "If f(t) is an odd function (f(-t) = -f(t)), what can be concluded about its Fourier series coefficients?",
+    "a": "a_0 = 0 and a_n = 0 for all n",
+    "b": "b_n = 0 for all n",
+    "c": "Only a_0 = 0",
+    "d": "All coefficients are non-zero",
+    "ans": "a"
+  },
+  {
+    "q": "What mathematical behavior describes the overshoot in the Fourier series representation of a piecewise continuous function near a jump discontinuity?",
+    "a": "Gibbs Phenomenon",
+    "b": "Runge's Phenomenon",
+    "c": "Aliasing effect",
+    "d": "Dirac convergence",
+    "ans": "a"
+  },
+  {
+    "q": "According to Dirichlet's conditions, at a point of discontinuity x_0, the Fourier series converges to what value?",
+    "a": "The average of the left-hand and right-hand limits: 0.5 * (f(x_0-) + f(x_0+))",
+    "b": "The left-hand limit f(x_0-)",
+    "c": "The right-hand limit f(x_0+)",
+    "d": "Zero",
+    "ans": "a"
+  },
+  {
+    "q": "Find the constant term a_0/2 in the Fourier series of the square wave: f(t) = 1 for 0 < t < pi, and f(t) = -1 for -pi < t < 0.",
+    "a": "0",
+    "b": "1/2",
+    "c": "1",
+    "d": "pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coefficient b_n in the Fourier series of the square wave: f(t) = 1 for 0 < t < pi, and f(t) = -1 for -pi < t < 0.",
+    "a": "4 / (n * pi) for odd n, and 0 for even n",
+    "b": "2 / (n * pi) for all n",
+    "c": "4 / (n * pi) for all n",
+    "d": "0 for all n",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = -2 + 5i?",
+    "a": "-2 - 5i",
+    "b": "2 + 5i",
+    "c": "2 - 5i",
+    "d": "-2 + 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (3 + i) + (-1 - 4i).",
+    "a": "2 - 3i",
+    "b": "2 + 3i",
+    "c": "4 - 3i",
+    "d": "2 - 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (7 + 6i) - (3 - 2i).",
+    "a": "4 + 8i",
+    "b": "4 + 4i",
+    "c": "10 + 4i",
+    "d": "4 - 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (1 + 2i) * (3 - i).",
+    "a": "5 + 5i",
+    "b": "3 - 2i",
+    "c": "5 + i",
+    "d": "1 + 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (2 + i) / (1 + i).",
+    "a": "1.5 - 0.5i",
+    "b": "1.5 + 0.5i",
+    "c": "2 + 0.5i",
+    "d": "1 - i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 - i)^2.",
+    "a": "-2i",
+    "b": "2i",
+    "c": "0",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 1 - i into polar form.",
+    "a": "sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "b": "2 * (cos(-45°) + i * sin(-45°))",
+    "c": "sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "sqrt(2) * (cos(135°) + i * sin(135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -4 - 4i into polar form.",
+    "a": "4 * sqrt(2) * (cos(225°) + i * sin(225°))",
+    "b": "4 * (cos(225°) + i * sin(225°))",
+    "c": "4 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "d": "4 * sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 2 * e^(i * pi/3) into rectangular form.",
+    "a": "1 + i * sqrt(3)",
+    "b": "sqrt(3) + i",
+    "c": "1 - i * sqrt(3)",
+    "d": "2 + 2i * sqrt(3)",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 10 /_ 36.87° into rectangular form.",
+    "a": "8 + 6i",
+    "b": "6 + 8i",
+    "c": "8 - 6i",
+    "d": "6 - 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 - i)^4.",
+    "a": "-4",
+    "b": "4",
+    "c": "-4i",
+    "d": "4i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (1 + i) * (3 - 4i).",
+    "a": "5 * sqrt(2)",
+    "b": "5",
+    "c": "10",
+    "d": "5 / sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (3 + i) / (1 - 3i).",
+    "a": "1",
+    "b": "10",
+    "c": "sqrt(10)",
+    "d": "0.1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^60.",
+    "a": "1",
+    "b": "-1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^75.",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/2).",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cos(2i).",
+    "a": "cosh(2)",
+    "b": "i * cosh(2)",
+    "c": "sinh(2)",
+    "d": "i * sinh(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 4i - 4j + 7k.",
+    "a": "9",
+    "b": "5.6",
+    "c": "11",
+    "d": "8.1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = i - 2j + 3k and B = 2i + j - k.",
+    "a": "-3",
+    "b": "3",
+    "c": "-1",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = 2i + j and B = i + 3k.",
+    "a": "3i - 6j - k",
+    "b": "3i + 6j - k",
+    "c": "3i - 6j + k",
+    "d": "-3i + 6j - k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + 2j and B = -2i + j.",
+    "a": "90°",
+    "b": "0°",
+    "c": "180°",
+    "d": "45°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x * y^2 * z^3 at the point (1, 1, 1).",
+    "a": "i + 2j + 3k",
+    "b": "i + j + k",
+    "c": "2i + 2j + 3k",
+    "d": "i + 2j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^3 * i + y^3 * j + z^3 * k at the point (1, 1, 1).",
+    "a": "9",
+    "b": "3",
+    "c": "6",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^2 * y + y^2 * z + z^2 * x.",
+    "a": "2 * (y + z + x)",
+    "b": "2 * (x + y + z)",
+    "c": "2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 5?",
+    "a": "5/s",
+    "b": "5",
+    "c": "1/s",
+    "d": "5/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(-3t)?",
+    "a": "1 / (s + 3)",
+    "b": "1 / (s - 3)",
+    "c": "-3 / (s^2 + 9)",
+    "d": "s / (s^2 - 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(4t)?",
+    "a": "4 / (s^2 + 16)",
+    "b": "s / (s^2 + 16)",
+    "c": "4 / (s^2 - 16)",
+    "d": "s / (s^2 - 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(3t)?",
+    "a": "s / (s^2 + 9)",
+    "b": "3 / (s^2 + 9)",
+    "c": "s / (s^2 - 9)",
+    "d": "3 / (s^2 - 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(2t)?",
+    "a": "2 / (s^2 - 4)",
+    "b": "s / (s^2 - 4)",
+    "c": "2 / (s^2 + 4)",
+    "d": "s / (s^2 + 4)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(5t)?",
+    "a": "s / (s^2 - 25)",
+    "b": "5 / (s^2 - 25)",
+    "c": "s / (s^2 + 25)",
+    "d": "5 / (s^2 + 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^3?",
+    "a": "6 / s^4",
+    "b": "6 / s^3",
+    "c": "1 / s^4",
+    "d": "2 / s^4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t - 2 + e^t}.",
+    "a": "1/s^2 - 2/s + 1/(s-1)",
+    "b": "1/s^2 - 2/s + 1/(s+1)",
+    "c": "1/s - 2 + 1/(s-1)",
+    "d": "1/s^2 - 2/s^2 + 1/(s-1)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(-t) * cos(2t).",
+    "a": "(s + 1) / ((s + 1)^2 + 4)",
+    "b": "s / ((s + 1)^2 + 4)",
+    "c": "(s + 1) / (s^2 + 4)",
+    "d": "2 / ((s + 1)^2 + 4)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(4t).",
+    "a": "1 / (s - 4)^2",
+    "b": "1 / (s + 4)^2",
+    "c": "2 / (s - 4)^3",
+    "d": "1 / s * (s - 4)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 5).",
+    "a": "e^(5t)",
+    "b": "e^(-5t)",
+    "c": "t^4",
+    "d": "cos(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 3 / (s^2 + 9).",
+    "a": "sin(3t)",
+    "b": "cos(3t)",
+    "c": "e^(3t)",
+    "d": "t * e^(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 16).",
+    "a": "cos(4t)",
+    "b": "sin(4t)",
+    "c": "e^(4t)",
+    "d": "0.25 * sin(4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 1)^2.",
+    "a": "t * e^t",
+    "b": "t^2 * e^t",
+    "c": "e^t",
+    "d": "t * e^(-t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 50 / [(s + 5)(s + 15)].",
+    "a": "5 * e^(-5t) - 5 * e^(-15t)",
+    "b": "5 * e^(-5t) + 5 * e^(-15t)",
+    "c": "5 * e^(5t) - 5 * e^(15t)",
+    "d": "10 * e^(-5t) - 10 * e^(-15t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 2) / (s^2 + 4).",
+    "a": "cos(2t) + sin(2t)",
+    "b": "cos(2t) - sin(2t)",
+    "c": "e^(2t) * cos(2t)",
+    "d": "e^(-2t) * sin(2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 + s - 2).",
+    "a": "0.33 * e^t - 0.33 * e^(-2t)",
+    "b": "0.33 * e^t + 0.33 * e^(-2t)",
+    "c": "e^t - e^(-2t)",
+    "d": "0.5 * e^t - 0.5 * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = 4 - 3i?",
+    "a": "4 + 3i",
+    "b": "-4 + 3i",
+    "c": "-4 - 3i",
+    "d": "4 - 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 + 2i) + (2 - i).",
+    "a": "3 + i",
+    "b": "3 + 3i",
+    "c": "3 - i",
+    "d": "1 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (5 - 3i) - (2 + i).",
+    "a": "3 - 4i",
+    "b": "3 - 2i",
+    "c": "7 - 4i",
+    "d": "3 + 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (2 + i) * (1 - i).",
+    "a": "3 - i",
+    "b": "2 - i",
+    "c": "3 + i",
+    "d": "1 - i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (1 + i) / (2 - i).",
+    "a": "0.2 + 0.6i",
+    "b": "0.2 - 0.6i",
+    "c": "0.5 + 0.5i",
+    "d": "0.4 + 0.8i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 + i)^2.",
+    "a": "2i",
+    "b": "-2i",
+    "c": "2",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = sqrt(3) + i into polar form.",
+    "a": "2 * (cos(30°) + i * sin(30°))",
+    "b": "2 * (cos(60°) + i * sin(60°))",
+    "c": "sqrt(2) * (cos(30°) + i * sin(30°))",
+    "d": "2 * (cos(45°) + i * sin(45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -2 + 2i into polar form.",
+    "a": "2 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "b": "2 * (cos(135°) + i * sin(135°))",
+    "c": "2 * sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "2 * sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = e^(i * pi/4) into rectangular form.",
+    "a": "sqrt(2)/2 + i * sqrt(2)/2",
+    "b": "sqrt(2)/2 - i * sqrt(2)/2",
+    "c": "1/2 + i * 1/2",
+    "d": "sqrt(3)/2 + i * 1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 13 /_ 22.62° into rectangular form.",
+    "a": "12 + 5i",
+    "b": "5 + 12i",
+    "c": "12 - 5i",
+    "d": "5 - 12i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 + i)^4.",
+    "a": "-4",
+    "b": "4",
+    "c": "-4i",
+    "d": "4i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (2 - i) * (4 + 3i).",
+    "a": "5 * sqrt(5)",
+    "b": "25",
+    "c": "5 * sqrt(2)",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (1 + i) / (1 - i).",
+    "a": "1",
+    "b": "2",
+    "c": "sqrt(2)",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^80.",
+    "a": "1",
+    "b": "-1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^91.",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/3).",
+    "a": "0.5 + i * sqrt(3)/2",
+    "b": "sqrt(3)/2 + i * 0.5",
+    "c": "0.5 - i * sqrt(3)/2",
+    "d": "sqrt(3)/2 - i * 0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cos(3i).",
+    "a": "cosh(3)",
+    "b": "i * cosh(3)",
+    "c": "sinh(3)",
+    "d": "i * sinh(3)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = i + 2j + 2k.",
+    "a": "3",
+    "b": "5",
+    "c": "9",
+    "d": "2.2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = 3i - j + k and B = i + 2j - k.",
+    "a": "0",
+    "b": "2",
+    "c": "4",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = i - k and B = j + k.",
+    "a": "i - j + k",
+    "b": "i + j + k",
+    "c": "i - j - k",
+    "d": "-i + j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j + k and B = i - j - k.",
+    "a": "109.47°",
+    "b": "70.53°",
+    "c": "45.00°",
+    "d": "120.00°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x^2 * y^2 * z^2 at the point (1, 1, 1).",
+    "a": "2i + 2j + 2k",
+    "b": "i + j + k",
+    "c": "4i + 4j + 4k",
+    "d": "2i + 2j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = y * i + z * j + x * k.",
+    "a": "0",
+    "b": "3",
+    "c": "1",
+    "d": "x + y + z",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^2 + y^2 + z^2.",
+    "a": "6",
+    "b": "2 * (x + y + z)",
+    "c": "2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 10?",
+    "a": "10/s",
+    "b": "10",
+    "c": "1/s",
+    "d": "10/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(5t)?",
+    "a": "1 / (s - 5)",
+    "b": "1 / (s + 5)",
+    "c": "5 / (s^2 + 25)",
+    "d": "s / (s^2 - 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(2t)?",
+    "a": "2 / (s^2 + 4)",
+    "b": "s / (s^2 + 4)",
+    "c": "2 / (s^2 - 4)",
+    "d": "s / (s^2 - 4)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(5t)?",
+    "a": "s / (s^2 + 25)",
+    "b": "5 / (s^2 + 25)",
+    "c": "s / (s^2 - 25)",
+    "d": "5 / (s^2 - 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(3t)?",
+    "a": "3 / (s^2 - 9)",
+    "b": "s / (s^2 - 9)",
+    "c": "3 / (s^2 + 9)",
+    "d": "s / (s^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(2t)?",
+    "a": "s / (s^2 - 4)",
+    "b": "2 / (s^2 - 4)",
+    "c": "s / (s^2 + 4)",
+    "d": "2 / (s^2 + 4)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^4?",
+    "a": "24 / s^5",
+    "b": "24 / s^4",
+    "c": "1 / s^5",
+    "d": "6 / s^5",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t + 3 - e^(-t)}.",
+    "a": "1/s^2 + 3/s - 1/(s+1)",
+    "b": "1/s^2 + 3/s + 1/(s+1)",
+    "c": "1/s + 3 - 1/(s+1)",
+    "d": "1/s^2 + 3/s^2 - 1/(s+1)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(t) * sin(3t).",
+    "a": "3 / ((s - 1)^2 + 9)",
+    "b": "s / ((s - 1)^2 + 9)",
+    "c": "(s - 1) / ((s - 1)^2 + 9)",
+    "d": "3 / (s^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(-2t).",
+    "a": "1 / (s + 2)^2",
+    "b": "1 / (s - 2)^2",
+    "c": "2 / (s + 2)^3",
+    "d": "1 / s * (s + 2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 2).",
+    "a": "e^(-2t)",
+    "b": "e^(2t)",
+    "c": "t",
+    "d": "cos(2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 2 / (s^2 + 4).",
+    "a": "sin(2t)",
+    "b": "cos(2t)",
+    "c": "e^(2t)",
+    "d": "t * e^(2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 9).",
+    "a": "cos(3t)",
+    "b": "sin(3t)",
+    "c": "e^(3t)",
+    "d": "0.33 * sin(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 3)^2.",
+    "a": "t * e^(3t)",
+    "b": "t^2 * e^(3t)",
+    "c": "e^(3t)",
+    "d": "t * e^(-3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 20 / [(s + 2)(s + 4)].",
+    "a": "10 * e^(-2t) - 10 * e^(-4t)",
+    "b": "10 * e^(-2t) + 10 * e^(-4t)",
+    "c": "10 * e^(2t) - 10 * e^(4t)",
+    "d": "5 * e^(-2t) - 5 * e^(-4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 3) / (s^2 + 9).",
+    "a": "cos(3t) + sin(3t)",
+    "b": "cos(3t) - sin(3t)",
+    "c": "e^(3t) * cos(3t)",
+    "d": "e^(-3t) * sin(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 - 1).",
+    "a": "sinh(t)",
+    "b": "cosh(t)",
+    "c": "e^t - e^(-t)",
+    "d": "0.5 * e^t + 0.5 * e^(-t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = -1 - i?",
+    "a": "-1 + i",
+    "b": "1 - i",
+    "c": "1 + i",
+    "d": "-1 - i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (2 + 3i) + (1 + i).",
+    "a": "3 + 4i",
+    "b": "3 + 2i",
+    "c": "3 - 4i",
+    "d": "2 + 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (4 + 2i) - (1 - i).",
+    "a": "3 + 3i",
+    "b": "3 + i",
+    "c": "5 + 3i",
+    "d": "3 - 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (3 + i) * (2 + i).",
+    "a": "5 + 5i",
+    "b": "6 + i",
+    "c": "5 - 5i",
+    "d": "7 + 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (2 - i) / (1 - i).",
+    "a": "1.5 + 0.5i",
+    "b": "1.5 - 0.5i",
+    "c": "1 - i",
+    "d": "2 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (2 - i)^2.",
+    "a": "3 - 4i",
+    "b": "5 - 4i",
+    "c": "3",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 1 + i into polar form.",
+    "a": "sqrt(2) * (cos(45°) + i * sin(45°))",
+    "b": "2 * (cos(45°) + i * sin(45°))",
+    "c": "sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "d": "sqrt(2) * (cos(135°) + i * sin(135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -5 + 5i into polar form.",
+    "a": "5 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "b": "5 * (cos(135°) + i * sin(135°))",
+    "c": "5 * sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "5 * sqrt(2) * (cos(-135°) + i * sin(-135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 3 * e^(i * pi/2) into rectangular form.",
+    "a": "3i",
+    "b": "-3i",
+    "c": "3",
+    "d": "-3",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 10 /_ 120° into rectangular form.",
+    "a": "-5 + 5 * sqrt(3) * i",
+    "b": "5 - 5 * sqrt(3) * i",
+    "c": "-5 - 5 * sqrt(3) * i",
+    "d": "5 * sqrt(3) - 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 + i)^8.",
+    "a": "16",
+    "b": "-16",
+    "c": "16i",
+    "d": "-16i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (3 - 4i)^2.",
+    "a": "25",
+    "b": "5",
+    "c": "7",
+    "d": "625",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (2 + i) / (1 + 2i).",
+    "a": "1",
+    "b": "5",
+    "c": "sqrt(5)",
+    "d": "0.2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^100.",
+    "a": "1",
+    "b": "-1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^111.",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/6).",
+    "a": "sqrt(3)/2 + i * 0.5",
+    "b": "0.5 + i * sqrt(3)/2",
+    "c": "sqrt(3)/2 - i * 0.5",
+    "d": "0.5 - i * sqrt(3)/2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cosh(i).",
+    "a": "cos(1)",
+    "b": "i * cos(1)",
+    "c": "sin(1)",
+    "d": "i * sin(1)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 2i - j + 2k.",
+    "a": "3",
+    "b": "5",
+    "c": "9",
+    "d": "2.2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = 2i + 3j - k and B = 4i - j + 2k.",
+    "a": "-2",
+    "b": "2",
+    "c": "6",
+    "d": "-10",
+    "ans": "a"
+  },
+  {
+    "q": "Find the cross product A x B of vectors A = i + 2j and B = 2j - k.",
+    "a": "2i - 3j + 2k",
+    "b": "2i + 3j - 2k",
+    "c": "-2i - 3j + 2k",
+    "d": "2i + 3j + 2k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i and B = i + j.",
+    "a": "45°",
+    "b": "30°",
+    "c": "60°",
+    "d": "90°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x^3 + y^3 + z^3 at the point (1, 1, 1).",
+    "a": "3i + 3j + 3k",
+    "b": "i + j + k",
+    "c": "6i + 6j + 6k",
+    "d": "3i + 3j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x * i + y * j + z * k.",
+    "a": "3",
+    "b": "0",
+    "c": "1",
+    "d": "x + y + z",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x * y * z.",
+    "a": "0",
+    "b": "x + y + z",
+    "c": "1",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 4?",
+    "a": "4/s",
+    "b": "4",
+    "c": "1/s",
+    "d": "4/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(-2t)?",
+    "a": "1 / (s + 2)",
+    "b": "1 / (s - 2)",
+    "c": "-2 / (s^2 + 4)",
+    "d": "s / (s^2 - 4)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(3t)?",
+    "a": "3 / (s^2 + 9)",
+    "b": "s / (s^2 + 9)",
+    "c": "3 / (s^2 - 9)",
+    "d": "s / (s^2 - 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(2t)?",
+    "a": "s / (s^2 + 4)",
+    "b": "2 / (s^2 + 4)",
+    "c": "s / (s^2 - 4)",
+    "d": "2 / (s^2 - 4)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(4t)?",
+    "a": "4 / (s^2 - 16)",
+    "b": "s / (s^2 - 16)",
+    "c": "4 / (s^2 + 16)",
+    "d": "s / (s^2 + 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(3t)?",
+    "a": "s / (s^2 - 9)",
+    "b": "3 / (s^2 - 9)",
+    "c": "s / (s^2 + 9)",
+    "d": "3 / (s^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^2?",
+    "a": "2 / s^3",
+    "b": "2 / s^2",
+    "c": "1 / s^3",
+    "d": "6 / s^3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t^2 + 1}.",
+    "a": "2/s^3 + 1/s",
+    "b": "1/s^3 + 1/s",
+    "c": "2/s^2 + 1",
+    "d": "2/s^3 + s",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(-3t) * cos(4t).",
+    "a": "(s + 3) / ((s + 3)^2 + 16)",
+    "b": "s / ((s + 3)^2 + 16)",
+    "c": "(s + 3) / (s^2 + 16)",
+    "d": "4 / ((s + 3)^2 + 16)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(5t).",
+    "a": "1 / (s - 5)^2",
+    "b": "1 / (s + 5)^2",
+    "c": "2 / (s - 5)^3",
+    "d": "1 / s * (s - 5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 5).",
+    "a": "e^(-5t)",
+    "b": "e^(5t)",
+    "c": "t^4",
+    "d": "cos(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 4 / (s^2 + 16).",
+    "a": "sin(4t)",
+    "b": "cos(4t)",
+    "c": "e^(4t)",
+    "d": "t * e^(4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 25).",
+    "a": "cos(5t)",
+    "b": "sin(5t)",
+    "c": "e^(5t)",
+    "d": "0.2 * sin(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 2)^2.",
+    "a": "t * e^(2t)",
+    "b": "t^2 * e^(2t)",
+    "c": "e^(2t)",
+    "d": "t * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 30 / [(s + 3)(s + 13)].",
+    "a": "3 * e^(-3t) - 3 * e^(-13t)",
+    "b": "3 * e^(-3t) + 3 * e^(-13t)",
+    "c": "3 * e^(3t) - 3 * e^(13t)",
+    "d": "6 * e^(-3t) - 6 * e^(-13t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 1) / (s^2 + 1).",
+    "a": "cos(t) + sin(t)",
+    "b": "cos(t) - sin(t)",
+    "c": "e^t * cos(t)",
+    "d": "e^(-t) * sin(t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 + 3s + 2).",
+    "a": "e^(-t) - e^(-2t)",
+    "b": "e^(-t) + e^(-2t)",
+    "c": "e^t - e^(2t)",
+    "d": "0.5 * e^(-t) - 0.5 * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = -3 + 2i?",
+    "a": "-3 - 2i",
+    "b": "3 + 2i",
+    "c": "3 - 2i",
+    "d": "-3 + 2i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 - i) + (3 + 2i).",
+    "a": "4 + i",
+    "b": "4 + 3i",
+    "c": "4 - i",
+    "d": "2 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (6 - i) - (2 - 3i).",
+    "a": "4 + 2i",
+    "b": "4 - 4i",
+    "c": "8 - 4i",
+    "d": "4 + 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (1 + i) * (2 + i).",
+    "a": "1 + 3i",
+    "b": "2 + i",
+    "c": "1 - 3i",
+    "d": "3 + 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (3 + i) / (1 + i).",
+    "a": "2 - i",
+    "b": "2 + i",
+    "c": "3 - i",
+    "d": "1 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (3 + i)^2.",
+    "a": "8 + 6i",
+    "b": "10 + 6i",
+    "c": "8",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -1 - i * sqrt(3) into polar form.",
+    "a": "2 * (cos(240°) + i * sin(240°))",
+    "b": "2 * (cos(120°) + i * sin(120°))",
+    "c": "sqrt(2) * (cos(240°) + i * sin(240°))",
+    "d": "2 * (cos(300°) + i * sin(300°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 3 - 3i into polar form.",
+    "a": "3 * sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "b": "3 * (cos(-45°) + i * sin(-45°))",
+    "c": "3 * sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "3 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = e^(i * pi/2) into rectangular form.",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 5 /_ 126.87° into rectangular form.",
+    "a": "-3 + 4i",
+    "b": "3 - 4i",
+    "c": "-3 - 4i",
+    "d": "4 - 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 - i)^8.",
+    "a": "16",
+    "b": "-16",
+    "c": "16i",
+    "d": "-16i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (2 + i)^2.",
+    "a": "5",
+    "b": "25",
+    "c": "3",
+    "d": "sqrt(5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (2 + i) / (2 - i).",
+    "a": "1",
+    "b": "5",
+    "c": "sqrt(5)",
+    "d": "0.2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^90.",
+    "a": "-1",
+    "b": "1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^81.",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/4).",
+    "a": "sqrt(2)/2 + i * sqrt(2)/2",
+    "b": "0.5 + i * 0.5",
+    "c": "sqrt(2)/2 - i * sqrt(2)/2",
+    "d": "0.5 - i * 0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: sinh(i).",
+    "a": "i * sin(1)",
+    "b": "sin(1)",
+    "c": "i * cos(1)",
+    "d": "cos(1)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 5i + 12j.",
+    "a": "13",
+    "b": "17",
+    "c": "11",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = i + j + k and B = i - j + k.",
+    "a": "1",
+    "b": "3",
+    "c": "-1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = i - j and B = j + k.",
+    "a": "-i - j + k",
+    "b": "i + j + k",
+    "c": "-i - j - k",
+    "d": "i - j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j and B = i - j.",
+    "a": "90°",
+    "b": "0°",
+    "c": "180°",
+    "d": "45°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x * y * z at the point (1, 1, 1).",
+    "a": "i + j + k",
+    "b": "2i + 2j + 2k",
+    "c": "i + j + 2k",
+    "d": "i + 2j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^2 * i + y^2 * j + z^2 * k at the point (1, 1, 1).",
+    "a": "6",
+    "b": "3",
+    "c": "2",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^4 + y^4 + z^4.",
+    "a": "12 * (x^2 + y^2 + z^2)",
+    "b": "4 * (x^3 + y^3 + z^3)",
+    "c": "12",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 3?",
+    "a": "3/s",
+    "b": "3",
+    "c": "1/s",
+    "d": "3/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(-5t)?",
+    "a": "1 / (s + 5)",
+    "b": "1 / (s - 5)",
+    "c": "-5 / (s^2 + 25)",
+    "d": "s / (s^2 - 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(t)?",
+    "a": "1 / (s^2 + 1)",
+    "b": "s / (s^2 + 1)",
+    "c": "1 / (s^2 - 1)",
+    "d": "s / (s^2 - 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(4t)?",
+    "a": "s / (s^2 + 16)",
+    "b": "4 / (s^2 + 16)",
+    "c": "s / (s^2 - 16)",
+    "d": "4 / (s^2 - 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(t)?",
+    "a": "1 / (s^2 - 1)",
+    "b": "s / (s^2 - 1)",
+    "c": "1 / (s^2 + 1)",
+    "d": "s / (s^2 + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(4t)?",
+    "a": "s / (s^2 - 16)",
+    "b": "4 / (s^2 - 16)",
+    "c": "s / (s^2 + 16)",
+    "d": "4 / (s^2 + 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^2?",
+    "a": "2 / s^3",
+    "b": "2 / s^2",
+    "c": "1 / s^3",
+    "d": "6 / s^3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t - 1 + e^(-2t)}.",
+    "a": "1/s^2 - 1/s + 1/(s+2)",
+    "b": "1/s^2 - 1/s + 1/(s-2)",
+    "c": "1/s - 1 + 1/(s+2)",
+    "d": "1/s^2 - 1/s^2 + 1/(s+2)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(t) * cos(3t).",
+    "a": "(s - 1) / ((s - 1)^2 + 9)",
+    "b": "s / ((s - 1)^2 + 9)",
+    "c": "(s - 1) / (s^2 + 9)",
+    "d": "3 / ((s - 1)^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(-t).",
+    "a": "1 / (s + 1)^2",
+    "b": "1 / (s - 1)^2",
+    "c": "2 / (s + 1)^3",
+    "d": "1 / s * (s + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 3).",
+    "a": "e^(-3t)",
+    "b": "e^(3t)",
+    "c": "t^2",
+    "d": "cos(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 3 / (s^2 + 9).",
+    "a": "sin(3t)",
+    "b": "cos(3t)",
+    "c": "e^(3t)",
+    "d": "t * e^(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 25).",
+    "a": "cos(5t)",
+    "b": "sin(5t)",
+    "c": "e^(5t)",
+    "d": "0.2 * sin(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 1)^3.",
+    "a": "0.5 * t^2 * e^t",
+    "b": "t^2 * e^t",
+    "c": "e^t",
+    "d": "0.5 * t^2 * e^(-t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Wronskian of the functions y_1 = x and y_2 = x^2.",
+    "a": "x^2",
+    "b": "x",
+    "c": "2x",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the Laplace transform of: t^3.",
+    "a": "6 / s^4",
+    "b": "3 / x^4",
+    "c": "6 / s^3",
+    "d": "24 / s^5",
+    "ans": "a"
+  },
+  {
+    "q": "What is the inverse Laplace transform of: 1 / (s^2 + 1)?",
+    "a": "sin(t)",
+    "b": "cos(t)",
+    "c": "e^t",
+    "d": "t",
+    "ans": "a"
+  },
+  {
+    "q": "What is the inverse Laplace transform of: s / (s^2 + 1)?",
+    "a": "cos(t)",
+    "b": "sin(t)",
+    "c": "e^t",
+    "d": "t * e^t",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the Laplace transform of the function: f(t) = cosh(3t).",
+    "a": "s / (s^2 - 9)",
+    "b": "3 / (s^2 - 9)",
+    "c": "s / (s^2 + 9)",
+    "d": "3 / (s^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the Laplace transform of the function: f(t) = sinh(5t).",
+    "a": "5 / (s^2 - 25)",
+    "b": "s / (s^2 - 25)",
+    "c": "5 / (s^2 + 25)",
+    "d": "s / (s^2 + 25)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: L{e^(-t) * sin(2t)}.",
+    "a": "2 / ((s + 1)^2 + 4)",
+    "b": "2 / ((s - 1)^2 + 4)",
+    "c": "s / ((s + 1)^2 + 4)",
+    "d": "1 / ((s + 1)^2 + 4)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: L{e^(3t) * cos(4t)}.",
+    "a": "(s - 3) / ((s - 3)^2 + 16)",
+    "b": "s / ((s - 3)^2 + 16)",
+    "c": "(s - 3) / (s^2 + 16)",
+    "d": "4 / ((s - 3)^2 + 16)",
+    "ans": "a"
+  },
+  {
+    "q": "Find L{t * cos(2t)}.",
+    "a": "(s^2 - 4) / (s^2 + 4)^2",
+    "b": "2s / (s^2 + 4)^2",
+    "c": "4s / (s^2 + 4)^2",
+    "d": "(s^2 + 4) / (s^2 - 4)^2",
+    "ans": "a"
+  },
+  {
+    "q": "Determine L{e^(2t) * t^3}.",
+    "a": "6 / (s - 2)^4",
+    "b": "6 / (s + 2)^4",
+    "c": "24 / (s - 2)^4",
+    "d": "6 / s^4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: L{sin(t) - cos(t)}.",
+    "a": "(1 - s) / (s^2 + 1)",
+    "b": "(s - 1) / (s^2 + 1)",
+    "c": "1 / (s^2 + 1)",
+    "d": "(1 + s) / (s^2 + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (2s + 5) / (s^2 + 9).",
+    "a": "2 * cos(3t) + 1.67 * sin(3t)",
+    "b": "2 * cos(3t) + 5 * sin(3t)",
+    "c": "2 * cos(3t) - 1.67 * sin(3t)",
+    "d": "2 * sin(3t) + 1.67 * cos(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = s / (s^2 - 9).",
+    "a": "cosh(3t)",
+    "b": "sinh(3t)",
+    "c": "e^(3t)",
+    "d": "0.33 * sinh(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 3 / (s^2 - 16).",
+    "a": "0.75 * sinh(4t)",
+    "b": "0.75 * cosh(4t)",
+    "c": "sinh(4t)",
+    "d": "0.25 * sinh(4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find L{delta(t)}.",
+    "a": "1",
+    "b": "1/s",
+    "c": "s",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Find L{u(t)} where u(t) is the unit step function.",
+    "a": "1/s",
+    "b": "1",
+    "c": "s",
+    "d": "1/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex addition: (-3 + 4i) + (5 - 2i).",
+    "a": "2 + 2i",
+    "b": "2 - 2i",
+    "c": "-2 + 2i",
+    "d": "8 + 2i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex subtraction: (1 - i) - (1 + i).",
+    "a": "-2i",
+    "b": "2i",
+    "c": "0",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex multiplication: (1 + i) * (1 - i).",
+    "a": "2",
+    "b": "0",
+    "c": "2i",
+    "d": "-2i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex division: 1 / (1 + i).",
+    "a": "0.5 - 0.5i",
+    "b": "0.5 + 0.5i",
+    "c": "1 - i",
+    "d": "-0.5 + 0.5i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 + 2i)^2.",
+    "a": "-3 + 4i",
+    "b": "5 + 4i",
+    "c": "-3 - 4i",
+    "d": "3 + 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -1 + i into polar form.",
+    "a": "sqrt(2) * (cos(135°) + i * sin(135°))",
+    "b": "2 * (cos(135°) + i * sin(135°))",
+    "c": "sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "sqrt(2) * (cos(-135°) + i * sin(-135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 2 * e^(i * pi) into rectangular form.",
+    "a": "-2",
+    "b": "2",
+    "c": "2i",
+    "d": "-2i",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 5 /_ -53.13° into rectangular form.",
+    "a": "3 - 4i",
+    "b": "3 + 4i",
+    "c": "4 - 3i",
+    "d": "4 + 3i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 + i)^16.",
+    "a": "256",
+    "b": "-256",
+    "c": "256i",
+    "d": "-256i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (1 - 2i) * (2 + i).",
+    "a": "5",
+    "b": "25",
+    "c": "sqrt(5)",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (4 + 3i) / (3 - 4i).",
+    "a": "1",
+    "b": "5",
+    "c": "7",
+    "d": "25",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^200.",
+    "a": "1",
+    "b": "-1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^303.",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * 3*pi/2).",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: sinh(2i).",
+    "a": "i * sin(2)",
+    "b": "sin(2)",
+    "c": "i * cos(2)",
+    "d": "cos(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 2i + 2j + k.",
+    "a": "3",
+    "b": "5",
+    "c": "9",
+    "d": "2.2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = i + 2j - 3k and B = 2i - j - k.",
+    "a": "3",
+    "b": "0",
+    "c": "5",
+    "d": "-3",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = 2i + j - k and B = i - j + k.",
+    "a": "0i - 3j - 3k",
+    "b": "0i + 3j - 3k",
+    "c": "0i - 3j + 3k",
+    "d": "3i - 3j - 3k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j and B = k.",
+    "a": "90°",
+    "b": "45°",
+    "c": "60°",
+    "d": "0°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x^2 + 2y^2 + 3z^2 at the point (1, 1, 1).",
+    "a": "2i + 4j + 6k",
+    "b": "i + 2j + 3k",
+    "c": "2i + 2j + 2k",
+    "d": "4i + 4j + 6k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^2 * y * i + y^2 * z * j + z^2 * x * k at the point (1, 1, 1).",
+    "a": "4",
+    "b": "2",
+    "c": "3",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^2 * y^2 + y^2 * z^2 + z^2 * x^2 at the point (1, 1, 1).",
+    "a": "12",
+    "b": "6",
+    "c": "4",
+    "d": "8",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 8?",
+    "a": "8/s",
+    "b": "8",
+    "c": "1/s",
+    "d": "8/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(-4t)?",
+    "a": "1 / (s + 4)",
+    "b": "1 / (s - 4)",
+    "c": "-4 / (s^2 + 16)",
+    "d": "s / (s^2 - 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(5t)?",
+    "a": "5 / (s^2 + 25)",
+    "b": "s / (s^2 + 25)",
+    "c": "5 / (s^2 - 25)",
+    "d": "s / (s^2 - 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(3t)?",
+    "a": "s / (s^2 + 9)",
+    "b": "3 / (s^2 + 9)",
+    "c": "s / (s^2 - 9)",
+    "d": "3 / (s^2 - 9)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(5t)?",
+    "a": "5 / (s^2 - 25)",
+    "b": "s / (s^2 - 25)",
+    "c": "5 / (s^2 + 25)",
+    "d": "s / (s^2 + 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(t)?",
+    "a": "s / (s^2 - 1)",
+    "b": "1 / (s^2 - 1)",
+    "c": "s / (s^2 + 1)",
+    "d": "1 / (s^2 + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^3?",
+    "a": "6 / s^4",
+    "b": "6 / s^3",
+    "c": "1 / s^4",
+    "d": "2 / s^4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t^2 - 2t + 3}.",
+    "a": "2/s^3 - 2/s^2 + 3/s",
+    "b": "1/s^3 - 2/s^2 + 3/s",
+    "c": "2/s^2 - 2/s + 3",
+    "d": "2/s^3 + 2/s^2 - 3/s",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(-2t) * cos(3t).",
+    "a": "(s + 2) / ((s + 2)^2 + 9)",
+    "b": "s / ((s + 2)^2 + 9)",
+    "c": "(s + 2) / (s^2 + 9)",
+    "d": "3 / ((s + 2)^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(t).",
+    "a": "1 / (s - 1)^2",
+    "b": "1 / (s + 1)^2",
+    "c": "2 / (s - 1)^3",
+    "d": "1 / s * (s - 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 6).",
+    "a": "e^(-6t)",
+    "b": "e^(6t)",
+    "c": "t^5",
+    "d": "cos(6t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 5 / (s^2 + 25).",
+    "a": "sin(5t)",
+    "b": "cos(5t)",
+    "c": "e^(5t)",
+    "d": "t * e^(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 4).",
+    "a": "cos(2t)",
+    "b": "sin(2t)",
+    "c": "e^(2t)",
+    "d": "0.5 * sin(2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 2)^2.",
+    "a": "t * e^(2t)",
+    "b": "t^2 * e^(2t)",
+    "c": "e^(2t)",
+    "d": "t * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 40 / [(s + 4)(s + 14)].",
+    "a": "4 * e^(-4t) - 4 * e^(-14t)",
+    "b": "4 * e^(-4t) + 4 * e^(-14t)",
+    "c": "4 * e^(4t) - 4 * e^(14t)",
+    "d": "8 * e^(-4t) - 8 * e^(-14t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 4) / (s^2 + 16).",
+    "a": "cos(4t) + sin(4t)",
+    "b": "cos(4t) - sin(4t)",
+    "c": "e^(4t) * cos(4t)",
+    "d": "e^(-4t) * sin(4t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 + 5s + 6).",
+    "a": "e^(-2t) - e^(-3t)",
+    "b": "e^(-2t) + e^(-3t)",
+    "c": "e^2t - e^(3t)",
+    "d": "0.5 * e^(-2t) - 0.5 * e^(-3t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = 1 + i?",
+    "a": "1 - i",
+    "b": "-1 + i",
+    "c": "-1 - i",
+    "d": "1 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (2 - 3i) + (1 + 4i).",
+    "a": "3 + i",
+    "b": "3 - i",
+    "c": "3 + 7i",
+    "d": "1 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (3 + i) - (1 + i).",
+    "a": "2",
+    "b": "2 + 2i",
+    "c": "4 + 2i",
+    "d": "2i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (1 + i) * (3 - i).",
+    "a": "4 + 2i",
+    "b": "3 - i",
+    "c": "4 - 2i",
+    "d": "2 + 2i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (2 + i) / (1 - i).",
+    "a": "0.5 + 1.5i",
+    "b": "0.5 - 1.5i",
+    "c": "1 + i",
+    "d": "2 + i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 + i)^2.",
+    "a": "2i",
+    "b": "-2i",
+    "c": "2",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 1 - i * sqrt(3) into polar form.",
+    "a": "2 * (cos(-60°) + i * sin(-60°))",
+    "b": "2 * (cos(60°) + i * sin(60°))",
+    "c": "sqrt(2) * (cos(-60°) + i * sin(-60°))",
+    "d": "2 * (cos(300°) + i * sin(300°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -3 - 3i into polar form.",
+    "a": "3 * sqrt(2) * (cos(225°) + i * sin(225°))",
+    "b": "3 * (cos(225°) + i * sin(225°))",
+    "c": "3 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "d": "3 * sqrt(2) * (cos(-135°) + i * sin(-135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = e^(i * pi) into rectangular form.",
+    "a": "-1",
+    "b": "1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 5 /_ 36.87° into rectangular form.",
+    "a": "4 + 3i",
+    "b": "3 + 4i",
+    "c": "4 - 3i",
+    "d": "3 - 4i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 - i)^16.",
+    "a": "256",
+    "b": "-256",
+    "c": "256i",
+    "d": "-256i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (1 + 2i)^2.",
+    "a": "5",
+    "b": "25",
+    "c": "3",
+    "d": "sqrt(5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (3 + i) / (1 - 3i).",
+    "a": "1",
+    "b": "5",
+    "c": "sqrt(5)",
+    "d": "0.2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^70.",
+    "a": "-1",
+    "b": "1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^61.",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/4).",
+    "a": "sqrt(2)/2 + i * sqrt(2)/2",
+    "b": "0.5 + i * 0.5",
+    "c": "sqrt(2)/2 - i * sqrt(2)/2",
+    "d": "0.5 - i * 0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cos(2i).",
+    "a": "cosh(2)",
+    "b": "i * cosh(2)",
+    "c": "sinh(2)",
+    "d": "i * sinh(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 3i - 4j + 12k.",
+    "a": "13",
+    "b": "11",
+    "c": "15",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = 2i + j - k and B = i + 2j + 3k.",
+    "a": "1",
+    "b": "3",
+    "c": "-1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = i - k and B = j + k.",
+    "a": "i - j + k",
+    "b": "i + j + k",
+    "c": "i - j - k",
+    "d": "-i + j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j and B = i - j.",
+    "a": "90°",
+    "b": "0°",
+    "c": "180°",
+    "d": "45°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x * y * z at the point (1, 1, 1).",
+    "a": "i + j + k",
+    "b": "2i + 2j + 2k",
+    "c": "i + j + 2k",
+    "d": "i + 2j + k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^2 * i + y^2 * j + z^2 * k at the point (1, 1, 1).",
+    "a": "6",
+    "b": "3",
+    "c": "2",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^4 + y^4 + z^4.",
+    "a": "12 * (x^2 + y^2 + z^2)",
+    "b": "4 * (x^3 + y^3 + z^3)",
+    "c": "12",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the constant function f(t) = 3?",
+    "a": "3/s",
+    "b": "3",
+    "c": "1/s",
+    "d": "3/s^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the exponential function f(t) = e^(-5t)?",
+    "a": "1 / (s + 5)",
+    "b": "1 / (s - 5)",
+    "c": "-5 / (s^2 + 25)",
+    "d": "s / (s^2 - 25)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the sine function f(t) = sin(t)?",
+    "a": "1 / (s^2 + 1)",
+    "b": "s / (s^2 + 1)",
+    "c": "1 / (s^2 - 1)",
+    "d": "s / (s^2 - 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the cosine function f(t) = cos(4t)?",
+    "a": "s / (s^2 + 16)",
+    "b": "4 / (s^2 + 16)",
+    "c": "s / (s^2 - 16)",
+    "d": "4 / (s^2 - 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic sine function f(t) = sinh(t)?",
+    "a": "1 / (s^2 - 1)",
+    "b": "s / (s^2 - 1)",
+    "c": "1 / (s^2 + 1)",
+    "d": "s / (s^2 + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the hyperbolic cosine function f(t) = cosh(4t)?",
+    "a": "s / (s^2 - 16)",
+    "b": "4 / (s^2 - 16)",
+    "c": "s / (s^2 + 16)",
+    "d": "4 / (s^2 + 16)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the Laplace transform of the power function f(t) = t^2?",
+    "a": "2 / s^3",
+    "b": "2 / s^2",
+    "c": "1 / s^3",
+    "d": "6 / s^3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate L{t - 1 + e^(-2t)}.",
+    "a": "1/s^2 - 1/s + 1/(s+2)",
+    "b": "1/s^2 - 1/s + 1/(s-2)",
+    "c": "1/s - 1 + 1/(s+2)",
+    "d": "1/s^2 - 1/s^2 + 1/(s+2)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = e^(t) * cos(3t).",
+    "a": "(s - 1) / ((s - 1)^2 + 9)",
+    "b": "s / ((s - 1)^2 + 9)",
+    "c": "(s - 1) / (s^2 + 9)",
+    "d": "3 / ((s - 1)^2 + 9)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplace transform of the function: f(t) = t * e^(-t).",
+    "a": "1 / (s + 1)^2",
+    "b": "1 / (s - 1)^2",
+    "c": "2 / (s + 1)^3",
+    "d": "1 / s * (s + 1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s + 3).",
+    "a": "e^(-3t)",
+    "b": "e^(3t)",
+    "c": "t^2",
+    "d": "cos(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 3 / (s^2 + 9).",
+    "a": "sin(3t)",
+    "b": "cos(3t)",
+    "c": "e^(3t)",
+    "d": "t * e^(3t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = s / (s^2 + 25).",
+    "a": "cos(5t)",
+    "b": "sin(5t)",
+    "c": "e^(5t)",
+    "d": "0.2 * sin(5t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 1 / (s - 1)^3.",
+    "a": "0.5 * t^2 * e^t",
+    "b": "t^2 * e^t",
+    "c": "e^t",
+    "d": "0.5 * t^2 * e^(-t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the inverse Laplace transform of: F(s) = 10 / [(s + 1)(s + 2)].",
+    "a": "10 * e^(-t) - 10 * e^(-2t)",
+    "b": "10 * e^(-t) + 10 * e^(-2t)",
+    "c": "10 * e^t - 10 * e^(2t)",
+    "d": "5 * e^(-t) - 5 * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = (s + 1) / (s^2 + 1).",
+    "a": "cos(t) + sin(t)",
+    "b": "cos(t) - sin(t)",
+    "c": "e^t * cos(t)",
+    "d": "e^(-t) * sin(t)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the inverse Laplace transform of: F(s) = 1 / (s^2 + 3s + 2).",
+    "a": "e^(-t) - e^(-2t)",
+    "b": "e^(-t) + e^(-2t)",
+    "c": "e^t - e^(2t)",
+    "d": "0.5 * e^(-t) - 0.5 * e^(-2t)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complex conjugate of z = -2 + 5i?",
+    "a": "-2 - 5i",
+    "b": "2 + 5i",
+    "c": "2 - 5i",
+    "d": "-2 + 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (3 + i) + (-1 - 4i).",
+    "a": "2 - 3i",
+    "b": "2 + 3i",
+    "c": "4 - 3i",
+    "d": "2 - 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the difference: (7 + 6i) - (3 - 2i).",
+    "a": "4 + 8i",
+    "b": "4 + 4i",
+    "c": "10 + 4i",
+    "d": "4 - 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the product: (1 + 2i) * (3 - i).",
+    "a": "5 + 5i",
+    "b": "3 - 2i",
+    "c": "5 + i",
+    "d": "1 + 5i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the quotient: (2 + i) / (1 + i).",
+    "a": "1.5 - 0.5i",
+    "b": "1.5 + 0.5i",
+    "c": "2 + 0.5i",
+    "d": "1 - i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: (1 - i)^2.",
+    "a": "-2i",
+    "b": "2i",
+    "c": "0",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = 1 - i into polar form.",
+    "a": "sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "b": "2 * (cos(-45°) + i * sin(-45°))",
+    "c": "sqrt(2) * (cos(45°) + i * sin(45°))",
+    "d": "sqrt(2) * (cos(135°) + i * sin(135°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert z = -4 - 4i into polar form.",
+    "a": "4 * sqrt(2) * (cos(225°) + i * sin(225°))",
+    "b": "4 * (cos(225°) + i * sin(225°))",
+    "c": "4 * sqrt(2) * (cos(135°) + i * sin(135°))",
+    "d": "4 * sqrt(2) * (cos(-45°) + i * sin(-45°))",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 2 * e^(i * pi/3) into rectangular form.",
+    "a": "1 + i * sqrt(3)",
+    "b": "sqrt(3) + i",
+    "c": "1 - i * sqrt(3)",
+    "d": "2 + 2i * sqrt(3)",
+    "ans": "a"
+  },
+  {
+    "q": "Convert the complex number z = 10 /_ 36.87° into rectangular form.",
+    "a": "8 + 6i",
+    "b": "6 + 8i",
+    "c": "8 - 6i",
+    "d": "6 - 8i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex power: (1 - i)^4.",
+    "a": "-4",
+    "b": "4",
+    "c": "-4i",
+    "d": "4i",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex number z = (1 + i) * (3 - 4i).",
+    "a": "5 * sqrt(2)",
+    "b": "5",
+    "c": "10",
+    "d": "5 / sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the modulus of the complex quotient z = (3 + i) / (1 - 3i).",
+    "a": "1",
+    "b": "10",
+    "c": "sqrt(10)",
+    "d": "0.1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^60.",
+    "a": "1",
+    "b": "-1",
+    "c": "i",
+    "d": "-i",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate: i^75.",
+    "a": "-i",
+    "b": "i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex value: e^(i * pi/2).",
+    "a": "i",
+    "b": "-i",
+    "c": "1",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the complex expression: cos(i).",
+    "a": "cosh(1)",
+    "b": "i * cosh(1)",
+    "c": "sinh(1)",
+    "d": "i * sinh(1)",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the magnitude of the vector V = 4i - 4j + 7k.",
+    "a": "9",
+    "b": "5.6",
+    "c": "11",
+    "d": "8.1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dot product of vectors A = i - 2j + 3k and B = 2i + j - k.",
+    "a": "-3",
+    "b": "3",
+    "c": "-1",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the cross product A x B of vectors A = 2i + j and B = i + 3k.",
+    "a": "3i - 6j - k",
+    "b": "3i + 6j - k",
+    "c": "3i - 6j + k",
+    "d": "-3i + 6j - k",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle between the vectors A = i + j and B = j + k.",
+    "a": "60°",
+    "b": "30°",
+    "c": "45°",
+    "d": "90°",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the gradient of the scalar function f(x, y, z) = x^2 * y + y^2 * z at the point (1, 2, 3).",
+    "a": "4i + 13j + 4k",
+    "b": "4i + 12j + 4k",
+    "c": "2i + 13j + 4k",
+    "d": "4i + 13j + 2k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the divergence of the vector field F(x, y, z) = x^2 * i + y^2 * j + z^2 * k at the point (2, 3, 4).",
+    "a": "18",
+    "b": "9",
+    "c": "12",
+    "d": "24",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the curl of the vector field F(x, y, z) = yz * i + xz * j + xy * k.",
+    "a": "0i + 0j + 0k",
+    "b": "x * i + y * j + z * k",
+    "c": "z * i + x * j + y * k",
+    "d": "y * i + z * j + x * k",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the Laplacian of the scalar function f(x, y, z) = x^3 + y^3 + z^3 at the point (1, 2, 3).",
+    "a": "36",
+    "b": "18",
+    "c": "24",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complementary function of: y'' - y = 0?",
+    "a": "y_c = C_1 * e^x + C_2 * e^(-x)",
+    "b": "y_c = C_1 * cos(x) + C_2 * sin(x)",
+    "c": "y_c = (C_1 + C_2 * x) * e^x",
+    "d": "y_c = C_1 * e^x + C_2 * x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' + y = 0, with y(0) = 5.",
+    "a": "y = 5 * e^(-x)",
+    "b": "y = 5 * e^x",
+    "c": "y = e^(-5x)",
+    "d": "y = -5 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the integrating factor for: y' - y = x.",
+    "a": "e^(-x)",
+    "b": "e^x",
+    "c": "-e^x",
+    "d": "e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the order of the differential equation: (y''')^2 + y' = 0?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "Find the Wronskian of the functions y_1 = e^(2x) and y_2 = e^(3x).",
+    "a": "e^(5x)",
+    "b": "5 * e^(5x)",
+    "c": "e^(6x)",
+    "d": "e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the complementary solution of: y'' + 9y = e^x?",
+    "a": "y_c = C_1 * cos(3x) + C_2 * sin(3x)",
+    "b": "y_c = C_1 * e^(3x) + C_2 * e^(-3x)",
+    "c": "y_c = (C_1 + C_2 * x) * e^(3x)",
+    "d": "y_c = C_1 * cos(9x) + C_2 * sin(9x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + 9y = 10 * e^x.",
+    "a": "y_p = e^x",
+    "b": "y_p = 10 * e^x",
+    "c": "y_p = 2 * e^x",
+    "d": "y_p = x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the initial value problem: y' = 4x, with y(1) = 3.",
+    "a": "y = 2x^2 + 1",
+    "b": "y = 2x^2 + 3",
+    "c": "y = 4x^2 - 1",
+    "d": "y = 2x^2 + 2",
+    "ans": "a"
+  },
+  {
+    "q": "A radioactive material decays such that 50% disappears in 20 years. What is its half-life?",
+    "a": "20.0 years",
+    "b": "10.0 years",
+    "c": "30.0 years",
+    "d": "40.0 years",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous equation: dy/dx = y/x + 2.",
+    "a": "y = 2x * ln|x| + C * x",
+    "b": "y = x * ln|x| + C",
+    "c": "y = ln|x| + C * x",
+    "d": "y = C * x * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the integrating factor for the linear first-order differential equation: y' + (3/x)y = x.",
+    "a": "x^3",
+    "b": "x",
+    "c": "e^(3x)",
+    "d": "3 * ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of: y'' - 3y' - 4y = 0.",
+    "a": "y = C_1 * e^(4x) + C_2 * e^(-x)",
+    "b": "y = C_1 * e^(-4x) + C_2 * e^x",
+    "c": "y = (C_1 + C_2 * x) * e^(4x)",
+    "d": "y = C_1 * e^(4x) + C_2 * e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the general solution of: y'' + 2y' = 0?",
+    "a": "y = C_1 + C_2 * e^(-2x)",
+    "b": "y = C_1 * e^(2x) + C_2 * e^(-2x)",
+    "c": "y = C_1 + C_2 * x",
+    "d": "y = C_1 * e^(-2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the complementary solution of the equation: y'' - 4y' + 13y = 0.",
+    "a": "y_c = e^(2x) * (C_1 * cos(3x) + C_2 * sin(3x))",
+    "b": "y_c = e^(-2x) * (C_1 * cos(3x) + C_2 * sin(3x))",
+    "c": "y_c = C_1 * e^(2x) + C_2 * e^(3x)",
+    "d": "y_c = (C_1 + C_2 * x) * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the separable equation: y' = x^2 / y.",
+    "a": "y^2 - 0.67 * x^3 = C",
+    "b": "y^2 + x^3 = C",
+    "c": "y = C * x^2",
+    "d": "y = x^2 + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact equation: (2xy + 1) dx + (x^2 + 2y) dy = 0.",
+    "a": "x^2 * y + x + y^2 = C",
+    "b": "x^2 * y - x + y^2 = C",
+    "c": "x * y * (x + y) = C",
+    "d": "x^2 + y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the higher-order linear differential equation: y''' - 9y' = 0.",
+    "a": "y = C_1 + C_2 * e^(3x) + C_3 * e^(-3x)",
+    "b": "y = C_1 * e^(3x) + C_2 * e^(-3x)",
+    "c": "y = (C_1 + C_2 * x + C_3 * x^2) * e^(3x)",
+    "d": "y = C_1 * cos(3x) + C_2 * sin(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' - 3y' + 2y = 6 * e^(3x).",
+    "a": "y_p = 3 * e^(3x)",
+    "b": "y_p = 6 * e^(3x)",
+    "c": "y_p = x * e^(3x)",
+    "d": "y_p = 0.5 * e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the differential equation of the family of lines y = C * x + 2*C^2.",
+    "a": "2*(y')^2 + x * y' - y = 0",
+    "b": "2*(y')^2 - x * y' + y = 0",
+    "c": "y' = C",
+    "d": "y' = y / (x + y')",
+    "ans": "a"
+  },
+  {
+    "q": "Newton's law of cooling states that the rate of change of temperature of an object is proportional to the difference between its temperature T and the ambient temperature T_s. If T_s = 20°C, and the body cools from 100°C to 60°C in 15 minutes, what will its temperature be after 40 minutes?",
+    "a": "45.00°C",
+    "b": "50.00°C",
+    "c": "40.00°C",
+    "d": "42.50°C",
+    "ans": "a"
+  },
+  {
+    "q": "Radium decomposes at a rate proportional to the amount present. If the half-life is 1600 years, what fraction of the original amount will remain after 4800 years?",
+    "a": "1/8",
+    "b": "1/4",
+    "c": "1/2",
+    "d": "1/16",
+    "ans": "a"
+  },
+  {
+    "q": "Find the family of orthogonal trajectories for the family of lines: y = C * x.",
+    "a": "x^2 + y^2 = K",
+    "b": "x^2 - y^2 = K",
+    "c": "y^2 = K * x",
+    "d": "y = K * x",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous third-order equation: y''' + 4y'' = 0.",
+    "a": "y = C_1 + C_2 * x + C_3 * e^(-4x)",
+    "b": "y = C_1 + C_2 * e^(4x) + C_3 * e^(-4x)",
+    "c": "y = (C_1 + C_2 * x) * e^(-4x)",
+    "d": "y = C_1 + C_2 * x * e^(-4x)",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the linear first-order differential equation: y' + 2y = e^(-2x).",
+    "a": "y = e^(-2x) * (x + C)",
+    "b": "y = e^(-2x) + C * e^(-2x)",
+    "c": "y = x * e^(2x) + C",
+    "d": "y = e^(2x) * (x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: dy/dx = (1 + y^2) / x.",
+    "a": "arctan(y) = ln|x| + C",
+    "b": "y = x * ln|x| + C",
+    "c": "ln(1 + y^2) = ln|x| + C",
+    "d": "tan(y) = ln|x| + C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of the separable equation: y' = y^2 * cos(x).",
+    "a": "1 / y = -sin(x) + C",
+    "b": "1 / y = sin(x) + C",
+    "c": "y = C * e^(-sin(x))",
+    "d": "y^2 = -sin(x) + C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the exact differential equation: (3x^2 * y^2) dx + (2x^3 * y) dy = 0.",
+    "a": "x^3 * y^2 = C",
+    "b": "x^3 * y^3 = C",
+    "c": "x^2 * y^3 = C",
+    "d": "x^2 * y^2 = C",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the homogeneous second-order equation: y'' + 36y = 0.",
+    "a": "y = C_1 * cos(6x) + C_2 * sin(6x)",
+    "b": "y = C_1 * e^(6x) + C_2 * e^(-6x)",
+    "c": "y = (C_1 + C_2 * x) * e^(6x)",
+    "d": "y = C_1 * cos(36x) + C_2 * sin(36x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find a particular solution for: y'' + 9y = 18.",
+    "a": "y_p = 2",
+    "b": "y_p = 9",
+    "c": "y_p = 18",
+    "d": "y_p = e^(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the general solution of: y'' - 2y' = e^(2x).",
+    "a": "y = C_1 + C_2 * e^(2x) + 0.5 * x * e^(2x)",
+    "b": "y = C_1 * e^(2x) + C_2 * e^(-2x) + x * e^(2x)",
+    "c": "y = (C_1 + C_2 * x) * e^(2x) + e^(2x)",
+    "d": "y = C_1 + C_2 * e^(2x) + e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the general solution of the linear equation: dy/dx - 2y = e^(3x).",
+    "a": "y = e^(3x) + C * e^(2x)",
+    "b": "y = 0.5 * e^(3x) + C * e^(2x)",
+    "c": "y = e^(3x) + C * e^(-2x)",
+    "d": "y = e^(2x) * (x + C)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the orthogonal trajectories of the family of ellipses: x^2 + 3y^2 = C.",
+    "a": "y^3 = K * x^6",
+    "b": "y = K * x^3",
+    "c": "y^3 = K * x^3",
+    "d": "y = K * x",
+    "ans": "a"
+  }
+]

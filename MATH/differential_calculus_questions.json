@@ -1,0 +1,2434 @@
+[
+  {
+    "q": "Evaluate the limit of (x^2 - 16) / (x - 4) as x approaches 4.",
+    "a": "4",
+    "b": "8",
+    "c": "0",
+    "d": "16",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (x - 4) / (x^2 - x - 12) as x approaches 4.",
+    "a": "1/7",
+    "b": "0",
+    "c": "1/5",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "What is the limit of cos(1/y) as y approaches infinity?",
+    "a": "0",
+    "b": "-1",
+    "c": "1",
+    "d": "Undefined",
+    "ans": "c"
+  },
+  {
+    "q": "Evaluate the limit of (x^3 - 2x + 9) / (2x^3 - 8) as x approaches infinity.",
+    "a": "0",
+    "b": "1/2",
+    "c": "-9/8",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (x^3 - 2x^2 - x + 2) / (x^2 - 4) as x approaches 2.",
+    "a": "3/4",
+    "b": "2/5",
+    "c": "4/7",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of sqrt(x - 4) / sqrt(x^2 - 16) as x approaches 4 from the right.",
+    "a": "0.354",
+    "b": "0.262",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^2 - 1) / (x - 1) as x approaches 1.",
+    "a": "1",
+    "b": "2",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (1 - cos(x)) / x^2 as x approaches 0.",
+    "a": "0",
+    "b": "1",
+    "c": "1/2",
+    "d": "2",
+    "ans": "c"
+  },
+  {
+    "q": "Evaluate the limit of (sin(3x)) / x as x approaches 0.",
+    "a": "1",
+    "b": "3",
+    "c": "0",
+    "d": "1/3",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (e^x - 1) / x as x approaches 0.",
+    "a": "0",
+    "b": "e",
+    "c": "1",
+    "d": "Infinity",
+    "ans": "c"
+  },
+  {
+    "q": "What do we call a limit of the form 0/0 or infinity/infinity?",
+    "a": "Determinate form",
+    "b": "Indeterminate form",
+    "c": "Infinite limit",
+    "d": "Asymptotic limit",
+    "ans": "b"
+  },
+  {
+    "q": "Which theorem states that if f(x) <= g(x) <= h(x) and the limits of f(x) and h(x) as x approaches c are both L, then the limit of g(x) is also L?",
+    "a": "Mean Value Theorem",
+    "b": "Intermediate Value Theorem",
+    "c": "Squeeze Theorem",
+    "d": "L'Hopital's Rule",
+    "ans": "c"
+  },
+  {
+    "q": "What rule is used to evaluate limits of indeterminate forms by using derivatives?",
+    "a": "Chain Rule",
+    "b": "Quotient Rule",
+    "c": "L'Hopital's Rule",
+    "d": "Power Rule",
+    "ans": "c"
+  },
+  {
+    "q": "Evaluate the limit of (ln(x)) / (x - 1) as x approaches 1.",
+    "a": "0",
+    "b": "1",
+    "c": "e",
+    "d": "Undefined",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of x * sin(1/x) as x approaches infinity.",
+    "a": "0",
+    "b": "1",
+    "c": "Infinity",
+    "d": "Undefined",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (tan(x) - x) / x^3 as x approaches 0.",
+    "a": "1/3",
+    "b": "1/2",
+    "c": "1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (3x^2 - x - 2) / (5x^2 + 4x + 1) as x approaches infinity.",
+    "a": "3/5",
+    "b": "-2",
+    "c": "0",
+    "d": "Infinity",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sqrt(x^2 + 9) - 3) / x^2 as x approaches 0.",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "1/2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sin(x) - x) / x^3 as x approaches 0.",
+    "a": "-1/6",
+    "b": "1/6",
+    "c": "0",
+    "d": "-1/3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1 + 1/x)^x as x approaches infinity.",
+    "a": "1",
+    "b": "e",
+    "c": "0",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (1 + 2/x)^x as x approaches infinity.",
+    "a": "e",
+    "b": "e^2",
+    "c": "2e",
+    "d": "1",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (e^(2x) - 1) / x as x approaches 0.",
+    "a": "1",
+    "b": "2",
+    "c": "e^2",
+    "d": "0",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the limit of (x - sin(x)) / (x - tan(x)) as x approaches 0.",
+    "a": "-1/2",
+    "b": "1/2",
+    "c": "-2",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (ln(sin(x))) / (ln(tan(x))) as x approaches 0 from the right.",
+    "a": "1",
+    "b": "2",
+    "c": "1/2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^4 - 16) / (x^3 - 8) as x approaches 2.",
+    "a": "8/3",
+    "b": "2",
+    "c": "4/3",
+    "d": "16/3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sec(x) - 1) / x^2 as x approaches 0.",
+    "a": "1/2",
+    "b": "0",
+    "c": "1",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x - ln(x + 1)) / x^2 as x approaches 0.",
+    "a": "1/2",
+    "b": "0",
+    "c": "-1/2",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sin(x) - cos(x)) / (1 - tan(x)) as x approaches pi/4.",
+    "a": "-sqrt(2)/2",
+    "b": "sqrt(2)/2",
+    "c": "-1",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^2 - 9) / (x^2 - 5x + 6) as x approaches 3.",
+    "a": "6",
+    "b": "3",
+    "c": "0",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sqrt(x) - 1) / (x - 1) as x approaches 1.",
+    "a": "1/2",
+    "b": "1/4",
+    "c": "1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of a constant c with respect to x?",
+    "a": "1",
+    "b": "c",
+    "c": "0",
+    "d": "x",
+    "ans": "c"
+  },
+  {
+    "q": "What differentiation rule states that d/dx [u * v] = u * dv/dx + v * du/dx?",
+    "a": "Quotient Rule",
+    "b": "Product Rule",
+    "c": "Chain Rule",
+    "d": "Power Rule",
+    "ans": "b"
+  },
+  {
+    "q": "What differentiation rule is expressed as d/dx [f(g(x))] = f'(g(x)) * g'(x)?",
+    "a": "Product Rule",
+    "b": "Quotient Rule",
+    "c": "Chain Rule",
+    "d": "Sum Rule",
+    "ans": "c"
+  },
+  {
+    "q": "What is the derivative of e^x with respect to x?",
+    "a": "x * e^(x-1)",
+    "b": "e^x",
+    "c": "e^(x-1)",
+    "d": "ln(x)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of ln(x) with respect to x?",
+    "a": "e^x",
+    "b": "1/x",
+    "c": "-1/x^2",
+    "d": "x",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of sin(x) with respect to x?",
+    "a": "-cos(x)",
+    "b": "cos(x)",
+    "c": "sec^2(x)",
+    "d": "-sin(x)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of cos(x) with respect to x?",
+    "a": "sin(x)",
+    "b": "-sin(x)",
+    "c": "-cos(x)",
+    "d": "sec(x)tan(x)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of tan(x) with respect to x?",
+    "a": "sec(x)",
+    "b": "sec^2(x)",
+    "c": "-csc^2(x)",
+    "d": "sec(x)tan(x)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of sec(x) with respect to x?",
+    "a": "sec^2(x)",
+    "b": "sec(x)tan(x)",
+    "c": "-csc(x)cot(x)",
+    "d": "tan^2(x)",
+    "ans": "b"
+  },
+  {
+    "q": "What is the derivative of csc(x) with respect to x?",
+    "a": "-csc(x)cot(x)",
+    "b": "csc(x)cot(x)",
+    "c": "-csc^2(x)",
+    "d": "sec(x)tan(x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of cot(x) with respect to x?",
+    "a": "-csc^2(x)",
+    "b": "csc^2(x)",
+    "c": "-sec^2(x)",
+    "d": "-csc(x)cot(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = 3x^4 - 2x^3 + 5x - 7 with respect to x.",
+    "a": "12x^3 - 6x^2 + 5",
+    "b": "12x^3 - 6x^2 + 5x",
+    "c": "12x^3 - 6x^2 - 7",
+    "d": "3x^3 - 2x^2 + 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = sqrt(x) with respect to x.",
+    "a": "1 / (2 * sqrt(x))",
+    "b": "2 * sqrt(x)",
+    "c": "1 / sqrt(x)",
+    "d": "x^(-1/2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = (x^2 + 1)^3 with respect to x.",
+    "a": "3(x^2 + 1)^2",
+    "b": "6x(x^2 + 1)^2",
+    "c": "6x(x^2 + 1)^3",
+    "d": "2x(x^2 + 1)^2",
+    "ans": "b"
+  },
+  {
+    "q": "Find the derivative of y = ln(4x) with respect to x.",
+    "a": "1/x",
+    "b": "4/x",
+    "c": "1/(4x)",
+    "d": "ln(4)/x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the first derivative with respect to y of the function x = (y^3 - 5)^3.",
+    "a": "9y^2 (y^3 - 5)^2",
+    "b": "3(y^3 - 5)^2",
+    "c": "9(y^3 - 5)^2",
+    "d": "3y^2 (y^3 - 5)^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = e^(2x) with respect to x.",
+    "a": "2e^(2x)",
+    "b": "e^(2x)",
+    "c": "2xe^(2x-1)",
+    "d": "1/2 * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = a^x with respect to x?",
+    "a": "a^x * ln(a)",
+    "b": "a^x",
+    "c": "x * a^(x-1)",
+    "d": "a^x / ln(a)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = sin(5x^2) with respect to x.",
+    "a": "10x * cos(5x^2)",
+    "b": "cos(5x^2)",
+    "c": "-10x * cos(5x^2)",
+    "d": "10 * cos(5x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for the implicit function x^2 + y^2 = 25.",
+    "a": "-x/y",
+    "b": "-y/x",
+    "c": "x/y",
+    "d": "y/x",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for the implicit equation xy = 4.",
+    "a": "-y/x",
+    "b": "-x/y",
+    "c": "1/x",
+    "d": "-4/x^2",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the derivative of y = arctan(x) with respect to x.",
+    "a": "1 / (1 + x^2)",
+    "b": "-1 / (1 + x^2)",
+    "c": "1 / sqrt(1 - x^2)",
+    "d": "1 / (x * sqrt(x^2 - 1))",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the derivative of y = arcsin(x) with respect to x.",
+    "a": "1 / sqrt(1 - x^2)",
+    "b": "-1 / sqrt(1 - x^2)",
+    "c": "1 / (1 + x^2)",
+    "d": "-1 / (1 + x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the derivative of y = arccos(x) with respect to x.",
+    "a": "-1 / sqrt(1 - x^2)",
+    "b": "1 / sqrt(1 - x^2)",
+    "c": "-1 / (1 + x^2)",
+    "d": "1 / (1 + x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = x^x with respect to x using logarithmic differentiation.",
+    "a": "x^x (1 + ln(x))",
+    "b": "x * x^(x-1)",
+    "c": "x^x * ln(x)",
+    "d": "1 + ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = ln(sec(x)) with respect to x.",
+    "a": "tan(x)",
+    "b": "sec(x)",
+    "c": "cot(x)",
+    "d": "sec(x)tan(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of y = x^4 - 3x^2 + 2x with respect to x.",
+    "a": "12x^2 - 6",
+    "b": "4x^3 - 6x + 2",
+    "c": "12x^2 - 6x",
+    "d": "24x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the third derivative of y = sin(x) with respect to x.",
+    "a": "-cos(x)",
+    "b": "-sin(x)",
+    "c": "cos(x)",
+    "d": "sin(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for the parametric equations x = t^2 and y = t^3.",
+    "a": "1.5t",
+    "b": "1.5",
+    "c": "0.67t",
+    "d": "t",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = sinh(x) with respect to x.",
+    "a": "cosh(x)",
+    "b": "-cosh(x)",
+    "c": "sech^2(x)",
+    "d": "-sinh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = cosh(x) with respect to x.",
+    "a": "sinh(x)",
+    "b": "-sinh(x)",
+    "c": "sech^2(x)",
+    "d": "-cosh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the slope of the tangent line to the curve y = 2x^2 - 3x + 1 at the point (2, 3)?",
+    "a": "5",
+    "b": "3",
+    "c": "4",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = x^3 - x at x = 2.",
+    "a": "11",
+    "b": "12",
+    "c": "10",
+    "d": "8",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equation of the tangent line to the curve y = x^2 at the point (3, 9).",
+    "a": "y = 6x - 9",
+    "b": "y = 6x - 18",
+    "c": "y = 3x",
+    "d": "y = 6x + 9",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equation of the normal line to the curve y = x^2 at the point (2, 4).",
+    "a": "x + 4y = 18",
+    "b": "x - 4y = -14",
+    "c": "4x - y = 4",
+    "d": "4x + y = 12",
+    "ans": "a"
+  },
+  {
+    "q": "The slope of the normal line to a curve at any point is what relative to the slope of the tangent line m?",
+    "a": "-1/m",
+    "b": "1/m",
+    "c": "-m",
+    "d": "m",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the vertical asymptote of the curve y = (2x - 1) / (x + 2)?",
+    "a": "x + 2 = 0",
+    "b": "x - 2 = 0",
+    "c": "x - 1 = 0",
+    "d": "y - 2 = 0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the horizontal asymptote of the curve y = (2x - 1) / (x + 2)?",
+    "a": "y = 2",
+    "b": "y = 1",
+    "c": "y = -2",
+    "d": "x = -2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the second derivative of y = x^(-1) at x = 2?",
+    "a": "0.25",
+    "b": "-0.25",
+    "c": "0.5",
+    "d": "-0.5",
+    "ans": "a"
+  },
+  {
+    "q": "At what value of x will the slope of the curve y = x^3 - 12x be equal to 15?",
+    "a": "3",
+    "b": "2",
+    "c": "5",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "The slope of a curve at any point is given as 6x - 2 and the curve passes through (5, 3). Determine the equation of the curve.",
+    "a": "y = 3x^2 - 2x - 62",
+    "b": "y = 3x^2 - 2x - 72",
+    "c": "y = 2x^2 - 3x - 62",
+    "d": "y = 3x^2 - 2x + 62",
+    "ans": "a"
+  },
+  {
+    "q": "What is the point on the curve where the second derivative of a function is equal to zero or undefined and concavity changes?",
+    "a": "Point of inflection",
+    "b": "Critical point",
+    "c": "Relative minimum",
+    "d": "Relative maximum",
+    "ans": "a"
+  },
+  {
+    "q": "What is a point on a curve where the first derivative of a function is zero?",
+    "a": "Stationary point",
+    "b": "Inflection point",
+    "c": "Asymptote",
+    "d": "Cusp",
+    "ans": "a"
+  },
+  {
+    "q": "If the first derivative is zero and the second derivative is positive at a point, that point is a:",
+    "a": "Relative minimum",
+    "b": "Relative maximum",
+    "c": "Point of inflection",
+    "d": "Saddle point",
+    "ans": "a"
+  },
+  {
+    "q": "If the first derivative is zero and the second derivative is negative at a point, that point is a:",
+    "a": "Relative maximum",
+    "b": "Relative minimum",
+    "c": "Point of inflection",
+    "d": "Stationary cusp",
+    "ans": "a"
+  },
+  {
+    "q": "Find the point of inflection of the curve y = x^3 - 3x^2 + 2.",
+    "a": "(1, 0)",
+    "b": "(0, 2)",
+    "c": "(2, -2)",
+    "d": "(1, 2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the relative maximum point of the curve y = -x^2 + 4x + 5.",
+    "a": "(2, 9)",
+    "b": "(2, 5)",
+    "c": "(0, 5)",
+    "d": "(1, 8)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the relative minimum point of the curve y = x^2 - 6x + 10.",
+    "a": "(3, 1)",
+    "b": "(3, 10)",
+    "c": "(0, 10)",
+    "d": "(6, 10)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the formula for the radius of curvature R of a curve y = f(x)?",
+    "a": "[1 + (y')^2]^(3/2) / |y''|",
+    "b": "[1 + (y')^2]^(1/2) / |y''|",
+    "c": "[1 - (y')^2]^(3/2) / |y''|",
+    "d": "|y''| / [1 + (y')^2]^(3/2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of curvature of the curve y = x^2 at the origin (0, 0).",
+    "a": "0.5",
+    "b": "1.0",
+    "c": "2.0",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of curvature of the circle x^2 + y^2 = 16 at any point on it.",
+    "a": "4",
+    "b": "16",
+    "c": "8",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the curvature K of a curve, defined as the reciprocal of the radius of curvature R?",
+    "a": "K = 1/R",
+    "b": "K = R^2",
+    "c": "K = sqrt(R)",
+    "d": "K = -1/R",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the curvature of the curve y = x^2 at the point (0, 0).",
+    "a": "2",
+    "b": "1",
+    "c": "0.5",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the curvature of a straight line?",
+    "a": "0",
+    "b": "1",
+    "c": "Infinity",
+    "d": "Constant but non-zero",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coordinates of the center of curvature for the curve y = x^2 at the origin.",
+    "a": "(0, 0.5)",
+    "b": "(0, 1)",
+    "c": "(0.5, 0)",
+    "d": "(0, -0.5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coordinates of the center of curvature for the parabola y^2 = 4x at the point (1, 2).",
+    "a": "(3, -2)",
+    "b": "(2, -3)",
+    "c": "(3, 2)",
+    "d": "(-3, 2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the slope of the curve y = cos(x) at x = pi/2?",
+    "a": "-1",
+    "b": "0",
+    "c": "1",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the tangent to the curve y = e^(3x) at x = 0.",
+    "a": "3",
+    "b": "1",
+    "c": "e",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the value of x at which the tangent to the curve y = x^2 - 4x is horizontal.",
+    "a": "2",
+    "b": "4",
+    "c": "0",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the slope of the curve y = ln(x^2) at x = 2?",
+    "a": "1",
+    "b": "1/2",
+    "c": "2",
+    "d": "1/4",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the tangent line to the curve y = ln(x) at x = 1?",
+    "a": "y = x - 1",
+    "b": "y = x",
+    "c": "y = x + 1",
+    "d": "y = -x + 1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the angle of intersection of the curves y = x^2 and y = 8 - x^2 at their point of intersection in the first quadrant.",
+    "a": "73.30°",
+    "b": "16.70°",
+    "c": "45.00°",
+    "d": "90.00°",
+    "ans": "a"
+  },
+  {
+    "q": "The curve y = x^3 - 3x^2 + 4 has how many relative extrema?",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum value of the function y = -x^2 + 6x - 5?",
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "9",
+    "ans": "a"
+  },
+  {
+    "q": "Find two numbers whose sum is 20, if the product of one by the cube of another is to be a maximum.",
+    "a": "5 and 15",
+    "b": "10 and 10",
+    "c": "4 and 16",
+    "d": "8 and 12",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of two numbers is 12. Find the minimum value of the sum of their cubes.",
+    "a": "432",
+    "b": "644",
+    "c": "346",
+    "d": "244",
+    "ans": "a"
+  },
+  {
+    "q": "A rectangular box with square base and open top is to have a capacity of 32 cubic meters. Find the height of the box to minimize the surface area.",
+    "a": "2 meters",
+    "b": "4 meters",
+    "c": "3 meters",
+    "d": "1.5 meters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum area of a rectangle with a perimeter of 100 meters?",
+    "a": "625 sq. m",
+    "b": "400 sq. m",
+    "c": "1000 sq. m",
+    "d": "2500 sq. m",
+    "ans": "a"
+  },
+  {
+    "q": "A closed cylindrical tank has a total surface area of 153.94 sq. m. If the volume is to be maximum, what is its height in meters?",
+    "a": "5.7 meters",
+    "b": "6.8 meters",
+    "c": "3.6 meters",
+    "d": "4.5 meters",
+    "ans": "a"
+  },
+  {
+    "q": "For a closed cylinder of maximum volume and given surface area, what is the ratio of height to diameter?",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "An open cylindrical can of given volume V is to be constructed with minimum surface area. What is the ratio of height to radius?",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "A rectangular field of area 2000 sq. m is to be fenced off along a straight river (no fencing needed along the river). Find the minimum length of fencing required.",
+    "a": "126.5 meters",
+    "b": "120.0 meters",
+    "c": "150.0 meters",
+    "d": "100.0 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the minimum value of the function y = x + 1/x for positive values of x.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "An island is 5 km from the nearest point P on a straight shoreline. A woman wants to go to a point Q on the shore 12 km from P. If she can row at 3 km/h and walk at 5 km/h, to what point on the shore should she row to minimize travel time?",
+    "a": "3.75 km from P",
+    "b": "3.00 km from P",
+    "c": "4.50 km from P",
+    "d": "5.00 km from P",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum profit that can be obtained if the profit function is P(x) = 400x - 2x^2, where x is the number of units?",
+    "a": "20,000",
+    "b": "10,000",
+    "c": "40,000",
+    "d": "15,000",
+    "ans": "a"
+  },
+  {
+    "q": "A printer needs to print a poster with 50 sq. inches of printed matter, with 4-inch margins at the top and bottom and 2-inch margins on the sides. What is the minimum total area of the poster?",
+    "a": "162 sq. inches",
+    "b": "150 sq. inches",
+    "c": "180 sq. inches",
+    "d": "200 sq. inches",
+    "ans": "a"
+  },
+  {
+    "q": "Find the point on the parabola y = x^2 that is closest to the point (0, 5).",
+    "a": "(sqrt(4.5), 4.5)",
+    "b": "(2, 4)",
+    "c": "(1, 1)",
+    "d": "(sqrt(5), 5)",
+    "ans": "a"
+  },
+  {
+    "q": "The product of two positive numbers is 16. Find the numbers if their sum is a minimum.",
+    "a": "4 and 4",
+    "b": "2 and 8",
+    "c": "1 and 16",
+    "d": "3 and 5.33",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of a number and its reciprocal is a minimum. What is the number, assuming it is positive?",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the height of the cylinder of maximum volume that can be inscribed in a sphere of radius R.",
+    "a": "2R / sqrt(3)",
+    "b": "R / sqrt(3)",
+    "c": "2R / 3",
+    "d": "R / 2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the largest right circular cone that can be inscribed in a sphere of radius R.",
+    "a": "32/81 * pi * R^3",
+    "b": "4/3 * pi * R^3",
+    "c": "8/27 * pi * R^3",
+    "d": "16/27 * pi * R^3",
+    "ans": "a"
+  },
+  {
+    "q": "The strength of a rectangular beam is proportional to its width and the square of its depth. Find the dimensions of the strongest beam that can be cut from a circular log of diameter D.",
+    "a": "Width = D/sqrt(3), Depth = D*sqrt(2/3)",
+    "b": "Width = D/2, Depth = D*sqrt(3)/2",
+    "c": "Width = D/sqrt(2), Depth = D/sqrt(2)",
+    "d": "Width = D/3, Depth = 2D/3",
+    "ans": "a"
+  },
+  {
+    "q": "A wire of length 20 cm is cut into two pieces, one being bent into a square and the other into a circle. How should the wire be cut to minimize the sum of their areas?",
+    "a": "8.8 cm for the square",
+    "b": "10.0 cm for the square",
+    "c": "11.2 cm for the square",
+    "d": "12.0 cm for the square",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum area of an isosceles triangle with a perimeter of 18 cm?",
+    "a": "9 * sqrt(3) sq. cm",
+    "b": "12 * sqrt(3) sq. cm",
+    "c": "15 sq. cm",
+    "d": "18 sq. cm",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the maximum value of the function y = x * e^(-x).",
+    "a": "1/e",
+    "b": "e",
+    "c": "1",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "The rate of change of volume of a sphere with respect to its radius r is equal to what geometric property of the sphere?",
+    "a": "Surface area",
+    "b": "Circumference",
+    "c": "Diameter",
+    "d": "Cross-sectional area",
+    "ans": "a"
+  },
+  {
+    "q": "The rate of change of area of a circle with respect to its radius r is equal to what geometric property?",
+    "a": "Circumference",
+    "b": "Diameter",
+    "c": "Radius",
+    "d": "Semicircle area",
+    "ans": "a"
+  },
+  {
+    "q": "A spherical balloon is being inflated at a rate of 10 cubic inches per second. How fast is the radius increasing when the radius is 5 inches?",
+    "a": "1 / (10 * pi) in/sec",
+    "b": "1 / (5 * pi) in/sec",
+    "c": "2 / pi in/sec",
+    "d": "1 / pi in/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A ladder 10 feet long rests against a vertical wall. If the bottom of the ladder slides away from the wall at 2 ft/s, how fast is the top of the ladder sliding down when the bottom is 6 feet from the wall?",
+    "a": "-1.5 ft/s",
+    "b": "-1.2 ft/s",
+    "c": "-2.5 ft/s",
+    "d": "-1.0 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A cylindrical tank of radius 5 feet is being filled with water at a rate of 20 cubic feet per minute. How fast is the water level rising?",
+    "a": "4 / (5 * pi) ft/min",
+    "b": "4 / pi ft/min",
+    "c": "20 / pi ft/min",
+    "d": "5 / (4 * pi) ft/min",
+    "ans": "a"
+  },
+  {
+    "q": "A man 6 feet tall walks away from a lamppost 15 feet high at a rate of 5 ft/s. How fast is the tip of his shadow moving?",
+    "a": "8.33 ft/s",
+    "b": "3.33 ft/s",
+    "c": "5.00 ft/s",
+    "d": "10.00 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A man 6 feet tall walks away from a lamppost 15 feet high at a rate of 5 ft/s. How fast is the length of his shadow increasing?",
+    "a": "3.33 ft/s",
+    "b": "5.00 ft/s",
+    "c": "8.33 ft/s",
+    "d": "2.50 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A water tank has the shape of an inverted circular cone with base radius 2 meters and height 4 meters. If water is being pumped into the tank at a rate of 2 cubic meters per minute, find the rate at which the water level is rising when the water is 3 meters deep.",
+    "a": "8 / (9 * pi) m/min",
+    "b": "4 / (9 * pi) m/min",
+    "c": "2 / (3 * pi) m/min",
+    "d": "1 / m/min",
+    "ans": "a"
+  },
+  {
+    "q": "Two boats leave the same dock at the same time. Boat A travels north at 15 knots and Boat B travels east at 20 knots. How fast is the distance between them increasing after 2 hours?",
+    "a": "25 knots",
+    "b": "35 knots",
+    "c": "20 knots",
+    "d": "30 knots",
+    "ans": "a"
+  },
+  {
+    "q": "A spotlight on the ground shines on a wall 12 meters away. If a man 2 meters tall walks from the spotlight to the wall at a speed of 1.6 m/s, how fast is the length of his shadow on the wall decreasing when he is 4 meters from the wall?",
+    "a": "2.4 m/s",
+    "b": "1.2 m/s",
+    "c": "3.6 m/s",
+    "d": "0.8 m/s",
+    "ans": "a"
+  },
+  {
+    "q": "A balloon is rising vertically above a level, straight road at a constant rate of 1 ft/s. Just when the balloon is 65 feet above the ground, a bicycle passes directly under it, going at a constant speed of 17 ft/s. How fast is the distance between the bicycle and the balloon increasing 3 seconds later?",
+    "a": "11 ft/s",
+    "b": "13 ft/s",
+    "c": "9 ft/s",
+    "d": "15 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "If z = x^2 + y^2, find the partial derivative of z with respect to x.",
+    "a": "2x",
+    "b": "2y",
+    "c": "2x + 2y",
+    "d": "x^2",
+    "ans": "a"
+  },
+  {
+    "q": "If z = x^2 * y^3, find the partial derivative of z with respect to y.",
+    "a": "3x^2 * y^2",
+    "b": "2x * y^3",
+    "c": "6x * y^2",
+    "d": "x^2 * y^2",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x, y) = ln(x^2 + y^2), evaluate the partial derivative with respect to x at the point (1, 2).",
+    "a": "2/5",
+    "b": "1/5",
+    "c": "4/5",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "If u = x^2 + y^2 + z^2, find the partial derivative of u with respect to z.",
+    "a": "2z",
+    "b": "2x",
+    "c": "2y",
+    "d": "2(x + y + z)",
+    "ans": "a"
+  },
+  {
+    "q": "According to Clairaut's Theorem on partial derivatives, if the second-order partial derivatives are continuous, then which of the following is true?",
+    "a": "d^2 f / (dx dy) = d^2 f / (dy dx)",
+    "b": "df/dx = df/dy",
+    "c": "d^2 f / dx^2 = d^2 f / dy^2",
+    "d": "d^2 f / (dx dy) = -d^2 f / (dy dx)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total differential dz of the function z = f(x, y)?",
+    "a": "dz = (df/dx)dx + (df/dy)dy",
+    "b": "dz = (df/dx)dx - (df/dy)dy",
+    "c": "dz = (df/dx)dy + (df/dy)dx",
+    "d": "dz = dx + dy",
+    "ans": "a"
+  },
+  {
+    "q": "The allowable error in measuring the edge of a cube intended to hold 8 cubic meters is such that the compound volume error must not exceed 0.03 cubic meters. Find the maximum allowable error in the edge measurement.",
+    "a": "0.0025 meters",
+    "b": "0.0010 meters",
+    "c": "0.0050 meters",
+    "d": "0.0020 meters",
+    "ans": "a"
+  },
+  {
+    "q": "Find the approximate change in the surface area of a sphere when its radius increases from 3 cm to 3.1 cm.",
+    "a": "2.4 * pi sq. cm",
+    "b": "1.2 * pi sq. cm",
+    "c": "4.8 * pi sq. cm",
+    "d": "3.6 * pi sq. cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find the partial derivative of f(x, y) = e^(xy) with respect to x.",
+    "a": "y * e^(xy)",
+    "b": "x * e^(xy)",
+    "c": "e^(xy)",
+    "d": "xy * e^(xy-1)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x, y) = sin(x)cos(y), find the second-order partial derivative d^2 f / (dx dy).",
+    "a": "-cos(x)sin(y)",
+    "b": "-sin(x)cos(y)",
+    "c": "cos(x)cos(y)",
+    "d": "sin(x)sin(y)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sin(x) - x) / x as x approaches 0.",
+    "a": "0",
+    "b": "1",
+    "c": "-1",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^2 - x - 6) / (x - 3) as x approaches 3.",
+    "a": "5",
+    "b": "0",
+    "c": "6",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of x^3 / (x^2 - 1) as x approaches infinity.",
+    "a": "Infinity",
+    "b": "0",
+    "c": "1",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sqrt(x) - 2) / (x - 4) as x approaches 4.",
+    "a": "1/4",
+    "b": "1/2",
+    "c": "0",
+    "d": "1/8",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1 - e^(-x)) / x as x approaches 0.",
+    "a": "1",
+    "b": "0",
+    "c": "-1",
+    "d": "e",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (ln(x) - 1) / (x - e) as x approaches e.",
+    "a": "1/e",
+    "b": "1",
+    "c": "e",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of x * ln(x) as x approaches 0 from the right.",
+    "a": "0",
+    "b": "-1",
+    "c": "-infinity",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (e^x - e^(-x)) / sin(x) as x approaches 0.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of x^(1/x) as x approaches infinity.",
+    "a": "1",
+    "b": "0",
+    "c": "e",
+    "d": "Infinity",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1 - cos(2x)) / (x * sin(x)) as x approaches 0.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of x^2 * e^(-x) as x approaches infinity.",
+    "a": "0",
+    "b": "Infinity",
+    "c": "1",
+    "d": "e",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of tan(x) / sec(x) as x approaches pi/2.",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^5 - 1) / (x - 1) as x approaches 1.",
+    "a": "5",
+    "b": "1",
+    "c": "0",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1/x - 1/sin(x)) as x approaches 0.",
+    "a": "0",
+    "b": "1",
+    "c": "-1",
+    "d": "Infinity",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^3 - 8) / (x^2 - 4) as x approaches 2.",
+    "a": "3",
+    "b": "2",
+    "c": "1.5",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of f(x) = x^3 - 3x^2 + 5x with respect to x?",
+    "a": "3x^2 - 6x + 5",
+    "b": "3x^2 - 6x",
+    "c": "x^2 - 3x + 5",
+    "d": "3x^2 - 3x + 5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = (2x + 1)(x - 3) with respect to x.",
+    "a": "4x - 5",
+    "b": "4x - 6",
+    "c": "2x - 5",
+    "d": "4x - 3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = (3x - 2) / (2x + 1) with respect to x.",
+    "a": "7 / (2x + 1)^2",
+    "b": "-7 / (2x + 1)^2",
+    "c": "1 / (2x + 1)^2",
+    "d": "(12x - 1) / (2x + 1)^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = cos(x^3) with respect to x.",
+    "a": "-3x^2 * sin(x^3)",
+    "b": "3x^2 * sin(x^3)",
+    "c": "-sin(x^3)",
+    "d": "-3x^2 * cos(x^3)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = ln(3x^2 + 1) with respect to x.",
+    "a": "6x / (3x^2 + 1)",
+    "b": "1 / (3x^2 + 1)",
+    "c": "3x / (3x^2 + 1)",
+    "d": "6x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = e^(sin(x)) with respect to x.",
+    "a": "cos(x) * e^(sin(x))",
+    "b": "e^(sin(x))",
+    "c": "-cos(x) * e^(sin(x))",
+    "d": "sin(x) * e^(sin(x)-1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for x^2 - xy + y^2 = 7 using implicit differentiation.",
+    "a": "(y - 2x) / (2y - x)",
+    "b": "(2x - y) / (2y - x)",
+    "c": "(y - 2x) / (x - 2y)",
+    "d": "(2x - y) / (x - 2y)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for e^(xy) = x + y.",
+    "a": "(1 - y * e^(xy)) / (x * e^(xy) - 1)",
+    "b": "(y * e^(xy) - 1) / (x * e^(xy) - 1)",
+    "c": "(1 - y * e^(xy)) / (1 - x * e^(xy))",
+    "d": "(y * e^(xy)) / (x * e^(xy))",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = arctan(2x) with respect to x.",
+    "a": "2 / (1 + 4x^2)",
+    "b": "1 / (1 + 4x^2)",
+    "c": "2 / (1 + x^2)",
+    "d": "1 / (1 + 2x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of f(x) = arcsin(x/2) with respect to x.",
+    "a": "1 / sqrt(4 - x^2)",
+    "b": "1 / (2 * sqrt(4 - x^2))",
+    "c": "2 / sqrt(4 - x^2)",
+    "d": "1 / sqrt(1 - x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate dy/dx for the function y = (x^2 + 1)^x using logarithmic differentiation.",
+    "a": "(x^2 + 1)^x * [ln(x^2 + 1) + 2x^2 / (x^2 + 1)]",
+    "b": "(x^2 + 1)^x * ln(x^2 + 1)",
+    "c": "x * (x^2 + 1)^(x-1)",
+    "d": "(x^2 + 1)^x * [2x / (x^2 + 1)]",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for the parametric equations x = cos(t) and y = sin(t).",
+    "a": "-cot(t)",
+    "b": "-tan(t)",
+    "c": "cot(t)",
+    "d": "tan(t)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for the parametric equations x = e^t and y = e^(2t).",
+    "a": "2e^t",
+    "b": "2e^(2t)",
+    "c": "e^t",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of f(x) = ln(x) with respect to x.",
+    "a": "-1/x^2",
+    "b": "1/x^2",
+    "c": "-2/x^3",
+    "d": "1/x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of f(x) = e^(-x^2) with respect to x.",
+    "a": "e^(-x^2) * (4x^2 - 2)",
+    "b": "e^(-x^2) * (2 - 4x^2)",
+    "c": "-2x * e^(-x^2)",
+    "d": "e^(-x^2) * 4x^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = 2x^3 - x^2 + 3x at the point (1, 4).",
+    "a": "7",
+    "b": "9",
+    "c": "6",
+    "d": "8",
+    "ans": "a"
+  },
+  {
+    "q": "What is the slope of the curve y^2 = 4x at the point (1, 2)?",
+    "a": "1",
+    "b": "2",
+    "c": "0.5",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equation of the tangent line to the curve y = 1/x at the point (1, 1).",
+    "a": "y = -x + 2",
+    "b": "y = -x + 1",
+    "c": "y = x",
+    "d": "y = -x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equation of the normal line to the curve y = sin(x) at the origin (0, 0).",
+    "a": "y = -x",
+    "b": "y = x",
+    "c": "x = 0",
+    "d": "y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the vertical asymptote of the curve y = x / (x^2 - 9)?",
+    "a": "x = 3 and x = -3",
+    "b": "x = 9",
+    "c": "x = 0",
+    "d": "y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the horizontal asymptote of the curve y = (3x^2 - 5) / (x^2 - 1)?",
+    "a": "y = 3",
+    "b": "y = 5",
+    "c": "y = 1",
+    "d": "y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the points of inflection of the curve y = 3x^5 - 5x^4.",
+    "a": "(1, -2)",
+    "b": "(0, 0)",
+    "c": "(1, -2) and (0, 0)",
+    "d": "None",
+    "ans": "a"
+  },
+  {
+    "q": "Find the relative minimum point of the curve y = x^3 - 3x.",
+    "a": "(1, -2)",
+    "b": "(-1, 2)",
+    "c": "(0, 0)",
+    "d": "(2, 2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the relative maximum point of the curve y = x^3 - 3x.",
+    "a": "(-1, 2)",
+    "b": "(1, -2)",
+    "c": "(0, 0)",
+    "d": "(-2, -2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of curvature of the curve y = ln(sec(x)) at x = 0.",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "0.5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of curvature of the ellipse x^2/16 + y^2/9 = 1 at the vertex (4, 0).",
+    "a": "2.25",
+    "b": "3.00",
+    "c": "4.00",
+    "d": "1.33",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coordinates of the center of curvature for the curve y = x^3 at the point (1, 1).",
+    "a": "(-1.5, 2.5)",
+    "b": "(1.5, -2.5)",
+    "c": "(-2, 3)",
+    "d": "(2, -3)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the curvature of the circle x^2 + y^2 = 25 at any point?",
+    "a": "0.20",
+    "b": "5.00",
+    "c": "25.00",
+    "d": "0.04",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = tan(x) at x = pi/4.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = x * ln(x) at x = e.",
+    "a": "2",
+    "b": "1",
+    "c": "e",
+    "d": "1/e",
+    "ans": "a"
+  },
+  {
+    "q": "At what value of x will the tangent to the curve y = 2x^3 - 9x^2 + 12x + 5 be horizontal?",
+    "a": "1 and 2",
+    "b": "3 and 4",
+    "c": "0 and 2",
+    "d": "1 and 3",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the tangent line to the curve y = e^x at x = 0?",
+    "a": "y = x + 1",
+    "b": "y = x",
+    "c": "y = ex + 1",
+    "d": "y = x - 1",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equation of the horizontal asymptote of the curve y = (2x - 5) / (3x + 2)?",
+    "a": "y = 2/3",
+    "b": "y = -5/2",
+    "c": "y = -2/3",
+    "d": "y = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Find the relative extrema of the function f(x) = x^4 - 4x^3.",
+    "a": "Relative minimum at (3, -27)",
+    "b": "Relative maximum at (0, 0)",
+    "c": "Relative minimum at (0, 0)",
+    "d": "Relative maximum at (3, -27)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum area of a right triangle whose hypotenuse is 10 cm long?",
+    "a": "25 sq. cm",
+    "b": "50 sq. cm",
+    "c": "20 sq. cm",
+    "d": "30 sq. cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find two positive numbers whose sum is 16 and whose product is a maximum.",
+    "a": "8 and 8",
+    "b": "6 and 10",
+    "c": "4 and 12",
+    "d": "7 and 9",
+    "ans": "a"
+  },
+  {
+    "q": "An open box is to be made from a square piece of material, 12 cm on a side, by cutting equal squares from the corners and turning up the sides. Find the volume of the largest box that can be made.",
+    "a": "128 cc",
+    "b": "144 cc",
+    "c": "100 cc",
+    "d": "96 cc",
+    "ans": "a"
+  },
+  {
+    "q": "Find the maximum area of a rectangle that can be inscribed in a semicircle of radius R.",
+    "a": "R^2",
+    "b": "0.5 * R^2",
+    "c": "2 * R^2",
+    "d": "pi * R^2 / 4",
+    "ans": "a"
+  },
+  {
+    "q": "An open cylindrical can of volume 1000 cubic centimeters is to be constructed with minimum surface area. What is its radius?",
+    "a": "5.42 cm",
+    "b": "6.20 cm",
+    "c": "4.85 cm",
+    "d": "5.00 cm",
+    "ans": "a"
+  },
+  {
+    "q": "A closed cylindrical can is to have a volume of 54*pi cubic inches. What is the radius of the can that minimizes the surface area?",
+    "a": "3 inches",
+    "b": "4 inches",
+    "c": "2.5 inches",
+    "d": "3.5 inches",
+    "ans": "a"
+  },
+  {
+    "q": "Find the height of the right circular cylinder of maximum volume that can be inscribed in a sphere of radius 6 cm.",
+    "a": "6.93 cm",
+    "b": "3.46 cm",
+    "c": "4.00 cm",
+    "d": "8.00 cm",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum area of a rectangle with a perimeter of 40 meters?",
+    "a": "100 sq. m",
+    "b": "80 sq. m",
+    "c": "120 sq. m",
+    "d": "160 sq. m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the dimensions of the rectangle of maximum area that can be inscribed in a circle of radius R.",
+    "a": "Square of side R * sqrt(2)",
+    "b": "Square of side R",
+    "c": "Rectangle of width R, height R * sqrt(3)",
+    "d": "Rectangle of width R * sqrt(3), height R",
+    "ans": "a"
+  },
+  {
+    "q": "A box with a square base and open top must have a volume of 4 cubic meters. Find the height of the box that minimizes the surface area.",
+    "a": "1 meter",
+    "b": "2 meters",
+    "c": "0.5 meters",
+    "d": "1.5 meters",
+    "ans": "a"
+  },
+  {
+    "q": "A manufacturer can produce shoes at a cost of P400 per pair. If the selling price is Px per pair, the number of pairs sold per week is 1000 - x. What selling price maximizes weekly profit?",
+    "a": "P700",
+    "b": "P600",
+    "c": "P800",
+    "d": "P500",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coordinates of the point on the curve y = sqrt(x) that is closest to the point (2, 0).",
+    "a": "(1.5, 1.22)",
+    "b": "(1.0, 1.00)",
+    "c": "(2.0, 1.41)",
+    "d": "(1.2, 1.10)",
+    "ans": "a"
+  },
+  {
+    "q": "A sector of a circle has a perimeter of 24 cm. Find the radius of the circle that maximizes the area of the sector.",
+    "a": "6 cm",
+    "b": "4 cm",
+    "c": "8 cm",
+    "d": "5 cm",
+    "ans": "a"
+  },
+  {
+    "q": "A poster must contain 32 square inches of printed matter. The top and bottom margins are 2 inches each, and the side margins are 1 inch each. Find the total width of the poster of minimum area.",
+    "a": "6 inches",
+    "b": "8 inches",
+    "c": "10 inches",
+    "d": "5 inches",
+    "ans": "a"
+  },
+  {
+    "q": "Find the height of the cone of maximum volume that can be inscribed in a sphere of radius 9 cm.",
+    "a": "12 cm",
+    "b": "9 cm",
+    "c": "10 cm",
+    "d": "8 cm",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of the height and radius of a right circular cylinder is 12 cm. What is the maximum volume of the cylinder?",
+    "a": "128 * pi cc",
+    "b": "256 * pi cc",
+    "c": "96 * pi cc",
+    "d": "144 * pi cc",
+    "ans": "a"
+  },
+  {
+    "q": "A Norman window is in the shape of a rectangle surmounted by a semicircle. If the perimeter of the window is 16 feet, find the width of the window that maximizes its area.",
+    "a": "4.48 feet",
+    "b": "3.50 feet",
+    "c": "5.00 feet",
+    "d": "4.00 feet",
+    "ans": "a"
+  },
+  {
+    "q": "A wire of length 10 meters is to be cut into two pieces. One piece is bent into a circle, and the other into an equilateral triangle. How should the wire be cut to maximize the sum of their areas?",
+    "a": "All 10 meters for the circle",
+    "b": "All 10 meters for the triangle",
+    "c": "5 meters for each",
+    "d": "6 meters for the circle, 4 meters for the triangle",
+    "ans": "a"
+  },
+  {
+    "q": "What is the maximum value of the function f(x) = sin(x) + cos(x) on the interval [0, pi]?",
+    "a": "sqrt(2)",
+    "b": "1",
+    "c": "2",
+    "d": "1.5",
+    "ans": "a"
+  },
+  {
+    "q": "The rate of change of the area of a square with respect to its side s is equal to what?",
+    "a": "2s",
+    "b": "s^2",
+    "c": "4s",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "A circle's area is expanding at a rate of 4*pi square cm per second. How fast is the radius increasing when the radius is 2 cm?",
+    "a": "1 cm/sec",
+    "b": "2 cm/sec",
+    "c": "0.5 cm/sec",
+    "d": "1.5 cm/sec",
+    "ans": "a"
+  },
+  {
+    "q": "A spherical balloon is being deflated at a rate of 12 cubic inches per minute. How fast is the surface area of the balloon decreasing when the radius is 3 inches?",
+    "a": "8 sq. in/min",
+    "b": "6 sq. in/min",
+    "c": "12 sq. in/min",
+    "d": "4 sq. in/min",
+    "ans": "a"
+  },
+  {
+    "q": "A ladder 13 feet long rests against a vertical wall. If the bottom of the ladder slides away from the wall at 3 ft/s, how fast is the top of the ladder sliding down when the bottom is 5 feet from the wall?",
+    "a": "-1.25 ft/s",
+    "b": "-1.50 ft/s",
+    "c": "-2.00 ft/s",
+    "d": "-1.00 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A cylindrical tank of radius 4 meters is being filled with oil at a rate of 16*pi cubic meters per minute. How fast is the depth of the oil rising?",
+    "a": "1 m/min",
+    "b": "2 m/min",
+    "c": "0.5 m/min",
+    "d": "4 m/min",
+    "ans": "a"
+  },
+  {
+    "q": "A man 6 feet tall walks away from a light source 12 feet above the ground at 4 ft/s. How fast is the length of his shadow increasing?",
+    "a": "4 ft/s",
+    "b": "2 ft/s",
+    "c": "6 ft/s",
+    "d": "3 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A girl 5 feet tall walks towards a light source 15 feet above the ground at 3 ft/s. How fast is the tip of her shadow moving?",
+    "a": "-4.5 ft/s",
+    "b": "-3.0 ft/s",
+    "c": "-1.5 ft/s",
+    "d": "-6.0 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A conical tank with vertices down has a height of 10 feet and a top radius of 5 feet. Water flows into the tank at 5 cubic feet per minute. How fast is the water level rising when the water is 6 feet deep?",
+    "a": "5 / (9 * pi) ft/min",
+    "b": "5 / (6 * pi) ft/min",
+    "c": "1 / (9 * pi) ft/min",
+    "d": "5 / pi ft/min",
+    "ans": "a"
+  },
+  {
+    "q": "Two cars start moving from the same point. Car A travels north at 30 mph, and Car B travels west at 40 mph. How fast is the distance between them increasing after 2 hours?",
+    "a": "50 mph",
+    "b": "70 mph",
+    "c": "60 mph",
+    "d": "45 mph",
+    "ans": "a"
+  },
+  {
+    "q": "A street light is mounted at the top of a 15-foot pole. A man 6 feet tall walks away from the pole at a speed of 5 ft/s. How fast is the tip of his shadow moving?",
+    "a": "8.33 ft/s",
+    "b": "5.00 ft/s",
+    "c": "3.33 ft/s",
+    "d": "10.00 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "A balloon is 80 feet directly above a straight horizontal road and is rising vertically at 5 ft/s. A car passes directly underneath going 60 ft/s. How fast is the distance between them increasing 1 second later?",
+    "a": "49.12 ft/s",
+    "b": "52.40 ft/s",
+    "c": "60.00 ft/s",
+    "d": "45.00 ft/s",
+    "ans": "a"
+  },
+  {
+    "q": "If z = 2x^2 + 3xy + y^2, find the partial derivative of z with respect to y.",
+    "a": "3x + 2y",
+    "b": "4x + 3y",
+    "c": "3x + y",
+    "d": "2x + 2y",
+    "ans": "a"
+  },
+  {
+    "q": "If z = cos(x) * e^y, find the partial derivative of z with respect to x.",
+    "a": "-sin(x) * e^y",
+    "b": "sin(x) * e^y",
+    "c": "-cos(x) * e^y",
+    "d": "cos(x) * e^y",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x, y) = x * ln(y), evaluate the partial derivative with respect to y at the point (2, e).",
+    "a": "2/e",
+    "b": "2",
+    "c": "1/e",
+    "d": "e",
+    "ans": "a"
+  },
+  {
+    "q": "If u = x^3 + y^3 + z^3 - 3xyz, find the partial derivative of u with respect to x.",
+    "a": "3x^2 - 3yz",
+    "b": "3x^2",
+    "c": "3x^2 - 3xy",
+    "d": "3x^2 - 3xz",
+    "ans": "a"
+  },
+  {
+    "q": "For the function f(x, y) = x^2 * y + x * y^2, verify the mixed partial derivatives. What is d^2 f / (dx dy)?",
+    "a": "2x + 2y",
+    "b": "2x + y",
+    "c": "x + 2y",
+    "d": "2x - 2y",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the total differential df of the function f(x, y) = x^2 + 3xy.",
+    "a": "(2x + 3y)dx + 3x dy",
+    "b": "2x dx + 3y dy",
+    "c": "(2x + 3)dx + 3dy",
+    "d": "2x dx + 3x dy",
+    "ans": "a"
+  },
+  {
+    "q": "The sides of a rectangle are measured as 10 cm and 20 cm, with a maximum error of 0.1 cm in each. Find the maximum error in the calculated area.",
+    "a": "3 sq. cm",
+    "b": "2 sq. cm",
+    "c": "1 sq. cm",
+    "d": "4 sq. cm",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the partial derivative of f(x, y) = x^y with respect to y.",
+    "a": "x^y * ln(x)",
+    "b": "y * x^(y-1)",
+    "c": "x^y",
+    "d": "y * x^y * ln(x)",
+    "ans": "a"
+  },
+  {
+    "q": "If z = ln(sqrt(x^2 + y^2)), find the partial derivative of z with respect to x.",
+    "a": "x / (x^2 + y^2)",
+    "b": "1 / (2 * (x^2 + y^2))",
+    "c": "x / sqrt(x^2 + y^2)",
+    "d": "2x / (x^2 + y^2)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x, y) = sin(xy), find the second-order partial derivative d^2 f / dy^2.",
+    "a": "-x^2 * sin(xy)",
+    "b": "-y^2 * sin(xy)",
+    "c": "x^2 * cos(xy)",
+    "d": "cos(xy)",
+    "ans": "a"
+  },
+  {
+    "q": "The limit of (x^2 - 25) / (x - 5) as x approaches 5 is what?",
+    "a": "10",
+    "b": "0",
+    "c": "5",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = x^n?",
+    "a": "n * x^(n-1)",
+    "b": "x^(n+1) / (n+1)",
+    "c": "n * x^n",
+    "d": "x^(n-1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = cos(x)?",
+    "a": "-sin(x)",
+    "b": "sin(x)",
+    "c": "-cos(x)",
+    "d": "sec^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = ln(2x).",
+    "a": "1/x",
+    "b": "1/(2x)",
+    "c": "2/x",
+    "d": "e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = tan(3x).",
+    "a": "3 * sec^2(3x)",
+    "b": "sec^2(3x)",
+    "c": "-3 * csc^2(3x)",
+    "d": "3 * tan(3x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = x^2 at x = 3.",
+    "a": "6",
+    "b": "9",
+    "c": "3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "What are points where f'(x) = 0 or f'(x) is undefined called?",
+    "a": "Critical points",
+    "b": "Inflection points",
+    "c": "Asymptotes",
+    "d": "Boundary points",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = e^(4x)?",
+    "a": "4 * e^(4x)",
+    "b": "e^(4x)",
+    "c": "4x * e^(4x-1)",
+    "d": "0.25 * e^(4x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for x^2 + y^2 = 9.",
+    "a": "-x/y",
+    "b": "-y/x",
+    "c": "x/y",
+    "d": "y/x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = arcsin(x)?",
+    "a": "1 / sqrt(1 - x^2)",
+    "b": "-1 / sqrt(1 - x^2)",
+    "c": "1 / (1 + x^2)",
+    "d": "1 / (x * sqrt(x^2 - 1))",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of y = x^3.",
+    "a": "6x",
+    "b": "3x^2",
+    "c": "6",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (sin(x)) / x as x approaches 0.",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = x^3 at x = 1.",
+    "a": "3",
+    "b": "1",
+    "c": "6",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of a function at a point geometrically equal to?",
+    "a": "The slope of the tangent line",
+    "b": "The slope of the normal line",
+    "c": "The area under the curve",
+    "d": "The length of the curve",
+    "ans": "a"
+  },
+  {
+    "q": "If the second derivative is negative at a critical point, what does the curve have?",
+    "a": "Local maximum",
+    "b": "Local minimum",
+    "c": "Inflection point",
+    "d": "Asymptote",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = ln(x^2).",
+    "a": "2/x",
+    "b": "1/x^2",
+    "c": "2x / (x^2)",
+    "d": "1/x",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = cos(2x).",
+    "a": "-2 * sin(2x)",
+    "b": "2 * sin(2x)",
+    "c": "-sin(2x)",
+    "d": "-2 * cos(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = e^(-x).",
+    "a": "-e^(-x)",
+    "b": "e^(-x)",
+    "c": "-x * e^(-x-1)",
+    "d": "-e^x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = arctan(x)?",
+    "a": "1 / (1 + x^2)",
+    "b": "-1 / (1 + x^2)",
+    "c": "1 / sqrt(1 - x^2)",
+    "d": "1 / (x * sqrt(x^2 - 1))",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = 5x^3.",
+    "a": "15x^2",
+    "b": "5x^2",
+    "c": "15x",
+    "d": "3x^2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the limit of (1/x) as x approaches infinity?",
+    "a": "0",
+    "b": "Infinity",
+    "c": "1",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = sqrt(2x).",
+    "a": "1 / sqrt(2x)",
+    "b": "1 / (2 * sqrt(2x))",
+    "c": "sqrt(2) / sqrt(x)",
+    "d": "1 / (2x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = sec(x)?",
+    "a": "sec(x)tan(x)",
+    "b": "sec^2(x)",
+    "c": "-csc(x)cot(x)",
+    "d": "tan^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = x^2 - 4x, find the value of x where f'(x) = 0.",
+    "a": "2",
+    "b": "4",
+    "c": "0",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = ln(sin(x))?",
+    "a": "cot(x)",
+    "b": "tan(x)",
+    "c": "1/sin(x)",
+    "d": "sec(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (e^x - 1) / x as x approaches 0.",
+    "a": "1",
+    "b": "0",
+    "c": "e",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = x^4 at x = 2.",
+    "a": "32",
+    "b": "16",
+    "c": "8",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "If the first derivative is zero and the second derivative is positive, the point is a:",
+    "a": "Local minimum",
+    "b": "Local maximum",
+    "c": "Point of inflection",
+    "d": "Saddle point",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = cos^2(x).",
+    "a": "-2 * sin(x) * cos(x)",
+    "b": "2 * sin(x) * cos(x)",
+    "c": "-sin^2(x)",
+    "d": "-2 * sin(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = 1/x.",
+    "a": "-1/x^2",
+    "b": "1/x^2",
+    "c": "ln(x)",
+    "d": "-1/x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = e^(x^2)?",
+    "a": "2x * e^(x^2)",
+    "b": "e^(x^2)",
+    "c": "2x",
+    "d": "x^2 * e^(x^2-1)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of y = cos(x).",
+    "a": "-cos(x)",
+    "b": "-sin(x)",
+    "c": "cos(x)",
+    "d": "sin(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^2 - 1) / (x - 1) as x approaches 1.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = ln(x) at x = 1.",
+    "a": "1",
+    "b": "0",
+    "c": "e",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arcsin(2x).",
+    "a": "2 / sqrt(1 - 4x^2)",
+    "b": "1 / sqrt(1 - 4x^2)",
+    "c": "2 / sqrt(1 - x^2)",
+    "d": "1 / (1 + 4x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = csc(x)?",
+    "a": "-csc(x)cot(x)",
+    "b": "csc(x)cot(x)",
+    "c": "-csc^2(x)",
+    "d": "-sec(x)tan(x)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = x^3 - 3x, find the point of inflection.",
+    "a": "(0, 0)",
+    "b": "(1, -2)",
+    "c": "(-1, 2)",
+    "d": "(3, 18)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = x * e^x.",
+    "a": "e^x * (x + 1)",
+    "b": "e^x",
+    "c": "x * e^x",
+    "d": "e^x * (x - 1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the limit of (sin(2x)) / x as x approaches 0?",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arctan(3x).",
+    "a": "3 / (1 + 9x^2)",
+    "b": "1 / (1 + 9x^2)",
+    "c": "3 / (1 + x^2)",
+    "d": "1 / (1 + 3x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = 2x^2 at x = 2.",
+    "a": "8",
+    "b": "4",
+    "c": "6",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = arccos(x)?",
+    "a": "-1 / sqrt(1 - x^2)",
+    "b": "1 / sqrt(1 - x^2)",
+    "c": "-1 / (1 + x^2)",
+    "d": "-1 / (x * sqrt(x^2 - 1))",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = ln(x + 1).",
+    "a": "1 / (x + 1)",
+    "b": "1/x",
+    "c": "1 / (x^2 + 1)",
+    "d": "e^(x+1)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1 - cos(x)) / x as x approaches 0.",
+    "a": "0",
+    "b": "1",
+    "c": "1/2",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = e^(2x) at x = 0.",
+    "a": "2",
+    "b": "1",
+    "c": "e",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = 2x^3 - 6x, find the relative minimum point.",
+    "a": "(1, -4)",
+    "b": "(-1, 4)",
+    "c": "(0, 0)",
+    "d": "(2, 4)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = tan^2(x).",
+    "a": "2 * tan(x) * sec^2(x)",
+    "b": "2 * tan(x)",
+    "c": "sec^4(x)",
+    "d": "2 * sec^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = cot(x).",
+    "a": "-csc^2(x)",
+    "b": "csc^2(x)",
+    "c": "-sec^2(x)",
+    "d": "-csc(x)cot(x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = 10^x?",
+    "a": "10^x * ln(10)",
+    "b": "10^x",
+    "c": "x * 10^(x-1)",
+    "d": "10^x / ln(10)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of y = e^(2x).",
+    "a": "4 * e^(2x)",
+    "b": "2 * e^(2x)",
+    "c": "e^(2x)",
+    "d": "4x * e^(2x)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^3 - 1) / (x - 1) as x approaches 1.",
+    "a": "3",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = cos(x) at x = 0.",
+    "a": "0",
+    "b": "-1",
+    "c": "1",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arctan(x/2).",
+    "a": "2 / (4 + x^2)",
+    "b": "1 / (4 + x^2)",
+    "c": "2 / (1 + x^2)",
+    "d": "1 / (2 + x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = sinh(x)?",
+    "a": "cosh(x)",
+    "b": "-cosh(x)",
+    "c": "sinh(x)",
+    "d": "-sinh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = x^4 - 2x^2, find the points of inflection.",
+    "a": "x = 1/sqrt(3) and x = -1/sqrt(3)",
+    "b": "x = 1 and x = -1",
+    "c": "x = 0",
+    "d": "None",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = x^2 * ln(x).",
+    "a": "x * (2 * ln(x) + 1)",
+    "b": "2x * ln(x)",
+    "c": "x * ln(x)",
+    "d": "2x",
+    "ans": "a"
+  },
+  {
+    "q": "What is the limit of (tan(x)) / x as x approaches 0?",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arcsin(3x).",
+    "a": "3 / sqrt(1 - 9x^2)",
+    "b": "1 / sqrt(1 - 9x^2)",
+    "c": "3 / sqrt(1 - x^2)",
+    "d": "1 / (1 + 9x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = 3x^2 at x = 1.",
+    "a": "6",
+    "b": "3",
+    "c": "9",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = cosh(x)?",
+    "a": "sinh(x)",
+    "b": "-sinh(x)",
+    "c": "cosh(x)",
+    "d": "-cosh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = ln(2x + 5).",
+    "a": "2 / (2x + 5)",
+    "b": "1 / (2x + 5)",
+    "c": "2/x",
+    "d": "e^(2x+5)",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (1 - e^(2x)) / x as x approaches 0.",
+    "a": "-2",
+    "b": "2",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = sin(2x) at x = 0.",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = x^3 - 6x^2, find the relative minimum point.",
+    "a": "(4, -32)",
+    "b": "(0, 0)",
+    "c": "(2, -16)",
+    "d": "(6, 0)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = sec^2(x).",
+    "a": "2 * sec^2(x) * tan(x)",
+    "b": "2 * sec(x)",
+    "c": "sec^4(x)",
+    "d": "2 * sec^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = csc^2(x).",
+    "a": "-2 * csc^2(x) * cot(x)",
+    "b": "2 * csc(x)",
+    "c": "-csc^4(x)",
+    "d": "-2 * csc^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = 5^x?",
+    "a": "5^x * ln(5)",
+    "b": "5^x",
+    "c": "x * 5^(x-1)",
+    "d": "5^x / ln(5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the second derivative of y = ln(2x).",
+    "a": "-1/x^2",
+    "b": "1/x^2",
+    "c": "-2/x^2",
+    "d": "1/x",
+    "ans": "a"
+  },
+  {
+    "q": "Evaluate the limit of (x^4 - 1) / (x - 1) as x approaches 1.",
+    "a": "4",
+    "b": "1",
+    "c": "0",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of y = tan(x) at x = 0.",
+    "a": "1",
+    "b": "0",
+    "c": "Infinity",
+    "d": "Undefined",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arctan(x/3).",
+    "a": "3 / (9 + x^2)",
+    "b": "1 / (9 + x^2)",
+    "c": "3 / (1 + x^2)",
+    "d": "1 / (3 + x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = sech(x)?",
+    "a": "-sech(x)tanh(x)",
+    "b": "sech(x)tanh(x)",
+    "c": "-sech^2(x)",
+    "d": "tanh^2(x)",
+    "ans": "a"
+  },
+  {
+    "q": "If f(x) = x^4 - 4x, find the relative minimum point.",
+    "a": "(1, -3)",
+    "b": "(0, 0)",
+    "c": "(2, 8)",
+    "d": "(-1, 5)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the derivative of y = x * cos(x).",
+    "a": "cos(x) - x * sin(x)",
+    "b": "cos(x) + x * sin(x)",
+    "c": "-x * sin(x)",
+    "d": "cos(x) - sin(x)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the limit of (1 - cos(2x)) / x^2 as x approaches 0?",
+    "a": "2",
+    "b": "1",
+    "c": "1/2",
+    "d": "0",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = arcsin(x/3).",
+    "a": "1 / sqrt(9 - x^2)",
+    "b": "1 / (3 * sqrt(9 - x^2))",
+    "c": "3 / sqrt(9 - x^2)",
+    "d": "1 / sqrt(1 - x^2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slope of the curve y = 4x^2 at x = 1.",
+    "a": "8",
+    "b": "4",
+    "c": "12",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "What is the derivative of y = coth(x)?",
+    "a": "-csch^2(x)",
+    "b": "csch^2(x)",
+    "c": "-sech^2(x)",
+    "d": "-sech(x)tanh(x)",
+    "ans": "a"
+  },
+  {
+    "q": "Find dy/dx for y = ln(x^2 + 1).",
+    "a": "2x / (x^2 + 1)",
+    "b": "1 / (x^2 + 1)",
+    "c": "2x",
+    "d": "e^(x^2+1)",
+    "ans": "a"
+  }
+]

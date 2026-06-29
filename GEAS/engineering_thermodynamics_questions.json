@@ -1,0 +1,4554 @@
+[
+  {
+    "q": "What is the engineering science that is primarily concerned with heat and work conversions?",
+    "a": "Mechanics",
+    "b": "Thermodynamics",
+    "c": "Kinetics",
+    "d": "Fluid Dynamics",
+    "ans": "b"
+  },
+  {
+    "q": "Which law of thermodynamics provides the basis for measuring the thermodynamic property of temperature?",
+    "a": "Zeroth Law",
+    "b": "First Law",
+    "c": "Second Law",
+    "d": "Third Law",
+    "ans": "a"
+  },
+  {
+    "q": "The first law of thermodynamics is based on which of the following physical principles?",
+    "a": "Conservation of Mass",
+    "b": "Conservation of Energy",
+    "c": "Conservation of Momentum",
+    "d": "Entropy Maximization",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following statements is a consequence of the second law of thermodynamics?",
+    "a": "The energy of the universe is constant",
+    "b": "The entropy of the universe is constantly increasing",
+    "c": "No heat engine can have a thermal efficiency of 100%",
+    "d": "The absolute entropy of a pure crystalline substance at 0 K is zero",
+    "ans": "c"
+  },
+  {
+    "q": "The Clausius statement of the second law of thermodynamics is primarily associated with which of the following?",
+    "a": "Steam Turbines",
+    "b": "Internal Combustion Engines",
+    "c": "Refrigerators and Heat Pumps",
+    "d": "Gas Turbines",
+    "ans": "c"
+  },
+  {
+    "q": "Which thermodynamic property is a measure of the molecular disorder or randomness of a system?",
+    "a": "Enthalpy",
+    "b": "Entropy",
+    "c": "Internal Energy",
+    "d": "Specific Volume",
+    "ans": "b"
+  },
+  {
+    "q": "Which law of thermodynamics states that the absolute entropy of a pure crystalline substance at absolute zero temperature is zero?",
+    "a": "Zeroth Law",
+    "b": "First Law",
+    "c": "Second Law",
+    "d": "Third Law",
+    "ans": "d"
+  },
+  {
+    "q": "A thermodynamic system in which mass cannot cross its boundary, but energy (in the form of heat and work) can, is classified as a:",
+    "a": "Open System",
+    "b": "Closed System",
+    "c": "Isolated System",
+    "d": "Adiabatic System",
+    "ans": "b"
+  },
+  {
+    "q": "A thermodynamic system in which neither mass nor energy can cross its boundary is classified as a:",
+    "a": "Open System",
+    "b": "Closed System",
+    "c": "Isolated System",
+    "d": "Steady Flow System",
+    "ans": "c"
+  },
+  {
+    "q": "A system in which mass, heat, and work can all cross the system boundaries is classified as a:",
+    "a": "Isolated System",
+    "b": "Open System",
+    "c": "Closed System",
+    "d": "Isometric System",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following is an example of an intensive thermodynamic property?",
+    "a": "Total Volume",
+    "b": "Total Mass",
+    "c": "Density",
+    "d": "Total Enthalpy",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is an example of an extensive thermodynamic property?",
+    "a": "Pressure",
+    "b": "Temperature",
+    "c": "Mass",
+    "d": "Specific Heat",
+    "ans": "c"
+  },
+  {
+    "q": "Properties that describe both the size or mass of a thermodynamic system are referred to as:",
+    "a": "Intensive Properties",
+    "b": "Extensive Properties",
+    "c": "Innate Properties",
+    "d": "Dynamic Properties",
+    "ans": "b"
+  },
+  {
+    "q": "Properties of a system that are independent of the system size or mass are referred to as:",
+    "a": "Intensive Properties",
+    "b": "Extensive Properties",
+    "c": "Physical Properties",
+    "d": "Static Properties",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following is a path function (depends on the specific path taken between states)?",
+    "a": "Pressure",
+    "b": "Temperature",
+    "c": "Work",
+    "d": "Enthalpy",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following is a state function (independent of the path taken between states)?",
+    "a": "Heat Transfer",
+    "b": "Work",
+    "c": "Internal Energy",
+    "d": "Stirring Work",
+    "ans": "c"
+  },
+  {
+    "q": "A thermodynamic process in which the temperature of the system remains constant is called a:",
+    "a": "Isobaric Process",
+    "b": "Isothermal Process",
+    "c": "Isometric Process",
+    "d": "Isentropic Process",
+    "ans": "b"
+  },
+  {
+    "q": "A thermodynamic process in which the pressure of the system remains constant is called a:",
+    "a": "Isometric Process",
+    "b": "Isothermal Process",
+    "c": "Isobaric Process",
+    "d": "Adiabatic Process",
+    "ans": "c"
+  },
+  {
+    "q": "A thermodynamic process in which the volume of the system remains constant is called a:",
+    "a": "Isobaric Process",
+    "b": "Isothermal Process",
+    "c": "Isometric Process",
+    "d": "Isentropic Process",
+    "ans": "c"
+  },
+  {
+    "q": "An isometric process is also commonly referred to as a:",
+    "a": "Isochoric Process",
+    "b": "Isenthalpic Process",
+    "c": "Isentropic Process",
+    "d": "Isotension Process",
+    "ans": "a"
+  },
+  {
+    "q": "A process during which no heat transfer occurs between the system and its surroundings is called a:",
+    "a": "Isothermal Process",
+    "b": "Isobaric Process",
+    "c": "Adiabatic Process",
+    "d": "Isometric Process",
+    "ans": "c"
+  },
+  {
+    "q": "A process that is both internally reversible and adiabatic is referred to as a:",
+    "a": "Isenthalpic Process",
+    "b": "Isentropic Process",
+    "c": "Isothermal Process",
+    "d": "Polytropic Process",
+    "ans": "b"
+  },
+  {
+    "q": "What thermodynamic property is defined as the sum of internal energy (U) and the product of pressure (P) and volume (V)?",
+    "a": "Entropy",
+    "b": "Enthalpy",
+    "c": "Helmholtz Free Energy",
+    "d": "Gibbs Free Energy",
+    "ans": "b"
+  },
+  {
+    "q": "The latent heat of fusion is defined as the heat required to change a substance from:",
+    "a": "Liquid to Gas at constant temperature",
+    "b": "Solid to Liquid at constant temperature",
+    "c": "Solid to Gas at constant temperature",
+    "d": "Liquid to Solid at constant temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The latent heat of vaporization is defined as the heat required to change a substance from:",
+    "a": "Solid to Liquid at constant temperature",
+    "b": "Liquid to Gas at constant temperature",
+    "c": "Solid to Gas at constant temperature",
+    "d": "Gas to Liquid at constant temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The quantity of heat required to change the temperature of a unit mass of a substance by one degree is the definition of:",
+    "a": "Sensible Heat",
+    "b": "Latent Heat",
+    "c": "Specific Heat",
+    "d": "Enthalpy of Reaction",
+    "ans": "c"
+  },
+  {
+    "q": "The Carnot cycle consists of how many reversible processes?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following processes are contained in an ideal Carnot cycle?",
+    "a": "Two isobaric and two isothermal processes",
+    "b": "Two isentropic and two isothermal processes",
+    "c": "Two isometric and two isentropic processes",
+    "d": "Two isentropic and two isobaric processes",
+    "ans": "b"
+  },
+  {
+    "q": "Which thermodynamic cycle serves as the ideal model for reciprocating spark-ignition (gasoline) engines?",
+    "a": "Diesel Cycle",
+    "b": "Otto Cycle",
+    "c": "Brayton Cycle",
+    "d": "Rankine Cycle",
+    "ans": "b"
+  },
+  {
+    "q": "Which cycle is characterized by constant-volume heat addition and constant-volume heat rejection?",
+    "a": "Diesel Cycle",
+    "b": "Otto Cycle",
+    "c": "Brayton Cycle",
+    "d": "Stirling Cycle",
+    "ans": "b"
+  },
+  {
+    "q": "Which thermodynamic cycle is the ideal model for compression-ignition (diesel) engines?",
+    "a": "Otto Cycle",
+    "b": "Diesel Cycle",
+    "c": "Brayton Cycle",
+    "d": "Rankine Cycle",
+    "ans": "b"
+  },
+  {
+    "q": "Which cycle has constant-pressure heat addition and constant-volume heat rejection?",
+    "a": "Otto Cycle",
+    "b": "Diesel Cycle",
+    "c": "Brayton Cycle",
+    "d": "Rankine Cycle",
+    "ans": "b"
+  },
+  {
+    "q": "Which thermodynamic cycle serves as the ideal model for gas turbine power plants?",
+    "a": "Rankine Cycle",
+    "b": "Otto Cycle",
+    "c": "Brayton Cycle",
+    "d": "Carnot Cycle",
+    "ans": "c"
+  },
+  {
+    "q": "Which thermodynamic cycle serves as the standard ideal model for vapor power plants (steam power plants)?",
+    "a": "Otto Cycle",
+    "b": "Brayton Cycle",
+    "c": "Rankine Cycle",
+    "d": "Diesel Cycle",
+    "ans": "c"
+  },
+  {
+    "q": "The point on a phase diagram at which the solid, liquid, and gas phases of a pure substance can coexist in equilibrium is called the:",
+    "a": "Critical Point",
+    "b": "Boiling Point",
+    "c": "Triple Point",
+    "d": "Sublimation Point",
+    "ans": "c"
+  },
+  {
+    "q": "The point above which a gas and a liquid can no longer coexist as distinct phases, merging into a supercritical fluid, is called the:",
+    "a": "Triple Point",
+    "b": "Critical Point",
+    "c": "Boiling Point",
+    "d": "Saturation Point",
+    "ans": "b"
+  },
+  {
+    "q": "A hypothetical machine that violates the first law of thermodynamics by creating energy out of nothing is known as a:",
+    "a": "Perpetual Motion Machine of the First Kind",
+    "b": "Perpetual Motion Machine of the Second Kind",
+    "c": "Perpetual Motion Machine of the Third Kind",
+    "d": "Reversible Engine",
+    "ans": "a"
+  },
+  {
+    "q": "A hypothetical machine that violates the second law of thermodynamics by converting heat completely into work without any heat rejection is a:",
+    "a": "Perpetual Motion Machine of the First Kind",
+    "b": "Perpetual Motion Machine of the Second Kind",
+    "c": "Perpetual Motion Machine of the Third Kind",
+    "d": "Carnot Engine",
+    "ans": "b"
+  },
+  {
+    "q": "A diagram that plots enthalpy versus entropy for a substance is commonly referred to as a:",
+    "a": "P-V Diagram",
+    "b": "T-S Diagram",
+    "c": "Mollier Diagram",
+    "d": "Phase Diagram",
+    "ans": "c"
+  },
+  {
+    "q": "What is the value of the compressibility factor (Z) for an ideal gas?",
+    "a": "0",
+    "b": "1",
+    "c": "1.5",
+    "d": "Infinity",
+    "ans": "b"
+  },
+  {
+    "q": "A substance that has a fixed chemical composition throughout is referred to as a:",
+    "a": "Homogeneous Compound",
+    "b": "Pure Substance",
+    "c": "Ideal Mixture",
+    "d": "Element",
+    "ans": "b"
+  },
+  {
+    "q": "A liquid that is about to vaporize if any additional heat is added is called a:",
+    "a": "Subcooled Liquid",
+    "b": "Saturated Liquid",
+    "c": "Saturated Vapor",
+    "d": "Superheated Vapor",
+    "ans": "b"
+  },
+  {
+    "q": "A vapor that is about to condense if any heat is removed from it is called a:",
+    "a": "Saturated Liquid",
+    "b": "Saturated Vapor",
+    "c": "Superheated Vapor",
+    "d": "Subcooled Liquid",
+    "ans": "b"
+  },
+  {
+    "q": "In a two-phase liquid-vapor mixture, the ratio of the mass of vapor to the total mass of the mixture is defined as the:",
+    "a": "Relative Humidity",
+    "b": "Quality",
+    "c": "Vapor Fraction",
+    "d": "Moisture Content",
+    "ans": "b"
+  },
+  {
+    "q": "A vapor that is at a temperature higher than its saturation temperature for a given pressure is called a:",
+    "a": "Saturated Vapor",
+    "b": "Superheated Vapor",
+    "c": "Subcooled Vapor",
+    "d": "Critical Fluid",
+    "ans": "b"
+  },
+  {
+    "q": "A liquid that is at a temperature lower than its saturation temperature for a given pressure is referred to as a:",
+    "a": "Saturated Liquid",
+    "b": "Superheated Liquid",
+    "c": "Subcooled Liquid",
+    "d": "Critical Liquid",
+    "ans": "c"
+  },
+  {
+    "q": "The ratio of the net work output of a heat engine to the total heat input is defined as its:",
+    "a": "Thermal Efficiency",
+    "b": "Coefficient of Performance",
+    "c": "Mechanical Efficiency",
+    "d": "Availability Factor",
+    "ans": "a"
+  },
+  {
+    "q": "The performance of a refrigerator is measured and expressed in terms of the:",
+    "a": "Thermal Efficiency",
+    "b": "Coefficient of Performance",
+    "c": "Refrigeration Index",
+    "d": "Carnot Factor",
+    "ans": "b"
+  },
+  {
+    "q": "Which equation relates the saturation pressure, saturation temperature, and latent heat of vaporization of a pure substance?",
+    "a": "Ideal Gas Equation",
+    "b": "Van der Waals Equation",
+    "c": "Clapeyron Equation",
+    "d": "Gibbs-Duhem Equation",
+    "ans": "c"
+  },
+  {
+    "q": "What thermodynamic property is defined as the difference between enthalpy (H) and the product of temperature (T) and entropy (S)?",
+    "a": "Helmholtz Free Energy",
+    "b": "Internal Energy",
+    "c": "Gibbs Free Energy",
+    "d": "Exergy",
+    "ans": "c"
+  },
+  {
+    "q": "What thermodynamic property is defined as the difference between internal energy (U) and the product of temperature (T) and entropy (S)?",
+    "a": "Helmholtz Free Energy",
+    "b": "Gibbs Free Energy",
+    "c": "Enthalpy",
+    "d": "Exergy",
+    "ans": "a"
+  },
+  {
+    "q": "A steady-flow process during which a fluid experience a drop in pressure with no work done and no heat transfer is called a:",
+    "a": "Throttling Process",
+    "b": "Isentropic Expansion",
+    "c": "Isometric Compression",
+    "d": "Reheat Process",
+    "ans": "a"
+  },
+  {
+    "q": "The rate of change of temperature with respect to pressure during a throttling (isenthalpic) process is defined as the:",
+    "a": "Clapeyron Coefficient",
+    "b": "Joule-Thomson Coefficient",
+    "c": "Compressibility Factor",
+    "d": "Isenthalpic Index",
+    "ans": "b"
+  },
+  {
+    "q": "What is the value of Avogadro's number?",
+    "a": "6.022 x 10^23 mol^-1",
+    "b": "6.022 x 10^25 mol^-1",
+    "c": "6.022 x 10^21 mol^-1",
+    "d": "1.602 x 10^-19 mol^-1",
+    "ans": "a"
+  },
+  {
+    "q": "The mode of energy transfer between a solid surface and an adjacent moving fluid (liquid or gas) is defined as:",
+    "a": "Conduction",
+    "b": "Convection",
+    "c": "Radiation",
+    "d": "Absorption",
+    "ans": "b"
+  },
+  {
+    "q": "The transfer of energy from more energetic particles of a substance to adjacent less energetic ones as a result of interaction is:",
+    "a": "Conduction",
+    "b": "Convection",
+    "c": "Radiation",
+    "d": "Advection",
+    "ans": "a"
+  },
+  {
+    "q": "The emission of energy in the form of electromagnetic waves from the surface of all bodies is called:",
+    "a": "Conduction",
+    "b": "Convection",
+    "c": "Radiation",
+    "d": "Emission",
+    "ans": "c"
+  },
+  {
+    "q": "The fundamental law governing heat transfer by conduction is known as:",
+    "a": "Newton's Law of Cooling",
+    "b": "Fourier's Law of Heat Conduction",
+    "c": "Stefan-Boltzmann Law",
+    "d": "Fick's Law of Diffusion",
+    "ans": "b"
+  },
+  {
+    "q": "The fundamental law governing heat transfer by convection is known as:",
+    "a": "Fourier's Law",
+    "b": "Newton's Law of Cooling",
+    "c": "Stefan-Boltzmann Law",
+    "d": "Clausius Statement",
+    "ans": "b"
+  },
+  {
+    "q": "The fundamental law governing the maximum rate of radiation heat transfer from a blackbody is the:",
+    "a": "Fourier Law",
+    "b": "Newton Law of Cooling",
+    "c": "Stefan-Boltzmann Law",
+    "d": "Planck Law",
+    "ans": "c"
+  },
+  {
+    "q": "The maximum useful work that can be obtained from a system as it undergoes a process to a specified dead state is defined as the:",
+    "a": "Internal Energy",
+    "b": "Enthalpy",
+    "c": "Exergy",
+    "d": "Entropy Generation",
+    "ans": "c"
+  },
+  {
+    "q": "The difference between the maximum useful work and the actual work obtained during a thermodynamic process is defined as:",
+    "a": "Reversibility",
+    "b": "Irreversibility",
+    "c": "Exergy Destroyed",
+    "d": "Both Irreversibility and Exergy Destroyed",
+    "ans": "d"
+  },
+  {
+    "q": "A process that can be reversed without leaving any trace or change in both the system and its surroundings is called a:",
+    "a": "Quasi-equilibrium process",
+    "b": "Reversible process",
+    "c": "Irreversible process",
+    "d": "Polytropic process",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the volume of a substance to its mass is defined as its:",
+    "a": "Density",
+    "b": "Specific Volume",
+    "c": "Specific Weight",
+    "d": "Molar Volume",
+    "ans": "b"
+  },
+  {
+    "q": "The parameters 'a' and 'b' in the Van der Waals equation of state account for which physical phenomena, respectively?",
+    "a": "Molecular attractions and molecular volume",
+    "b": "Molecular volume and molecular attractions",
+    "c": "Intermolecular collisions and ideal pressure",
+    "d": "Gas temperature and system boundaries",
+    "ans": "a"
+  },
+  {
+    "q": "The boundary work done during a reversible thermodynamic process is graphically represented by the area under the curve on a:",
+    "a": "T-s Diagram",
+    "b": "P-v Diagram",
+    "c": "h-s Diagram",
+    "d": "P-T Diagram",
+    "ans": "b"
+  },
+  {
+    "q": "The heat transfer during a reversible thermodynamic process is graphically represented by the area under the curve on a:",
+    "a": "P-v Diagram",
+    "b": "T-s Diagram",
+    "c": "h-s Diagram",
+    "d": "P-T Diagram",
+    "ans": "b"
+  },
+  {
+    "q": "A large body of constant temperature that can supply or absorb finite amounts of heat without experiencing any change in temperature is a:",
+    "a": "Control Mass",
+    "b": "Thermal Energy Reservoir",
+    "c": "Thermodynamic State",
+    "d": "Throttling Valve",
+    "ans": "b"
+  },
+  {
+    "q": "A thermodynamic process during which the system remains arbitrarily close to an equilibrium state at all times is called a:",
+    "a": "Dynamic Process",
+    "b": "Quasi-equilibrium process",
+    "c": "Polytropic Process",
+    "d": "Irreversible Process",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the partial pressure of water vapor in a mixture to the saturation pressure of water at the same temperature is the:",
+    "a": "Humidity Ratio",
+    "b": "Relative Humidity",
+    "c": "Absolute Humidity",
+    "d": "Dew Point",
+    "ans": "b"
+  },
+  {
+    "q": "The mass of water vapor present in a unit mass of dry air is defined as the:",
+    "a": "Relative Humidity",
+    "b": "Humidity Ratio",
+    "c": "Dew Point Temperature",
+    "d": "Wet Bulb Temperature",
+    "ans": "b"
+  },
+  {
+    "q": "The temperature at which condensation begins when air is cooled at constant pressure is called the:",
+    "a": "Wet Bulb Temperature",
+    "b": "Dew Point Temperature",
+    "c": "Dry Bulb Temperature",
+    "d": "Saturation Point",
+    "ans": "b"
+  },
+  {
+    "q": "What is the parameter defined as the net work output of an engine cycle divided by the displacement volume?",
+    "a": "Compression Ratio",
+    "b": "Mean Effective Pressure",
+    "c": "Thermal Efficiency",
+    "d": "Volumetric Efficiency",
+    "ans": "b"
+  },
+  {
+    "q": "The ratio of the maximum volume to the minimum volume (clearance volume) in a reciprocating engine cylinder is called the:",
+    "a": "Cutoff Ratio",
+    "b": "Compression Ratio",
+    "c": "Clearance Factor",
+    "d": "Displacement Factor",
+    "ans": "b"
+  },
+  {
+    "q": "A device that is used to transfer heat from a lower-temperature medium to a higher-temperature one is a:",
+    "a": "Heat Engine",
+    "b": "Refrigerator",
+    "c": "Condenser",
+    "d": "Evaporator",
+    "ans": "b"
+  },
+  {
+    "q": "A device that is used to transfer heat from a lower-temperature medium to a higher-temperature one, where the primary objective is to supply heat to a space, is a:",
+    "a": "Refrigerator",
+    "b": "Heat Pump",
+    "c": "Heat Engine",
+    "d": "Boiler",
+    "ans": "b"
+  },
+  {
+    "q": "The increase of pressure of a fluid by a compressor in stages with cooling of the fluid between stages is called compression with:",
+    "a": "Reheating",
+    "b": "Intercooling",
+    "c": "Regeneration",
+    "d": "Throttling",
+    "ans": "b"
+  },
+  {
+    "q": "The process of extracting steam from a turbine to preheat the feedwater before it enters the boiler is called:",
+    "a": "Reheating",
+    "b": "Regeneration",
+    "c": "Intercooling",
+    "d": "Cogeneration",
+    "ans": "b"
+  },
+  {
+    "q": "A system that produces more than one useful form of energy (such as process heat and electric power) from a single energy source is called:",
+    "a": "Regenerative System",
+    "b": "Cogeneration System",
+    "c": "Binary Cycle System",
+    "d": "Combined Cycle System",
+    "ans": "b"
+  },
+  {
+    "q": "Which thermodynamic cycle consists of two constant-temperature processes and two constant-volume processes with regeneration?",
+    "a": "Stirling Cycle",
+    "b": "Ericsson Cycle",
+    "c": "Brayton Cycle",
+    "d": "Otto Cycle",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the work done in kilojoules when a piston compresses 0.50 m3 of air at 100 kPa to 0.25 m3 in an isothermal process.",
+    "a": "-28.5 kJ",
+    "b": "-34.7 kJ",
+    "c": "-41.2 kJ",
+    "d": "-50.0 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A gas undergoes a constant-pressure expansion process from a volume of 0.10 m3 to 0.40 m3 under a constant pressure of 200 kPa. Calculate the work done.",
+    "a": "30 kJ",
+    "b": "40 kJ",
+    "c": "60 kJ",
+    "d": "80 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system absorbs 1000 J of heat from its surroundings while doing 400 J of work. Find the change in the internal energy of the system.",
+    "a": "400 J",
+    "b": "600 J",
+    "c": "1000 J",
+    "d": "1400 J",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the thermal efficiency of a Carnot heat engine operating between a source temperature of 400 °C and a sink temperature of 40 °C.",
+    "a": "45.2%",
+    "b": "53.5%",
+    "c": "62.1%",
+    "d": "90.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the quantity of heat in kilojoules required to raise the temperature of 5.0 kg of water from 20 °C to 80 °C. (Cp of water = 4.184 kJ/kg-K)",
+    "a": "1046 kJ",
+    "b": "1255 kJ",
+    "c": "1438 kJ",
+    "d": "1674 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A rigid, closed tank contains air at 100 kPa and 27 °C. If the air is heated until the temperature reaches 127 °C, find the final pressure of the air.",
+    "a": "115 kPa",
+    "b": "133 kPa",
+    "c": "150 kPa",
+    "d": "200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Compute the mass of air in a 2.0 m3 container at a pressure of 150 kPa and a temperature of 300 K. (Gas constant R for air = 0.287 kPa-m3/kg-K)",
+    "a": "2.45 kg",
+    "b": "3.48 kg",
+    "c": "4.12 kg",
+    "d": "5.33 kg",
+    "ans": "b"
+  },
+  {
+    "q": "A Carnot refrigerator operates between 2 °C and 22 °C. Calculate the coefficient of performance (COP) of this refrigerator.",
+    "a": "11.12",
+    "b": "12.45",
+    "c": "13.75",
+    "d": "15.30",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the change in entropy when 1.5 kg of liquid water at 100 °C is completely converted to steam at 100 °C. (Latent heat of vaporization hfg = 2257 kJ/kg)",
+    "a": "6.05 kJ/K",
+    "b": "7.52 kJ/K",
+    "c": "9.07 kJ/K",
+    "d": "11.20 kJ/K",
+    "ans": "c"
+  },
+  {
+    "q": "A heat engine has a thermal efficiency of 35% and produces 70 kW of power. Calculate the rate of heat rejection to the sink in kilowatts.",
+    "a": "100 kW",
+    "b": "115 kW",
+    "c": "130 kW",
+    "d": "150 kW",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas with a specific heat ratio k = 1.40 is compressed adiabatically to half of its original volume. Find the final pressure if the initial pressure is 100 kPa.",
+    "a": "212 kPa",
+    "b": "241 kPa",
+    "c": "264 kPa",
+    "d": "283 kPa",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the enthalpy of 2.0 kg of a substance that has an internal energy of 500 kJ, a pressure of 150 kPa, and a volume of 0.80 m3.",
+    "a": "560 kJ",
+    "b": "620 kJ",
+    "c": "740 kJ",
+    "d": "860 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A heat pump has a COP of 4.5 and is used to heat a house. If the heat pump consumes 2.0 kW of electrical power, find the rate of heating supplied.",
+    "a": "4.5 kW",
+    "b": "7.0 kW",
+    "c": "9.0 kW",
+    "d": "11.2 kW",
+    "ans": "c"
+  },
+  {
+    "q": "If the pressure of an ideal gas is doubled while its absolute temperature is tripled, the volume of the gas changes by a factor of:",
+    "a": "0.67",
+    "b": "1.25",
+    "c": "1.50",
+    "d": "2.50",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the COP of a heat pump that absorbs 6.0 kW of heat from the cold outdoor air while consuming 2.0 kW of electricity.",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "5.0",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the specific enthalpy of wet steam with a quality of 80% at a pressure where hf = 500 kJ/kg and hg = 2700 kJ/kg.",
+    "a": "1940 kJ/kg",
+    "b": "2120 kJ/kg",
+    "c": "2260 kJ/kg",
+    "d": "2380 kJ/kg",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the density of carbon dioxide gas (CO2, MW = 44 g/mol) at a pressure of 200 kPa and a temperature of 50 °C. (Universal gas constant Ru = 8.314 kJ/kmol-K)",
+    "a": "2.14 kg/m3",
+    "b": "2.68 kg/m3",
+    "c": "3.28 kg/m3",
+    "d": "3.84 kg/m3",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas cycle operates with a compression ratio of 8.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "48.2%",
+    "b": "52.5%",
+    "c": "56.5%",
+    "d": "61.2%",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas cycle has a pressure ratio of 10.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Brayton cycle.",
+    "a": "42.5%",
+    "b": "48.2%",
+    "c": "51.8%",
+    "d": "55.4%",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes a three-step cycle. The heat transfers for each step are Q1 = 150 kJ, Q2 = -90 kJ, and Q3 = -20 kJ. Find the net work output of the cycle.",
+    "a": "30 kJ",
+    "b": "40 kJ",
+    "c": "50 kJ",
+    "d": "60 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the rate of heat conduction through a 0.20 m thick concrete wall with a surface area of 15 m2 and thermal conductivity of 1.2 W/m-K, if the temperature difference is 20 °C.",
+    "a": "1200 W",
+    "b": "1500 W",
+    "c": "1800 W",
+    "d": "2100 W",
+    "ans": "c"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 80 °C to air at 20 °C. If the heat transfer coefficient is 25 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "2000 W",
+    "b": "2500 W",
+    "c": "3000 W",
+    "d": "3500 W",
+    "ans": "c"
+  },
+  {
+    "q": "A mass of 3.0 kg of ice at 0 °C is melted completely to water at 0 °C. If the latent heat of fusion of ice is 334 kJ/kg, find the heat required.",
+    "a": "850 kJ",
+    "b": "1002 kJ",
+    "c": "1150 kJ",
+    "d": "1334 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A compressor requires 15 kW of power input to compress a gas with a mass flow rate of 0.10 kg/s. If the inlet enthalpy is 300 kJ/kg, find the exit enthalpy of the gas, assuming no heat loss.",
+    "a": "400 kJ/kg",
+    "b": "450 kJ/kg",
+    "c": "500 kJ/kg",
+    "d": "550 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "Compute the specific heat at constant volume (Cv) for a gas that has Cp = 1.005 kJ/kg-K and a gas constant R = 0.287 kJ/kg-K.",
+    "a": "0.624 kJ/kg-K",
+    "b": "0.718 kJ/kg-K",
+    "c": "0.845 kJ/kg-K",
+    "d": "0.912 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the gas constant (R) of nitrogen gas (N2, MW = 28.01 kg/kmol) if the universal gas constant is Ru = 8.314 kJ/kmol-K.",
+    "a": "0.256 kJ/kg-K",
+    "b": "0.297 kJ/kg-K",
+    "c": "0.324 kJ/kg-K",
+    "d": "0.384 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "A 100-watt electric light bulb is turned on in a closed room of volume 50 m3. Calculate the rate of internal energy increase of the room air.",
+    "a": "50 W",
+    "b": "100 W",
+    "c": "150 W",
+    "d": "200 W",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the change in entropy when 100 J of heat is reversibly transferred to a system maintained at a constant temperature of 27 °C.",
+    "a": "0.25 J/K",
+    "b": "0.33 J/K",
+    "c": "0.50 J/K",
+    "d": "3.70 J/K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the cycle efficiency of a simple Rankine power plant cycle in which the turbine work is 900 kJ/kg, the pump work is 10 kJ/kg, and the boiler heat input is 2500 kJ/kg.",
+    "a": "32.4%",
+    "b": "35.6%",
+    "c": "38.2%",
+    "d": "41.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure of 12.5 bar to absolute pressure in kilopascals (kPa).",
+    "a": "125 kPa",
+    "b": "1250 kPa",
+    "c": "12500 kPa",
+    "d": "1.25 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 140 °F in absolute temperature Rankine (°R)?",
+    "a": "580 °R",
+    "b": "600 °R",
+    "c": "620 °R",
+    "d": "640 °R",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure of 5.0 atmospheres to equivalent pressure in millimeters of mercury (mmHg).",
+    "a": "3080 mmHg",
+    "b": "3800 mmHg",
+    "c": "8300 mmHg",
+    "d": "4500 mmHg",
+    "ans": "b"
+  },
+  {
+    "q": "A steady flow process of gas occurs with a mass flow rate of 2.0 kg/s. If the inlet area is 0.10 m2, density is 1.2 kg/m3, find the inlet velocity.",
+    "a": "12.4 m/s",
+    "b": "14.6 m/s",
+    "c": "16.7 m/s",
+    "d": "18.2 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done in compressing a gas polytropically (n = 1.3) from P1 = 100 kPa, V1 = 1.0 m3 to a final volume of V2 = 0.5 m3.",
+    "a": "-65.4 kJ",
+    "b": "-77.1 kJ",
+    "c": "-89.6 kJ",
+    "d": "-115.0 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mass of water vapor in a room with a volume of 100 m3 if the specific humidity is 0.015 kg of water vapor per kg of dry air, and dry air density is 1.2 kg/m3.",
+    "a": "1.2 kg",
+    "b": "1.5 kg",
+    "c": "1.8 kg",
+    "d": "2.2 kg",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the speed of sound in air at 27 °C. (Cp/Cv = 1.40, Gas constant R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "347 m/s",
+    "d": "362 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the COP of a Carnot heat pump operating between a high temperature of 35 °C and a low temperature of -5 °C.",
+    "a": "6.12",
+    "b": "7.70",
+    "c": "8.52",
+    "d": "9.12",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the thermal efficiency of a Diesel cycle that has a compression ratio of 16.0, a cutoff ratio of 2.0, and a specific heat ratio of k = 1.40.",
+    "a": "54.2%",
+    "b": "58.5%",
+    "c": "61.4%",
+    "d": "66.3%",
+    "ans": "c"
+  },
+  {
+    "q": "A system rejecting 800 kJ of heat to a sink also produces 400 kJ of net work. Find the total heat input in kilojoules.",
+    "a": "400 kJ",
+    "b": "800 kJ",
+    "c": "1200 kJ",
+    "d": "1600 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the specific volume of saturated wet steam with quality of 15% if vf = 0.001 m3/kg and vg = 1.67 m3/kg.",
+    "a": "0.152 m3/kg",
+    "b": "0.251 m3/kg",
+    "c": "0.354 m3/kg",
+    "d": "0.412 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A mass of 2.0 kg of helium (MW = 4.00) is heated from 300 K to 350 K at constant volume. Find the heat transfer in kJ. (Cv of helium = 3.12 kJ/kg-K)",
+    "a": "156 kJ",
+    "b": "212 kJ",
+    "c": "312 kJ",
+    "d": "412 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A gas mixture consists of 1.0 kg of oxygen (MW = 32) and 3.0 kg of nitrogen (MW = 28). Find the mass fraction of oxygen.",
+    "a": "0.20",
+    "b": "0.25",
+    "c": "0.33",
+    "d": "0.50",
+    "ans": "b"
+  },
+  {
+    "q": "What is the mole fraction of nitrogen in a gas mixture consisting of 1.0 kmol of oxygen and 4.0 kmol of nitrogen?",
+    "a": "0.20",
+    "b": "0.50",
+    "c": "0.80",
+    "d": "0.90",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during an isobaric expansion of a gas at 101.3 kPa when the volume changes from 2.0 L to 5.0 L.",
+    "a": "152 J",
+    "b": "203 J",
+    "c": "304 J",
+    "d": "405 J",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 500 kW and the compressor work input is 200 kW.",
+    "a": "100 kW",
+    "b": "200 kW",
+    "c": "300 kW",
+    "d": "400 kW",
+    "ans": "c"
+  },
+  {
+    "q": "What is the volume in m3 of 1.0 kmol of an ideal gas at STP (0 °C and 101.3 kPa)?",
+    "a": "11.2 m3",
+    "b": "22.4 m3",
+    "c": "44.8 m3",
+    "d": "5.6 m3",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the density of helium gas at a pressure of 100 kPa and a temperature of 27 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.08 kg/m3",
+    "b": "0.16 kg/m3",
+    "c": "0.32 kg/m3",
+    "d": "0.48 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "A heat engine rejects 600 J of heat to the surroundings for every 1000 J of heat it absorbs. Find the thermal efficiency of the engine.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "A refrigerator removes 4.0 kW of heat from a cold space while rejecting 5.5 kW of heat to the surroundings. Determine the compressor power input.",
+    "a": "1.0 kW",
+    "b": "1.5 kW",
+    "c": "2.0 kW",
+    "d": "2.5 kW",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the isentropic efficiency of a turbine that produces 120 kJ/kg of actual work, while the ideal isentropic work output is 150 kJ/kg.",
+    "a": "70%",
+    "b": "80%",
+    "c": "85%",
+    "d": "90%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the isentropic efficiency of a compressor that requires 180 kJ/kg of actual work, while the ideal isentropic work input is 150 kJ/kg.",
+    "a": "75.2%",
+    "b": "83.3%",
+    "c": "88.9%",
+    "d": "92.1%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the COP of a heat pump if it delivers 12.0 kW of heat to a house while consuming 3.0 kW of electrical power?",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "5.0",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas expands isothermally from P1 = 300 kPa, V1 = 1.0 m3 to a volume of V2 = 3.0 m3. Calculate the heat transfer during this process.",
+    "a": "115 kJ",
+    "b": "330 kJ",
+    "c": "412 kJ",
+    "d": "530 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the flow work (flow energy) in kJ/kg of a fluid entering a system at a pressure of 500 kPa and a specific volume of 0.002 m3/kg.",
+    "a": "0.5 kJ/kg",
+    "b": "1.0 kJ/kg",
+    "c": "1.5 kJ/kg",
+    "d": "2.0 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes an isometric process from a temperature of 100 °C to 200 °C. If the heat added is 500 J, find the work done.",
+    "a": "-500 J",
+    "b": "0 J",
+    "c": "500 J",
+    "d": "1000 J",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the specific internal energy of wet steam with a quality of 60% at a pressure where uf = 600 kJ/kg and ug = 2500 kJ/kg.",
+    "a": "1360 kJ/kg",
+    "b": "1540 kJ/kg",
+    "c": "1740 kJ/kg",
+    "d": "1940 kJ/kg",
+    "ans": "c"
+  },
+  {
+    "q": "A closed, rigid tank containing 2.0 kg of air is stirred by a paddle wheel that does 100 kJ of work. If 30 kJ of heat is lost during the process, find the change in internal energy.",
+    "a": "30 kJ",
+    "b": "70 kJ",
+    "c": "100 kJ",
+    "d": "130 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the change in absolute temperature in Rankine if a gas's temperature increases by 25 °C.",
+    "a": "25 °R",
+    "b": "45 °R",
+    "c": "50 °R",
+    "d": "75 °R",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an absolute temperature of 540 °R to absolute temperature in Kelvin (K).",
+    "a": "273 K",
+    "b": "300 K",
+    "c": "320 K",
+    "d": "350 K",
+    "ans": "b"
+  },
+  {
+    "q": "A gas undergoes a constant-pressure process during which 200 kJ of heat is added. If the work done by the gas is 50 kJ, find the change in enthalpy.",
+    "a": "50 kJ",
+    "b": "150 kJ",
+    "c": "200 kJ",
+    "d": "250 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "What is the change in internal energy of 2.0 kg of oxygen gas (Cv = 0.658 kJ/kg-K) when heated from 20 °C to 80 °C?",
+    "a": "39.5 kJ",
+    "b": "79.0 kJ",
+    "c": "118.5 kJ",
+    "d": "158.0 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "If 1.0 kg of air (Cp = 1.005 kJ/kg-K) undergoes an isobaric process during which the temperature increases by 100 K, find the heat transferred.",
+    "a": "50.3 kJ",
+    "b": "100.5 kJ",
+    "c": "150.8 kJ",
+    "d": "201.0 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A heat engine operates with a thermal efficiency of 40%. If it receives 5000 kJ of heat from a high-temperature source, find the net work output.",
+    "a": "1000 kJ",
+    "b": "2000 kJ",
+    "c": "3000 kJ",
+    "d": "4000 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "What is the volume in liters of 2.0 moles of an ideal gas at STP?",
+    "a": "11.2 L",
+    "b": "22.4 L",
+    "c": "44.8 L",
+    "d": "5.6 L",
+    "ans": "c"
+  },
+  {
+    "q": "A gas occupies 4.0 m3 at a pressure of 100 kPa. If the volume is compressed isothermally to 1.0 m3, find the final pressure.",
+    "a": "100 kPa",
+    "b": "200 kPa",
+    "c": "400 kPa",
+    "d": "800 kPa",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the RMS speed of oxygen molecules (O2, MW = 32.0 g/mol) at a temperature of 300 K. (R = 8.314 J/mol-K)",
+    "a": "384 m/s",
+    "b": "483 m/s",
+    "c": "512 m/s",
+    "d": "583 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the volumetric flow rate of air in m3/s if the mass flow rate is 0.50 kg/s and the density of air is 1.25 kg/m3.",
+    "a": "0.20 m3/s",
+    "b": "0.40 m3/s",
+    "c": "0.60 m3/s",
+    "d": "0.80 m3/s",
+    "ans": "b"
+  },
+  {
+    "q": "A boiler has a heat transfer rate of 2000 kW. If the feedwater flow rate is 0.80 kg/s, find the enthalpy increase across the boiler.",
+    "a": "1200 kJ/kg",
+    "b": "1600 kJ/kg",
+    "c": "2000 kJ/kg",
+    "d": "2500 kJ/kg",
+    "ans": "d"
+  },
+  {
+    "q": "An ideal gas has Cp = 5/2 R and Cv = 3/2 R. Find its specific heat ratio k.",
+    "a": "1.33",
+    "b": "1.40",
+    "c": "1.67",
+    "d": "1.50",
+    "ans": "c"
+  },
+  {
+    "q": "What is the Carnot COP of a heat pump that maintains a house at 22 °C when the outside temperature is -3 °C?",
+    "a": "10.5",
+    "b": "11.8",
+    "c": "12.4",
+    "d": "13.7",
+    "ans": "b"
+  },
+  {
+    "q": "A gas turbine cycle operates with an pressure ratio of 8.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the ideal Brayton cycle.",
+    "a": "42.1%",
+    "b": "44.8%",
+    "c": "48.2%",
+    "d": "51.2%",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has a boiler heat input of 3000 kJ/kg and a condenser heat rejection of 1800 kJ/kg. Find the cycle thermal efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 75% if sf = 1.5 kJ/kg-K and sg = 7.0 kJ/kg-K.",
+    "a": "4.12 kJ/kg-K",
+    "b": "5.62 kJ/kg-K",
+    "c": "6.12 kJ/kg-K",
+    "d": "6.62 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas with Cv = 0.718 kJ/kg-K is compressed isothermally. Find the change in internal energy during the process.",
+    "a": "-100 kJ/kg",
+    "b": "0 kJ/kg",
+    "c": "100 kJ/kg",
+    "d": "200 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes a process during which it rejects 150 J of heat while 200 J of work is done on it. Find the change in internal energy.",
+    "a": "-350 J",
+    "b": "-50 J",
+    "c": "50 J",
+    "d": "350 J",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a heat pump that consumes 1.5 kW of electrical power to deliver 6.0 kW of heat.",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "5.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 100 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.62 m3/kg",
+    "b": "0.86 m3/kg",
+    "c": "1.12 m3/kg",
+    "d": "1.35 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A mass of 2.0 kg of water is heated from 10 °C to 90 °C. Find the heat added in kilocalories (kcal).",
+    "a": "80 kcal",
+    "b": "160 kcal",
+    "c": "240 kcal",
+    "d": "320 kcal",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the clearance volume of an engine that has a displacement volume of 600 cm3 and a compression ratio of 9.0.",
+    "a": "66.7 cm3",
+    "b": "75.0 cm3",
+    "c": "85.7 cm3",
+    "d": "100.0 cm3",
+    "ans": "a"
+  },
+  {
+    "q": "Convert a temperature change of 45 °F to a temperature change in Celsius (°C).",
+    "a": "25 °C",
+    "b": "30 °C",
+    "c": "35 °C",
+    "d": "40 °C",
+    "ans": "a"
+  },
+  {
+    "q": "Find the work done during a polytropic compression (n = 1.2) of air from P1 = 100 kPa, V1 = 2.0 m3 to P2 = 400 kPa.",
+    "a": "-245 kJ",
+    "b": "-318 kJ",
+    "c": "-373 kJ",
+    "d": "-412 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mass of helium gas (R = 2.077 kJ/kg-K) that occupies 5.0 m3 at a pressure of 120 kPa and temperature of 300 K.",
+    "a": "0.45 kg",
+    "b": "0.96 kg",
+    "c": "1.25 kg",
+    "d": "1.65 kg",
+    "ans": "b"
+  },
+  {
+    "q": "A cycle has a turbine work output of 1200 kW, a pump work input of 40 kW, and a boiler heat input of 3000 kW. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "38.7%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure of 300 kPa to equivalent pressure in bars.",
+    "a": "0.3 bar",
+    "b": "3.0 bar",
+    "c": "30.0 bar",
+    "d": "300 bar",
+    "ans": "b"
+  },
+  {
+    "q": "A gas has Cp = 1.005 kJ/kg-K and k = 1.40. Calculate its specific heat at constant volume (Cv).",
+    "a": "0.624 kJ/kg-K",
+    "b": "0.718 kJ/kg-K",
+    "c": "0.845 kJ/kg-K",
+    "d": "0.912 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "A refrigerator has a COP of 2.5 and consumes 1.2 kW of power. Find the rate of heat removal from the cold space in kW.",
+    "a": "1.5 kW",
+    "b": "3.0 kW",
+    "c": "4.5 kW",
+    "d": "6.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "Find the density of air in kg/m3 at 100 kPa and 27 °C. (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.85 kg/m3",
+    "b": "1.16 kg/m3",
+    "c": "1.32 kg/m3",
+    "d": "1.45 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "A solar collector has an efficiency of 60% and receives solar energy at a rate of 800 W/m2. Find the collector area required to obtain 4.8 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "A simple Rankine cycle has turbine work of 1000 kJ/kg, pump work of 20 kJ/kg, and a condenser heat rejection of 1500 kJ/kg. Find the boiler heat input.",
+    "a": "2450 kJ/kg",
+    "b": "2480 kJ/kg",
+    "c": "2500 kJ/kg",
+    "d": "2520 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if the refrigeration cycle COP is 3.5.",
+    "a": "2.5",
+    "b": "3.5",
+    "c": "4.5",
+    "d": "5.5",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas is heated at constant volume from 27 °C to 327 °C. If the initial pressure is 150 kPa, find the final pressure.",
+    "a": "150 kPa",
+    "b": "300 kPa",
+    "c": "450 kPa",
+    "d": "600 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Find the change in entropy when 2.0 kg of ice melts to water at 0 °C. (Latent heat of fusion = 334 kJ/kg)",
+    "a": "1.22 kJ/K",
+    "b": "2.45 kJ/K",
+    "c": "3.67 kJ/K",
+    "d": "4.90 kJ/K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net work output of an engine cycle that has a displacement of 2.0 liters and a mean effective pressure of 800 kPa.",
+    "a": "0.8 kJ",
+    "b": "1.6 kJ",
+    "c": "2.4 kJ",
+    "d": "3.2 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "If Cp = 0.529 BTU/lb-°R and R = 96.2 ft-lbf/lb-°R, compute for the specific heat ratio k. (Note: 1 BTU = 778.16 ft-lbf)",
+    "a": "1.15",
+    "b": "1.23",
+    "c": "1.30",
+    "d": "1.35",
+    "ans": "c"
+  },
+  {
+    "q": "A power plant has a net output of 100 MW. If the thermal efficiency is 38%, find the rate of heat rejection to the environment.",
+    "a": "145 MW",
+    "b": "163 MW",
+    "c": "184 MW",
+    "d": "205 MW",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the heat required to completely vaporize 4.0 kg of liquid water at 100 °C. (Latent heat of vaporization hfg = 2257 kJ/kg)",
+    "a": "4512 kJ",
+    "b": "6771 kJ",
+    "c": "9028 kJ",
+    "d": "11285 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A nozzle accelerates air isentropically from a velocity of 20 m/s to 300 m/s. Find the enthalpy drop across the nozzle in kJ/kg.",
+    "a": "22.4 kJ/kg",
+    "b": "44.8 kJ/kg",
+    "c": "89.6 kJ/kg",
+    "d": "112.0 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the specific gravity of gasoline if its density is 820 kg/m3. (Density of water = 1000 kg/m3)",
+    "a": "0.72",
+    "b": "0.82",
+    "c": "0.92",
+    "d": "1.12",
+    "ans": "b"
+  },
+  {
+    "q": "A steady flow system is heated, causing a fluid to expand isobarically. If the volume flow rate increases from 10 L/s to 15 L/s under 200 kPa, find the rate of work done by the fluid.",
+    "a": "0.5 kW",
+    "b": "1.0 kW",
+    "c": "1.5 kW",
+    "d": "2.0 kW",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the work done during isothermal compression of 1.0 kg of nitrogen (R = 0.297 kJ/kg-K) at 27 °C from 100 kPa to 300 kPa.",
+    "a": "-68.4 kJ",
+    "b": "-82.5 kJ",
+    "c": "-97.9 kJ",
+    "d": "-115.0 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A gas turbine operates on the Brayton cycle with turbine inlet temperature of 1000 K and compressor outlet temperature of 600 K. Find the back work ratio if the compressor requires 200 kJ/kg and the turbine produces 500 kJ/kg.",
+    "a": "0.30",
+    "b": "0.40",
+    "c": "0.50",
+    "d": "0.60",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 80 cm3 and a displacement of 560 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the mass of air in a spherical balloon of diameter 4.0 m if the density is 1.15 kg/m3.",
+    "a": "22.4 kg",
+    "b": "32.4 kg",
+    "c": "38.5 kg",
+    "d": "45.2 kg",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 30 inches of mercury (inHg) to equivalent pressure in kPa. (Note: 1 inHg = 3.386 kPa)",
+    "a": "90.2 kPa",
+    "b": "101.6 kPa",
+    "c": "115.4 kPa",
+    "d": "120.2 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific heat ratio (k) of air if Cp = 1.005 kJ/kg-K and Cv = 0.718 kJ/kg-K.",
+    "a": "1.33",
+    "b": "1.40",
+    "c": "1.50",
+    "d": "1.67",
+    "ans": "b"
+  },
+  {
+    "q": "A heat engine rejects 450 J of heat to a cold reservoir for every 750 J of heat it receives. Find its thermal efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "If the Carnot efficiency of an engine is 60% and the source temperature is 500 K, find the sink temperature.",
+    "a": "150 K",
+    "b": "200 K",
+    "c": "250 K",
+    "d": "300 K",
+    "ans": "b"
+  },
+  {
+    "q": "A closed cylinder with a piston contains 0.10 m3 of air at 100 kPa. If the air is compressed isentropically (k = 1.40) to 0.02 m3, find the final pressure.",
+    "a": "720 kPa",
+    "b": "845 kPa",
+    "c": "952 kPa",
+    "d": "1120 kPa",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the rate of heat rejection from a 2.0 m2 plate with emissivity of 0.8 radiating to deep space (0 K) if its surface temperature is 300 K. (sigma = 5.67 x 10^-8 W/m2-K4)",
+    "a": "512 W",
+    "b": "624 W",
+    "c": "735 W",
+    "d": "850 W",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 3.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "3412 J",
+    "b": "4125 J",
+    "c": "5188 J",
+    "d": "6245 J",
+    "ans": "c"
+  },
+  {
+    "q": "A simple Rankine cycle has turbine work output of 850 kJ/kg, pump work input of 15 kJ/kg, and a boiler heat input of 2200 kJ/kg. Find the cycle efficiency.",
+    "a": "34.5%",
+    "b": "38.0%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure of 14.7 psi (pounds per square inch) to equivalent pressure in kPa.",
+    "a": "90.2 kPa",
+    "b": "101.3 kPa",
+    "c": "115.4 kPa",
+    "d": "120.2 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of helium gas at STP (0 °C and 101.3 kPa) in kg/m3. (Gas constant R = 2.077 kPa-m3/kg-K)",
+    "a": "0.089 kg/m3",
+    "b": "0.179 kg/m3",
+    "c": "0.358 kg/m3",
+    "d": "0.716 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas is expanded isentropically (k = 1.30) to three times its original volume. If the initial pressure is 300 kPa, find the final pressure.",
+    "a": "54.2 kPa",
+    "b": "63.5 kPa",
+    "c": "71.9 kPa",
+    "d": "82.5 kPa",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 150 J while the system rejects 50 J of heat. Find the work done.",
+    "a": "-200 J",
+    "b": "-100 J",
+    "c": "100 J",
+    "d": "200 J",
+    "ans": "c"
+  },
+  {
+    "q": "A heat engine rejects 1500 kW of heat while operating with a thermal efficiency of 25%. Find its net power output in kW.",
+    "a": "300 kW",
+    "b": "500 kW",
+    "c": "750 kW",
+    "d": "1000 kW",
+    "ans": "b"
+  },
+  {
+    "q": "If the specific enthalpy of wet steam is 2100 kJ/kg, hf = 400 kJ/kg and hg = 2600 kJ/kg, calculate the quality (x) of the steam.",
+    "a": "0.68",
+    "b": "0.74",
+    "c": "0.82",
+    "d": "0.90",
+    "ans": "b"
+  },
+  {
+    "q": "Find the change in entropy when 500 J of heat is transferred to a system at a constant temperature of 127 °C.",
+    "a": "1.25 J/K",
+    "b": "1.67 J/K",
+    "c": "2.50 J/K",
+    "d": "3.94 J/K",
+    "ans": "a"
+  },
+  {
+    "q": "An ideal gas undergoes an isobaric process from T1 = 300 K to T2 = 450 K. If Cp = 1.005 kJ/kg-K, calculate the enthalpy change per unit mass.",
+    "a": "112.5 kJ/kg",
+    "b": "150.8 kJ/kg",
+    "c": "184.5 kJ/kg",
+    "d": "212.0 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 2.5 kW of electrical power to supply 10.0 kW of heat to a room.",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "5.0",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the work done by a gas when it expands isobarically under a pressure of 150 kPa from a volume of 0.20 m3 to 0.60 m3.",
+    "a": "30 kJ",
+    "b": "45 kJ",
+    "c": "60 kJ",
+    "d": "75 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a constant-volume process. If the heat added is 800 J, determine the change in internal energy.",
+    "a": "-800 J",
+    "b": "0 J",
+    "c": "800 J",
+    "d": "1600 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 750 mmHg (millimeters of mercury) to absolute pressure in kPa.",
+    "a": "90.2 kPa",
+    "b": "100.0 kPa",
+    "c": "112.4 kPa",
+    "d": "120.2 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent temperature value of 27 °C in absolute temperature Rankine (°R)?",
+    "a": "520 °R",
+    "b": "540 °R",
+    "c": "560 °R",
+    "d": "580 °R",
+    "ans": "b"
+  },
+  {
+    "q": "Find the mass of nitrogen gas (MW = 28) contained in a 3.0 m3 vessel at 200 kPa and 27 °C. (Ru = 8.314 kJ/kmol-K)",
+    "a": "4.25 kg",
+    "b": "5.62 kg",
+    "c": "6.74 kg",
+    "d": "8.12 kg",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between source temperature of 2 °C and sink temperature of 37 °C.",
+    "a": "7.52",
+    "b": "8.86",
+    "c": "10.33",
+    "d": "11.12",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "52.4%",
+    "b": "56.5%",
+    "c": "60.2%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 2800 kJ/kg, turbine work of 1100 kJ/kg, and pump work of 20 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "38.6%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "A flat wall has thermal conductivity of 0.8 W/m-K and thickness of 0.15 m. If the surface area is 10 m2 and temperature difference is 30 °C, find the rate of heat conduction.",
+    "a": "1200 W",
+    "b": "1600 W",
+    "c": "1800 W",
+    "d": "2000 W",
+    "ans": "b"
+  },
+  {
+    "q": "A mass of 5.0 kg of water is heated from 30 °C to 70 °C. Find the heat added in kJ. (Cp of water = 4.184 kJ/kg-K)",
+    "a": "624 kJ",
+    "b": "837 kJ",
+    "c": "1045 kJ",
+    "d": "1255 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the isentropic efficiency of a compressor that requires 220 kJ/kg of actual work, while the ideal isentropic work input is 180 kJ/kg.",
+    "a": "74.5%",
+    "b": "81.8%",
+    "c": "88.9%",
+    "d": "92.1%",
+    "ans": "b"
+  },
+  {
+    "q": "Convert an absolute temperature of 400 K to absolute temperature in Rankine (°R).",
+    "a": "640 °R",
+    "b": "720 °R",
+    "c": "800 °R",
+    "d": "860 °R",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3200 kJ/kg and condenser heat rejection of 2000 kJ/kg. Find the cycle efficiency.",
+    "a": "32.5%",
+    "b": "37.5%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 80% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "5.6 kJ/kg-K",
+    "b": "6.8 kJ/kg-K",
+    "c": "7.2 kJ/kg-K",
+    "d": "8.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes an process during which 300 J of heat is rejected while 500 J of work is done on it. Find the change in internal energy.",
+    "a": "-800 J",
+    "b": "-200 J",
+    "c": "200 J",
+    "d": "800 J",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the density of nitrogen gas (N2, MW = 28.0 g/mol) at 150 kPa and 50 °C. (Ru = 8.314 kJ/kmol-K)",
+    "a": "1.15 kg/m3",
+    "b": "1.31 kg/m3",
+    "c": "1.56 kg/m3",
+    "d": "1.84 kg/m3",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the work done during isobaric expansion of a gas under a pressure of 120 kPa when the volume changes from 1.5 m3 to 3.5 m3.",
+    "a": "120 kJ",
+    "b": "180 kJ",
+    "c": "240 kJ",
+    "d": "300 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 50% and receives solar energy at a rate of 600 W/m2. Find the collector area required to obtain 3.0 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with pressure ratio of 12.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the ideal Brayton cycle.",
+    "a": "45.2%",
+    "b": "50.8%",
+    "c": "55.4%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the specific volume of saturated wet steam with quality of 25% if vf = 0.001 m3/kg and vg = 1.25 m3/kg.",
+    "a": "0.151 m3/kg",
+    "b": "0.251 m3/kg",
+    "c": "0.354 m3/kg",
+    "d": "0.412 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 212 °F in Celsius (°C)?",
+    "a": "50 °C",
+    "b": "100 °C",
+    "c": "120 °C",
+    "d": "150 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of 0 °C.",
+    "a": "5.45",
+    "b": "6.12",
+    "c": "7.83",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 2.0 kg of nitrogen (R = 0.297 kJ/kg-K) at 127 °C when the volume triples.",
+    "a": "152.4 kJ",
+    "b": "195.7 kJ",
+    "c": "260.9 kJ",
+    "d": "312.0 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A gas cylinder contains 4.0 moles of He, 1.0 mole of Ne, and 5.0 moles of Ar. If the total pressure is 20.0 atm, what is the partial pressure of Helium?",
+    "a": "2.0 atm",
+    "b": "4.0 atm",
+    "c": "5.0 atm",
+    "d": "1.5 atm",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the molality of a solution made by dissolving 40.0 g of NaOH (MW = 40.00) in 500 g of water.",
+    "a": "1.00 m",
+    "b": "2.00 m",
+    "c": "3.00 m",
+    "d": "4.00 m",
+    "ans": "b"
+  },
+  {
+    "q": "If 10.0 g of NaCl (MW = 58.44) is dissolved in 190.0 g of water (MW = 18.02), what is the mass percentage of NaCl in the solution?",
+    "a": "10.0%",
+    "b": "11.1%",
+    "c": "9.0%",
+    "d": "5.0%",
+    "ans": "a"
+  },
+  {
+    "q": "A container holds 1.0 mole of gas at 300 K and 2.00 atm. If the volume is doubled and the temperature is raised to 600 K, what is the new pressure?",
+    "a": "1.00 atm",
+    "b": "2.00 atm",
+    "c": "4.00 atm",
+    "d": "8.00 atm",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Oxygen gas (O2) at STP in g/L. (MW of O2 = 32.00)",
+    "a": "1.15 g/L",
+    "b": "1.43 g/L",
+    "c": "1.66 g/L",
+    "d": "1.84 g/L",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 600 kW and the compressor work input is 250 kW.",
+    "a": "150 kW",
+    "b": "250 kW",
+    "c": "350 kW",
+    "d": "450 kW",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the flow work (flow energy) in kJ/kg of a fluid entering a system at a pressure of 400 kPa and a specific volume of 0.003 m3/kg.",
+    "a": "0.6 kJ/kg",
+    "b": "1.2 kJ/kg",
+    "c": "1.8 kJ/kg",
+    "d": "2.4 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the change in absolute temperature in Rankine if a gas's temperature increases by 50 °C.",
+    "a": "50 °R",
+    "b": "90 °R",
+    "c": "100 °R",
+    "d": "150 °R",
+    "ans": "b"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 700 W/m2. Find the collector area required to obtain 3.15 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas with Cv = 0.718 kJ/kg-K is heated isochorically. Find the work done during the process.",
+    "a": "-100 kJ/kg",
+    "b": "0 kJ/kg",
+    "c": "100 kJ/kg",
+    "d": "200 kJ/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3500 kJ/kg and condenser heat rejection of 2100 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the rate of heat rejection from a 3.0 m2 plate with emissivity of 0.9 radiating to deep space (0 K) if its surface temperature is 300 K. (sigma = 5.67 x 10^-8 W/m2-K4)",
+    "a": "1124 W",
+    "b": "1240 W",
+    "c": "1345 W",
+    "d": "1520 W",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle has a pressure ratio of 8.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the ideal Brayton cycle.",
+    "a": "38.2%",
+    "b": "44.8%",
+    "c": "48.2%",
+    "d": "51.2%",
+    "ans": "b"
+  },
+  {
+    "q": "A simple Rankine cycle has turbine work of 1200 kJ/kg, pump work of 30 kJ/kg, and a condenser heat rejection of 1800 kJ/kg. Find the boiler heat input.",
+    "a": "2970 kJ/kg",
+    "b": "3000 kJ/kg",
+    "c": "3030 kJ/kg",
+    "d": "3060 kJ/kg",
+    "ans": "a"
+  },
+  {
+    "q": "A gas cylinder contains 3.0 moles of He, 2.0 moles of Ne, and 5.0 moles of Ar. If the total pressure is 15.0 atm, what is the partial pressure of Neon?",
+    "a": "2.0 atm",
+    "b": "3.0 atm",
+    "c": "4.5 atm",
+    "d": "5.0 atm",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes a three-step cycle. The heat transfers for each step are Q1 = 200 kJ, Q2 = -120 kJ, and Q3 = -30 kJ. Find the net work output of the cycle.",
+    "a": "30 kJ",
+    "b": "40 kJ",
+    "c": "50 kJ",
+    "d": "60 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A mass of 4.0 kg of ice at 0 °C is melted completely to water at 0 °C. If the latent heat of fusion of ice is 334 kJ/kg, find the heat required.",
+    "a": "1002 kJ",
+    "b": "1336 kJ",
+    "c": "1500 kJ",
+    "d": "1674 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent temperature value of 302 °F in Celsius (°C)?",
+    "a": "120 °C",
+    "b": "150 °C",
+    "c": "180 °C",
+    "d": "200 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of 5 °C.",
+    "a": "6.12",
+    "b": "7.07",
+    "c": "8.52",
+    "d": "9.12",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 3.5 kW of electrical power to supply 14.0 kW of heat to a room.",
+    "a": "2.0",
+    "b": "3.0",
+    "c": "4.0",
+    "d": "5.0",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the density of helium gas at a pressure of 150 kPa and a temperature of 27 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.12 kg/m3",
+    "b": "0.24 kg/m3",
+    "c": "0.36 kg/m3",
+    "d": "0.48 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure reading of 15 psi (pounds per square inch) to absolute pressure in kPa.",
+    "a": "90.2 kPa",
+    "b": "103.4 kPa",
+    "c": "115.4 kPa",
+    "d": "120.2 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 90 °C to air at 30 °C. If the heat transfer coefficient is 20 W/m2-K and the surface area is 2.5 m2, find the heat transfer rate.",
+    "a": "2000 W",
+    "b": "2500 W",
+    "c": "3000 W",
+    "d": "3500 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the isentropic efficiency of a turbine that produces 150 kJ/kg of actual work, while the ideal isentropic work output is 200 kJ/kg.",
+    "a": "70%",
+    "b": "75%",
+    "c": "85%",
+    "d": "90%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the isentropic efficiency of a compressor that requires 240 kJ/kg of actual work, while the ideal isentropic work input is 200 kJ/kg.",
+    "a": "75.2%",
+    "b": "83.3%",
+    "c": "88.9%",
+    "d": "92.1%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the change in internal energy of 3.0 kg of oxygen gas (Cv = 0.658 kJ/kg-K) when heated from 30 °C to 90 °C?",
+    "a": "59.2 kJ",
+    "b": "118.4 kJ",
+    "c": "177.6 kJ",
+    "d": "236.8 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A closed, rigid tank containing 3.0 kg of air is stirred by a paddle wheel that does 150 kJ of work. If 40 kJ of heat is lost during the process, find the change in internal energy.",
+    "a": "50 kJ",
+    "b": "110 kJ",
+    "c": "150 kJ",
+    "d": "190 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "A boiler has a heat transfer rate of 3000 kW. If the feedwater flow rate is 1.2 kg/s, find the enthalpy increase across the boiler.",
+    "a": "1500 kJ/kg",
+    "b": "2000 kJ/kg",
+    "c": "2500 kJ/kg",
+    "d": "3000 kJ/kg",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas cycle has a pressure ratio of 6.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the ideal Brayton cycle.",
+    "a": "35.1%",
+    "b": "40.1%",
+    "c": "45.0%",
+    "d": "50.2%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the thermal efficiency of an Otto cycle engine with a compression ratio of 6.0 and specific heat ratio of k = 1.40.",
+    "a": "42.1%",
+    "b": "46.2%",
+    "c": "51.2%",
+    "d": "55.4%",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 4.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "4525 J",
+    "b": "5532 J",
+    "c": "6917 J",
+    "d": "7850 J",
+    "ans": "c"
+  },
+  {
+    "q": "A power plant has a net output of 150 MW. If the thermal efficiency is 35%, find the rate of heat rejection to the environment.",
+    "a": "215 MW",
+    "b": "242 MW",
+    "c": "278 MW",
+    "d": "315 MW",
+    "ans": "c"
+  },
+  {
+    "q": "What is the sound speed in air at 15 °C? (Cp/Cv = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "340 m/s",
+    "d": "352 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A simple turbine power system has turbine work output of 1000 kW and generator output of 950 kW. Calculate the generator mechanical-electrical efficiency.",
+    "a": "90%",
+    "b": "95%",
+    "c": "97%",
+    "d": "99%",
+    "ans": "b"
+  },
+  {
+    "q": "If dry bulb temperature is 25 °C and the humidity ratio is 0.010 kg/kg dry air, calculate the mass of water vapor in 50 m3 of air. (density of dry air = 1.2 kg/m3)",
+    "a": "0.3 kg",
+    "b": "0.6 kg",
+    "c": "0.9 kg",
+    "d": "1.2 kg",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if the refrigeration cycle COP is 4.0.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "A simple Rankine cycle has turbine work of 1100 kJ/kg, pump work of 15 kJ/kg, and a condenser heat rejection of 1600 kJ/kg. Find the boiler heat input.",
+    "a": "2685 kJ/kg",
+    "b": "2700 kJ/kg",
+    "c": "2715 kJ/kg",
+    "d": "2730 kJ/kg",
+    "ans": "a"
+  },
+  {
+    "q": "Convert a temperature change of 36 °F to a temperature change in Celsius (°C).",
+    "a": "15 °C",
+    "b": "20 °C",
+    "c": "25 °C",
+    "d": "30 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during a polytropic compression (n = 1.3) of air from P1 = 100 kPa, V1 = 1.0 m3 to P2 = 300 kPa.",
+    "a": "-125 kJ",
+    "b": "-167 kJ",
+    "c": "-212 kJ",
+    "d": "-250 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mass of nitrogen gas (MW = 28) contained in a 4.0 m3 vessel at 150 kPa and 27 °C. (Ru = 8.314 kJ/kmol-K)",
+    "a": "4.25 kg",
+    "b": "5.62 kg",
+    "c": "6.74 kg",
+    "d": "8.12 kg",
+    "ans": "c"
+  },
+  {
+    "q": "A closed, rigid tank containing 1.0 kg of air is stirred by a paddle wheel that does 80 kJ of work. If 20 kJ of heat is lost during the process, find the change in internal energy.",
+    "a": "30 kJ",
+    "b": "60 kJ",
+    "c": "80 kJ",
+    "d": "100 kJ",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between source temperature of 0 °C and sink temperature of 40 °C.",
+    "a": "5.52",
+    "b": "6.83",
+    "c": "7.83",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Convert an absolute temperature of 300 K to absolute temperature in Rankine (°R).",
+    "a": "480 °R",
+    "b": "540 °R",
+    "c": "600 °R",
+    "d": "660 °R",
+    "ans": "b"
+  },
+  {
+    "q": "A power plant has a net output of 120 MW. If the thermal efficiency is 40%, find the rate of heat rejection to the environment.",
+    "a": "150 MW",
+    "b": "180 MW",
+    "c": "210 MW",
+    "d": "240 MW",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of nitrogen gas (N2, MW = 28.0 g/mol) at 200 kPa and 50 °C. (Ru = 8.314 kJ/kmol-K)",
+    "a": "1.31 kg/m3",
+    "b": "1.56 kg/m3",
+    "c": "1.84 kg/m3",
+    "d": "2.08 kg/m3",
+    "ans": "d"
+  },
+  {
+    "q": "A closed system undergoes a three-step cycle. The heat transfers for each step are Q1 = 250 kJ, Q2 = -150 kJ, and Q3 = -40 kJ. Find the net work output of the cycle.",
+    "a": "40 kJ",
+    "b": "50 kJ",
+    "c": "60 kJ",
+    "d": "70 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 100 °C to air at 20 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 3.0 m2, find the heat transfer rate.",
+    "a": "2400 W",
+    "b": "2800 W",
+    "c": "3200 W",
+    "d": "3600 W",
+    "ans": "d"
+  },
+  {
+    "q": "Determine the specific gravity of gasoline if its density is 800 kg/m3. (Density of water = 1000 kg/m3)",
+    "a": "0.70",
+    "b": "0.80",
+    "c": "0.90",
+    "d": "1.10",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific heat ratio (k) of air if Cp = 1.000 kJ/kg-K and Cv = 0.715 kJ/kg-K.",
+    "a": "1.35",
+    "b": "1.40",
+    "c": "1.45",
+    "d": "1.50",
+    "ans": "b"
+  },
+  {
+    "q": "Convert a pressure reading of 20 inches of mercury (inHg) to equivalent pressure in kPa. (Note: 1 inHg = 3.386 kPa)",
+    "a": "54.2 kPa",
+    "b": "67.7 kPa",
+    "c": "75.4 kPa",
+    "d": "82.5 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.2 kJ and cylinder displacement is 1.5 L.",
+    "a": "600 kPa",
+    "b": "800 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 100 cm3 and a displacement of 700 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 5.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "6412 J",
+    "b": "7525 J",
+    "c": "8645 J",
+    "d": "9520 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 15.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "150 kPa",
+    "b": "1500 kPa",
+    "c": "15000 kPa",
+    "d": "1.50 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 4000 kJ/kg and condenser heat rejection of 2400 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 90% if sf = 1.0 kJ/kg-K and sg = 9.0 kJ/kg-K.",
+    "a": "7.2 kJ/kg-K",
+    "b": "8.2 kJ/kg-K",
+    "c": "8.5 kJ/kg-K",
+    "d": "9.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.8 kW of electrical power to supply 9.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 150 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.57 m3/kg",
+    "c": "0.75 m3/kg",
+    "d": "0.95 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 110 °C to air at 30 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2100 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 50 °C and a low temperature of 10 °C.",
+    "a": "6.12",
+    "b": "7.07",
+    "c": "8.08",
+    "d": "9.12",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 12.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "60.2%",
+    "c": "63.0%",
+    "d": "66.5%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 27 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "347 m/s",
+    "d": "362 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 200 J while the system rejects 80 J of heat. Find the work done.",
+    "a": "-280 J",
+    "b": "-120 J",
+    "c": "120 J",
+    "d": "280 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 10 psi (pounds per square inch) to absolute pressure in kPa.",
+    "a": "45.2 kPa",
+    "b": "68.9 kPa",
+    "c": "85.4 kPa",
+    "d": "101.3 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Oxygen gas (O2) at STP in g/L. (MW of O2 = 32.00)",
+    "a": "1.15 g/L",
+    "b": "1.43 g/L",
+    "c": "1.66 g/L",
+    "d": "1.84 g/L",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 700 kW and the compressor work input is 300 kW.",
+    "a": "200 kW",
+    "b": "300 kW",
+    "c": "400 kW",
+    "d": "500 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 40% and receives solar energy at a rate of 800 W/m2. Find the collector area required to obtain 4.0 kW of heat.",
+    "a": "6.25 m2",
+    "b": "10.00 m2",
+    "c": "12.50 m2",
+    "d": "15.00 m2",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 60% if sf = 1.8 kJ/kg-K and sg = 7.8 kJ/kg-K.",
+    "a": "4.12 kJ/kg-K",
+    "b": "5.40 kJ/kg-K",
+    "c": "6.12 kJ/kg-K",
+    "d": "6.62 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 4.0 m3.",
+    "a": "100 kJ",
+    "b": "200 kJ",
+    "c": "300 kJ",
+    "d": "400 kJ",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a temperature change of 54 °F to a temperature change in Celsius (°C).",
+    "a": "20 °C",
+    "b": "30 °C",
+    "c": "40 °C",
+    "d": "50 °C",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 8.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "48.2%",
+    "b": "52.5%",
+    "c": "56.5%",
+    "d": "61.2%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3000 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 30 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "39.0%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 32 °F in Celsius (°C)?",
+    "a": "0 °C",
+    "b": "5 °C",
+    "c": "10 °C",
+    "d": "15 °C",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 35 °C and a low temperature of -5 °C.",
+    "a": "6.12",
+    "b": "7.70",
+    "c": "8.52",
+    "d": "9.12",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.5 kJ and cylinder displacement is 2.0 L.",
+    "a": "600 kPa",
+    "b": "750 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "c"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 120 cm3 and a displacement of 840 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 6.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "8645 J",
+    "b": "9520 J",
+    "c": "10375 J",
+    "d": "11240 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 10.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "100 kPa",
+    "b": "1000 kPa",
+    "c": "10000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 2500 kJ/kg and condenser heat rejection of 1500 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 50% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "4.0 kJ/kg-K",
+    "b": "5.0 kJ/kg-K",
+    "c": "6.0 kJ/kg-K",
+    "d": "7.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.5 kW of electrical power to supply 7.5 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 120 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.57 m3/kg",
+    "c": "0.72 m3/kg",
+    "d": "0.85 m3/kg",
+    "ans": "c"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 120 °C to air at 20 °C. If the heat transfer coefficient is 10 W/m2-K and the surface area is 3.0 m2, find the heat transfer rate.",
+    "a": "2000 W",
+    "b": "2500 W",
+    "c": "3000 W",
+    "d": "3500 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of -10 °C.",
+    "a": "5.12",
+    "b": "6.26",
+    "c": "7.15",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 15.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.0%",
+    "d": "65.9%",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the sound speed in air at 20 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "343 m/s",
+    "d": "352 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 100 J while the system rejects 40 J of heat. Find the work done.",
+    "a": "-140 J",
+    "b": "-60 J",
+    "c": "60 J",
+    "d": "140 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 5 psi (pounds per square inch) to absolute pressure in kPa.",
+    "a": "34.5 kPa",
+    "b": "54.2 kPa",
+    "c": "68.9 kPa",
+    "d": "85.4 kPa",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the density of Helium gas at STP in g/L. (AW of He = 4.00)",
+    "a": "0.089 g/L",
+    "b": "0.179 g/L",
+    "c": "0.358 g/L",
+    "d": "0.716 g/L",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 800 kW and the compressor work input is 350 kW.",
+    "a": "350 kW",
+    "b": "450 kW",
+    "c": "550 kW",
+    "d": "650 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 800 W/m2. Find the collector area required to obtain 3.6 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 40% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.2 kJ/kg-K",
+    "b": "4.4 kJ/kg-K",
+    "c": "5.6 kJ/kg-K",
+    "d": "6.8 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 5.0 m3.",
+    "a": "100 kJ",
+    "b": "200 kJ",
+    "c": "300 kJ",
+    "d": "400 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 18 °F to a temperature change in Celsius (°C).",
+    "a": "5 °C",
+    "b": "10 °C",
+    "c": "15 °C",
+    "d": "20 °C",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 7.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "45.2%",
+    "b": "51.2%",
+    "c": "54.1%",
+    "d": "58.5%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 2500 kJ/kg, turbine work of 1000 kJ/kg, and pump work of 15 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "39.4%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 50 °F in Celsius (°C)?",
+    "a": "5 °C",
+    "b": "10 °C",
+    "c": "15 °C",
+    "d": "20 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 30 °C and a low temperature of -10 °C.",
+    "a": "6.12",
+    "b": "7.58",
+    "c": "8.52",
+    "d": "9.12",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.0 kJ and cylinder displacement is 1.2 L.",
+    "a": "600 kPa",
+    "b": "833 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 150 cm3 and a displacement of 1050 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 7.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "10375 J",
+    "b": "11240 J",
+    "c": "12110 J",
+    "d": "13020 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 8.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "80 kPa",
+    "b": "800 kPa",
+    "c": "8000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 2000 kJ/kg and condenser heat rejection of 1200 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 30% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.2 kJ/kg-K",
+    "b": "3.8 kJ/kg-K",
+    "c": "4.4 kJ/kg-K",
+    "d": "5.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.2 kW of electrical power to supply 6.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 100 kPa and a temperature of 7 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.57 m3/kg",
+    "c": "0.75 m3/kg",
+    "d": "0.86 m3/kg",
+    "ans": "d"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 130 °C to air at 30 °C. If the heat transfer coefficient is 10 W/m2-K and the surface area is 2.5 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2100 W",
+    "c": "2250 W",
+    "d": "2500 W",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 35 °C and a low temperature of -15 °C.",
+    "a": "5.12",
+    "b": "6.12",
+    "c": "6.84",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 14.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.0%",
+    "d": "65.2%",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the sound speed in air at 10 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "337 m/s",
+    "d": "352 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 80 J while the system rejects 30 J of heat. Find the work done.",
+    "a": "-110 J",
+    "b": "-50 J",
+    "c": "50 J",
+    "d": "110 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 100 kPa to absolute pressure in bars.",
+    "a": "0.1 bar",
+    "b": "1.0 bar",
+    "c": "10.0 bar",
+    "d": "100 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 100 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.089 kg/m3",
+    "b": "0.149 kg/m3",
+    "c": "0.179 kg/m3",
+    "d": "0.225 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 900 kW and the compressor work input is 400 kW.",
+    "a": "350 kW",
+    "b": "450 kW",
+    "c": "550 kW",
+    "d": "650 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 50% and receives solar energy at a rate of 700 W/m2. Find the collector area required to obtain 3.5 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 20% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "2.6 kJ/kg-K",
+    "b": "3.2 kJ/kg-K",
+    "c": "4.4 kJ/kg-K",
+    "d": "5.6 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 6.0 m3.",
+    "a": "100 kJ",
+    "b": "200 kJ",
+    "c": "300 kJ",
+    "d": "500 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 9 °F to a temperature change in Celsius (°C).",
+    "a": "5 °C",
+    "b": "10 °C",
+    "c": "15 °C",
+    "d": "20 °C",
+    "ans": "a"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 9.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "52.5%",
+    "b": "56.5%",
+    "c": "58.5%",
+    "d": "61.2%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3000 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 25 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "39.2%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 68 °F in Celsius (°C)?",
+    "a": "15 °C",
+    "b": "20 °C",
+    "c": "25 °C",
+    "d": "30 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 30 °C and a low temperature of -20 °C.",
+    "a": "5.12",
+    "b": "6.06",
+    "c": "7.12",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.0 kJ and cylinder displacement is 2.5 L.",
+    "a": "600 kPa",
+    "b": "800 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 200 cm3 and a displacement of 1400 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 8.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "11240 J",
+    "b": "12110 J",
+    "c": "13830 J",
+    "d": "14520 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 6.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "60 kPa",
+    "b": "600 kPa",
+    "c": "6000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3000 kJ/kg and condenser heat rejection of 2000 kJ/kg. Find the cycle efficiency.",
+    "a": "33.3%",
+    "b": "40.0%",
+    "c": "50.0%",
+    "d": "60.0%",
+    "ans": "a"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 10% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "2.6 kJ/kg-K",
+    "b": "3.2 kJ/kg-K",
+    "c": "3.8 kJ/kg-K",
+    "d": "4.4 kJ/kg-K",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 2.0 kW of electrical power to supply 8.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 200 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.22 m3/kg",
+    "b": "0.43 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.75 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 140 °C to air at 40 °C. If the heat transfer coefficient is 10 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1500 W",
+    "b": "1800 W",
+    "c": "2000 W",
+    "d": "2200 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -15 °C.",
+    "a": "4.12",
+    "b": "5.30",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 13.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.0%",
+    "d": "64.2%",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the sound speed in air at 0 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "343 m/s",
+    "d": "352 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 120 J while the system rejects 50 J of heat. Find the work done.",
+    "a": "-170 J",
+    "b": "-70 J",
+    "c": "70 J",
+    "d": "170 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 150 kPa to absolute pressure in mmHg. (Note: 1 kPa = 7.5006 mmHg)",
+    "a": "750 mmHg",
+    "b": "1125 mmHg",
+    "c": "1500 mmHg",
+    "d": "1875 mmHg",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 200 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.298 kg/m3",
+    "c": "0.412 kg/m3",
+    "d": "0.562 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1000 kW and the compressor work input is 450 kW.",
+    "a": "350 kW",
+    "b": "450 kW",
+    "c": "550 kW",
+    "d": "650 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 40% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 3.6 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 95% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "6.8 kJ/kg-K",
+    "b": "7.2 kJ/kg-K",
+    "c": "7.7 kJ/kg-K",
+    "d": "8.0 kJ/kg-K",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 7.0 m3.",
+    "a": "100 kJ",
+    "b": "300 kJ",
+    "c": "500 kJ",
+    "d": "600 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 27 °F to a temperature change in Celsius (°C).",
+    "a": "10 °C",
+    "b": "15 °C",
+    "c": "20 °C",
+    "d": "25 °C",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 11.0. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "58.5%",
+    "c": "61.7%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3500 kJ/kg, turbine work of 1400 kJ/kg, and pump work of 30 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "39.1%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 86 °F in Celsius (°C)?",
+    "a": "20 °C",
+    "b": "30 °C",
+    "c": "40 °C",
+    "d": "50 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of -20 °C.",
+    "a": "5.12",
+    "b": "6.26",
+    "c": "7.12",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.5 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "833 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 250 cm3 and a displacement of 1750 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 9.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "12110 J",
+    "b": "13830 J",
+    "c": "15560 J",
+    "d": "16420 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure of 4.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "40 kPa",
+    "b": "400 kPa",
+    "c": "4000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3500 kJ/kg and condenser heat rejection of 2100 kJ/kg. Find the cycle efficiency.",
+    "a": "30.0%",
+    "b": "40.0%",
+    "c": "50.0%",
+    "d": "60.0%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 5% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "2.3 kJ/kg-K",
+    "b": "2.6 kJ/kg-K",
+    "c": "2.9 kJ/kg-K",
+    "d": "3.2 kJ/kg-K",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 2.5 kW of electrical power to supply 12.5 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 250 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.22 m3/kg",
+    "b": "0.34 m3/kg",
+    "c": "0.45 m3/kg",
+    "d": "0.57 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 150 °C to air at 30 °C. If the heat transfer coefficient is 12 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "2000 W",
+    "b": "2400 W",
+    "c": "2880 W",
+    "d": "3200 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 50 °C and a low temperature of -10 °C.",
+    "a": "4.12",
+    "b": "5.38",
+    "c": "6.12",
+    "d": "7.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.0. If the specific heat ratio is k = 1.30, calculate the thermal efficiency of the Otto cycle.",
+    "a": "45.2%",
+    "b": "49.9%",
+    "c": "54.1%",
+    "d": "58.5%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the sound speed in air at -10 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "325 m/s",
+    "c": "331 m/s",
+    "d": "343 m/s",
+    "ans": "b"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 150 J while the system rejects 60 J of heat. Find the work done.",
+    "a": "-210 J",
+    "b": "-90 J",
+    "c": "90 J",
+    "d": "210 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 200 kPa to absolute pressure in bars.",
+    "a": "0.2 bar",
+    "b": "2.0 bar",
+    "c": "20.0 bar",
+    "d": "200 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 150 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.224 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1200 kW and the compressor work input is 500 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "750 kW",
+    "d": "850 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 4.05 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 15% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "2.6 kJ/kg-K",
+    "b": "2.9 kJ/kg-K",
+    "c": "3.2 kJ/kg-K",
+    "d": "3.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 8.0 m3.",
+    "a": "300 kJ",
+    "b": "500 kJ",
+    "c": "600 kJ",
+    "d": "700 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 45 °F to a temperature change in Rankine (°R).",
+    "a": "25 °R",
+    "b": "45 °R",
+    "c": "50 °R",
+    "d": "75 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.0. If the specific heat ratio is k = 1.35, calculate the thermal efficiency of the Otto cycle.",
+    "a": "51.2%",
+    "b": "55.4%",
+    "c": "58.2%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3200 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 30 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "36.6%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 104 °F in Celsius (°C)?",
+    "a": "30 °C",
+    "b": "40 °C",
+    "c": "50 °C",
+    "d": "60 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -5 °C.",
+    "a": "5.12",
+    "b": "6.36",
+    "c": "7.15",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.8 kJ and cylinder displacement is 2.4 L.",
+    "a": "600 kPa",
+    "b": "750 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 300 cm3 and a displacement of 2100 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 10.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "13830 J",
+    "b": "14520 J",
+    "c": "15560 J",
+    "d": "17290 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 5.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "50 kPa",
+    "b": "500 kPa",
+    "c": "5000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3600 kJ/kg and condenser heat rejection of 2160 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 25% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.0 kJ/kg-K",
+    "b": "3.5 kJ/kg-K",
+    "c": "4.0 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.6 kW of electrical power to supply 8.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 180 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.75 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 130 °C to air at 40 °C. If the heat transfer coefficient is 12 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2160 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -25 °C.",
+    "a": "4.12",
+    "b": "5.30",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 12.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.6%",
+    "d": "65.2%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 5 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "334 m/s",
+    "d": "343 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 140 J while the system rejects 50 J of heat. Find the work done.",
+    "a": "-190 J",
+    "b": "-90 J",
+    "c": "90 J",
+    "d": "190 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 120 kPa to absolute pressure in bars.",
+    "a": "0.12 bar",
+    "b": "1.20 bar",
+    "c": "12.00 bar",
+    "d": "120.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 120 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.179 kg/m3",
+    "c": "0.224 kg/m3",
+    "d": "0.298 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1100 kW and the compressor work input is 450 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "750 kW",
+    "d": "850 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar collector has an efficiency of 50% and receives solar energy at a rate of 800 W/m2. Find the collector area required to obtain 4.0 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 35% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.1 kJ/kg-K",
+    "b": "3.5 kJ/kg-K",
+    "c": "4.1 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 9.0 m3.",
+    "a": "400 kJ",
+    "b": "500 kJ",
+    "c": "600 kJ",
+    "d": "800 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 18 °F to a temperature change in Rankine (°R).",
+    "a": "10 °R",
+    "b": "18 °R",
+    "c": "25 °R",
+    "d": "30 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "58.5%",
+    "c": "61.0%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3300 kJ/kg, turbine work of 1300 kJ/kg, and pump work of 25 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "38.6%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 122 °F in Celsius (°C)?",
+    "a": "40 °C",
+    "b": "50 °C",
+    "c": "60 °C",
+    "d": "70 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of -5 °C.",
+    "a": "5.12",
+    "b": "6.36",
+    "c": "6.96",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.1 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "700 kPa",
+    "c": "900 kPa",
+    "d": "1100 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 150 cm3 and a displacement of 1200 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 11.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "14520 J",
+    "b": "15560 J",
+    "c": "17290 J",
+    "d": "19020 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 3.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "30 kPa",
+    "b": "300 kPa",
+    "c": "3000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3300 kJ/kg and condenser heat rejection of 1980 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 15% if sf = 1.0 kJ/kg-K and sg = 9.0 kJ/kg-K.",
+    "a": "1.8 kJ/kg-K",
+    "b": "2.2 kJ/kg-K",
+    "c": "2.5 kJ/kg-K",
+    "d": "3.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.4 kW of electrical power to supply 7.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 140 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.62 m3/kg",
+    "ans": "d"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 120 °C to air at 40 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2100 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 50 °C and a low temperature of -20 °C.",
+    "a": "4.12",
+    "b": "4.61",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 11.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "62.3%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 15 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "340 m/s",
+    "d": "343 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 110 J while the system rejects 40 J of heat. Find the work done.",
+    "a": "-150 J",
+    "b": "-70 J",
+    "c": "70 J",
+    "d": "150 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 140 kPa to absolute pressure in bars.",
+    "a": "0.14 bar",
+    "b": "1.40 bar",
+    "c": "14.00 bar",
+    "d": "140.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 140 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.208 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1300 kW and the compressor work input is 550 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "750 kW",
+    "d": "850 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 3.24 kW of heat.",
+    "a": "5.0 m2",
+    "b": "8.0 m2",
+    "c": "10.0 m2",
+    "d": "12.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 45% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.8 kJ/kg-K",
+    "b": "4.7 kJ/kg-K",
+    "c": "5.6 kJ/kg-K",
+    "d": "6.8 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 10.0 m3.",
+    "a": "300 kJ",
+    "b": "500 kJ",
+    "c": "700 kJ",
+    "d": "900 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 36 °F to a temperature change in Rankine (°R).",
+    "a": "20 °R",
+    "b": "36 °R",
+    "c": "45 °R",
+    "d": "50 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 9.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "58.5%",
+    "c": "59.4%",
+    "d": "61.2%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3100 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 25 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "37.9%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 113 °F in Celsius (°C)?",
+    "a": "35 °C",
+    "b": "45 °C",
+    "c": "55 °C",
+    "d": "65 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 35 °C and a low temperature of -10 °C.",
+    "a": "5.12",
+    "b": "6.12",
+    "c": "6.84",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.6 kJ and cylinder displacement is 2.0 L.",
+    "a": "600 kPa",
+    "b": "800 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 200 cm3 and a displacement of 1600 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 12.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "15560 J",
+    "b": "17290 J",
+    "c": "19020 J",
+    "d": "20750 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 2.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "20 kPa",
+    "b": "200 kPa",
+    "c": "2000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3400 kJ/kg and condenser heat rejection of 2040 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 20% if sf = 1.0 kJ/kg-K and sg = 9.0 kJ/kg-K.",
+    "a": "1.8 kJ/kg-K",
+    "b": "2.2 kJ/kg-K",
+    "c": "2.6 kJ/kg-K",
+    "d": "3.0 kJ/kg-K",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.5 kW of electrical power to supply 6.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 130 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.66 m3/kg",
+    "ans": "d"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 130 °C to air at 30 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2100 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 50 °C and a low temperature of -15 °C.",
+    "a": "4.12",
+    "b": "4.61",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.0. If the specific heat ratio is k = 1.35, calculate the thermal efficiency of the Otto cycle.",
+    "a": "51.2%",
+    "b": "55.4%",
+    "c": "58.2%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the sound speed in air at 25 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "346 m/s",
+    "d": "352 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 130 J while the system rejects 40 J of heat. Find the work done.",
+    "a": "-170 J",
+    "b": "-90 J",
+    "c": "90 J",
+    "d": "170 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 130 kPa to absolute pressure in bars.",
+    "a": "0.13 bar",
+    "b": "1.30 bar",
+    "c": "13.00 bar",
+    "d": "130.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 130 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.194 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1400 kW and the compressor work input is 600 kW.",
+    "a": "600 kW",
+    "b": "700 kW",
+    "c": "800 kW",
+    "d": "900 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 50% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 4.5 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 25% if sf = 1.5 kJ/kg-K and sg = 7.5 kJ/kg-K.",
+    "a": "2.2 kJ/kg-K",
+    "b": "3.0 kJ/kg-K",
+    "c": "3.8 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 11.0 m3.",
+    "a": "500 kJ",
+    "b": "700 kJ",
+    "c": "800 kJ",
+    "d": "1000 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 27 °F to a temperature change in Rankine (°R).",
+    "a": "15 °R",
+    "b": "27 °R",
+    "c": "45 °R",
+    "d": "50 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 11.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "62.3%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3400 kJ/kg, turbine work of 1300 kJ/kg, and pump work of 30 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "37.4%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 131 °F in Celsius (°C)?",
+    "a": "45 °C",
+    "b": "55 °C",
+    "c": "65 °C",
+    "d": "75 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -15 °C.",
+    "a": "4.12",
+    "b": "5.30",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.4 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "800 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 100 cm3 and a displacement of 900 cm3. Calculate the compression ratio.",
+    "a": "7.0",
+    "b": "8.0",
+    "c": "9.0",
+    "d": "10.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 13.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "15560 J",
+    "b": "17290 J",
+    "c": "19020 J",
+    "d": "22480 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 1.5 bar to absolute pressure in kilopascals (kPa).",
+    "a": "15 kPa",
+    "b": "150 kPa",
+    "c": "1500 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3000 kJ/kg and condenser heat rejection of 1800 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 30% if sf = 1.5 kJ/kg-K and sg = 7.5 kJ/kg-K.",
+    "a": "2.2 kJ/kg-K",
+    "b": "3.3 kJ/kg-K",
+    "c": "3.8 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.2 kW of electrical power to supply 4.8 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 150 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.75 m3/kg",
+    "ans": "c"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 140 °C to air at 40 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2400 W",
+    "c": "3000 W",
+    "d": "3600 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -15 °C.",
+    "a": "4.12",
+    "b": "5.30",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.5. If the specific heat ratio is k = 1.35, calculate the thermal efficiency of the Otto cycle.",
+    "a": "51.2%",
+    "b": "55.4%",
+    "c": "58.2%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the sound speed in air at 30 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "349 m/s",
+    "d": "362 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 140 J while the system rejects 40 J of heat. Find the work done.",
+    "a": "-180 J",
+    "b": "-100 J",
+    "c": "100 J",
+    "d": "180 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 110 kPa to absolute pressure in bars.",
+    "a": "0.11 bar",
+    "b": "1.10 bar",
+    "c": "11.00 bar",
+    "d": "110.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 110 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.164 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1500 kW and the compressor work input is 650 kW.",
+    "a": "650 kW",
+    "b": "750 kW",
+    "c": "850 kW",
+    "d": "950 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 4.86 kW of heat.",
+    "a": "5.0 m2",
+    "b": "8.0 m2",
+    "c": "10.0 m2",
+    "d": "12.0 m2",
+    "ans": "d"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 15% if sf = 1.5 kJ/kg-K and sg = 7.5 kJ/kg-K.",
+    "a": "2.1 kJ/kg-K",
+    "b": "2.4 kJ/kg-K",
+    "c": "3.1 kJ/kg-K",
+    "d": "3.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 12.0 m3.",
+    "a": "600 kJ",
+    "b": "800 kJ",
+    "c": "1000 kJ",
+    "d": "1100 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 9 °F to a temperature change in Rankine (°R).",
+    "a": "5 °R",
+    "b": "9 °R",
+    "c": "15 °R",
+    "d": "20 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 12.0. If the specific heat ratio is k = 1.35, calculate the thermal efficiency of the Otto cycle.",
+    "a": "52.5%",
+    "b": "55.4%",
+    "c": "58.2%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3400 kJ/kg, turbine work of 1400 kJ/kg, and pump work of 40 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "40.0%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 140 °F in Celsius (°C)?",
+    "a": "40 °C",
+    "b": "50 °C",
+    "c": "60 °C",
+    "d": "70 °C",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of -10 °C.",
+    "a": "5.12",
+    "b": "6.26",
+    "c": "7.12",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.2 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "733 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 100 cm3 and a displacement of 800 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 14.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "15560 J",
+    "b": "17290 J",
+    "c": "19020 J",
+    "d": "24210 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 2.5 bar to absolute pressure in kilopascals (kPa).",
+    "a": "25 kPa",
+    "b": "250 kPa",
+    "c": "2500 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3200 kJ/kg and condenser heat rejection of 1920 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 10% if sf = 1.5 kJ/kg-K and sg = 7.5 kJ/kg-K.",
+    "a": "1.8 kJ/kg-K",
+    "b": "2.1 kJ/kg-K",
+    "c": "2.5 kJ/kg-K",
+    "d": "3.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.5 kW of electrical power to supply 9.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "d"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 160 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.54 m3/kg",
+    "d": "0.75 m3/kg",
+    "ans": "c"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 150 °C to air at 50 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2400 W",
+    "c": "3000 W",
+    "d": "3600 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -25 °C.",
+    "a": "4.12",
+    "b": "4.54",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 12.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.6%",
+    "d": "65.2%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 20 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "343 m/s",
+    "d": "352 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 160 J while the system rejects 60 J of heat. Find the work done.",
+    "a": "-220 J",
+    "b": "-100 J",
+    "c": "100 J",
+    "d": "220 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 150 kPa to absolute pressure in bars.",
+    "a": "0.15 bar",
+    "b": "1.50 bar",
+    "c": "15.00 bar",
+    "d": "150.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 150 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.224 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1400 kW and the compressor work input is 600 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "800 kW",
+    "d": "950 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 4.05 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 15% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "2.6 kJ/kg-K",
+    "b": "2.9 kJ/kg-K",
+    "c": "3.2 kJ/kg-K",
+    "d": "3.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 13.0 m3.",
+    "a": "300 kJ",
+    "b": "600 kJ",
+    "c": "900 kJ",
+    "d": "1200 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 54 °F to a temperature change in Rankine (°R).",
+    "a": "20 °R",
+    "b": "54 °R",
+    "c": "60 °R",
+    "d": "80 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.0. If the specific heat ratio is k = 1.35, calculate the thermal efficiency of the Otto cycle.",
+    "a": "51.2%",
+    "b": "55.4%",
+    "c": "58.2%",
+    "d": "61.2%",
+    "ans": "b"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3200 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 30 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "36.6%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 149 °F in Celsius (°C)?",
+    "a": "55 °C",
+    "b": "65 °C",
+    "c": "75 °C",
+    "d": "85 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -5 °C.",
+    "a": "5.12",
+    "b": "6.36",
+    "c": "7.15",
+    "d": "8.50",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.3 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "767 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 100 cm3 and a displacement of 1000 cm3. Calculate the compression ratio.",
+    "a": "8.0",
+    "b": "9.0",
+    "c": "10.0",
+    "d": "11.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 15.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "13830 J",
+    "b": "15560 J",
+    "c": "17290 J",
+    "d": "25930 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 5.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "50 kPa",
+    "b": "500 kPa",
+    "c": "5000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3600 kJ/kg and condenser heat rejection of 2160 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 25% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.0 kJ/kg-K",
+    "b": "3.5 kJ/kg-K",
+    "c": "4.0 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.6 kW of electrical power to supply 8.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 180 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.75 m3/kg",
+    "ans": "b"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 130 °C to air at 40 °C. If the heat transfer coefficient is 12 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2160 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 45 °C and a low temperature of -25 °C.",
+    "a": "4.12",
+    "b": "4.54",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 12.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "63.6%",
+    "d": "65.2%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 5 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "334 m/s",
+    "d": "343 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 140 J while the system rejects 50 J of heat. Find the work done.",
+    "a": "-190 J",
+    "b": "-90 J",
+    "c": "90 J",
+    "d": "190 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 120 kPa to absolute pressure in bars.",
+    "a": "0.12 bar",
+    "b": "1.20 bar",
+    "c": "12.00 bar",
+    "d": "120.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 120 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.179 kg/m3",
+    "c": "0.224 kg/m3",
+    "d": "0.298 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1100 kW and the compressor work input is 450 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "750 kW",
+    "d": "850 kW",
+    "ans": "b"
+  },
+  {
+    "q": "A solar collector has an efficiency of 50% and receives solar energy at a rate of 800 W/m2. Find the collector area required to obtain 4.0 kW of heat.",
+    "a": "5.0 m2",
+    "b": "10.0 m2",
+    "c": "15.0 m2",
+    "d": "20.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 35% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.1 kJ/kg-K",
+    "b": "3.5 kJ/kg-K",
+    "c": "4.1 kJ/kg-K",
+    "d": "4.5 kJ/kg-K",
+    "ans": "c"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 14.0 m3.",
+    "a": "300 kJ",
+    "b": "600 kJ",
+    "c": "900 kJ",
+    "d": "1300 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 18 °F to a temperature change in Rankine (°R).",
+    "a": "10 °R",
+    "b": "18 °R",
+    "c": "25 °R",
+    "d": "30 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 10.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "58.5%",
+    "c": "61.0%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3300 kJ/kg, turbine work of 1300 kJ/kg, and pump work of 25 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "38.6%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 122 °F in Celsius (°C)?",
+    "a": "40 °C",
+    "b": "50 °C",
+    "c": "60 °C",
+    "d": "70 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 40 °C and a low temperature of -5 °C.",
+    "a": "5.12",
+    "b": "6.36",
+    "c": "6.96",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 2.1 kJ and cylinder displacement is 3.0 L.",
+    "a": "600 kPa",
+    "b": "700 kPa",
+    "c": "900 kPa",
+    "d": "1100 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 150 cm3 and a displacement of 1200 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 11.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "14520 J",
+    "b": "15560 J",
+    "c": "17290 J",
+    "d": "19020 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 3.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "30 kPa",
+    "b": "300 kPa",
+    "c": "3000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3300 kJ/kg and condenser heat rejection of 1980 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 15% if sf = 1.0 kJ/kg-K and sg = 9.0 kJ/kg-K.",
+    "a": "1.8 kJ/kg-K",
+    "b": "2.2 kJ/kg-K",
+    "c": "2.5 kJ/kg-K",
+    "d": "3.0 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.4 kW of electrical power to supply 7.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "c"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 140 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.62 m3/kg",
+    "ans": "d"
+  },
+  {
+    "q": "A convective heat transfer process occurs from a flat plate at 120 °C to air at 40 °C. If the heat transfer coefficient is 15 W/m2-K and the surface area is 2.0 m2, find the heat transfer rate.",
+    "a": "1800 W",
+    "b": "2100 W",
+    "c": "2400 W",
+    "d": "2700 W",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 50 °C and a low temperature of -20 °C.",
+    "a": "4.12",
+    "b": "4.61",
+    "c": "5.82",
+    "d": "6.50",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 11.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "58.5%",
+    "b": "61.2%",
+    "c": "62.3%",
+    "d": "64.1%",
+    "ans": "c"
+  },
+  {
+    "q": "Calculate the sound speed in air at 15 °C. (k = 1.40, R = 287 J/kg-K)",
+    "a": "315 m/s",
+    "b": "331 m/s",
+    "c": "340 m/s",
+    "d": "343 m/s",
+    "ans": "c"
+  },
+  {
+    "q": "A closed system undergoes a process where the internal energy decreases by 110 J while the system rejects 40 J of heat. Find the work done.",
+    "a": "-150 J",
+    "b": "-70 J",
+    "c": "70 J",
+    "d": "150 J",
+    "ans": "c"
+  },
+  {
+    "q": "Convert a pressure reading of 140 kPa to absolute pressure in bars.",
+    "a": "0.14 bar",
+    "b": "1.40 bar",
+    "c": "14.00 bar",
+    "d": "140.00 bar",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the density of Helium gas at 140 kPa and 50 °C. (R of helium = 2.077 kPa-m3/kg-K)",
+    "a": "0.149 kg/m3",
+    "b": "0.208 kg/m3",
+    "c": "0.298 kg/m3",
+    "d": "0.358 kg/m3",
+    "ans": "b"
+  },
+  {
+    "q": "Determine the net power output in kW of a gas turbine Brayton cycle in which the turbine work output is 1300 kW and the compressor work input is 550 kW.",
+    "a": "550 kW",
+    "b": "650 kW",
+    "c": "750 kW",
+    "d": "850 kW",
+    "ans": "c"
+  },
+  {
+    "q": "A solar collector has an efficiency of 45% and receives solar energy at a rate of 900 W/m2. Find the collector area required to obtain 3.24 kW of heat.",
+    "a": "5.0 m2",
+    "b": "8.0 m2",
+    "c": "10.0 m2",
+    "d": "12.0 m2",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 45% if sf = 2.0 kJ/kg-K and sg = 8.0 kJ/kg-K.",
+    "a": "3.8 kJ/kg-K",
+    "b": "4.7 kJ/kg-K",
+    "c": "5.6 kJ/kg-K",
+    "d": "6.8 kJ/kg-K",
+    "ans": "b"
+  },
+  {
+    "q": "Find the work done during isobaric expansion of a gas under a pressure of 100 kPa when the volume changes from 1.0 m3 to 14.0 m3.",
+    "a": "300 kJ",
+    "b": "600 kJ",
+    "c": "900 kJ",
+    "d": "1300 kJ",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a temperature change of 36 °F to a temperature change in Rankine (°R).",
+    "a": "20 °R",
+    "b": "36 °R",
+    "c": "45 °R",
+    "d": "50 °R",
+    "ans": "b"
+  },
+  {
+    "q": "An ideal gas cycle operates with compression ratio of 9.5. If the specific heat ratio is k = 1.40, calculate the thermal efficiency of the Otto cycle.",
+    "a": "56.5%",
+    "b": "58.5%",
+    "c": "59.4%",
+    "d": "61.2%",
+    "ans": "c"
+  },
+  {
+    "q": "A cycle has boiler heat input of 3100 kJ/kg, turbine work of 1200 kJ/kg, and pump work of 25 kJ/kg. Calculate the thermal efficiency.",
+    "a": "34.5%",
+    "b": "37.9%",
+    "c": "41.2%",
+    "d": "45.0%",
+    "ans": "b"
+  },
+  {
+    "q": "What is the equivalent value of a temperature of 113 °F in Celsius (°C)?",
+    "a": "35 °C",
+    "b": "45 °C",
+    "c": "55 °C",
+    "d": "65 °C",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the COP of a Carnot heat pump operating between a high temperature of 35 °C and a low temperature of -10 °C.",
+    "a": "5.12",
+    "b": "6.12",
+    "c": "6.84",
+    "d": "8.50",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the mean effective pressure (MEP) of an Otto cycle engine in kPa if net cycle work is 1.6 kJ and cylinder displacement is 2.0 L.",
+    "a": "600 kPa",
+    "b": "800 kPa",
+    "c": "1000 kPa",
+    "d": "1200 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "An Otto engine has a clearance volume of 200 cm3 and a displacement of 1600 cm3. Calculate the compression ratio.",
+    "a": "6.0",
+    "b": "7.0",
+    "c": "8.0",
+    "d": "9.0",
+    "ans": "d"
+  },
+  {
+    "q": "Find the work done during isothermal expansion of 12.0 moles of an ideal gas at 300 K when the volume doubles. (R = 8.314 J/mol-K)",
+    "a": "15560 J",
+    "b": "17290 J",
+    "c": "19020 J",
+    "d": "24945 J",
+    "ans": "d"
+  },
+  {
+    "q": "Convert a pressure of 2.0 bar to absolute pressure in kilopascals (kPa).",
+    "a": "20 kPa",
+    "b": "200 kPa",
+    "c": "2000 kPa",
+    "d": "1.00 kPa",
+    "ans": "b"
+  },
+  {
+    "q": "A simple steam power plant has boiler heat input of 3400 kJ/kg and condenser heat rejection of 2040 kJ/kg. Find the cycle efficiency.",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "ans": "b"
+  },
+  {
+    "q": "Calculate the specific entropy of wet steam with quality of 20% if sf = 1.0 kJ/kg-K and sg = 9.0 kJ/kg-K.",
+    "a": "1.8 kJ/kg-K",
+    "b": "2.2 kJ/kg-K",
+    "c": "2.6 kJ/kg-K",
+    "d": "3.0 kJ/kg-K",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the COP of a heat pump if it consumes 1.5 kW of electrical power to supply 6.0 kW of heat to a room.",
+    "a": "3.0",
+    "b": "4.0",
+    "c": "5.0",
+    "d": "6.0",
+    "ans": "b"
+  },
+  {
+    "q": "What is the specific volume of air in m3/kg at a pressure of 130 kPa and a temperature of 27 °C? (R = 0.287 kPa-m3/kg-K)",
+    "a": "0.38 m3/kg",
+    "b": "0.48 m3/kg",
+    "c": "0.57 m3/kg",
+    "d": "0.66 m3/kg",
+    "ans": "d"
+  }
+]

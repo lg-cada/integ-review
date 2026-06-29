@@ -784,7 +784,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency for the 5400 rpm hard disk drive described in the previous question.",
+    "q": "Calculate the average rotational latency for the 5400 rpm hard disk drive described in the previous question. (Context from previous question: A hard disk drive has a rotational speed of 5400 rpm.)",
     "a": "11.11 ms",
     "b": "5.56 ms",
     "c": "2.78 ms",
@@ -920,7 +920,7 @@
     "ans": "a"
   },
   {
-    "q": "Perform signed addition of the two 8-bit numbers from the previous question: 01101100 + 00110100. Find the resulting binary sum and determine if arithmetic overflow occurs.",
+    "q": "Perform signed addition of the two 8-bit numbers from the previous question: 01101100 + 00110100. Find the resulting binary sum and determine if arithmetic overflow occurs. (Context from previous question: An ALU needs to perform addition on two 8-bit signed binary numbers: 01101100 and 00110100.)",
     "a": "10100000, overflow occurs",
     "b": "10100000, overflow occurs",
     "c": "10100000, no overflow",
@@ -928,7 +928,7 @@
     "ans": "a"
   },
   {
-    "q": "Convert the signed binary sum 10100000 from the previous question into its decimal value, assuming 2's complement representation.",
+    "q": "Convert the signed binary sum 10100000 from the previous question into its decimal value, assuming 2's complement representation. (Context from previous question: An ALU needs to perform addition on two 8-bit signed binary numbers: 01101100 and 00110100. Perform signed addition of the two 8-bit numbers from the previous question: 01101100 + 00110100. (Context from previous question: An ALU needs to perform addition on two 8-bit signed binary numbers: 01101100 and 00110100.))",
     "a": "-32",
     "b": "-96",
     "c": "-64",
@@ -1064,7 +1064,7 @@
     "ans": "b"
   },
   {
-    "q": "If the reference voltage of the 8-bit DAC described in the previous question is 5.12 Volts, calculate the resolution (step size) in millivolts.",
+    "q": "If the reference voltage of the 8-bit DAC described in the previous question is 5.12 Volts, calculate the resolution (step size) in millivolts. (Context from previous question: An 8-bit digital-to-analog converter (DAC) is used to control a robotic joint position.)",
     "a": "10 mV",
     "b": "20 mV",
     "c": "5 mV",
@@ -1096,7 +1096,7 @@
     "ans": "b"
   },
   {
-    "q": "If the binary number 11010100 in the previous question is shifted right by 2 positions (logical shift right), calculate the decimal equivalent of the new register contents.",
+    "q": "If the binary number 11010100 in the previous question is shifted right by 2 positions (logical shift right), calculate the decimal equivalent of the new register contents. (Context from previous question: An 8-bit register contains the unsigned binary number 11010100.)",
     "a": "106",
     "b": "53",
     "c": "26",
@@ -1136,7 +1136,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency in milliseconds for the 10,000 rpm magnetic disk described in the previous question.",
+    "q": "Calculate the average rotational latency in milliseconds for the 10,000 rpm magnetic disk described in the previous question. (Context from previous question: A magnetic disk platter rotates at 10,000 rpm.)",
     "a": "6.00 ms",
     "b": "3.00 ms",
     "c": "1.50 ms",
@@ -1200,7 +1200,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the CPI of 2.0 and clock cycle time of 2 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "q": "Using the CPI of 2.0 and clock cycle time of 2 ns from the previous questions, calculate the execution time of the program in milliseconds. (Context from previous question: A processor has a clock cycle time of 2 nanoseconds.)",
     "a": "4.0 ms",
     "b": "8.0 ms",
     "c": "2.0 ms",
@@ -1336,7 +1336,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency in milliseconds for the 5400 rpm disk described in the previous question.",
+    "q": "Calculate the average rotational latency in milliseconds for the 5400 rpm disk described in the previous question. (Context from previous question: A magnetic disk spins at 5400 rpm.)",
     "a": "11.11 ms",
     "b": "5.56 ms",
     "c": "2.78 ms",
@@ -1464,7 +1464,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency in milliseconds for the 12,000 rpm magnetic disk described in the previous question.",
+    "q": "Calculate the average rotational latency in milliseconds for the 12,000 rpm magnetic disk described in the previous question. (Context from previous question: A magnetic disk platter rotates at 12,000 rpm.)",
     "a": "5.00 ms",
     "b": "2.50 ms",
     "c": "1.25 ms",
@@ -1528,7 +1528,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the CPI of 2.0 and clock cycle time of 1 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "q": "Using the CPI of 2.0 and clock cycle time of 1 ns from the previous questions, calculate the execution time of the program in milliseconds. (Context from previous question: A processor has a clock cycle time of 1 nanosecond.)",
     "a": "2.0 ms",
     "b": "8.0 ms",
     "c": "4.0 ms",
@@ -1664,7 +1664,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm disk described in the previous question.",
+    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm disk described in the previous question. (Context from previous question: A magnetic disk spins at 15,000 rpm.)",
     "a": "4.00 ms",
     "b": "2.00 ms",
     "c": "1.00 ms",
@@ -1792,7 +1792,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm magnetic disk described in the previous question.",
+    "q": "Calculate the average rotational latency in milliseconds for the 15,000 rpm magnetic disk described in the previous question. (Context from previous question: A magnetic disk platter rotates at 15,000 rpm.)",
     "a": "4.00 ms",
     "b": "2.00 ms",
     "c": "1.00 ms",
@@ -1856,7 +1856,7 @@
     "ans": "b"
   },
   {
-    "q": "Using the CPI of 2.0 and clock cycle time of 0.5 ns from the previous questions, calculate the execution time of the program in milliseconds.",
+    "q": "Using the CPI of 2.0 and clock cycle time of 0.5 ns from the previous questions, calculate the execution time of the program in milliseconds. (Context from previous question: A processor has a clock cycle time of 0.5 nanoseconds.)",
     "a": "4.0 ms",
     "b": "8.0 ms",
     "c": "2.0 ms",

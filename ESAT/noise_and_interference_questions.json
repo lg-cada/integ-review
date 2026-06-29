@@ -872,7 +872,7 @@
     "ans": "a"
   },
   {
-    "q": "If the receiver in the previous question has an overall Noise Figure of 6 dB, calculate the output S/N ratio in dB.",
+    "q": "If the receiver in the previous question has an overall Noise Figure of 6 dB, calculate the output S/N ratio in dB. (Context from previous question: A receiver has an equivalent noise bandwidth of 5 kHz and an input resistance of 50 ohms. If the input signal power is 10^-14 Watts, and the receiver is operating at 290 K, calculate the input S/N ratio in dB.)",
     "a": "-9.01 dB",
     "b": "-3.01 dB",
     "c": "3.01 dB",
@@ -1176,7 +1176,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 50 ohm resistor in the previous question is connected to a matched 50 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 50 ohm resistor in the previous question is connected to a matched 50 ohm load, what is the noise voltage developed across the load? (Context from previous question: Resistor 1 (1 kilohm) is at a temperature of 27 degrees Celsius (300 K), and Resistor 2 (2 kilohms) is at 127 degrees Celsius (400 K).)",
     "a": "0.64 microvolts",
     "b": "1.27 microvolts",
     "c": "0.32 microvolts",
@@ -1360,7 +1360,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 300 ohm feedline in the previous question is connected to a matched 300 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 300 ohm feedline in the previous question is connected to a matched 300 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 8 dB.)",
     "a": "0.49 microvolts",
     "b": "0.98 microvolts",
     "c": "0.24 microvolts",
@@ -1616,7 +1616,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load? (Context from previous question: An RF amplifier operates with a Signal-to-Noise Ratio of 50 dB.)",
     "a": "1.73 microvolts",
     "b": "3.47 microvolts",
     "c": "0.86 microvolts",
@@ -1720,7 +1720,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 6 dB.)",
     "a": "0.39 microvolts",
     "b": "0.78 microvolts",
     "c": "0.19 microvolts",
@@ -1944,7 +1944,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 150 ohm resistor in the previous question is connected to a matched 150 ohm load, what is the noise voltage developed across the load? (Context from previous question: An RF amplifier operates with a Signal-to-Noise Ratio of 60 dB.)",
     "a": "2.45 microvolts",
     "b": "4.91 microvolts",
     "c": "1.23 microvolts",
@@ -2048,7 +2048,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 5 dB.)",
     "a": "0.43 microvolts",
     "b": "0.85 microvolts",
     "c": "0.21 microvolts",
@@ -2072,7 +2072,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 100 ohm resistor in the previous question is connected to a matched 100 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 100 ohm resistor in the previous question is connected to a matched 100 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 10 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "2.00 microvolts",
     "b": "4.00 microvolts",
     "c": "1.00 microvolts",
@@ -2176,7 +2176,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 4 dB.)",
     "a": "0.49 microvolts",
     "b": "0.98 microvolts",
     "c": "0.24 microvolts",
@@ -2200,7 +2200,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 200 ohm resistor in the previous question is connected to a matched 200 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 200 ohm resistor in the previous question is connected to a matched 200 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 12 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "2.83 microvolts",
     "b": "5.66 microvolts",
     "c": "1.41 microvolts",
@@ -2304,7 +2304,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 3.8 dB.)",
     "a": "0.55 microvolts",
     "b": "1.11 microvolts",
     "c": "0.27 microvolts",
@@ -2328,7 +2328,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 300 ohm resistor in the previous question is connected to a matched 300 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 300 ohm resistor in the previous question is connected to a matched 300 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 20 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "3.47 microvolts",
     "b": "6.94 microvolts",
     "c": "1.73 microvolts",
@@ -2432,7 +2432,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 3.5 dB.)",
     "a": "0.60 microvolts",
     "b": "1.21 microvolts",
     "c": "0.30 microvolts",
@@ -2456,7 +2456,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 400 ohm resistor in the previous question is connected to a matched 400 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 400 ohm resistor in the previous question is connected to a matched 400 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 30 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "4.00 microvolts",
     "b": "8.01 microvolts",
     "c": "2.00 microvolts",
@@ -2560,7 +2560,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 3.2 dB.)",
     "a": "0.65 microvolts",
     "b": "1.30 microvolts",
     "c": "0.32 microvolts",
@@ -2584,7 +2584,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 500 ohm resistor in the previous question is connected to a matched 500 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 500 ohm resistor in the previous question is connected to a matched 500 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 40 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "4.48 microvolts",
     "b": "8.95 microvolts",
     "c": "2.24 microvolts",
@@ -2688,7 +2688,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals?",
+    "q": "If the 150 ohm feedline in the previous question is connected to a matched 150 ohm receiver input, what is the noise voltage developed across the receiver terminals? (Context from previous question: A television receiver operates with an overall system Noise Figure of 3.0 dB.)",
     "a": "0.70 microvolts",
     "b": "1.39 microvolts",
     "c": "0.35 microvolts",
@@ -2712,7 +2712,7 @@
     "ans": "a"
   },
   {
-    "q": "If the 600 ohm resistor in the previous question is connected to a matched 600 ohm load, what is the noise voltage developed across the load?",
+    "q": "If the 600 ohm resistor in the previous question is connected to a matched 600 ohm load, what is the noise voltage developed across the load? (Context from previous question: A high-speed digital communications channel has a bandwidth of 50 MHz and a Signal-to-Noise Ratio of 20 dB (which is a power ratio of 100 to 1).)",
     "a": "4.90 microvolts",
     "b": "9.80 microvolts",
     "c": "2.45 microvolts",

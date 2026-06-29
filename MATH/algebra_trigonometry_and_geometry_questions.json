@@ -1,0 +1,3402 @@
+[
+  {
+    "q": "A sequence of numbers such that the same quotient is obtained by dividing any term by the preceding term is called a:",
+    "a": "Arithmetic progression",
+    "b": "Harmonic progression",
+    "c": "Geometric progression",
+    "d": "Infinite progression",
+    "ans": "c"
+  },
+  {
+    "q": "If x is an irrational number not equal to zero and x^2 = N, then which of the following best describes N?",
+    "a": "N is a natural number",
+    "b": "N is any rational number",
+    "c": "N is a positive rational number",
+    "d": "N is a positive integral number",
+    "ans": "c"
+  },
+  {
+    "q": "In the exponential expression a^n, the number n is referred to as the:",
+    "a": "Power",
+    "b": "Exponent",
+    "c": "Degree",
+    "d": "Index",
+    "ans": "b"
+  },
+  {
+    "q": "What is the overall degree of the polynomial expression 2x^3y + 8xyz^4 - 3x^2y^3?",
+    "a": "6",
+    "b": "3",
+    "c": "4",
+    "d": "8",
+    "ans": "a"
+  },
+  {
+    "q": "The linear equations x + y = 2 and 2x + 2y = 8 are classic examples of equations that are:",
+    "a": "Dependent",
+    "b": "Independent",
+    "c": "Conditional",
+    "d": "Inconsistent",
+    "ans": "d"
+  },
+  {
+    "q": "A decimal number that is both non-terminating and non-periodic is classified as:",
+    "a": "Rational",
+    "b": "Prime",
+    "c": "Irrational",
+    "d": "Imaginary",
+    "ans": "c"
+  },
+  {
+    "q": "In probability theory, the probability that an event is absolutely certain to occur is:",
+    "a": "Greater than one",
+    "b": "Less than one",
+    "c": "Equal to one",
+    "d": "Equal to zero",
+    "ans": "c"
+  },
+  {
+    "q": "Two or more radicals can be added together to form a single radical if they have the same radicand and the same:",
+    "a": "Power",
+    "b": "Exponent",
+    "c": "Index",
+    "d": "Coefficient",
+    "ans": "c"
+  },
+  {
+    "q": "A set of elements that is taken without any regard to the order in which the elements are arranged is called a:",
+    "a": "Sequence",
+    "b": "Permutation",
+    "c": "Combination",
+    "d": "Progression",
+    "ans": "c"
+  },
+  {
+    "q": "If b = 0, then the complex number a + bi simplifies to what class of number?",
+    "a": "Complex",
+    "b": "Real",
+    "c": "Imaginary",
+    "d": "Irrational",
+    "ans": "b"
+  },
+  {
+    "q": "How many prime numbers exist between the integers 200 and 210?",
+    "a": "One",
+    "b": "Three",
+    "c": "None",
+    "d": "Two",
+    "ans": "c"
+  },
+  {
+    "q": "If the discriminant of a quadratic equation is strictly greater than zero, the roots of the equation are:",
+    "a": "Real and equal",
+    "b": "Real and distinct",
+    "c": "Complex and unequal",
+    "d": "Imaginary and distinct",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following terms is NOT rational in terms of the variable x?",
+    "a": "6x^2",
+    "b": "-4x",
+    "c": "x^4",
+    "d": "Sqrt(x)",
+    "ans": "d"
+  },
+  {
+    "q": "In set theory, the relation (A U B)' = A' n B' is an expression of which mathematical law?",
+    "a": "De Morgan's Law",
+    "b": "Involution Law",
+    "c": "Complement Law",
+    "d": "Identity Law",
+    "ans": "a"
+  },
+  {
+    "q": "What is the positive value of k that makes the expression x^2 - 28x + k a perfect square trinomial?",
+    "a": "100",
+    "b": "121",
+    "c": "144",
+    "d": "196",
+    "ans": "d"
+  },
+  {
+    "q": "The roots of the quadratic equation 6x^2 + 7x + 34 = 0 are:",
+    "a": "Real and equal",
+    "b": "Real and unequal",
+    "c": "Complex and unequal",
+    "d": "Pure imaginary",
+    "ans": "c"
+  },
+  {
+    "q": "What is the mathematical conjugate of the plain real number -6?",
+    "a": "6",
+    "b": "-6",
+    "c": "6i",
+    "d": "-6i",
+    "ans": "b"
+  },
+  {
+    "q": "Which of the following algebraic rules of exponents is true?",
+    "a": "(a^n)(a^m) = a^(n+m)",
+    "b": "(a + b)^2 = a^2 + b^2",
+    "c": "a / (b - c) = a/b - a/c",
+    "d": "Sqrt(a^2 + b^2) = a + b",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following values cannot represent a mathematically valid probability?",
+    "a": "(0.99)^4",
+    "b": "88/100",
+    "c": "9/8",
+    "d": "0.15",
+    "ans": "c"
+  },
+  {
+    "q": "How many subsets can be formed from the set containing exactly four elements {c, u, t, e}?",
+    "a": "12",
+    "b": "14",
+    "c": "16",
+    "d": "18",
+    "ans": "c"
+  },
+  {
+    "q": "Using the remainder theorem, find the remainder when x^6 - x + 1 is divided by the linear binomial x - 2.",
+    "a": "61",
+    "b": "62",
+    "c": "63",
+    "d": "64",
+    "ans": "c"
+  },
+  {
+    "q": "What is the sum of the numerical coefficients in the algebraic expansion of (2x - y)^20?",
+    "a": "Zero",
+    "b": "One",
+    "c": "Greater than one",
+    "d": "Less than one",
+    "ans": "b"
+  },
+  {
+    "q": "How many subsets of one or more elements can be formed from a set containing exactly 12 elements?",
+    "a": "4,096",
+    "b": "4,095",
+    "c": "4,094",
+    "d": "4,093",
+    "ans": "b"
+  },
+  {
+    "q": "What is the simplified product of the imaginary terms Sqrt(-4) and Sqrt(-9)?",
+    "a": "6i",
+    "b": "-6i",
+    "c": "6",
+    "d": "-6",
+    "ans": "d"
+  },
+  {
+    "q": "Which of the following is an irrational number?",
+    "a": "(16)^(3/4)",
+    "b": "0.0075",
+    "c": "1.36363636...",
+    "d": "3 * Sqrt(5)",
+    "ans": "d"
+  },
+  {
+    "q": "Two prime numbers that differ by exactly 2 are called prime twins. Which of the following pairs are prime twins?",
+    "a": "1 and 3",
+    "b": "7 and 9",
+    "c": "17 and 19",
+    "d": "13 and 15",
+    "ans": "c"
+  },
+  {
+    "q": "If A n B n C is not equal to zero, which set notation refers to the elements found in A and B but not in C?",
+    "a": "A n B u C'",
+    "b": "A u B n C'",
+    "c": "A n B n C'",
+    "d": "A u B u C'",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following sequences constitutes a mathematically valid geometric progression?",
+    "a": "16, 12, 8, ...",
+    "b": "16, 8, 2, ...",
+    "c": "16, 12, 9, ...",
+    "d": "16, 14, 12, ...",
+    "ans": "c"
+  },
+  {
+    "q": "The point coordinate (x, y) where x = 2 and y = -x is located in which quadrant of the Cartesian plane?",
+    "a": "First quadrant",
+    "b": "Second quadrant",
+    "c": "Third quadrant",
+    "d": "Fourth quadrant",
+    "ans": "d"
+  },
+  {
+    "q": "Experiment: A standard six-sided die is tossed. Event: A prime number results. Which of the following is NOT a successful outcome?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "The logarithmic equation equivalent to the exponential expression 1/a = b^c is:",
+    "a": "log_c(1/a) = b",
+    "b": "log_b(1/a) = c",
+    "c": "log_c(b) = 1/a",
+    "d": "log_b(c) = 1/a",
+    "ans": "b"
+  },
+  {
+    "q": "If P(A) = 0.78 and P(B) = 0.35, find the absolute sum of P(A') + P(B').",
+    "a": "0.83",
+    "b": "0.85",
+    "c": "0.87",
+    "d": "0.89",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the following standard expressions is a valid polynomial in terms of variable x?",
+    "a": "x^(-2) + x + 4",
+    "b": "Sqrt(x) + 3x + 5",
+    "c": "x^3 + 2x + 3",
+    "d": "4/x + 3x + 1",
+    "ans": "c"
+  },
+  {
+    "q": "If a finite set A contains exactly 1,024 distinct subsets, how many elements are in A?",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "11",
+    "ans": "c"
+  },
+  {
+    "q": "Which of the terms in the binomial expansion of (y^3 + y^(-1))^10 will involve the simplified variable y^2?",
+    "a": "6th term",
+    "b": "7th term",
+    "c": "8th term",
+    "d": "9th term",
+    "ans": "c"
+  },
+  {
+    "q": "If P(A) = 0.60, P(B') = 0.30, and P(A n B) = 0.15, find P(A n B') using a Venn diagram.",
+    "a": "0.90",
+    "b": "0.30",
+    "c": "0.45",
+    "d": "0.75",
+    "ans": "c"
+  },
+  {
+    "q": "Evaluate the complex expression (i - 1)^8.",
+    "a": "16",
+    "b": "-16",
+    "c": "16i",
+    "d": "-16i",
+    "ans": "a"
+  },
+  {
+    "q": "If 16 is 4 more than 3x, then determine the value of the expression 2x - 5.",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "ans": "b"
+  },
+  {
+    "q": "In the series 2, -4, 8, -16, x, -64, ..., find the missing intermediate value x.",
+    "a": "-24",
+    "b": "-32",
+    "c": "24",
+    "d": "32",
+    "ans": "d"
+  },
+  {
+    "q": "In how many ways can 6 boys be seated side-by-side in a straight row of chairs?",
+    "a": "520",
+    "b": "620",
+    "c": "720",
+    "d": "820",
+    "ans": "c"
+  },
+  {
+    "q": "Find the third proportional to the integers 3 and 5, and the fourth proportional to 3, 5, and 21.",
+    "a": "27",
+    "b": "56",
+    "c": "65",
+    "d": "35",
+    "ans": "d"
+  },
+  {
+    "q": "Simplify and evaluate the negative exponential fraction -(-1/27)^(-2/3).",
+    "a": "9",
+    "b": "-9",
+    "c": "1/9",
+    "d": "-1/9",
+    "ans": "b"
+  },
+  {
+    "q": "Simplify the compound fractional algebraic term: (a^(-1) + b^(-1)) / (ab)^(-1).",
+    "a": "ab",
+    "b": "b + a",
+    "c": "1/ab",
+    "d": "a/b",
+    "ans": "b"
+  },
+  {
+    "q": "If a single balanced die is thrown once, what is the probability of getting a prime number?",
+    "a": "1/3",
+    "b": "1/4",
+    "c": "1/2",
+    "d": "1/6",
+    "ans": "c"
+  },
+  {
+    "q": "Evaluate the variable x if it is defined by the basic logarithmic statement: x = log_2(8).",
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1",
+    "ans": "b"
+  },
+  {
+    "q": "What is the Greatest Common Factor (GCF) of the two integers 48 and 72?",
+    "a": "12",
+    "b": "24",
+    "c": "36",
+    "d": "42",
+    "ans": "b"
+  },
+  {
+    "q": "If x, y, and 5x are three consecutive terms of an arithmetic progression whose sum is 81, find x.",
+    "a": "9",
+    "b": "10",
+    "c": "11",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "If the polynomial function is f(x) = 2x^3 - 3x + 1, find the evaluated value of f(1).",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the sum of the infinite decreasing geometric series: 3^(-1) + 3^(-3) + 3^(-5) + ...",
+    "a": "1/8",
+    "b": "3/8",
+    "c": "7/8",
+    "d": "5/8",
+    "ans": "b"
+  },
+  {
+    "q": "Find the value of x if the 2x2 determinant containing rows [3, 2] and [1, x] is set equal to 10.",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "ans": "b"
+  },
+  {
+    "q": "Find the value of x in the perfect-cube series: 1, 8, 27, x, 125, ...",
+    "a": "100",
+    "b": "81",
+    "c": "30",
+    "d": "64",
+    "ans": "d"
+  },
+  {
+    "q": "Find the Least Common Multiple (LCM) of the algebraic expressions: 72x^3y^2, 108x^2y^3, and 9x^2y.",
+    "a": "108x^3y^3",
+    "b": "648x^3y^3",
+    "c": "972x^3y^3",
+    "d": "216x^3y^3",
+    "ans": "d"
+  },
+  {
+    "q": "Evaluate the combined numerical expression: (-1/27)^(-2/3) + (-1/32)^(-2/5).",
+    "a": "6.25",
+    "b": "3.25",
+    "c": "9.25",
+    "d": "13.00",
+    "ans": "d"
+  },
+  {
+    "q": "For what values of the variable x will the inequality (x + 3) < 2(2x + 1) hold true?",
+    "a": "x = 3",
+    "b": "x > 1/3",
+    "c": "x < 1/3",
+    "d": "x = 0",
+    "ans": "b"
+  },
+  {
+    "q": "In how many distinct ways can a man choose one or more ties from a private collection of 7 unique ties?",
+    "a": "128",
+    "b": "127",
+    "c": "126",
+    "d": "125",
+    "ans": "b"
+  },
+  {
+    "q": "If i = Sqrt(-1), solve for the variables x and y in the linear equation: x + 2 + 4i = 5 + (y - 3)i.",
+    "a": "-3, 7",
+    "b": "3, -7",
+    "c": "3, 7",
+    "d": "-3, -7",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the number of 5-letter words that can be formed from the letters of the word 'VOLTAGE'.",
+    "a": "5,040",
+    "b": "2,520",
+    "c": "4,050",
+    "d": "1,260",
+    "ans": "b"
+  },
+  {
+    "q": "If log_A(10) = 0.2, find the value of log_10(A).",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "ans": "c"
+  },
+  {
+    "q": "What is the exact sum of the first five prime numbers in the set of positive integers?",
+    "a": "17",
+    "b": "18",
+    "c": "28",
+    "d": "29",
+    "ans": "c"
+  },
+  {
+    "q": "How many straight lines are uniquely determined by a set of 8 distinct coplanar points, assuming no three are collinear?",
+    "a": "28",
+    "b": "56",
+    "c": "36",
+    "d": "64",
+    "ans": "a"
+  },
+  {
+    "q": "From a group of 10 qualified men, in how many ways can we select a subcommittee consisting of 6 men?",
+    "a": "120",
+    "b": "210",
+    "c": "200",
+    "d": "60",
+    "ans": "b"
+  },
+  {
+    "q": "Find the value of x that satisfies the logarithmic statement: x = log_2(1/64).",
+    "a": "-6",
+    "b": "-5",
+    "c": "-4",
+    "d": "-3",
+    "ans": "a"
+  },
+  {
+    "q": "If the complex equation (x - 2)i = y - 3i is given, solve for the value of the real variable x.",
+    "a": "-4",
+    "b": "-3",
+    "c": "2",
+    "d": "0",
+    "ans": "c"
+  },
+  {
+    "q": "In how many ways can 3 boys be seated in a classroom that contains exactly 7 available seats?",
+    "a": "200",
+    "b": "205",
+    "c": "210",
+    "d": "215",
+    "ans": "c"
+  },
+  {
+    "q": "A single card is drawn from a standard deck of 52 cards. What is the probability of drawing an ace?",
+    "a": "0.0769",
+    "b": "0.0765",
+    "c": "0.0767",
+    "d": "0.0763",
+    "ans": "a"
+  },
+  {
+    "q": "If log_10(x) = -1/n, then what is the value of x in exponential form?",
+    "a": "10^(1/n)",
+    "b": "10^(-1/n)",
+    "c": "10^(-n)",
+    "d": "-10^(-n)",
+    "ans": "b"
+  },
+  {
+    "q": "Find the constant remainder when the polynomial x^30 - x + 5 is divided by the linear term x + 1.",
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Find the mean proportional value between the integers 4 and 9.",
+    "a": "6",
+    "b": "4",
+    "c": "8",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can a poster be colored if there are 5 different distinct colors available?",
+    "a": "120",
+    "b": "24",
+    "c": "60",
+    "d": "30",
+    "ans": "a"
+  },
+  {
+    "q": "If 3x = 4y, then determine the value of the squared ratio expression: 3x^2 / 4y^2.",
+    "a": "16/9",
+    "b": "4/3",
+    "c": "3/4",
+    "d": "27/64",
+    "ans": "b"
+  },
+  {
+    "q": "Find the general 8th term of the geometric progression: 5^(x+1), 5^(2x+1), 5^(3x+1), ...",
+    "a": "5^(6x+1)",
+    "b": "5^(7x+1)",
+    "c": "5^(8x+1)",
+    "d": "5^(9x+1)",
+    "ans": "c"
+  },
+  {
+    "q": "Find the larger of two numbers if their sum is 190 and the smaller number is exactly 3/7 of the larger number.",
+    "a": "132",
+    "b": "133",
+    "c": "134",
+    "d": "135",
+    "ans": "b"
+  },
+  {
+    "q": "In how many distinct ways can 6 boys be seated around a circular round table?",
+    "a": "120",
+    "b": "110",
+    "c": "100",
+    "d": "90",
+    "ans": "a"
+  },
+  {
+    "q": "For what specific value of variable x is the exponential expression 2^(x+4) equal to 1/16?",
+    "a": "6",
+    "b": "-6",
+    "c": "8",
+    "d": "-8",
+    "ans": "d"
+  },
+  {
+    "q": "If the ratio satisfies x:6 = y:2 and the difference is x - y = 12, find the value of y.",
+    "a": "8",
+    "b": "2",
+    "c": "4",
+    "d": "6",
+    "ans": "d"
+  },
+  {
+    "q": "Three balls are drawn randomly from a bag containing 5 white balls and 4 red balls. What is the probability they are all white?",
+    "a": "5/42",
+    "b": "3/42",
+    "c": "7/42",
+    "d": "9/42",
+    "ans": "a"
+  },
+  {
+    "q": "If the exponential equation x^(3/4) = 8 is given, solve for the base value x.",
+    "a": "16",
+    "b": "14",
+    "c": "12",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "How many unique 4-digit numbers can be constructed using the digits 1 to 9 if no digit is repeated?",
+    "a": "3,204",
+    "b": "3,024",
+    "c": "3,240",
+    "d": "3,402",
+    "ans": "b"
+  },
+  {
+    "q": "Find the sum of the infinite geometric series: 64 - 16 + 4 - 1 + ...",
+    "a": "256/5",
+    "b": "256/3",
+    "c": "256/2",
+    "d": "256/4",
+    "ans": "a"
+  },
+  {
+    "q": "If the exponential expression 2^x = 8^(x-1) is given, solve for x.",
+    "a": "1/2",
+    "b": "3/2",
+    "c": "1",
+    "d": "2",
+    "ans": "b"
+  },
+  {
+    "q": "A water tank can be filled by one pipe in 6 hours and another in 8 hours. Together, how long will it take to fill the tank?",
+    "a": "2.43 hours",
+    "b": "2.50 hours",
+    "c": "3.43 hours",
+    "d": "3.50 hours",
+    "ans": "c"
+  },
+  {
+    "q": "Find the 100th term of the arithmetic progression: 1.01, 1.00, 0.99, ...",
+    "a": "0.02",
+    "b": "0.002",
+    "c": "0.12",
+    "d": "0.22",
+    "ans": "a"
+  },
+  {
+    "q": "How many consecutive integers beginning with 5 must be taken so that their total sum equals 95?",
+    "a": "12",
+    "b": "11",
+    "c": "10",
+    "d": "9",
+    "ans": "c"
+  },
+  {
+    "q": "If the logarithmic expression 2 * log_2(x) + log_2(4) = 1 is given, solve for the positive value of x.",
+    "a": "1/Sqrt(2)",
+    "b": "Sqrt(2)",
+    "c": "2",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the next consecutive term in the harmonic progression whose first three terms are 1/3, 2/7, and 1/4.",
+    "a": "1/9",
+    "b": "2/9",
+    "c": "5/9",
+    "d": "4/9",
+    "ans": "b"
+  },
+  {
+    "q": "A single card is drawn from a deck of 52 cards. What is the probability of drawing a black king?",
+    "a": "1/25",
+    "b": "1/26",
+    "c": "1/27",
+    "d": "1/28",
+    "ans": "b"
+  },
+  {
+    "q": "How many liters of pure alcohol must be added to 10 liters of a 15% alcohol solution to obtain a 25% solution?",
+    "a": "1.33 liters",
+    "b": "2.50 (3/2) liters",
+    "c": "1.25 liters",
+    "d": "2.00 liters",
+    "ans": "a"
+  },
+  {
+    "q": "What is the probability of getting a combined sum of 5 by throwing two balanced dice once?",
+    "a": "1/9",
+    "b": "1/12",
+    "c": "1/6",
+    "d": "1/18",
+    "ans": "a"
+  },
+  {
+    "q": "The first term of a geometric progression is 3 and the last term is 48. If the common ratio is 2, find the sum.",
+    "a": "93",
+    "b": "92",
+    "c": "91",
+    "d": "90",
+    "ans": "a"
+  },
+  {
+    "q": "How many distinct numbers of two different digits can be formed using the odd digits 1, 3, 5, 7, 9?",
+    "a": "18",
+    "b": "20",
+    "c": "22",
+    "d": "24",
+    "ans": "b"
+  },
+  {
+    "q": "What is the sum of all the expansion coefficients for the trinomial expression (x + y + z)^5?",
+    "a": "240",
+    "b": "241",
+    "c": "242",
+    "d": "243",
+    "ans": "d"
+  },
+  {
+    "q": "In a single throw of a pair of dice, what is the mathematical probability of obtaining a total sum of 9?",
+    "a": "1/8",
+    "b": "1/9",
+    "c": "1/7",
+    "d": "1/6",
+    "ans": "b"
+  },
+  {
+    "q": "Evaluate the complex expression: i^113 + 4 * i^84 + i^3.",
+    "a": "4",
+    "b": "-4",
+    "c": "4 + 2i",
+    "d": "4 - 2i",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total number of permutations of the letters contained in the word 'CHACHA'?",
+    "a": "80",
+    "b": "85",
+    "c": "90",
+    "d": "95",
+    "ans": "c"
+  },
+  {
+    "q": "What is the calculated sum of the first one hundred positive odd integers?",
+    "a": "13,000",
+    "b": "12,000",
+    "c": "11,000",
+    "d": "10,000",
+    "ans": "d"
+  },
+  {
+    "q": "In the arithmetic progression -9, -2, 5, ... which term is 131?",
+    "a": "20",
+    "b": "21",
+    "c": "22",
+    "d": "23",
+    "ans": "b"
+  },
+  {
+    "q": "Find the sum of the first fifty positive multiples of the integer 12.",
+    "a": "15,300",
+    "b": "15,200",
+    "c": "15,100",
+    "d": "15,300",
+    "ans": "a"
+  },
+  {
+    "q": "In a geometric progression, if the first term is x^2 and the common ratio is x^4, which term is x^18?",
+    "a": "4th term",
+    "b": "5th term",
+    "c": "6th term",
+    "d": "7th term",
+    "ans": "b"
+  },
+  {
+    "q": "When f(x) = (x+3)(x-4) + 4 is divided by x - k, the remainder is k. Find the values of k.",
+    "a": "2 and -4",
+    "b": "-2 and 4",
+    "c": "3 and 4",
+    "d": "2 and 4",
+    "ans": "b"
+  },
+  {
+    "q": "From a group of 6 men and 5 women, in how many ways can we select a group of 4 men and 3 women?",
+    "a": "25",
+    "b": "39",
+    "c": "150",
+    "d": "420",
+    "ans": "c"
+  },
+  {
+    "q": "In a single throw of a pair of dice, what is the probability of obtaining a total sum strictly greater than 9?",
+    "a": "1/6",
+    "b": "1/3",
+    "c": "2/3",
+    "d": "1/2",
+    "ans": "a"
+  },
+  {
+    "q": "A man finishes a job in 10 days, a boy in 15 days. With a girl, they finish in 5 days. How long for the girl alone?",
+    "a": "30 days",
+    "b": "45 days",
+    "c": "15 days",
+    "d": "35 days",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 4 boys and 4 girls sit at a round table if each girl must sit between two boys?",
+    "a": "256",
+    "b": "16",
+    "c": "144",
+    "d": "144",
+    "ans": "c"
+  },
+  {
+    "q": "If the function is f(x) = x - 1 and the composition yields f(g(x)) = 4, find the value of g(x).",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7",
+    "ans": "b"
+  },
+  {
+    "q": "If John is 10% taller than Peter and Peter is 10% taller than May, John is taller than May by what percent?",
+    "a": "20%",
+    "b": "21%",
+    "c": "19%",
+    "d": "22%",
+    "ans": "b"
+  },
+  {
+    "q": "If four electricians can earn P465.80 in 7 days, how much can 14 carpenters paid at the same rate earn in 12 days?",
+    "a": "P2,749.80",
+    "b": "P2,974.80",
+    "c": "P2,479.80",
+    "d": "P2,794.80",
+    "ans": "d"
+  },
+  {
+    "q": "How many four-digit even numbers can be written using the digits 1 up to 9 if repetitions are allowed?",
+    "a": "2,916",
+    "b": "1,244",
+    "c": "3,402",
+    "d": "1,444",
+    "ans": "a"
+  },
+  {
+    "q": "If the infinite summation series 1 + x + x^2 + ... evaluates directly to 3/4, find the value of x.",
+    "a": "-1/2",
+    "b": "-1/3",
+    "c": "-1/4",
+    "d": "-1/5",
+    "ans": "b"
+  },
+  {
+    "q": "If it takes A twice as long as B to do a job, and together they finish in 6 days, how long for B alone?",
+    "a": "8 days",
+    "b": "9 days",
+    "c": "7 days",
+    "d": "6 days",
+    "ans": "b"
+  },
+  {
+    "q": "What is the probability that a balanced coin will turn up heads exactly twice in 6 independent tosses?",
+    "a": "15/64",
+    "b": "14/64",
+    "c": "13/64",
+    "d": "12/64",
+    "ans": "a"
+  },
+  {
+    "q": "Simplify the exponential expression: 3^n - 3^(n-1) - 3^(n-2).",
+    "a": "5 * 3^(n-2)",
+    "b": "3 * 3^(n-2)",
+    "c": "3^(3n-2)",
+    "d": "3^(3-n)",
+    "ans": "a"
+  },
+  {
+    "q": "If the odds are 5:3 that Juan wins P5,000 in a contest, find his mathematical expectation value.",
+    "a": "P2,135",
+    "b": "P2,315",
+    "c": "P3,215",
+    "d": "P3,125",
+    "ans": "d"
+  },
+  {
+    "q": "Find the sum of all integers between 90 and 190 that are exactly divisible by the integer 17.",
+    "a": "847",
+    "b": "857",
+    "c": "867",
+    "d": "887",
+    "ans": "c"
+  },
+  {
+    "q": "If the permutation equation P(n,3) = 3 * P(n,2) is given, find the value of n.",
+    "a": "7",
+    "b": "6",
+    "c": "5",
+    "d": "8",
+    "ans": "c"
+  },
+  {
+    "q": "Two balls are drawn from a bag containing 9 balls numbered 1 to 9. Find the probability both are even.",
+    "a": "1/4",
+    "b": "1/5",
+    "c": "1/6",
+    "d": "1/7",
+    "ans": "c"
+  },
+  {
+    "q": "What is the coefficient of the term containing x^4 in the algebraic expansion of (2x + x^(-1))^8?",
+    "a": "1,792",
+    "b": "19,720",
+    "c": "17,920",
+    "d": "1,120",
+    "ans": "a"
+  },
+  {
+    "q": "A pendulum swings through a 24cm arc initially. Each successive swing is 5/6 the length of the previous. Find the total distance before coming to rest.",
+    "a": "121 cm",
+    "b": "114 cm",
+    "c": "144 cm",
+    "d": "169 cm",
+    "ans": "c"
+  },
+  {
+    "q": "If the algebraic identity 6x^2 + 36x + k = 6(x + a)^2 holds true, what is the value of constant k?",
+    "a": "12",
+    "b": "18",
+    "c": "54",
+    "d": "36",
+    "ans": "c"
+  },
+  {
+    "q": "Two standard dice are rolled. Find the probability that the sum of the two upturned faces is greater than 10.",
+    "a": "1/11",
+    "b": "1/12",
+    "c": "1/13",
+    "d": "1/14",
+    "ans": "b"
+  },
+  {
+    "q": "If complex numbers are z = 2 + i and w = i - 2, find the evaluated value of the expression (z - w) / (z + w).",
+    "a": "2i",
+    "b": "-2i",
+    "c": "i",
+    "d": "-i",
+    "ans": "d"
+  },
+  {
+    "q": "A single card is chosen from a deck of 52 cards. In how many ways can a spade or a ten be chosen?",
+    "a": "14",
+    "b": "15",
+    "c": "16",
+    "d": "17",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the 7th term of the ongoing arithmetic progression: 3xy - y, 2xy, xy + y, ...",
+    "a": "5y - 3xy",
+    "b": "5y + 3xy",
+    "c": "5x - xy",
+    "d": "7y - 3xy",
+    "ans": "a"
+  },
+  {
+    "q": "How many arithmetic means must be inserted between 1 and 36 so that the total sum of the progression equals 148?",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "ans": "b"
+  },
+  {
+    "q": "Transform the logarithmic equation 4(log x)^2 + 9(log y)^2 = 12(log x)(log y) to its equivalent Cartesian form.",
+    "a": "x^3 = y^2",
+    "b": "x^2 = y^3",
+    "c": "3x = 2y",
+    "d": "2x = 3y",
+    "ans": "b"
+  },
+  {
+    "q": "Given 3 identical dots and 3 identical dashes, how many distinct code words of exactly 6 symbols can be formed?",
+    "a": "18",
+    "b": "20",
+    "c": "22",
+    "d": "24",
+    "ans": "b"
+  },
+  {
+    "q": "A boat travels 12km downstream and 16km upstream in 12 hours. If the current is 3kph, find the boat speed in still water.",
+    "a": "7 kph",
+    "b": "8 kph",
+    "c": "9 kph",
+    "d": "10 kph",
+    "ans": "b"
+  },
+  {
+    "q": "Two people are selected randomly from a group of 4 men and 4 women. What is the probability a man and a woman are chosen?",
+    "a": "4/7",
+    "b": "2/7",
+    "c": "1/4",
+    "d": "3/7",
+    "ans": "a"
+  },
+  {
+    "q": "Find the 5th term of the binomial expansion of (x^2 - 3y)^5 without expanding.",
+    "a": "405x^2 y^4",
+    "b": "402x^2 y^4",
+    "c": "404x^2 y^4",
+    "d": "405x^4 y^4",
+    "ans": "a"
+  },
+  {
+    "q": "The quadratic equation whose roots are the direct reciprocals of the roots of 3x^2 - 7x - 20 = 0 is:",
+    "a": "20x^2 + 7x + 3 = 0",
+    "b": "20x^2 - 7x + 3 = 0",
+    "c": "20x^2 + 7x - 3 = 0",
+    "d": "20x^2 - 7x - 3 = 0",
+    "ans": "c"
+  },
+  {
+    "q": "Find the 50th term of the complex number sequence: 1 + i, 2 + 4i, 3 + 7i, ...",
+    "a": "50 + 148i",
+    "b": "48 + 148i",
+    "c": "49 + 148i",
+    "d": "50 + 150i",
+    "ans": "a"
+  },
+  {
+    "q": "Fifty liters of acid solution contains 22% water. How many liters of water must be added to make it a 60% acid solution?",
+    "a": "15 liters",
+    "b": "10 liters",
+    "c": "20 liters",
+    "d": "12 liters",
+    "ans": "a"
+  },
+  {
+    "q": "From letters a, e, i, o, r, s, t, how many 5-letter arrangements can be formed with 2 consonants and 3 vowels?",
+    "a": "1,440",
+    "b": "121",
+    "c": "144",
+    "d": "169",
+    "ans": "a"
+  },
+  {
+    "q": "Six fair coins are tossed. What is the probability that exactly two of them are heads?",
+    "a": "15/64",
+    "b": "3/16",
+    "c": "5/16",
+    "d": "21/64",
+    "ans": "a"
+  },
+  {
+    "q": "There are 10 defectives per 1000 items in the long run. Find the probability of exactly 1 defective in a lot of 100.",
+    "a": "0.3679",
+    "b": "0.2707",
+    "c": "0.2077",
+    "d": "0.2207",
+    "ans": "a"
+  },
+  {
+    "q": "The value of k which will make the quadratic expression 8x^2 + 8kx + 3k + 2 a perfect square trinomial is:",
+    "a": "2 or -1/2",
+    "b": "6",
+    "c": "3",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "The 3rd term of an arithmetic progression is 4 and the 9th term is -14. Find the 5th term.",
+    "a": "-2",
+    "b": "-3",
+    "c": "-4",
+    "d": "-5",
+    "ans": "a"
+  },
+  {
+    "q": "If the ratios satisfy x:y:z = 4:-3:2 and the linear equation is 2x + 4y - 3z = 20, find x.",
+    "a": "-8",
+    "b": "-6",
+    "c": "-4",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "Two brothers are respectively 5 and 8 years old. In how many years will the ratio of their ages be exactly 3:4?",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "If the functions are f(x) = (x+2)/(x-2) and g(y) = y + 2, find the value of g(f(3)).",
+    "a": "4",
+    "b": "5",
+    "c": "7",
+    "d": "6",
+    "ans": "c"
+  },
+  {
+    "q": "How many consecutive even integers beginning with 4 must be taken for their total sum to equal 648?",
+    "a": "20",
+    "b": "22",
+    "c": "24",
+    "d": "26",
+    "ans": "c"
+  },
+  {
+    "q": "Determine the value of the 4x4 determinant containing rows [1,1,0,0], [1,1,1,0], [0,1,1,1], [0,0,1,1].",
+    "a": "1",
+    "b": "0",
+    "c": "-2",
+    "d": "-1",
+    "ans": "a"
+  },
+  {
+    "q": "If 2^x = 4^y and 8^y = 16^z, find the value of the quotient expression x/z.",
+    "a": "1/3",
+    "b": "2/3",
+    "c": "8/3",
+    "d": "5/3",
+    "ans": "c"
+  },
+  {
+    "q": "If n is a perfect square integer, what is the expression for the next larger consecutive perfect square?",
+    "a": "n + 2*Sqrt(n) + 1",
+    "b": "n^2 + n + 1",
+    "c": "n^2 + 1",
+    "d": "n + 1",
+    "ans": "a"
+  },
+  {
+    "q": "If 2 men can repair 6 machines in 4 hours, how many men are needed to repair 18 machines in 8 hours?",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "3",
+    "ans": "d"
+  },
+  {
+    "q": "In how many ways can 9 books be arranged on a shelf so that 4 books are always together?",
+    "a": "2,880",
+    "b": "3,024",
+    "c": "14,400",
+    "d": "17,280",
+    "ans": "d"
+  },
+  {
+    "q": "If the roots of (2k + 2)x^2 + (4 - 4k)x + k - 2 = 0 are reciprocals of each other, find the value of k.",
+    "a": "-2",
+    "b": "-3",
+    "c": "-4",
+    "d": "-5",
+    "ans": "c"
+  },
+  {
+    "q": "The 3rd term of a geometric progression is 5 and the 6th term is -40. Find the 8th term.",
+    "a": "-140",
+    "b": "-150",
+    "c": "-160",
+    "d": "-170",
+    "ans": "c"
+  },
+  {
+    "q": "The quadratic equation x^2 - 4kx + 10 - 6k = 0 will have two equal roots if the value of k is:",
+    "a": "5/3 or -1/2",
+    "b": "5/2 or -1",
+    "c": "1 or -5/2",
+    "d": "5/2 or -5/3",
+    "ans": "b"
+  },
+  {
+    "q": "The arithmetic mean of a set of 50 numbers is 38. If two numbers, namely 45 and 55, are discarded, what is the mean of the remaining set?",
+    "a": "35.5",
+    "b": "36.5",
+    "c": "37.5",
+    "d": "38.5",
+    "ans": "c"
+  },
+  {
+    "q": "The sum of two numbers is 37. If the larger is divided by the smaller, the quotient is 3 and the remainder is 5. Find the smaller number.",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "11",
+    "ans": "a"
+  },
+  {
+    "q": "If log(2) = x and log(3) = y, find the expression for log(1.2).",
+    "a": "2x + y - 1",
+    "b": "2x + y + 1",
+    "c": "2x - y + 1",
+    "d": "2x - y - 1",
+    "ans": "a"
+  },
+  {
+    "q": "How many consecutive terms must be taken from the sequence 3, -6, 12, -24, ... for the sum to equal 8,193?",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "14",
+    "ans": "c"
+  },
+  {
+    "q": "At what exact time between 7 and 8 AM will the minute hand and the hour hand of a clock be opposite one another?",
+    "a": "7:05:27 AM",
+    "b": "7:05:25 AM",
+    "c": "7:05:23 AM",
+    "d": "7:05:29 AM",
+    "ans": "a"
+  },
+  {
+    "q": "A man can do a job with his son in 30 days. After working together for 12 days, the son worked alone and finished in 24 more days. How long for the son alone?",
+    "a": "40 days",
+    "b": "45 days",
+    "c": "50 days",
+    "d": "40 days",
+    "ans": "a"
+  },
+  {
+    "q": "How many arrangements can be made from the letters of the word 'TRANSIENTS' when all are taken at a time?",
+    "a": "453,600",
+    "b": "435,600",
+    "c": "436,500",
+    "d": "463,500",
+    "ans": "b"
+  },
+  {
+    "q": "Find the middle term of the binomial expansion (x^(1/3) - y^(1/3))^12 without expanding.",
+    "a": "-924x^2 y^2",
+    "b": "924x^2 y^2",
+    "c": "-492x^2 y^2",
+    "d": "492x^2 y^2",
+    "ans": "b"
+  },
+  {
+    "q": "A bag contains 6 red, 4 white, and 8 black balls. If 3 balls are drawn at random, find the probability that 2 are white and one is red.",
+    "a": "0.0441",
+    "b": "0.0414",
+    "c": "0.0144",
+    "d": "0.0141",
+    "ans": "a"
+  },
+  {
+    "q": "If 10^(2x) = 4, find the value of the exponential term 10^(6x-1).",
+    "a": "4.4",
+    "b": "5.4",
+    "c": "6.4",
+    "d": "7.4",
+    "ans": "c"
+  },
+  {
+    "q": "Find the general formula for the sum of the first n terms of the arithmetic progression: 2, 8, 14, ...",
+    "a": "n(3n-1)",
+    "b": "n(3n+1)",
+    "c": "n(2n+3)",
+    "d": "n(n+3)",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 4 men be selected out of 12 men if 2 of the men are strictly excluded from every selection?",
+    "a": "210",
+    "b": "495",
+    "c": "66",
+    "d": "45",
+    "ans": "a"
+  },
+  {
+    "q": "Three cards are drawn from a pack of 52 cards. Determine the probability that all cards drawn are of the same suit.",
+    "a": "0.0518",
+    "b": "0.0516",
+    "c": "0.0520",
+    "d": "0.0522",
+    "ans": "a"
+  },
+  {
+    "q": "If log(x) = 2(1 - log(2)), find x.",
+    "a": "25",
+    "b": "10",
+    "c": "15",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "Mary is three times as old as Ricky. Three years ago, she was four times as old as Ricky was then. Find the sum of their ages now.",
+    "a": "36",
+    "b": "24",
+    "c": "48",
+    "d": "32",
+    "ans": "a"
+  },
+  {
+    "q": "If 3^x * 3^y = 27 and 2^x + y = 5 (meaning 2^(x+y) = 32), find x if x and y solve the system.",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "An amount of P300,000 is divided into 3 parts in the ratio 2:5:8 and these are invested at 2%, 4%, and 6% respectively. Find the income from the 6% investment.",
+    "a": "P9,600",
+    "b": "P8,600",
+    "c": "P7,600",
+    "d": "P6,600",
+    "ans": "a"
+  },
+  {
+    "q": "Find the sum of the first 12 terms of an arithmetic progression whose 7th term is 5/3 and with a common difference of -2/3.",
+    "a": "44",
+    "b": "40",
+    "c": "48",
+    "d": "52",
+    "ans": "a"
+  },
+  {
+    "q": "By use of 3 different red flags and 4 different green flags, how many signals can be formed by flying all flags from 7 positions on a pole if flags of the same color are consecutive?",
+    "a": "288",
+    "b": "144",
+    "c": "70",
+    "d": "84",
+    "ans": "a"
+  },
+  {
+    "q": "In a throw of two dice, what is the probability of obtaining a total of 10 or 12?",
+    "a": "1/9",
+    "b": "1/12",
+    "c": "1/18",
+    "d": "1/16",
+    "ans": "b"
+  },
+  {
+    "q": "Find x so that x-1, x+2, and x+8 are the first three terms of a geometric progression.",
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "If log(2) = x and log(3) = y, find the value of log_4(9).",
+    "a": "y/x",
+    "b": "x/y",
+    "c": "xy",
+    "d": "x+y",
+    "ans": "a"
+  },
+  {
+    "q": "A man drives a certain distance at 50 kph and a second man drives the same distance in 20 minutes less time at 60 kph. Find the distance.",
+    "a": "100 km",
+    "b": "120 km",
+    "c": "110 km",
+    "d": "130 km",
+    "ans": "a"
+  },
+  {
+    "q": "How many numbers between 200 and 500 can be formed by using the digits 0, 1, 2, 3, 4, 5 if each digit must not be repeated?",
+    "a": "60",
+    "b": "80",
+    "c": "100",
+    "d": "120",
+    "ans": "a"
+  },
+  {
+    "q": "A bag contains 10 white and 5 black balls. If 3 balls are drawn in succession without replacement, find the probability they are drawn in the order: black, black, white.",
+    "a": "0.0733",
+    "b": "0.0723",
+    "c": "0.0743",
+    "d": "0.0713",
+    "ans": "a"
+  },
+  {
+    "q": "Find the term free of x in the expansion of (x^2 - x^(-1))^9.",
+    "a": "84",
+    "b": "64",
+    "c": "96",
+    "d": "48",
+    "ans": "a"
+  },
+  {
+    "q": "How many different signals, each consisting of 6 flags in a vertical line, can be formed from 4 identical red and 2 identical blue flags?",
+    "a": "15",
+    "b": "12",
+    "c": "13",
+    "d": "16",
+    "ans": "a"
+  },
+  {
+    "q": "Juan can do a job in 6 days and Pedro in 10 days. If Juan worked for 2 days and Pedro joined him, in how many days more will they finish?",
+    "a": "2.5",
+    "b": "3.5",
+    "c": "3.0",
+    "d": "2.0",
+    "ans": "a"
+  },
+  {
+    "q": "What must be the value of x in the arithmetic progression x-7, x-2, x+3, ... so that its 10th term is 40?",
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of the digits of a two-digit number is 12. If the digits are reversed, the new number is 4/7 of the original. Find the original number.",
+    "a": "84",
+    "b": "75",
+    "c": "93",
+    "d": "57",
+    "ans": "a"
+  },
+  {
+    "q": "Find the probability that a couple with three children have exactly two boys.",
+    "a": "0.375",
+    "b": "0.365",
+    "c": "0.345",
+    "d": "0.335",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of three consecutive odd integers is 75. Find the largest integer.",
+    "a": "27",
+    "b": "25",
+    "c": "29",
+    "d": "23",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can a man choose 2 or more of 5 ties?",
+    "a": "26",
+    "b": "31",
+    "c": "20",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "A boat can travel 10 kph in still water. It can travel 60 km downstream in the same time it travels 40 km upstream. Find the current rate.",
+    "a": "2 kph",
+    "b": "2.5 kph",
+    "c": "3 kph",
+    "d": "3.5 kph",
+    "ans": "a"
+  },
+  {
+    "q": "The first term of a geometric progression is 160 and the common ratio is 2/3. How many terms must be taken to give a sum of 2,110?",
+    "a": "5",
+    "b": "7",
+    "c": "6",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "At what time after 4 PM will the 6 o'clock mark bisect the angle formed by the minute and the hour hand?",
+    "a": "4:36.92",
+    "b": "4:36.62",
+    "c": "4:36.72",
+    "d": "4:36.82",
+    "ans": "a"
+  },
+  {
+    "q": "If the product of two positive numbers is 14 and their sum is 6, find the sum of their reciprocals.",
+    "a": "3/7",
+    "b": "5/7",
+    "c": "4/7",
+    "d": "2/7",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 6 plus signs and 4 minus signs be written in a straight line?",
+    "a": "210",
+    "b": "240",
+    "c": "120",
+    "d": "360",
+    "ans": "a"
+  },
+  {
+    "q": "John and Jack can do a job in 4 hours and the working rate of John is twice that of Jack. How many hours would it take John alone?",
+    "a": "6",
+    "b": "5",
+    "c": "7",
+    "d": "10",
+    "ans": "a"
+  },
+  {
+    "q": "How many arrangements can be made out of the letters of the word 'CONSTITUTION'?",
+    "a": "9,979,200",
+    "b": "9,799,200",
+    "c": "7,999,200",
+    "d": "2,979,900",
+    "ans": "a"
+  },
+  {
+    "q": "A fair coin is tossed 3 times. Find the probability of getting either 3 heads or 3 tails.",
+    "a": "1/4",
+    "b": "1/8",
+    "c": "1/2",
+    "d": "3/8",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 4 boys and 3 girls be seated in a row of 7 seats with the girls always in consecutive seats?",
+    "a": "720",
+    "b": "620",
+    "c": "820",
+    "d": "920",
+    "ans": "a"
+  },
+  {
+    "q": "A tank can be filled by one pipe in 16 minutes; by another in 24 minutes and can be drained by a third in 48 minutes. If all are open, how long to fill?",
+    "a": "12 minutes",
+    "b": "14 minutes",
+    "c": "10 minutes",
+    "d": "16 minutes",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can a panel of 5 judges make a majority decision?",
+    "a": "16",
+    "b": "18",
+    "c": "25",
+    "d": "14",
+    "ans": "a"
+  },
+  {
+    "q": "A man drove from station A to B, 60 km away, at 30 kph and returned at 20 kph. What was the average speed for the whole journey?",
+    "a": "24 kph",
+    "b": "25 kph",
+    "c": "22 kph",
+    "d": "26 kph",
+    "ans": "a"
+  },
+  {
+    "q": "If (3)^(log_3(x)) = 4x - 3, find the value of x.",
+    "a": "1",
+    "b": "3",
+    "c": "4",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "The probability that both Vic and Ric can solve a puzzle is 0.95. The probability that Vic alone can solve it is 0.98. What is the probability Ric solves it given Vic does?",
+    "a": "0.9694",
+    "b": "0.9361",
+    "c": "0.9310",
+    "d": "0.9496",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 8 students be divided into 4 groups of 2?",
+    "a": "105",
+    "b": "2,520",
+    "c": "2,205",
+    "d": "210",
+    "ans": "a"
+  },
+  {
+    "q": "A lottery has a first prize of P10,000,000. If 8,000,000 tickets are sold and you buy 40, find your mathematical expectation.",
+    "a": "P50",
+    "b": "P30",
+    "c": "P40",
+    "d": "P60",
+    "ans": "a"
+  },
+  {
+    "q": "Thrice the sum of two numbers is 30 and the sum of their squares is 52. Find the product of the numbers.",
+    "a": "24",
+    "b": "22",
+    "c": "26",
+    "d": "28",
+    "ans": "a"
+  },
+  {
+    "q": "What is the harmonic mean between 3/8 and 4?",
+    "a": "24/35",
+    "b": "23/35",
+    "c": "22/35",
+    "d": "21/35",
+    "ans": "a"
+  },
+  {
+    "q": "Find the third proportional to 4n^2 and 2mn^2.",
+    "a": "m^2 n^2",
+    "b": "mn",
+    "c": "2/m",
+    "d": "m/2",
+    "ans": "a"
+  },
+  {
+    "q": "One basket contains 5 apples and 2 oranges, and a second contains 4 apples and 3 oranges. If a fruit is taken from a random basket, what is the probability it is an orange?",
+    "a": "0.4143",
+    "b": "0.4133",
+    "c": "0.4153",
+    "d": "0.4163",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of the first three terms of an arithmetic progression is -3 and the sum of the first five terms of the same is 10. Find the first term.",
+    "a": "-5",
+    "b": "-4",
+    "c": "-3",
+    "d": "-2",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 12 books be divided among four students so that each student receives exactly 3 books?",
+    "a": "369,600",
+    "b": "390,660",
+    "c": "396,600",
+    "d": "366,900",
+    "ans": "a"
+  },
+  {
+    "q": "A chemist mixed 40 ml of 8% HCl with 60 ml of 12% HCl. She replaced a portion of this with distilled water. If the new solution tests 5.2% HCl, how much was replaced?",
+    "a": "50 ml",
+    "b": "40 ml",
+    "c": "70 ml",
+    "d": "60 ml",
+    "ans": "a"
+  },
+  {
+    "q": "There are two copies each of 3 different books. In how many ways can they be arranged on a shelf?",
+    "a": "90",
+    "b": "80",
+    "c": "85",
+    "d": "95",
+    "ans": "a"
+  },
+  {
+    "q": "A coin is tossed 6 times. What are the odds in favor of getting at least 3 heads?",
+    "a": "21 to 11",
+    "b": "11 to 21",
+    "c": "1 to 1",
+    "d": "13 to 3",
+    "ans": "a"
+  },
+  {
+    "q": "A class of 40 students took exams in Math and English. If 30 passed English, 36 passed Math, and 2 failed both, how many passed both?",
+    "a": "28",
+    "b": "26",
+    "c": "29",
+    "d": "30",
+    "ans": "a"
+  },
+  {
+    "q": "There is a 30% chance of rain today. If it does not rain today, there is a 20% chance of rain tomorrow. If it rains today, there is a 50% chance of rain tomorrow. What is the probability it rains tomorrow?",
+    "a": "0.29",
+    "b": "0.27",
+    "c": "0.28",
+    "d": "0.26",
+    "ans": "a"
+  },
+  {
+    "q": "A group consists of n boys and n girls. If two boys are replaced by two girls, then 49% of the group members will be boys. Find the value of n.",
+    "a": "50",
+    "b": "49",
+    "c": "51",
+    "d": "100",
+    "ans": "a"
+  },
+  {
+    "q": "If P(n,r) = 840 and C(n,r) = 35, find the value of r.",
+    "a": "4",
+    "b": "2",
+    "c": "3",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "If three sticks are drawn from 5 sticks whose lengths are 1, 3, 5, 7, and 9, what is the probability that they will form a triangle?",
+    "a": "0.30",
+    "b": "0.24",
+    "c": "0.21",
+    "d": "0.36",
+    "ans": "a"
+  },
+  {
+    "q": "A passenger train x times as fast as a freight train takes x times as long to pass when overtaking it as when going in opposite directions. Find x.",
+    "a": "2.41",
+    "b": "2.31",
+    "c": "2.51",
+    "d": "2.61",
+    "ans": "a"
+  },
+  {
+    "q": "Three cards are drawn from a deck of 52 cards without replacement. Find the probability that all are of the same color.",
+    "a": "0.2353",
+    "b": "0.3523",
+    "c": "0.3323",
+    "d": "0.2335",
+    "ans": "a"
+  },
+  {
+    "q": "Simplify the factorial expression: [(n+1)!]^2 / [n!(n-1)!].",
+    "a": "n(n+1)^2",
+    "b": "n^2",
+    "c": "n(n+1)",
+    "d": "n+1",
+    "ans": "a"
+  },
+  {
+    "q": "How many products can be formed from the numbers 2,3,4,5,6,7 by taking two or more numbers at a time?",
+    "a": "57",
+    "b": "64",
+    "c": "59",
+    "d": "69",
+    "ans": "a"
+  },
+  {
+    "q": "Juan is thrice as old as Jose was when Juan was as old as Jose is now. When Jose becomes twice as old as Juan is now, their combined age is 78. Find Juan's age now.",
+    "a": "18",
+    "b": "12",
+    "c": "14",
+    "d": "16",
+    "ans": "a"
+  },
+  {
+    "q": "If z^2 = 24 + 10i, solve for the complex number values of z.",
+    "a": "5 + i or -5 - i",
+    "b": "5 - i or -5 + i",
+    "c": "5 + i or 5 - i",
+    "d": "5 - i or -5 - i",
+    "ans": "a"
+  },
+  {
+    "q": "There are three candidates A, B, and C for mayor. If the odds A wins are 7:5, and B wins are 1:3, find the probability C wins.",
+    "a": "0.17",
+    "b": "0.25",
+    "c": "0.13",
+    "d": "0.21",
+    "ans": "a"
+  },
+  {
+    "q": "The first term of an AP is 6 and the tenth term is 3 times the second. What is the common difference?",
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "A basket contains 3 red and 2 white balls. A second has 2 red and 5 white. A ball is drawn from the first and placed in the second, then a ball is drawn from the second. Find the probability both drawn are the same color.",
+    "a": "0.5827",
+    "b": "0.8257",
+    "c": "0.2857",
+    "d": "0.7285",
+    "ans": "a"
+  },
+  {
+    "q": "A tank can be filled separately in 10 and 15 minutes by two pipes. With a third pipe, it takes 4 minutes. How long for the third pipe alone?",
+    "a": "12 minutes",
+    "b": "11 minutes",
+    "c": "10 minutes",
+    "d": "9 minutes",
+    "ans": "a"
+  },
+  {
+    "q": "In a single toss of a pair of dice, find the probability of tossing a total of at most 5.",
+    "a": "0.278",
+    "b": "0.268",
+    "c": "0.258",
+    "d": "0.248",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 9 different books be divided among three boys A, B, and C so they receive 4, 3, and 2 books respectively?",
+    "a": "1,260",
+    "b": "1,600",
+    "c": "3,600",
+    "d": "2,460",
+    "ans": "a"
+  },
+  {
+    "q": "A family budget provides P5,100 per month for food. Meat costs P300 more than milk, and other food is twice the cost of meat and milk combined. Find the milk allotment.",
+    "a": "P700",
+    "b": "P600",
+    "c": "P650",
+    "d": "P750",
+    "ans": "a"
+  },
+  {
+    "q": "Find the probability of throwing 11 each time in 3 independent tosses of a pair of dice.",
+    "a": "0.00017",
+    "b": "0.00170",
+    "c": "0.01700",
+    "d": "0.17000",
+    "ans": "a"
+  },
+  {
+    "q": "A 2.5-liter container contains a 25% alcohol mixture. How many liters must be drained and replaced with pure alcohol to get a 40% mixture?",
+    "a": "0.50 liters",
+    "b": "0.35 liters",
+    "c": "0.40 liters",
+    "d": "0.45 liters",
+    "ans": "a"
+  },
+  {
+    "q": "If the sum of two numbers is 1 and their product is also 1, find the sum of their cubes.",
+    "a": "-2",
+    "b": "-3",
+    "c": "-1",
+    "d": "-4",
+    "ans": "a"
+  },
+  {
+    "q": "On a trip, a car averaged 21 km per liter except when using AC, when it averaged 17 km per liter. If 91 liters were used for 1,751 km, how many km used AC?",
+    "a": "680 km",
+    "b": "480 km",
+    "c": "580 km",
+    "d": "780 km",
+    "ans": "a"
+  },
+  {
+    "q": "The 2nd, 4th, and 8th terms of an AP are in GP. Find the common ratio of the geometric progression.",
+    "a": "2",
+    "b": "5",
+    "c": "6",
+    "d": "3",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the common difference of an arithmetic progression whose sum to n terms is given by: S_n = 2n^2 + 3n.",
+    "a": "4",
+    "b": "7",
+    "c": "5",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "A man sold a book at 105% of the marked price instead of a 5% discount. If he sold it for P4.20, what was the discounted price?",
+    "a": "P3.80",
+    "b": "P2.80",
+    "c": "P3.00",
+    "d": "P2.50",
+    "ans": "a"
+  },
+  {
+    "q": "If log_b(y) = 2x + log_b(x), solve for y.",
+    "a": "y = x * b^(2x)",
+    "b": "y = 2x * b^x",
+    "c": "y = x * b^x",
+    "d": "y = x^2 * b^x",
+    "ans": "a"
+  },
+  {
+    "q": "The probability of Juan's winning a game is 1/3. If he plays 4 times, find the probability that he wins at most twice.",
+    "a": "33/81",
+    "b": "11/27",
+    "c": "73/81",
+    "d": "8/27",
+    "ans": "c"
+  },
+  {
+    "q": "The head of a fish is 22cm long. The tail is as long as the head plus half the body, and the body is as long as the head and tail combined. How long is the fish?",
+    "a": "176 cm",
+    "b": "172 cm",
+    "c": "174 cm",
+    "d": "178 cm",
+    "ans": "a"
+  },
+  {
+    "q": "From a 2-liter vessel containing water, some was drained and replaced with pure alcohol. Later, the same amount was replaced again. If the mixture has 36% alcohol, how much was removed each time?",
+    "a": "0.40 L",
+    "b": "0.50 L",
+    "c": "0.30 L",
+    "d": "0.20 L",
+    "ans": "a"
+  },
+  {
+    "q": "An urn has 4 red and 8 black marbles. A marble is drawn and a marble of the other color is returned. Find the probability a second drawn marble is red.",
+    "a": "13/36",
+    "b": "5/18",
+    "c": "7/24",
+    "d": "1/12",
+    "ans": "a"
+  },
+  {
+    "q": "If a man has 10 hectares fewer than 40% of his land after selling 6 hectares more than 70% of his land, how many hectares did he initially own?",
+    "a": "40",
+    "b": "30",
+    "c": "50",
+    "d": "60",
+    "ans": "a"
+  },
+  {
+    "q": "The 3rd term of an arithmetic progression is 4 and the 9th term is -14. Find the sum of the first six terms.",
+    "a": "15",
+    "b": "21",
+    "c": "19",
+    "d": "17",
+    "ans": "a"
+  },
+  {
+    "q": "A 5-digit number is written randomly using the digits 1,2,3,4,5,6,8. Find the probability the number has even digits at each end.",
+    "a": "0.2857",
+    "b": "0.2578",
+    "c": "0.2785",
+    "d": "0.2587",
+    "ans": "a"
+  },
+  {
+    "q": "Without expanding (4*x^(-2) - x/2)^7, find the term involving x^(-2).",
+    "a": "140*x^(-2)",
+    "b": "130*x^(-2)",
+    "c": "150*x^(-2)",
+    "d": "160*x^(-2)",
+    "ans": "a"
+  },
+  {
+    "q": "Juan and Pedro can do a job in 4 days. If Juan's working rate is twice Pedro's, how long would it take Pedro alone?",
+    "a": "12 days",
+    "b": "10 days",
+    "c": "8 days",
+    "d": "6 days",
+    "ans": "a"
+  },
+  {
+    "q": "A fence was planned with posts 6 ft apart, but they were 5 posts too few. By spacing them 8 ft apart, they sufficed. How long was the side of the plot?",
+    "a": "120 ft",
+    "b": "100 ft",
+    "c": "110 ft",
+    "d": "125 ft",
+    "ans": "a"
+  },
+  {
+    "q": "Solve the given linear system of equations for z: x - y + 6z = -15, 3y - 2z = 18, 5x + 2z = -8.",
+    "a": "-1",
+    "b": "5",
+    "c": "1/2",
+    "d": "-3/2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the positive value of x so that 4x, 5x+4, and 3x^2-1 will be in arithmetic progression.",
+    "a": "3",
+    "b": "5",
+    "c": "4",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "In how many ways can 3 men be selected out of 15 if 2 men are strictly excluded from every selection?",
+    "a": "286",
+    "b": "284",
+    "c": "288",
+    "d": "282",
+    "ans": "a"
+  },
+  {
+    "q": "A bag contains 5 red and 6 white balls. If we draw 4 balls, find the probability that at least 3 balls are white.",
+    "a": "0.3485",
+    "b": "0.2578",
+    "c": "0.4385",
+    "d": "0.3845",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of the squares of two consecutive positive even integers is 340. Find the larger even integer.",
+    "a": "14",
+    "b": "12",
+    "c": "16",
+    "d": "18",
+    "ans": "a"
+  },
+  {
+    "q": "A bag contains 3 black balls, 7 white balls, 6 black cubes, and 14 white cubes. Find the probability of drawing a ball and a black object.",
+    "a": "0.10",
+    "b": "0.15",
+    "c": "0.20",
+    "d": "0.25",
+    "ans": "a"
+  },
+  {
+    "q": "A man is 4 years older than his wife and 5 times as old as his son. When the son was born, the wife's age was 6/7 of her husband's. Find the son's age now.",
+    "a": "8 years",
+    "b": "6 years",
+    "c": "7 years",
+    "d": "9 years",
+    "ans": "a"
+  },
+  {
+    "q": "Equal volumes of different liquids evaporate at constant rates. The first evaporates in 6 weeks and the second in 5 weeks. When is the second volume half the first?",
+    "a": "3.75 weeks",
+    "b": "4.25 weeks",
+    "c": "3.50 weeks",
+    "d": "4.00 weeks",
+    "ans": "a"
+  },
+  {
+    "q": "For a statistical sample which consists of the values 45, 50, 55, 60, and 65, the average deviation is:",
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "7",
+    "ans": "a"
+  },
+  {
+    "q": "Find the geometric mean of the set of numbers: 2, 3, 3, 5, 7, and 8.",
+    "a": "4.121",
+    "b": "4.131",
+    "c": "4.141",
+    "d": "4.151",
+    "ans": "a"
+  },
+  {
+    "q": "Of 300 students, 100 are enrolled in Math, 80 in Physics, and 30 in both. What is the probability a randomly chosen student is in Math or Physics?",
+    "a": "1/2",
+    "b": "3/5",
+    "c": "7/10",
+    "d": "11/15",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of the mathematical proposition that is consistent with known data but has been neither verified nor shown to be false?",
+    "a": "Lemma",
+    "b": "Theorem",
+    "c": "Conjecture",
+    "d": "Postulate",
+    "ans": "c"
+  },
+  {
+    "q": "In set theory, a set containing no elements is called a:",
+    "a": "Universal set",
+    "b": "Null set",
+    "c": "Subset",
+    "d": "Power set",
+    "ans": "b"
+  },
+  {
+    "q": "The point on the celestial sphere directly above the observer is called the:",
+    "a": "Zenith",
+    "b": "Nadir",
+    "c": "Horizon",
+    "d": "Equator",
+    "ans": "a"
+  },
+  {
+    "q": "The point on the celestial sphere directly below the feet of an observer is called the:",
+    "a": "Nadir",
+    "b": "Zenith",
+    "c": "Pole",
+    "d": "Meridian",
+    "ans": "a"
+  },
+  {
+    "q": "A formal mathematical statement that is assumed to be true without proof is a:",
+    "a": "Theorem",
+    "b": "Lemma",
+    "c": "Axiom",
+    "d": "Corollary",
+    "ans": "c"
+  },
+  {
+    "q": "Every square matrix is a root of its own characteristic polynomial. This is the statement of which theorem?",
+    "a": "Cayley-Hamilton Theorem",
+    "b": "De Moivre's Theorem",
+    "c": "Euler's Theorem",
+    "d": "Laplace's Theorem",
+    "ans": "a"
+  },
+  {
+    "q": "Who is formally recognized in mathematics as the Father of Analytic Geometry?",
+    "a": "Rene Descartes",
+    "b": "Isaac Newton",
+    "c": "Blaise Pascal",
+    "d": "Gottfried Leibniz",
+    "ans": "a"
+  },
+  {
+    "q": "The region bounded by two concentric circles is called a:",
+    "a": "Annulus",
+    "b": "Sector",
+    "c": "Segment",
+    "d": "Lune",
+    "ans": "a"
+  },
+  {
+    "q": "The branch of mathematics concerning the study of finite or countable discrete structures is called:",
+    "a": "Combinatorics",
+    "b": "Calculus",
+    "c": "Topology",
+    "d": "Algebra",
+    "ans": "a"
+  },
+  {
+    "q": "An indeterminate polynomial equation that allows the variables to be integers only is called a:",
+    "a": "Diophantine Equation",
+    "b": "Linear Equation",
+    "c": "Quadratic Equation",
+    "d": "Homogeneous Equation",
+    "ans": "a"
+  },
+  {
+    "q": "A test used to determine if a given plotted curve is a relation or a function is called the:",
+    "a": "Vertical line test",
+    "b": "Horizontal line test",
+    "c": "Slope test",
+    "d": "Symmetry test",
+    "ans": "a"
+  },
+  {
+    "q": "Two prime numbers that differ by exactly two are referred to as:",
+    "a": "Twin primes",
+    "b": "Perfect primes",
+    "c": "Mersenne primes",
+    "d": "Coprimes",
+    "ans": "a"
+  },
+  {
+    "q": "A natural number that is equal to the sum of all its proper positive divisors is called a:",
+    "a": "Perfect number",
+    "b": "Happy number",
+    "c": "Abundant number",
+    "d": "Amicable number",
+    "ans": "a"
+  },
+  {
+    "q": "In solid geometry, a dual polyhedron to an Archimedean solid is classified as a:",
+    "a": "Catalan Solid",
+    "b": "Platonic Solid",
+    "c": "Prismatoid",
+    "d": "Kepler-Poinsot Solid",
+    "ans": "a"
+  },
+  {
+    "q": "The angular distance of a celestial object from the North Pole is referred to as the:",
+    "a": "Colatitude",
+    "b": "Altitude",
+    "c": "Azimuth",
+    "d": "Declination",
+    "ans": "a"
+  },
+  {
+    "q": "In geometry, a translation of a figure on a plane without any rotation or distortion is called a:",
+    "a": "Shift",
+    "b": "Reflection",
+    "c": "Dilation",
+    "d": "Shear",
+    "ans": "a"
+  },
+  {
+    "q": "A surface of revolution with a constant nonzero mean curvature is known as a:",
+    "a": "Unduloid",
+    "b": "Spheroid",
+    "c": "Catenoid",
+    "d": "Helicoid",
+    "ans": "a"
+  },
+  {
+    "q": "The greatest radial distance of an ellipse as measured from one of its foci is called the:",
+    "a": "Apoapsis",
+    "b": "Periapsis",
+    "c": "Semi-major axis",
+    "d": "Eccentricity",
+    "ans": "a"
+  },
+  {
+    "q": "A proposition that is consistent with known data, but has been neither verified nor shown to be false, is called a:",
+    "a": "Hypothesis",
+    "b": "Axiom",
+    "c": "Postulate",
+    "d": "Theorem",
+    "ans": "a"
+  },
+  {
+    "q": "The process of constructing polyhedra by extending facial planes past the edges until they intersect is called:",
+    "a": "Stellation",
+    "b": "Truncation",
+    "c": "Facetting",
+    "d": "Snubbing",
+    "ans": "a"
+  },
+  {
+    "q": "In statistics, the difference between the largest value and the smallest value in a data set is defined as the:",
+    "a": "Range",
+    "b": "Variance",
+    "c": "Standard Deviation",
+    "d": "Mean Deviation",
+    "ans": "a"
+  },
+  {
+    "q": "In set theory, the complete set of all elements under consideration in a given discussion is the:",
+    "a": "Universal set",
+    "b": "Null set",
+    "c": "Subset",
+    "d": "Power set",
+    "ans": "a"
+  },
+  {
+    "q": "An oblique equilateral parallelogram is classified as a:",
+    "a": "Rhombus",
+    "b": "Rectangle",
+    "c": "Square",
+    "d": "Trapezoid",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of a polygon that is generated in some random way on a plane?",
+    "a": "Random polygon",
+    "b": "Regular polygon",
+    "c": "Complex polygon",
+    "d": "Skew polygon",
+    "ans": "a"
+  },
+  {
+    "q": "An integer that is equal to the sum of the factorials of its digits is called a:",
+    "a": "Factorion",
+    "b": "Fibonacci number",
+    "c": "Perfect number",
+    "d": "Amicable number",
+    "ans": "a"
+  },
+  {
+    "q": "The simplest regular figure in four-dimensional space, representing the 4D analog of a tetrahedron, is a:",
+    "a": "Pentatope",
+    "b": "Tesseract",
+    "c": "Hypercube",
+    "d": "Octachor",
+    "ans": "a"
+  },
+  {
+    "q": "In a frequency distribution, the number of data points falling within a given class interval is the:",
+    "a": "Absolute frequency",
+    "b": "Relative frequency",
+    "c": "Cumulative frequency",
+    "d": "Percentage frequency",
+    "ans": "a"
+  },
+  {
+    "q": "The division of an arbitrary angle into three equal parts using only a compass and straightedge is called:",
+    "a": "Angle trisection",
+    "b": "Angle bisection",
+    "c": "Angle quadrature",
+    "d": "Angle rectification",
+    "ans": "a"
+  },
+  {
+    "q": "In linear algebra, if matrix A is of size 2x3 and matrix B is of size 3x4, what is the size of the product matrix AB?",
+    "a": "2x4",
+    "b": "3x3",
+    "c": "2x3",
+    "d": "3x4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the determinant of the 2x2 matrix containing rows [3, 1] and [2, 4].",
+    "a": "10",
+    "b": "14",
+    "c": "8",
+    "d": "12",
+    "ans": "a"
+  },
+  {
+    "q": "Cramer's Rule is a direct method for solving systems of linear equations using which mathematical tool?",
+    "a": "Determinants",
+    "b": "Eigenvalues",
+    "c": "Derivatives",
+    "d": "Integrals",
+    "ans": "a"
+  },
+  {
+    "q": "The operation of swapping the rows and columns of a matrix is called:",
+    "a": "Transposition",
+    "b": "Inversion",
+    "c": "Conjugation",
+    "d": "Row reduction",
+    "ans": "a"
+  },
+  {
+    "q": "A square matrix that is equal to its transpose is called a:",
+    "a": "Symmetric matrix",
+    "b": "Skew-symmetric matrix",
+    "c": "Identity matrix",
+    "d": "Diagonal matrix",
+    "ans": "a"
+  },
+  {
+    "q": "If matrix A is multiplied by the identity matrix I, the result is:",
+    "a": "Matrix A",
+    "b": "Matrix I",
+    "c": "The zero matrix",
+    "d": "The transpose of A",
+    "ans": "a"
+  },
+  {
+    "q": "What is the transpose of a column vector?",
+    "a": "A row vector",
+    "b": "A square matrix",
+    "c": "A scalar",
+    "d": "A column vector",
+    "ans": "a"
+  },
+  {
+    "q": "A square matrix with ones on the main diagonal and zeros elsewhere is called the:",
+    "a": "Identity matrix",
+    "b": "Zero matrix",
+    "c": "Scalar matrix",
+    "d": "Diagonal matrix",
+    "ans": "a"
+  },
+  {
+    "q": "What is the determinant of a 3x3 diagonal matrix with diagonal elements 2, 3, and 5?",
+    "a": "30",
+    "b": "10",
+    "c": "25",
+    "d": "15",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following matrix types must always be a square matrix?",
+    "a": "Identity matrix",
+    "b": "Zero matrix",
+    "c": "Transpose matrix",
+    "d": "Row matrix",
+    "ans": "a"
+  },
+  {
+    "q": "If the determinant of a square matrix is zero, the matrix is said to be:",
+    "a": "Singular",
+    "b": "Non-singular",
+    "c": "Invertible",
+    "d": "Symmetric",
+    "ans": "a"
+  },
+  {
+    "q": "The sum of the diagonal elements of a square matrix is called its:",
+    "a": "Trace",
+    "b": "Determinant",
+    "c": "Rank",
+    "d": "Eigenvalue",
+    "ans": "a"
+  },
+  {
+    "q": "If matrix A has size 3x2 and B has size 2x3, is the matrix multiplication BA defined?",
+    "a": "Yes, resulting in a 2x2 matrix",
+    "b": "Yes, resulting in a 3x3 matrix",
+    "c": "No, it is undefined",
+    "d": "Yes, resulting in a 3x2 matrix",
+    "ans": "a"
+  },
+  {
+    "q": "Which of the following describes the matrix transpose property: (AB)^T?",
+    "a": "B^T * A^T",
+    "b": "A^T * B^T",
+    "c": "A * B^T",
+    "d": "B^T * A",
+    "ans": "a"
+  },
+  {
+    "q": "The angle of elevation of the top of tower B from the top of tower A is 28° and the angle of elevation of the top of tower A from the base of tower B is 46°. If the height of tower B is 120 m, find the height of tower A.",
+    "a": "79.3 m",
+    "b": "87.2 m",
+    "c": "90.7 m",
+    "d": "66.3 m",
+    "ans": "c"
+  },
+  {
+    "q": "Find the value of sin(920°) using its reference angle.",
+    "a": "-0.342",
+    "b": "0.243",
+    "c": "-0.243",
+    "d": "0.342",
+    "ans": "a"
+  },
+  {
+    "q": "The trigonometric function (1 + tan^2 x) is identically equal to:",
+    "a": "sec^2 x",
+    "b": "cos^2 x",
+    "c": "csc^2 x",
+    "d": "sin x",
+    "ans": "a"
+  },
+  {
+    "q": "For a regular polygon of n sides, the formula to find each interior angle (in degrees) is:",
+    "a": "[(n-2)*180]/n",
+    "b": "(n-2)*180",
+    "c": "[(n-1)*180]/n",
+    "d": "[n-2]/180",
+    "ans": "a"
+  },
+  {
+    "q": "Given the three sides of a triangle: 2, 3, and 4. Find the angle (in radians) opposite the side of length 3.",
+    "a": "0.81",
+    "b": "0.11",
+    "c": "0.41",
+    "d": "0.62",
+    "ans": "a"
+  },
+  {
+    "q": "How many sides has a regular polygon if each interior angle is 165°?",
+    "a": "24",
+    "b": "12",
+    "c": "20",
+    "d": "48",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a triangle whose sides are 25, 39, and 40.",
+    "a": "468",
+    "b": "684",
+    "c": "486",
+    "d": "864",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a regular hexagon inscribed in a circle of radius 1.",
+    "a": "2.598",
+    "b": "2.698",
+    "c": "3.698",
+    "d": "3.598",
+    "ans": "a"
+  },
+  {
+    "q": "The circumference of a great circle of a sphere is 18*pi. Find the volume of the sphere.",
+    "a": "3053.6",
+    "b": "4053.6",
+    "c": "5053.6",
+    "d": "6053.6",
+    "ans": "a"
+  },
+  {
+    "q": "A circular cone of altitude 9 m is divided into two segments by a plane parallel to its base. If the smaller altitude is 6 m, find the ratio of the volume of the small cone to the big cone.",
+    "a": "0.296",
+    "b": "0.396",
+    "c": "0.186",
+    "d": "0.486",
+    "ans": "a"
+  },
+  {
+    "q": "A frustum of a regular pyramid has an upper base of 8 m x 80 m, a lower base of 10 m x 100 m, and an altitude of 5 m. Find its volume.",
+    "a": "4066.67 m^3",
+    "b": "5066.67 m^3",
+    "c": "6066.67 m^3",
+    "d": "7066.67 m^3",
+    "ans": "a"
+  },
+  {
+    "q": "The base of a right prism is a regular hexagon with each side equal to 6 cm. If the bases are 12 cm apart, find the volume of the prism.",
+    "a": "1122.4 cm^3",
+    "b": "1211.6 cm^3",
+    "c": "2211.7 cm^3",
+    "d": "1212.5 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of water in a hemisphere of radius 2 m is 2.05 m^3. Find the height of the water.",
+    "a": "0.602 m",
+    "b": "0.498 m",
+    "c": "0.782 m",
+    "d": "0.865 m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a cone to be constructed from a sector of radius 36 cm and central angle of 150°.",
+    "a": "7711.82 cm^3",
+    "b": "6622.44 cm^3",
+    "c": "5533.32 cm^3",
+    "d": "8866.44 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "A silicon carbide pipe lining has a thickness of 2 cm and an inside diameter of 10 cm. Find the volume of the material for a pipe length of 6 m.",
+    "a": "45,239 cm^3",
+    "b": "42,539 cm^3",
+    "c": "49,532 cm^3",
+    "d": "43,932 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "What percent of the volume of a cone is the volume of the largest cylinder that can be inscribed in it?",
+    "a": "44%",
+    "b": "56%",
+    "c": "46%",
+    "d": "65%",
+    "ans": "a"
+  },
+  {
+    "q": "Each side of a cube is increased by 1%. By what percent is the volume of the cube increased?",
+    "a": "3.03%",
+    "b": "2.34%",
+    "c": "30.3%",
+    "d": "34.56%",
+    "ans": "a"
+  },
+  {
+    "q": "A pyramid has a square base of 8 m on a side and an altitude of 10 m. How many liters of water will it hold when full?",
+    "a": "213,330 liters",
+    "b": "223,330 liters",
+    "c": "203,330 liters",
+    "d": "233,330 liters",
+    "ans": "a"
+  },
+  {
+    "q": "If the length of the latus rectum of an ellipse is three-fourths the length of its minor axis, find its eccentricity.",
+    "a": "0.66",
+    "b": "0.15",
+    "c": "0.33",
+    "d": "0.55",
+    "ans": "a"
+  },
+  {
+    "q": "Find the equation of a straight line whose x-intercept is 2 and y-intercept is -2.",
+    "a": "x - y - 2 = 0",
+    "b": "2x + 2y + 2 = 0",
+    "c": "-2x + 2y = -2",
+    "d": "x - y - 1 = 0",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the value of B such that the line 3x + 2y - 7 = 0 is perpendicular to the line 2x - By + 2 = 0.",
+    "a": "3",
+    "b": "5",
+    "c": "4",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "In Cartesian coordinates, a quadrilateral has vertices at (1, 1), (0, 8), (4, 5), and (-3, 4). Find its area.",
+    "a": "25",
+    "b": "20",
+    "c": "18",
+    "d": "14",
+    "ans": "a"
+  },
+  {
+    "q": "The line segment from (-1, 4) to (2, -2) is extended three times its own length. Find the terminal coordinate point.",
+    "a": "(11, -20)",
+    "b": "(11, -24)",
+    "c": "(-11, -20)",
+    "d": "(11, -18)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the x-intercept of the line passing through the coordinate points (1, 4) and (4, 1)?",
+    "a": "5",
+    "b": "4.5",
+    "c": "6",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the distance between the parallel lines: 3x + y - 12 = 0 and 3x + y - 4 = 0.",
+    "a": "8/Sqrt(10)",
+    "b": "16/10",
+    "c": "12/10",
+    "d": "4/10",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the circle whose equation is given by: x^2 + y^2 = 6x - 8y.",
+    "a": "25*pi",
+    "b": "5*pi",
+    "c": "15*pi",
+    "d": "20*pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the length of the major axis of the ellipse: x^2 + 4y^2 - 2x - 8y + 1 = 0.",
+    "a": "4",
+    "b": "2",
+    "c": "10",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "An arch 18 m high is in the form of a parabola with a vertical axis. The length of a horizontal beam placed across the arch 8 m from the top is 64 m. Find the width of the arch at the bottom.",
+    "a": "96 m",
+    "b": "80 m",
+    "c": "100 m",
+    "d": "90 m",
+    "ans": "a"
+  },
+  {
+    "q": "Find the distance from the line 4x - 3y + 5 = 0 to the coordinate point (2, 1).",
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "What is the center of the curve represented by the equation: x^2 + y^2 - 2x - 4y - 31 = 0?",
+    "a": "(1, 2)",
+    "b": "(-1, -2)",
+    "c": "(1, -2)",
+    "d": "(-1, 2)",
+    "ans": "a"
+  },
+  {
+    "q": "Determine the equation of the curve such that the sum of the distances of any point on the curve from the points (-3, 0) and (3, 0) is always equal to 8.",
+    "a": "7x^2 + 16y^2 - 112 = 0",
+    "b": "16x^2 + 7y^2 - 112 = 0",
+    "c": "7x^2 + 16y^2 + 112 = 0",
+    "d": "16x^2 + 7y^2 + 112 = 0",
+    "ans": "a"
+  },
+  {
+    "q": "If log_2(x) + log_2(y) = 5 and log_2(x) - log_2(y) = 1, solve for the positive value of x.",
+    "a": "8",
+    "b": "4",
+    "c": "16",
+    "d": "2",
+    "ans": "a"
+  },
+  {
+    "q": "Simplify the algebraic expression: (x^2 - 4) / (x - 2) for all values where x is not equal to 2.",
+    "a": "x + 2",
+    "b": "x - 2",
+    "c": "2(x + 2)",
+    "d": "x + 4",
+    "ans": "a"
+  },
+  {
+    "q": "If the hypotenuse of a right triangle is 10 inches and one leg is 5 inches, how long is the other leg?",
+    "a": "5 * Sqrt(3) inches",
+    "b": "5 * Sqrt(2) inches",
+    "c": "5 inches",
+    "d": "7.5 inches",
+    "ans": "a"
+  },
+  {
+    "q": "In coordinate geometry, what is the circumference of the circle represented by: (x + 3)^2 + (y + 5)^2 = 16?",
+    "a": "8*pi",
+    "s": "4*pi",
+    "c": "16*pi",
+    "d": "6*pi",
+    "ans": "a"
+  },
+  {
+    "q": "How many real solutions are there to the algebraic equation: x^2 - 7 = 0?",
+    "a": "2",
+    "b": "1",
+    "c": "0",
+    "d": "Infinite",
+    "ans": "a"
+  },
+  {
+    "q": "A circle with center (4, -5) is tangent to the y-axis in the Cartesian plane. What is the radius of this circle?",
+    "a": "4",
+    "b": "5",
+    "c": "16",
+    "d": "25",
+    "ans": "a"
+  },
+  {
+    "q": "If angle A is an acute angle and sin(A) = 11/14, find the value of cos(A).",
+    "a": "5 * Sqrt(3) / 14",
+    "b": "Sqrt(3) / 14",
+    "c": "5/14",
+    "d": "1/14",
+    "ans": "a"
+  },
+  {
+    "q": "What is the equivalent Cartesian coordinate point for the polar coordinate point (4, 210°)?",
+    "a": "(-2*Sqrt(3), -2)",
+    "b": "(-2, -2*Sqrt(3))",
+    "c": "(2*Sqrt(3), -2)",
+    "d": "(-2*Sqrt(3), 2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the coordinate point where the line passing through (3, -1, 0) and (1, 3, 4) pierces the xz-plane.",
+    "a": "(2.5, 0, 1)",
+    "b": "(2, 0, 2)",
+    "c": "(1.5, 0, 3)",
+    "d": "(3, 0, -1)",
+    "ans": "a"
+  },
+  {
+    "q": "What is the name of a regular polyhedron containing exactly 20 congruent equilateral triangle faces?",
+    "a": "Icosahedron",
+    "b": "Tetrahedron",
+    "c": "Octahedron",
+    "d": "Dodecagon",
+    "ans": "a"
+  },
+  {
+    "q": "Find the side of a square whose area is exactly equal to that of a rectangle with side dimensions of 32 cm and 18 cm.",
+    "a": "24 cm",
+    "b": "21 cm",
+    "c": "22 cm",
+    "d": "23 cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a rhombus whose diagonal lengths are 32 cm and 40 cm.",
+    "a": "640 cm^2",
+    "b": "540 cm^2",
+    "c": "340 cm^2",
+    "d": "440 cm^2",
+    "ans": "a"
+  },
+  {
+    "q": "The altitude of a triangle is half its base. Find the base of the triangle if its area is 64 sq. units.",
+    "a": "16",
+    "b": "15",
+    "c": "17",
+    "d": "18",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a triangle whose three sides measure 9, 12, and 15 units respectively.",
+    "a": "54",
+    "b": "53",
+    "c": "52",
+    "d": "51",
+    "ans": "a"
+  },
+  {
+    "q": "An isosceles trapezoid has base angles of 45° and its parallel base lengths are 6 and 10. Find its area.",
+    "a": "16",
+    "b": "12",
+    "c": "14",
+    "d": "18",
+    "ans": "a"
+  },
+  {
+    "q": "Find the altitude of a trapezoid of area 180 cm^2 if its parallel bases are 16 cm and 14 cm.",
+    "a": "12 cm",
+    "b": "11 cm",
+    "c": "13 cm",
+    "d": "14 cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a sector of a circle of radius 10 cm if its central angle is 15°.",
+    "a": "13.09 cm^2",
+    "b": "193.32 cm^2",
+    "c": "194.33 cm^2",
+    "d": "195.34 cm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the length of an arc of a circle of radius 20 units which subtends a central angle of 30°.",
+    "a": "10*pi/3",
+    "b": "11*pi/3",
+    "c": "13*pi/3",
+    "d": "14*pi/3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the length of a chord which is located 2 units from the center of a circle of radius 6 units.",
+    "a": "8 * Sqrt(2)",
+    "b": "6 * Sqrt(2)",
+    "c": "7 * Sqrt(2)",
+    "d": "9 * Sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "How many sides has a convex polygon if the sum of the measures of its interior angles is 1080°?",
+    "a": "8",
+    "b": "7",
+    "c": "6",
+    "d": "5",
+    "ans": "a"
+  },
+  {
+    "q": "What is the measure of each interior angle of a regular pentagon?",
+    "a": "108°",
+    "b": "106°",
+    "c": "109°",
+    "d": "107°",
+    "ans": "a"
+  },
+  {
+    "q": "What is the radius of a circle if its numerical circumference is equal to its numerical area?",
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a parallelogram with side lengths of 15 and 16 units if one of its interior angles is 60°.",
+    "a": "207.85",
+    "b": "206.82",
+    "c": "208.81",
+    "d": "205.83",
+    "ans": "a"
+  },
+  {
+    "q": "Each side of a rhombus is 7 units and one of its interior angles is 42°. Find its area.",
+    "a": "32.79",
+    "b": "30.69",
+    "c": "31.59",
+    "d": "33.89",
+    "ans": "a"
+  },
+  {
+    "q": "In triangle ABC, if a = 10, b = 12, and angle C = 150°, find the area of the triangle.",
+    "a": "30",
+    "b": "31",
+    "c": "32",
+    "d": "33",
+    "ans": "a"
+  },
+  {
+    "q": "The diagonal lengths of a rhombus are 6 cm and 8 cm. Find the perimeter of the rhombus.",
+    "a": "20 cm",
+    "b": "16 cm",
+    "c": "18 cm",
+    "d": "24 cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a sector of a circle having a central angle of 60° if the radius of the circle is 12 units.",
+    "a": "24*pi",
+    "b": "12*pi",
+    "c": "18*pi",
+    "d": "36*pi",
+    "ans": "a"
+  },
+  {
+    "q": "Two circles, each of radius 6 units, have their centers placed 8 units apart. Find the length of their common chord.",
+    "a": "2 * Sqrt(5)",
+    "b": "3 * Sqrt(5)",
+    "c": "4 * Sqrt(5)",
+    "d": "5 * Sqrt(5)",
+    "ans": "c"
+  },
+  {
+    "q": "What is the apothem of a regular polygon having an area of 225 cm^2 and a perimeter of 60 cm?",
+    "a": "7.5 cm",
+    "b": "8.0 cm",
+    "c": "7.0 cm",
+    "d": "6.5 cm",
+    "ans": "a"
+  },
+  {
+    "q": "A hexagon is circumscribed about a circle of radius 5. If the perimeter of the hexagon is 38, find its area.",
+    "a": "95",
+    "b": "75",
+    "c": "65",
+    "d": "85",
+    "ans": "a"
+  },
+  {
+    "q": "The circumferences of two circles are 6*pi and 10*pi. What is the ratio of their areas?",
+    "a": "9/25",
+    "b": "8/25",
+    "c": "7/25",
+    "d": "6/25",
+    "ans": "a"
+  },
+  {
+    "q": "If a regular polygon has 54 diagonals, how many sides does the polygon possess?",
+    "a": "12",
+    "b": "10",
+    "c": "11",
+    "d": "14",
+    "ans": "a"
+  },
+  {
+    "q": "What is the diameter of a circle that is circumscribed about an equilateral triangle of side 7.4 cm?",
+    "a": "8.54 cm",
+    "b": "8.64 cm",
+    "c": "9.54 cm",
+    "d": "9.64 cm",
+    "ans": "a"
+  },
+  {
+    "q": "If the perimeter of a rhombus is 40 and one of its diagonals is 12, find the length of the other diagonal.",
+    "a": "16",
+    "b": "15",
+    "c": "18",
+    "d": "17",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of the annulus bounded by the inscribed and circumscribed circles of an equilateral triangle with side of length 6.",
+    "a": "9*pi",
+    "b": "11*pi",
+    "c": "8*pi",
+    "d": "10*pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a regular octagon inscribed in a circle whose radius is 10 cm.",
+    "a": "282.8 cm^2",
+    "b": "822.8 cm^2",
+    "c": "828.2 cm^2",
+    "d": "228.8 cm^2",
+    "ans": "a"
+  },
+  {
+    "q": "If the perimeter of a regular hexagon is 24, find the length of its apothem.",
+    "a": "2 * Sqrt(3)",
+    "b": "3 * Sqrt(3)",
+    "c": "4 * Sqrt(3)",
+    "d": "5 * Sqrt(3)",
+    "ans": "a"
+  },
+  {
+    "q": "The ratio of the sum of the exterior angles to the sum of the interior angles of a polygon is 1:3. Identify the polygon.",
+    "a": "Octagon",
+    "b": "Hexagon",
+    "c": "Heptagon",
+    "d": "Nonagon",
+    "ans": "a"
+  },
+  {
+    "q": "A circular sector has a radius of 6 cm and central angle of 60°. If it is bent to form a right circular cone, what is the base radius of the cone?",
+    "a": "1 cm",
+    "b": "2 cm",
+    "c": "3 cm",
+    "d": "4 cm",
+    "ans": "a"
+  },
+  {
+    "q": "A regular octagon is inscribed in a circle of radius 6 units. Find the perimeter of the octagon.",
+    "a": "36.74",
+    "b": "34.54",
+    "c": "35.64",
+    "d": "37.84",
+    "ans": "a"
+  },
+  {
+    "q": "The diagonal lengths of a quadrilateral are 34 and 56 units, intersecting at an angle of 67°. Find the area of the quadrilateral.",
+    "a": "876.32",
+    "b": "837.62",
+    "c": "863.72",
+    "d": "826.37",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of a circle in which is inscribed a regular nonagon whose perimeter is 417.6 cm.",
+    "a": "68.37 cm",
+    "b": "67.83 cm",
+    "c": "63.87 cm",
+    "d": "68.73 cm",
+    "ans": "a"
+  },
+  {
+    "q": "If each interior angle of a regular polygon measures 160°, how many sides has the polygon?",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "19",
+    "ans": "a"
+  },
+  {
+    "q": "The sides of a right triangle are a, b, and c where c is the hypotenuse. Find the radius of the circle inscribed in the triangle.",
+    "a": "1/2 * (a + b - c)",
+    "b": "1/2 * (a + b + c)",
+    "c": "1/2 * (a - b + c)",
+    "d": "1/2 * (a - b - c)",
+    "ans": "a"
+  },
+  {
+    "q": "Two sides of a parallelogram are 20 and 30, and the included angle is 36°. Find the length of the longer diagonal.",
+    "a": "47.65",
+    "b": "74.65",
+    "c": "64.75",
+    "d": "57.46",
+    "ans": "a"
+  },
+  {
+    "q": "The sides of a triangle are 17, 21, and 28 units. Find the length of the median line segment bisecting the longest side.",
+    "a": "13",
+    "b": "11",
+    "c": "12",
+    "d": "14",
+    "ans": "a"
+  },
+  {
+    "q": "Find the radius of a circle whose area is equal to the area of the annulus formed by two concentric circles with radii 5 and 13.",
+    "a": "12",
+    "b": "10",
+    "c": "11",
+    "d": "13",
+    "ans": "a"
+  },
+  {
+    "q": "A circle is inscribed in an equilateral triangle. If the circumference of the circle is 3, find the perimeter of the equilateral triangle.",
+    "a": "4.962",
+    "b": "9.246",
+    "c": "6.294",
+    "d": "2.946",
+    "ans": "a"
+  },
+  {
+    "q": "What is the total surface area of a cube whose edge is exactly 5 cm?",
+    "a": "150 cm^2",
+    "b": "145 cm^2",
+    "c": "140 cm^2",
+    "d": "135 cm^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the frustum of a right circular cone whose altitude is 6 and whose base radii are 2 and 3 units.",
+    "a": "38*pi",
+    "b": "35*pi",
+    "c": "36*pi",
+    "d": "37*pi",
+    "ans": "a"
+  },
+  {
+    "q": "The lune angle on a sphere of radius 15 cm is 60°. Find the volume of the corresponding spherical wedge.",
+    "a": "750*pi cm^3",
+    "b": "700*pi cm^3",
+    "c": "650*pi cm^3",
+    "d": "600*pi cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "A sphere of radius R is inscribed inside a cube of edge e. What is the ratio of the volume of the sphere to the volume of the cube?",
+    "a": "0.5236",
+    "b": "0.6523",
+    "c": "0.3652",
+    "d": "0.2635",
+    "ans": "a"
+  },
+  {
+    "q": "The slant height of a right circular cone is 13 and its altitude is 12. Find the radius of the base.",
+    "a": "5",
+    "b": "8",
+    "c": "7",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "A hemispherical bowl of radius 10 cm is filled with water to a depth of 5 cm. Find the volume of the water.",
+    "a": "625*pi/3 cm^3",
+    "b": "615*pi/3 cm^3",
+    "c": "620*pi/3 cm^3",
+    "d": "630*pi/3 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "The surface area of a lune is 4*pi m^2 on a sphere of radius 3 m. Find the angle of the lune.",
+    "a": "40°",
+    "b": "45°",
+    "c": "50°",
+    "d": "55°",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of a sphere whose diameter is 20 cm is:",
+    "a": "4188.79 cm^3",
+    "b": "4198.87 cm^3",
+    "c": "4179.88 cm^3",
+    "d": "4187.89 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the length of the long diagonal of a rectangular box whose three edge lengths are 6, 8, and 10.",
+    "a": "10 * Sqrt(2)",
+    "b": "7 * Sqrt(2)",
+    "c": "8 * Sqrt(2)",
+    "d": "9 * Sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the base area of a prism whose total volume is 516.6 cubic feet and whose height is 16.4 inches.",
+    "a": "378 ft^2",
+    "b": "372 ft^2",
+    "c": "374 ft^2",
+    "d": "376 ft^2",
+    "ans": "a"
+  },
+  {
+    "q": "Find the slant height of a regular pyramid each of whose faces is enclosed by an equilateral triangle with side 8.",
+    "a": "6.93",
+    "b": "6.73",
+    "c": "6.83",
+    "d": "6.63",
+    "ans": "a"
+  },
+  {
+    "q": "What is the volume of a pyramid whose altitude is 27 and whose base is a square of side length 8?",
+    "a": "576",
+    "b": "756",
+    "c": "657",
+    "d": "675",
+    "ans": "a"
+  },
+  {
+    "q": "A concrete pedestal is in the form of a frustum of a regular square pyramid of altitude 1.2 m and base edge lengths of 0.40 m and 0.70 m. Find its volume.",
+    "a": "0.372 m^3",
+    "b": "0.327 m^3",
+    "c": "0.273 m^3",
+    "d": "0.723 m^3",
+    "ans": "a"
+  },
+  {
+    "q": "The base radii of the frustum of a cone are 6 cm and 10 cm. Find the altitude of the frustum if its volume is 1176*pi cm^3.",
+    "a": "18 cm",
+    "b": "16 cm",
+    "c": "17 cm",
+    "d": "19 cm",
+    "ans": "a"
+  },
+  {
+    "q": "What is the diameter of a sphere for which its volume is numerically equal to its surface area?",
+    "a": "6",
+    "b": "7",
+    "c": "5",
+    "d": "4",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a spherical wedge whose angle is 36° on a sphere of radius 6 cm.",
+    "a": "28.8*pi cm^3",
+    "b": "27.7*pi cm^3",
+    "c": "26.6*pi cm^3",
+    "d": "25.5*pi cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a right circular cone whose base radius is 8 cm and whose altitude is 15 cm.",
+    "a": "320*pi cm^3",
+    "b": "330*pi cm^3",
+    "c": "340*pi cm^3",
+    "d": "350*pi cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a sphere of radius 1.2 m.",
+    "a": "7.238 m^3",
+    "b": "8.372 m^3",
+    "c": "2.783 m^3",
+    "d": "3.872 m^3",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of a square pyramid is 384 cm^3 and its altitude is 8 cm. How long is an edge of the base?",
+    "a": "12 cm",
+    "b": "11 cm",
+    "c": "13 cm",
+    "d": "14 cm",
+    "ans": "a"
+  },
+  {
+    "q": "Find the altitude of a right prism for which the area of the lateral surface is 338 and the perimeter of the base is 13.",
+    "a": "26",
+    "b": "25",
+    "c": "27",
+    "d": "28",
+    "ans": "a"
+  },
+  {
+    "q": "Find the diameter of a sphere whose surface area is exactly 324*pi.",
+    "a": "18",
+    "b": "16",
+    "c": "17",
+    "d": "19",
+    "ans": "a"
+  },
+  {
+    "q": "Find the area of a zone of a sphere whose radius is 6 if the altitude of the zone is 2.",
+    "a": "24*pi",
+    "b": "21*pi",
+    "c": "22*pi",
+    "d": "23*pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a cube whose total surface area is 384 cm^2.",
+    "a": "512 cm^3",
+    "b": "212 cm^3",
+    "c": "312 cm^3",
+    "d": "412 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the total surface area of a regular tetrahedron whose edges are each 3 units.",
+    "a": "9 * Sqrt(3)",
+    "b": "8 * Sqrt(3)",
+    "c": "10 * Sqrt(3)",
+    "d": "11 * Sqrt(3)",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of a pyramid is 256 cm^3 and its altitude is 24 cm. Find its base area.",
+    "a": "32 cm^2",
+    "b": "52 cm^2",
+    "c": "42 cm^2",
+    "d": "22 cm^2",
+    "ans": "a"
+  },
+  {
+    "q": "The radii of the bases of the frustum of a right circular cone are 6 and 9 units, and the altitude is 4 units. Find its lateral area.",
+    "a": "75*pi",
+    "b": "65*pi",
+    "c": "95*pi",
+    "d": "85*pi",
+    "ans": "a"
+  },
+  {
+    "q": "The altitude of a parallelepiped is 20 units and its base is a rhombus with diagonal lengths of 10 and 16 units. Find the volume.",
+    "a": "1600",
+    "b": "1500",
+    "c": "1700",
+    "d": "1800",
+    "ans": "a"
+  },
+  {
+    "q": "A sphere of radius r just fits inside a cylindrical box. Find the empty space inside the cylinder.",
+    "a": "2 * pi * r^3 / 3",
+    "b": "8 * pi * r^3 / 9",
+    "c": "4 * pi * r^3 / 9",
+    "d": "20 * pi * r^3 / 27",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a pyramid having a pentagonal base with side length 12 cm and apothem 3 cm, with an altitude of 36 cm.",
+    "a": "2880 cm^3",
+    "b": "2660 cm^3",
+    "c": "2770 cm^3",
+    "d": "2990 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the frustum of a regular triangular pyramid whose altitude is 3 and whose base edges are 4 and 8.",
+    "a": "28 * Sqrt(3)",
+    "b": "25 * Sqrt(3)",
+    "c": "26 * Sqrt(3)",
+    "d": "27 * Sqrt(3)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a triangular prism whose altitude is 20 cm and whose base side lengths are 6 cm, 8 cm, and 12 cm.",
+    "a": "426.61 cm^3",
+    "b": "421.66 cm^3",
+    "c": "461.26 cm^3",
+    "d": "416.62 cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a spherical segment if the base radii are 3 and 4, and its altitude is 2.",
+    "a": "83.72",
+    "b": "83.27",
+    "c": "87.32",
+    "d": "82.73",
+    "ans": "a"
+  },
+  {
+    "q": "A stone is dropped into a circular tub of 40 inches diameter, causing the water to rise 20 inches. Find the volume of the stone.",
+    "a": "8000*pi in^3",
+    "b": "6000*pi in^3",
+    "c": "7000*pi in^3",
+    "d": "9000*pi in^3",
+    "ans": "a"
+  },
+  {
+    "q": "The base of a right parallelepiped is a rhombus whose sides are 10 cm and one of its angles is 60°. If the altitude is 4 cm, find its volume.",
+    "a": "200 * Sqrt(3) cm^3",
+    "b": "100 * Sqrt(3) cm^3",
+    "c": "300 * Sqrt(3) cm^3",
+    "d": "400 * Sqrt(3) cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the largest cube that can be cut from a circular log of radius 30 units.",
+    "a": "76367.53",
+    "b": "75567.33",
+    "c": "73675.36",
+    "d": "77653.36",
+    "ans": "a"
+  },
+  {
+    "q": "The diagonal length of a cube is 2 * Sqrt(3). Find its volume.",
+    "a": "8",
+    "b": "9",
+    "c": "7",
+    "d": "6",
+    "ans": "a"
+  },
+  {
+    "q": "Find the lateral area of the frustum of a regular square pyramid whose base edges are 6 and 12, and whose altitude is 4.",
+    "a": "180",
+    "b": "150",
+    "c": "160",
+    "d": "170",
+    "ans": "a"
+  },
+  {
+    "q": "Find the lateral area of a right circular cone that can be inscribed in a cube whose volume is 64.",
+    "a": "20 * pi",
+    "b": "16 * pi",
+    "c": "12 * pi",
+    "d": "8 * pi",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of a right circular cone having a slant height of 13 and altitude 12 is:",
+    "a": "100*pi",
+    "b": "150*pi",
+    "c": "200*pi",
+    "d": "250*pi",
+    "ans": "a"
+  },
+  {
+    "q": "Find the lateral area of a regular triangular pyramid whose base edge is 4 and its lateral edge is 6.",
+    "a": "24 * Sqrt(2)",
+    "b": "21 * Sqrt(2)",
+    "c": "22 * Sqrt(2)",
+    "d": "23 * Sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a sphere whose surface area is exactly 64*pi.",
+    "a": "256*pi/3",
+    "b": "254*pi/3",
+    "c": "252*pi/3",
+    "d": "250*pi/3",
+    "ans": "a"
+  },
+  {
+    "q": "A spherical bowl of radius 8 inches contains water to a depth of 3 inches. Find the volume of the water in the bowl.",
+    "a": "197.92 in^3",
+    "b": "199.72 in^3",
+    "c": "179.29 in^3",
+    "d": "192.27 in^3",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of the largest circular cylinder that can be inscribed in a cube whose volume is 64 cm^3.",
+    "a": "16*pi cm^3",
+    "b": "13*pi cm^3",
+    "c": "14*pi cm^3",
+    "d": "15*pi cm^3",
+    "ans": "a"
+  },
+  {
+    "q": "The diameter of a solid ball is 3 times the diameter of another ball of the same material. If the weight of the smaller is 250 lbs, find the weight of the larger.",
+    "a": "6750 lbs",
+    "b": "6957 lbs",
+    "c": "6507 lbs",
+    "d": "6570 lbs",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a regular tetrahedron whose edge lengths are each equal to 6.",
+    "a": "18 * Sqrt(2)",
+    "b": "16 * Sqrt(2)",
+    "c": "17 * Sqrt(2)",
+    "d": "19 * Sqrt(2)",
+    "ans": "a"
+  },
+  {
+    "q": "The capacities of two hemispherical tanks are in the ratio 64:125. If 4.8 kg of paint is required for the outer surface of the smaller tank, how much is needed for the larger?",
+    "a": "7.5 kg",
+    "b": "6.5 kg",
+    "c": "8.5 kg",
+    "d": "9.5 kg",
+    "ans": "a"
+  },
+  {
+    "q": "Find the volume of a sphere that is circumscribed about a cube of edge length 4.",
+    "a": "32 * Sqrt(3) * pi",
+    "b": "30 * Sqrt(3) * pi",
+    "c": "34 * Sqrt(3) * pi",
+    "d": "36 * Sqrt(3) * pi",
+    "ans": "a"
+  },
+  {
+    "q": "If the length of each edge of a cube is increased by 3 cm, its volume increases by 387 cm^3. Find the edge length of the original cube.",
+    "a": "6 cm",
+    "b": "5 cm",
+    "c": "7 cm",
+    "d": "8 cm",
+    "ans": "a"
+  },
+  {
+    "q": "If the diameter of a sphere is increased by 40 percent, by what percent is the volume increased?",
+    "a": "174.4%",
+    "b": "144.7%",
+    "c": "147.4%",
+    "d": "177.4%",
+    "ans": "a"
+  },
+  {
+    "q": "The radii of two spheres are in the ratio 3:4 and the sum of their surface areas is 2500*pi. Find the radius of the smaller sphere.",
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "17",
+    "ans": "a"
+  },
+  {
+    "q": "The volume of a rectangular parallelepiped is 162. If its dimensions are in the ratio 1:2:3, find its total surface area.",
+    "a": "198",
+    "b": "197",
+    "c": "196",
+    "d": "195",
+    "ans": "a"
+  }
+]

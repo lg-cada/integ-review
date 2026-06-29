@@ -872,7 +872,7 @@
     "ans": "b"
   },
   {
-    "q": "If the average voltage of the AC supply described in the previous question is raised to 120 Volts, calculate its effective (RMS) value.",
+    "q": "If the average voltage of the AC supply described in the previous question is raised to 120 Volts, calculate its effective (RMS) value. (Context from previous question: A sinusoidal AC voltage waveform is supplied to a circuit, and its average voltage is measured to be 62 Volts AC.)",
     "a": "11.5 Volts",
     "b": "133.3 Volts",
     "c": "170.0 Volts",
@@ -1208,7 +1208,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the apparent power (S) in the transmission line described in the previous questions.",
+    "q": "Calculate the apparent power (S) in the transmission line described in the previous questions. (Context from previous question: A transmission line carrying a current of 3.5 Amperes AC has a voltage drop of 150 Volts AC. If the current lags the voltage by 30 degrees, calculate the true power in the line.)",
     "a": "454.7 VA",
     "b": "525.0 VA",
     "c": "262.5 VA",
@@ -1312,7 +1312,7 @@
     "ans": "b"
   },
   {
-    "q": "For the series-parallel circuit in the previous question, calculate the voltage drop across the parallel combination.",
+    "q": "For the series-parallel circuit in the previous question, calculate the voltage drop across the parallel combination. (Context from previous question: If the parallel combination described in the previous question (equivalent resistance = 5 Ohms) is connected in series with a 15 Ohm resistor across a 40-Volt DC source, calculate the total current. A circuit contains three parallel resistors of values 10 Ohms, 20 Ohms, and 20 Ohms.)",
     "a": "30.0 Volts",
     "b": "10.0 Volts",
     "c": "20.0 Volts",
@@ -1320,7 +1320,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the current flowing through the 10 Ohm resistor inside the parallel branch under the conditions in the previous questions.",
+    "q": "Find the current flowing through the 10 Ohm resistor inside the parallel branch under the conditions in the previous questions. (Context from previous question: If the parallel combination described in the previous question (equivalent resistance = 5 Ohms (Context from previous question: If the parallel combination described in the previous question (equivalent resistance = 5 Ohms) is connected in series with a 15 Ohm resistor across a 40-Volt DC source, calculate the total current. A circuit contains three parallel resistors of values 10 Ohms, 20 Ohms, and 20 Ohms.))",
     "a": "0.5 Amperes",
     "b": "1.0 Ampere",
     "c": "2.0 Amperes",
@@ -1344,7 +1344,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the impedance Z corresponding to the admittance Y = 0.04 - j0.03 Siemens in the previous question.",
+    "q": "Calculate the impedance Z corresponding to the admittance Y = 0.04 - j0.03 Siemens in the previous question. (Context from previous question: An AC circuit has a branch admittance Y = 0.04 - j0.03 Siemens.)",
     "a": "14.3 + j10.7 Ohms",
     "b": "16.0 + j12.0 Ohms",
     "c": "20.0 + j15.0 Ohms",
@@ -1376,7 +1376,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the apparent power (S) drawn by the AC load described in the previous questions.",
+    "q": "Calculate the apparent power (S) drawn by the AC load described in the previous questions. (Context from previous question: An AC load draws 10 Amperes from a 230-Volt AC line. If the power factor of the load is 0.8 lagging, calculate the active (true) power consumed.)",
     "a": "1840 VA",
     "b": "2300 VA",
     "c": "1380 VA",
@@ -1408,7 +1408,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the power factor of the series RC circuit described in the previous questions.",
+    "q": "Find the power factor of the series RC circuit described in the previous questions. (Context from previous question: An AC voltage source with an RMS value of 100 Volts is connected across a series combination of a 30 Ohm resistor and a 40 Ohm capacitive reactance.)",
     "a": "0.80 lagging",
     "b": "0.60 leading",
     "c": "0.60 lagging",
@@ -1448,7 +1448,7 @@
     "ans": "b"
   },
   {
-    "q": "For the series-parallel circuit described in the previous question, calculate the voltage drop across the parallel combination.",
+    "q": "For the series-parallel circuit described in the previous question, calculate the voltage drop across the parallel combination. (Context from previous question: If the parallel network (equivalent resistance = 15 Ohms) is connected in series with a 5 Ohm resistor across a 60-Volt DC source, calculate the total current.)",
     "a": "15.0 Volts",
     "b": "45.0 Volts",
     "c": "30.0 Volts",
@@ -1512,7 +1512,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the phase angle (theta) for the series RL circuit described in the previous questions.",
+    "q": "Calculate the phase angle (theta) for the series RL circuit described in the previous questions. (Context from previous question: For the series RL circuit in the previous question (R = 15 Ohms, XL = 20 Ohms, V = 100 V), calculate the current flowing in the circuit. A series RL circuit consists of a 15 Ohm resistor and a coil with inductive reactance of 20 Ohms connected across a 100-Volt AC supply.)",
     "a": "36.87 degrees, current lagging",
     "b": "53.13 degrees, current lagging",
     "c": "53.13 degrees, current leading",
@@ -1640,7 +1640,7 @@
     "ans": "b"
   },
   {
-    "q": "If the capacitor in the previous question is connected across a 100-Volt DC source, find the energy stored.",
+    "q": "If the capacitor in the previous question is connected across a 100-Volt DC source, find the energy stored. (Context from previous question: A parallel plate capacitor consists of two plates of area 0.05 square meters separated by 2 millimeters of air.)",
     "a": "0.55 micro-Joules",
     "b": "1.11 micro-Joules",
     "c": "2.22 micro-Joules",
@@ -1648,7 +1648,7 @@
     "ans": "b"
   },
   {
-    "q": "What is the charge stored on the plates of the capacitor described in the previous questions?",
+    "q": "What is the charge stored on the plates of the capacitor described in the previous questions? (Context from previous question: A parallel plate capacitor consists of two plates of area 0.05 square meters separated by 2 millimeters of air. If the capacitor in the previous question is connected across a 100-Volt DC source, find the energy stored. (Context from previous question: A parallel plate capacitor consists of two plates of area 0.05 square meters separated by 2 millimeters of air.))",
     "a": "11.1 nano-Coulombs",
     "b": "22.1 nano-Coulombs",
     "c": "44.3 nano-Coulombs",
@@ -1664,7 +1664,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 3 Amperes.",
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 3 Amperes. (Context from previous question: A certain coil has 400 turns wound on a core. If a current of 3 Amperes produces a magnetic flux of 6 milli-Webers, calculate the self-inductance.)",
     "a": "1.8 Joules",
     "b": "3.6 Joules",
     "c": "7.2 Joules",
@@ -1704,7 +1704,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the total electrostatic energy stored in the two capacitors after connection in the previous question.",
+    "q": "Find the total electrostatic energy stored in the two capacitors after connection in the previous question. (Context from previous question: A certain capacitor of value 10 uF is charged to 100 Volts and then disconnected. It is connected in parallel with an uncharged 10 uF capacitor.)",
     "a": "0.05 Joules",
     "b": "0.025 Joules",
     "c": "0.0125 Joules",
@@ -1720,7 +1720,7 @@
     "ans": "b"
   },
   {
-    "q": "If the RC circuit in the previous question is connected to a 10-Volt DC supply, calculate the circuit current exactly 0.5 seconds after closing the switch.",
+    "q": "If the RC circuit in the previous question is connected to a 10-Volt DC supply, calculate the circuit current exactly 0.5 seconds after closing the switch. (Context from previous question: An RC series circuit consists of a 100k Ohm resistor and a 5 uF capacitor.)",
     "a": "0.100 milli-Amperes",
     "b": "0.037 milli-Amperes",
     "c": "0.063 milli-Amperes",
@@ -1792,7 +1792,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the reactive power (Q) of the motor described in the previous questions.",
+    "q": "Calculate the reactive power (Q) of the motor described in the previous questions. (Context from previous question: A single-phase motor drawing 10 Amperes from a 230-Volt AC line is operating at a power factor of 0.707 lagging.)",
     "a": "2300 VAR",
     "b": "1626 VAR",
     "c": "1150 VAR",
@@ -1840,7 +1840,7 @@
     "ans": "b"
   },
   {
-    "q": "For the series circuit in the previous question, calculate the total current flowing in the circuit.",
+    "q": "For the series circuit in the previous question, calculate the total current flowing in the circuit. (Context from previous question: A DC source is connected to a series combination of a 10 Ohm resistor, a 15 Ohm resistor, and a 25 Ohm resistor. If the voltage across the 15 Ohm resistor is 30 Volts, calculate the total source voltage.)",
     "a": "1.0 Ampere",
     "b": "2.0 Amperes",
     "c": "3.0 Amperes",
@@ -1896,7 +1896,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the power dissipated by R2 in the series circuit described in the previous questions.",
+    "q": "Calculate the power dissipated by R2 in the series circuit described in the previous questions. (Context from previous question: For the series circuit in the previous question (total resistance = 90 Ohms, total current = 2.0 Amperes), calculate the voltage drop across R3. Three resistors, R1 = 15 Ohms, R2 = 30 Ohms, and R3 = 45 Ohms, are connected in series across a 180-Volt DC supply.)",
     "a": "60 Watts",
     "b": "120 Watts",
     "c": "90 Watts",
@@ -1920,7 +1920,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the current flowing through R3 in the parallel network described in the previous questions.",
+    "q": "Find the current flowing through R3 in the parallel network described in the previous questions. (Context from previous question: For the parallel resistor network in the previous question (equivalent resistance = 5 Ohms, source voltage = 120 Volts), find the total current supplied by the source. Three resistors, R1 = 10 Ohms, R2 = 15 Ohms, and R3 = 30 Ohms, are connected in parallel across a 120-Volt DC source.)",
     "a": "8.0 Amperes",
     "b": "4.0 Amperes",
     "c": "12.0 Amperes",
@@ -1936,7 +1936,7 @@
     "ans": "b"
   },
   {
-    "q": "For the network described in the previous question, if a load resistor of 1 Ohm is connected across the terminals, calculate the load current.",
+    "q": "For the network described in the previous question, if a load resistor of 1 Ohm is connected across the terminals, calculate the load current. (Context from previous question: If open-circuit voltage is 12 Volts and short-circuit current is 4 Amperes, calculate the Thevenin equivalent resistance.)",
     "a": "4.0 Amperes",
     "b": "3.0 Amperes",
     "c": "2.0 Amperes",
@@ -2024,7 +2024,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the power factor (pf) of the series RL circuit described in the previous questions.",
+    "q": "Find the power factor (pf) of the series RL circuit described in the previous questions. (Context from previous question: A series RL circuit consists of a 30 Ohm resistor and an inductor with an inductive reactance of 40 Ohms.)",
     "a": "0.80 lagging",
     "b": "0.60 lagging",
     "c": "0.60 leading",
@@ -2048,7 +2048,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the phase angle (theta) for the series RC circuit described in the previous questions.",
+    "q": "Calculate the phase angle (theta) for the series RC circuit described in the previous questions. (Context from previous question: For the series RC circuit in the previous question (R = 80 Ohms, XC = 60 Ohms, V = 100 V), calculate the current flowing in the circuit. A series RC circuit consists of an 80 Ohm resistor and a capacitor with a capacitive reactance of 60 Ohms connected across a 100-Volt AC supply.)",
     "a": "53.13 degrees, current leading",
     "b": "36.87 degrees, current leading",
     "c": "36.87 degrees, current lagging",
@@ -2056,7 +2056,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the power factor (pf) of the series RC circuit described in the previous questions.",
+    "q": "Find the power factor (pf) of the series RC circuit described in the previous questions. (Context from previous question: For the series RC circuit in the previous question (R = 80 Ohms, XC = 60 Ohms, V = 100 V (Context from previous question: For the series RC circuit in the previous question (R = 80 Ohms, XC = 60 Ohms, V = 100 V), calculate the current flowing in the circuit. A series RC circuit consists of an 80 Ohm resistor and a capacitor with a capacitive reactance of 60 Ohms connected across a 100-Volt AC supply.))",
     "a": "0.60 leading",
     "b": "0.80 leading",
     "c": "0.80 lagging",
@@ -2080,7 +2080,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the power factor (pf) of the series RLC circuit described in the previous questions.",
+    "q": "Find the power factor (pf) of the series RLC circuit described in the previous questions. (Context from previous question: For the series RLC circuit in the previous question (R = 12 Ohms, XL = 25 Ohms, XC = 16 Ohms), calculate the phase angle (theta). A series RLC circuit consists of a 12 Ohm resistor, an inductive reactance of 25 Ohms, and a capacitive reactance of 16 Ohms.)",
     "a": "0.60 lagging",
     "b": "0.80 lagging",
     "c": "0.80 leading",
@@ -2144,7 +2144,7 @@
     "ans": "b"
   },
   {
-    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 5 Amperes.",
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question when carrying a current of 5 Amperes. (Context from previous question: A coil consists of 1000 turns wound on an iron core. If a current of 5 Amperes produces a magnetic flux of 10 milli-Webers, calculate the self-inductance of the coil.)",
     "a": "12.5 Joules",
     "b": "25.0 Joules",
     "c": "50.0 Joules",
@@ -2160,7 +2160,7 @@
     "ans": "b"
   },
   {
-    "q": "For the transformer described in the previous question, a load of 11 Ohms is connected across the secondary winding. Calculate the secondary current.",
+    "q": "For the transformer described in the previous question, a load of 11 Ohms is connected across the secondary winding. Calculate the secondary current. (Context from previous question: A transformer has a primary winding with 500 turns and a secondary winding with 50 turns. If the primary voltage is 220 Volts AC, calculate the secondary voltage.)",
     "a": "1.0 Ampere",
     "b": "2.0 Amperes",
     "c": "4.0 Amperes",
@@ -2208,7 +2208,7 @@
     "ans": "b"
   },
   {
-    "q": "Calculate the reactive power (Q) for the AC circuit described in the previous questions.",
+    "q": "Calculate the reactive power (Q) for the AC circuit described in the previous questions. (Context from previous question: An AC voltage source with an RMS value of 120 Volts is connected across an AC load drawing 5 Amperes. If the phase angle between the voltage and current is 60 degrees, calculate the true power consumed.)",
     "a": "300 VAR",
     "b": "520 VAR",
     "c": "600 VAR",

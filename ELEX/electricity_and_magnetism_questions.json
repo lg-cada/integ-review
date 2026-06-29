@@ -688,7 +688,7 @@
     "ans": "b"
   },
   {
-    "q": "If a dielectric sheet with relative permittivity of 4 is inserted between the plates of the capacitor described in the previous question, what is the new capacitance?",
+    "q": "If a dielectric sheet with relative permittivity of 4 is inserted between the plates of the capacitor described in the previous question, what is the new capacitance? (Context from previous question: A parallel plate capacitor has plates of area 0.1 square meters separated by a distance of 0.01 meters.)",
     "a": "354.2 pF",
     "b": "22.13 pF",
     "c": "177.1 pF",
@@ -1080,7 +1080,7 @@
     "ans": "a"
   },
   {
-    "q": "How much energy is dissipated as heat during the charge-sharing process of the two capacitors described in the previous question?",
+    "q": "How much energy is dissipated as heat during the charge-sharing process of the two capacitors described in the previous question? (Context from previous question: A capacitor of 2 uF is charged to 50 Volts and another capacitor of 3 uF is charged to 100 Volts.)",
     "a": "3.75 milli-Joules",
     "b": "1.50 milli-Joules",
     "c": "15.00 milli-Joules",
@@ -1144,7 +1144,7 @@
     "ans": "a"
   },
   {
-    "q": "Calculate the mutual inductance between the solenoid and the small loop described in the previous question.",
+    "q": "Calculate the mutual inductance between the solenoid and the small loop described in the previous question. (Context from previous question: A small circular loop of area 1 cm^2 is placed inside a long solenoid of 1000 turns/meter carrying a current of 2 Amperes.)",
     "a": "1.26 x 10^-10 Henries",
     "b": "1.26 x 10^-7 Henries",
     "c": "2.51 x 10^-10 Henries",
@@ -1416,7 +1416,7 @@
     "ans": "a"
   },
   {
-    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 800, calculate the magnetic flux density B.",
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 800, calculate the magnetic flux density B. (Context from previous question: A solenoid with 800 turns is wound over a length of 0.4 meters. If the current through the solenoid is 3 Amperes, calculate the magnetic field intensity (H) at the center.)",
     "a": "6.03 Tesla",
     "b": "3.01 Tesla",
     "c": "12.06 Tesla",
@@ -1496,7 +1496,7 @@
     "ans": "a"
   },
   {
-    "q": "Find the magnetic flux density B for the wire in the previous question.",
+    "q": "Find the magnetic flux density B for the wire in the previous question. (Context from previous question: A long straight wire carries a current of 20 Amperes.)",
     "a": "8.0 micro-Tesla",
     "b": "16.0 micro-Tesla",
     "c": "4.0 micro-Tesla",
@@ -1712,7 +1712,7 @@
     "ans": "a"
   },
   {
-    "q": "What is the total energy stored in the two capacitors after connection in the previous question?",
+    "q": "What is the total energy stored in the two capacitors after connection in the previous question? (Context from previous question: A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each.)",
     "a": "0.025 Joules",
     "b": "0.050 Joules",
     "c": "0.0125 Joules",
@@ -1720,7 +1720,7 @@
     "ans": "a"
   },
   {
-    "q": "How much energy was lost as heat during the charge-sharing process of the two capacitors in the previous question?",
+    "q": "How much energy was lost as heat during the charge-sharing process of the two capacitors in the previous question? (Context from previous question: A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each. (Context from previous question: A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each.))",
     "a": "0.025 Joules",
     "b": "0.050 Joules",
     "c": "0.0125 Joules",
@@ -1736,7 +1736,7 @@
     "ans": "a"
   },
   {
-    "q": "What is the magnetic field intensity H at the same point in the previous question?",
+    "q": "What is the magnetic field intensity H at the same point in the previous question? (Context from previous question: A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each. (Context from previous question: A capacitor of 10 uF is charged to 100 Volts. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each. If it is connected in parallel with an uncharged 10 uF capacitor, find the final voltage across each.)))",
     "a": "7.96 AT/m",
     "b": "3.98 AT/m",
     "c": "15.92 AT/m",
@@ -1816,7 +1816,7 @@
     "ans": "a"
   },
   {
-    "q": "What is the charge stored on the plates of the capacitor described in the previous questions?",
+    "q": "What is the charge stored on the plates of the capacitor described in the previous questions? (Context from previous question: If the capacitor in the previous question is connected across a 100-Volt source, find the energy stored.)",
     "a": "4.43 micro-Coulombs",
     "b": "8.85 micro-Coulombs",
     "c": "2.21 micro-Coulombs",
@@ -1864,7 +1864,7 @@
     "ans": "a"
   },
   {
-    "q": "Calculate the MMF required to establish a magnetic flux of 1 milli-Weber in the core described in the previous question.",
+    "q": "Calculate the MMF required to establish a magnetic flux of 1 milli-Weber in the core described in the previous question. (Context from previous question: A flat circular loop of wire with a radius of 0.1 meters carries a current of 5 Amperes.)",
     "a": "19.9 Ampere-turns",
     "b": "39.8 Ampere-turns",
     "c": "9.9 Ampere-turns",
@@ -1888,7 +1888,7 @@
     "ans": "a"
   },
   {
-    "q": "Find the energy stored in the magnetic field of the coil described in the previous question.",
+    "q": "Find the energy stored in the magnetic field of the coil described in the previous question. (Context from previous question: A coil of 200 turns is linked by a magnetic flux of 5 milli-Webers. If the current is 4 Amperes, calculate the self-inductance of the coil.)",
     "a": "2.0 Joules",
     "b": "1.0 Joule",
     "c": "4.0 Joules",
@@ -1952,7 +1952,7 @@
     "ans": "a"
   },
   {
-    "q": "Find the magnetic flux density B at the same point in the previous question.",
+    "q": "Find the magnetic flux density B at the same point in the previous question. (Context from previous question: A long straight conductor carries a current of 15 Amperes.)",
     "a": "30 micro-Tesla",
     "b": "15 micro-Tesla",
     "c": "60 micro-Tesla",
@@ -2208,7 +2208,7 @@
     "ans": "a"
   },
   {
-    "q": "For the RL circuit in the previous question, calculate the steady-state current.",
+    "q": "For the RL circuit in the previous question, calculate the steady-state current. (Context from previous question: An inductor with an inductance of 1 Henry and a resistance of 5 Ohms is connected to a 100-Volt DC supply.)",
     "a": "20 Amperes",
     "b": "100 Amperes",
     "c": "50 Amperes",
@@ -2232,7 +2232,7 @@
     "ans": "a"
   },
   {
-    "q": "If the RC circuit in the previous question is connected to a 20-Volt DC source, calculate the voltage across the capacitor 1.0 second after the connection is made.",
+    "q": "If the RC circuit in the previous question is connected to a 20-Volt DC source, calculate the voltage across the capacitor 1.0 second after the connection is made. (Context from previous question: An RC circuit has a resistance of 200k Ohms and a capacitance of 5 uF.)",
     "a": "12.64 Volts",
     "b": "6.32 Volts",
     "c": "18.65 Volts",
@@ -2256,7 +2256,7 @@
     "ans": "a"
   },
   {
-    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B.",
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B. (Context from previous question: A solenoid of length 0.4 meters has 800 turns. If it carries a current of 2 Amperes, calculate the magnetic field intensity (H) at its center.)",
     "a": "5.03 Tesla",
     "b": "2.51 Tesla",
     "c": "10.06 Tesla",
@@ -2304,7 +2304,7 @@
     "ans": "a"
   },
   {
-    "q": "If the capacitor in the previous question is connected across a 100-Volt source, find the energy stored.",
+    "q": "If the capacitor in the previous question is connected across a 100-Volt source, find the energy stored. (Context from previous question: An air-core solenoid has 1000 turns, a length of 0.5 meters, and a cross-sectional area of 0.001 square meters.)",
     "a": "0.088 milli-Joules",
     "b": "0.177 milli-Joules",
     "c": "0.044 milli-Joules",
@@ -2320,7 +2320,7 @@
     "ans": "a"
   },
   {
-    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B.",
+    "q": "For the solenoid in the previous question, if the core material is iron with a relative permeability of 1000, calculate the magnetic flux density B. (Context from previous question: A solenoid of length 0.2 meters has 1000 turns. If it carries a current of 3 Amperes, calculate the magnetic field intensity (H) at its center.)",
     "a": "18.85 Tesla",
     "b": "9.42 Tesla",
     "c": "37.70 Tesla",
